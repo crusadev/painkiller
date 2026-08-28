@@ -15,7 +15,9 @@ SIGNALS = [
         "patterns": [
             r"\b(took|waited|waiting)\b.{0,20}\b(weeks?|months?)\b",
             r"\b\d+\s*(weeks?|months?)\b.{0,25}\b(arrive|deliver|ship|receiv)",
-            r"\b(slow|late|delayed|still (?:hasn'?t|has not|not) arrived)\b",
+            r"\b(?:slow|late|delayed|slower)\b.{0,30}\b(?:ship|shipping|deliver|delivery|arriv|post|dispatch|transit)",
+            r"\b(?:ship|shipping|deliver|delivery|arriv|post|dispatch|transit)\w*\b.{0,30}\b(?:slow|late|delayed|took forever)\b",
+            r"\bstill (?:hasn'?t|has not|not) arrived\b",
             r"\barrived (?:after|too late)\b",
             r"\bmissed (?:christmas|the birthday|the deadline)\b",
         ],
@@ -26,8 +28,11 @@ SIGNALS = [
         "means": "Order crossed a border to reach the buyer",
         "fix": "Produce inside the buyer's market — no customs event",
         "patterns": [
-            r"\bcustoms?\b", r"\bimport (?:fee|duty|duties|tax|charge)",
-            r"\bduties\b", r"\bhandling fee\b", r"\bVAT\b.{0,20}\bcharge",
+            r"\bcustoms\b.{0,40}\b(?:fee|charge|duty|duties|tax|paid|pay|held|stuck|clearance)\b",
+            r"\b(?:fee|charge|duty|duties|tax|paid|pay|held|stuck)\b.{0,40}\bcustoms\b",
+            r"\bimport (?:fee|duty|duties|tax|charge)",
+            r"\bcustoms clearance\b", r"\bhandling fee\b",
+            r"\bVAT\b.{0,25}\b(?:charge|fee|paid|pay)\b",
         ],
     },
     {
@@ -121,8 +126,34 @@ def weight(sid):
     return BY_ID[sid].get("weight", 1.0)
 
 
+SENTENCE = re.compile(r"(?<=[.!?;\n])\s+")
+
+# Phrases that mean the pain did NOT happen. Etsy reviews are overwhelmingly
+# positive and frequently mention shipping approvingly, so without this guard
+# "no customs fees" and "arrived quickly" both read as complaints.
+NEGATED = re.compile(
+    r"\bno\s+(?:customs|import|duty|duties|delay|issues?|problems?)\b"
+    r"|\bwithout\s+(?:any\s+)?(?:customs|import|duty|delay|issue|problem)"
+    r"|\bdidn'?t\s+(?:have to\s+)?pay\b"
+    r"|\bnever\s+(?:had|any)\s+(?:issue|problem|delay)"
+    r"|\b(?:fast|quick|quickly|speedy|prompt|promptly|early|ahead of)\b"
+    r"|\bno\s+(?:extra\s+)?(?:fee|charge|cost)s?\b",
+    re.I)
+
+
 def match_signals(text):
-    """Return the set of signal ids present in a single review body."""
+    """Signal ids present in a review, matched per sentence.
+
+    Matching per sentence rather than per review keeps a complaint in one
+    clause from being cancelled — or manufactured — by praise in another.
+    """
     if not text:
         return set()
-    return {sid for sid, pats in COMPILED.items() if any(p.search(text) for p in pats)}
+    found = set()
+    for sent in SENTENCE.split(text):
+        if not sent.strip() or NEGATED.search(sent):
+            continue
+        for sid, pats in COMPILED.items():
+            if sid not in found and any(p.search(sent) for p in pats):
+                found.add(sid)
+    return found

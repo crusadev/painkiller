@@ -44,7 +44,19 @@ Open `leads.md`.
 4. **Scroll to "Not qualified"** — this is the part to linger on. The skill
    rejects shops and says why. A rubric that qualifies everything is not a rubric.
 
-**2:05 — Reuse and the boring part (20s)**
+**1:50 — The honest finding (20s)**
+
+Across 1,283 real reviews: 96.5% five-star, and **0.2% describe a fulfilment
+failure**. Etsy buyers who wait three weeks still leave five stars. So ranking
+on complaints alone rejects everyone.
+
+That is why throughput carries weight. Review velocity — the only public proxy
+for order volume — spreads from 0.3 to 26 per week across these shops.
+Throughput finds who is approaching the ceiling; complaints prove they have hit
+it. No shop in this sample scored `hot`, and the report says so rather than
+inventing one.
+
+**2:10 — Reuse (15s)**
 
 Swap `inputs/shops.csv` for any shop list. Retarget the whole skill by editing
 one table in `scripts/taxonomy.py`: what the customer says → what it implies →

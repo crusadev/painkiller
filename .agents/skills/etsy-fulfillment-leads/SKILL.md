@@ -66,11 +66,28 @@ the fix is immediate.
 |---|---|---|
 | Pain match | 30 | How many distinct failure modes appear, weighted by severity |
 | Recency | 15 | Is the pain live, or history — complaints in the last 90 days |
-| Trend | 20 | Is the complaint *rate* rising as the shop scales |
+| Throughput | 20 | How fast the shop is shipping — review velocity as an order-volume proxy |
 | Volume fit | 20 | Is `ratio_per_year` in the serviceable band (1k–8k) |
 | Corroboration | 15 | Independent confirmations: multiple reviews, stated make time ≥5d, international ships-from |
 
 **hot** ≥ 60 · **watch** ≥ 35 · **pass** < 35
+
+### Why throughput carries weight
+
+Complaints are the sharpest evidence but they are *rare*: across the 1,283
+reviews captured for this repo, 96.5% are five-star and only 0.2% describe a
+fulfilment failure. Etsy buyers who wait three weeks often still leave five
+stars. Ranking on complaints alone would therefore reject almost every shop,
+including ones visibly at the constraint.
+
+Review velocity is the counterweight. It is the only public proxy for order
+volume, and on this corpus it spreads from 0.3 to 26 reviews/week — two orders
+of magnitude. A shop clearing 20 orders a week out of one workshop is scaling
+into the constraint whether or not anyone has complained yet; a shop clearing
+one is not, whatever its reviews say.
+
+So: **throughput finds who isapproaching the ceiling, complaints prove they have hit
+it.** A shop with both is the strongest possible lead.
 
 A single angry review never qualifies a shop. Corroboration across independent
 evidence types is what separates a lead from noise. The skill must be willing
@@ -112,6 +129,19 @@ at the top of `leads.md`. Nothing is fabricated to fill the gap: if evidence is
 missing, the shop scores low and says so.
 
 `--limit` defaults to 3 so a run finishes inside the 75-second judging gate.
+
+## Known limits
+
+- **Complaint base rate is very low.** See above. The taxonomy fires correctly
+  when pain is present; it is the corpus that is quiet, not the matcher.
+- **`geo_blocked` is near-undetectable in review data.** A buyer who cannot
+  order never becomes a reviewer. The signal is retained because it fires on
+  shop Q&A and message data, which this capture does not yet reach.
+- **`ships_from` / `primary_buyer_market` are unset.** The review actor does
+  not expose them, so the corroboration component is capped for every shop in
+  the current snapshot. A shop-details actor would lift this.
+- Matching is lexical. It will miss complaints phrased unusually and in
+  languages other than English.
 
 ## Reuse
 

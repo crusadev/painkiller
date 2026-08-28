@@ -55,11 +55,15 @@ def score_shop(meta, snap, ref):
     # 2. recency - is the pain live, or history
     recency = min(len(recent), 3) / 3 * 15
 
-    # 3. trend - is the complaint rate rising as the shop scales
-    share_now = len(recent) / len(all_recent) if all_recent else 0.0
-    share_before = len(prior) / len(all_prior) if all_prior else 0.0
-    delta = share_now - share_before
-    trend = max(0.0, min(delta / 0.20, 1.0)) * 20 if all_prior else min(share_now / 0.25, 1.0) * 10
+    # 3. throughput - how fast the shop is actually shipping orders.
+    # Review dates are the only public proxy for order volume, and on this
+    # corpus they spread across two orders of magnitude. A shop clearing 20
+    # orders a week from one workshop is scaling into the constraint; a shop
+    # clearing one is not, whatever its reviews say.
+    dates = sorted(d for r in reviews if (d := parse_date(r.get("date"))))
+    span = (dates[-1] - dates[0]).days if len(dates) > 1 else 0
+    velocity = (len(dates) / span * 7) if span else 0.0
+    throughput = min(velocity / 12.0, 1.0) * 20
 
     # 4. volume fit - big enough to matter, small enough to need us
     ratio = meta.get("ratio_per_year") or 0
@@ -81,7 +85,7 @@ def score_shop(meta, snap, ref):
         corro_parts.append(f"ships {snap['ships_from']}->{snap['primary_buyer_market']}")
     corro = min(len(corro_parts), 3) / 3 * 15
 
-    total = round(pain + recency + trend + volume + corro)
+    total = round(pain + recency + throughput + volume + corro)
     tier = "hot" if total >= HOT else "watch" if total >= WATCH else "pass"
 
     reasons = []
@@ -91,15 +95,18 @@ def score_shop(meta, snap, ref):
         reasons.append("complaints exist but none in the last 90 days")
     if ratio and not (SWEET_LOW <= ratio <= SWEET_HIGH):
         reasons.append(f"volume {ratio}/yr outside serviceable band")
+    if velocity < 3:
+        reasons.append(f"low throughput ({velocity:.1f} reviews/wk) - not yet at the constraint")
 
     return {
         "shop": meta["shop"], "shop_url": meta["shop_url"],
         "category": meta.get("category", ""), "ratio_per_year": ratio,
         "score": total, "tier": tier,
         "components": {"pain": round(pain), "recency": round(recency),
-                       "trend": round(trend), "volume": round(volume),
+                       "throughput": round(throughput), "volume": round(volume),
                        "corroboration": round(corro)},
         "signals": ids, "corroboration": corro_parts, "reasons": reasons,
+        "velocity_per_week": round(velocity, 1),
         "evidence": sorted(hits, key=lambda h: h.get("date", ""), reverse=True)[:3],
         "ships_from": snap.get("ships_from"),
         "primary_buyer_market": snap.get("primary_buyer_market"),
@@ -126,13 +133,13 @@ def render(leads, mode, ref):
          "Evidence is public Etsy buyer-review text. Reviewer identities are never "
          "collected or stored; see `.agents/skills/etsy-fulfillment-leads/SKILL.md`.\n",
          "\n## Ranked\n",
-         "| # | Shop | Category | Tier | Score | Pain signals | Why now |",
-         "|---|---|---|---|---|---|---|"]
+         "| # | Shop | Category | Tier | Score | Throughput | Pain signals | Why now |",
+         "|---|---|---|---|---|---|---|---|"]
     for i, l in enumerate(sorted(leads, key=lambda x: -x["score"]), 1):
         sigs = ", ".join(BY_ID[s]["label"] for s in l["signals"]) or "-"
-        why = l["corroboration"][0] if l["corroboration"] else "-"
+        why = l["corroboration"][0] if l["corroboration"] else f"{l['velocity_per_week']}/wk throughput"
         L.append(f"| {i} | [{l['shop']}]({l['shop_url']}) | {l['category']} | "
-                 f"**{l['tier']}** | {l['score']} | {sigs} | {why} |")
+                 f"**{l['tier']}** | {l['score']} | {l['velocity_per_week']}/wk | {sigs} | {why} |")
 
     hot = [l for l in sorted(leads, key=lambda x: -x["score"]) if l["tier"] in ("hot", "watch")][:3]
     if hot:
@@ -141,6 +148,7 @@ def render(leads, mode, ref):
         L.append(f"### {l['shop']} - {l['tier'].upper()} ({l['score']}/100)\n")
         L.append(f"- **Shop:** {l['shop_url']}")
         L.append(f"- **Category:** {l['category']} - est. {l['ratio_per_year']}/yr")
+        L.append(f"- **Throughput:** {l['velocity_per_week']} reviews/week (order-volume proxy)")
         if l["ships_from"]:
             L.append(f"- **Ships from:** {l['ships_from']} -> mostly {l['primary_buyer_market']}")
         L.append(f"- **Score breakdown:** " + ", ".join(f"{k} {v}" for k, v in l["components"].items()))
@@ -162,10 +170,10 @@ def render(leads, mode, ref):
     passed = [l for l in leads if l["tier"] == "pass"]
     L.append(f"\n## Not qualified ({len(passed)})\n")
     L.append("Shown so the rubric can be checked against its own rejections.\n")
-    L.append("| Shop | Score | Reviews seen | Why not |")
-    L.append("|---|---|---|---|")
+    L.append("| Shop | Score | Throughput | Reviews seen | Why not |")
+    L.append("|---|---|---|---|---|")
     for l in sorted(passed, key=lambda x: -x["score"]):
-        L.append(f"| [{l['shop']}]({l['shop_url']}) | {l['score']} | {l['reviews_seen']} | "
+        L.append(f"| [{l['shop']}]({l['shop_url']}) | {l['score']} | {l['velocity_per_week']}/wk | {l['reviews_seen']} | "
                  f"{'; '.join(l['reasons']) or 'signals too weak'} |")
     return "\n".join(L) + "\n"
 

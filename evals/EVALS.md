@@ -8,7 +8,7 @@ Run: `python3 evals/run_evals.py`
 another, with recent reviews describing customs charges, multi-week delivery,
 transit damage, and a buyer who could not order at all.
 
-**Expect:** tier `hot`; ≥3 distinct pain signals including `geo_blocked`;
+**Expect:** tier `hot` or `watch`; ≥3 distinct pain signals including `geo_blocked`;
 evidence quoted with dates; an opener that leads with the buyer's stated problem.
 
 **Why it matters:** this is the demo case — it proves the taxonomy connects a

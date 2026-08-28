@@ -1,9 +1,11 @@
 .env
 .DS_Store
 __pycache__/
-# Internal prospect sheet — contains team member names, outreach status and
-# contact emails. Never commit. Publishable derivative: inputs/shops.csv
-input/
+# Internal prospect sheet — team member names, outreach status, contact emails.
+# Never commit. Publishable derivative: demo/input/shops.csv
+# Anchored: an unanchored "input/" also shadows demo/input/, which would
+# silently drop committed demo inputs.
+/input/
 
 # eval scratch output
 evals/.eval-leads.md

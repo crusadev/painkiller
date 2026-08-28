@@ -1,0 +1,30 @@
+{
+  "skill_name": "etsy-fulfillment-leads",
+  "skill_path": ".agents/skills/etsy-fulfillment-leads/SKILL.md",
+  "team": [{"name": "", "github": "", "email": ""}],
+  "problem": "Which shops in a 411-shop Etsy prospect list should we contact now, and what do we open with?",
+  "gtm_use_case": "Signal-based lead qualification and outbound prioritisation for a distributed 3D-printing manufacturing network.",
+  "how_it_works": "Captures public Etsy buyer reviews per shop via Apify, matches them against a pain taxonomy that maps each complaint to the capability that removes it, scores each shop 0-100 across pain match, recency, trend, volume fit and corroboration, and renders a ranked lead list with quoted evidence and drafted openers.",
+  "inputs": {
+    "shops": "inputs/shops.csv",
+    "provenance": "inputs/SOURCES.md",
+    "count": 411
+  },
+  "data_sources": [
+    {"name": "Etsy public shop reviews", "via": "Apify", "attribution": "fallback/snapshot/*.json carries source URL and retrieved_at per shop"}
+  ],
+  "outputs": ["leads.md"],
+  "fallback": {
+    "path": "fallback/snapshot/",
+    "behaviour": "Runs with no credentials. Scores the committed snapshot, declares data mode and capture date in the report header, fabricates nothing, exits with a message if no snapshot exists."
+  },
+  "evaluation": {"doc": "evals/EVALS.md", "runner": "evals/run_evals.py", "cases": 3},
+  "demo": "DEMO.md",
+  "run_command": "python3 scripts/qualify.py --limit 3",
+  "runtime_seconds_typical": 3,
+  "requires_auth": false,
+  "privacy": "Reviewer identity is discarded at ingest and never written to disk; only rating, date, text and listing URL are retained. Enforced by tests/test_scoring.py.",
+  "license": "MIT",
+  "repo": "",
+  "commit_sha": ""
+}

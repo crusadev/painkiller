@@ -1,0 +1,6 @@
+.env
+.DS_Store
+__pycache__/
+# Internal prospect sheet — contains team member names, outreach status and
+# contact emails. Never commit. Publishable derivative: inputs/shops.csv
+input/

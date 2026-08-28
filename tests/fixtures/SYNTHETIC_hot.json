@@ -1,0 +1,55 @@
+{
+  "SYNTHETIC": true,
+  "warning": "FABRICATED TEST DATA. Never used as evidence, never rendered into leads.md. Exists only to unit-test the scoring function.",
+  "shop": "SyntheticHot",
+  "shop_url": "https://example.invalid/SyntheticHot",
+  "source": "synthetic fixture",
+  "retrieved_at": "2026-08-28",
+  "ships_from": "DE",
+  "primary_buyer_market": "US",
+  "stated_processing_days": 8,
+  "reviews": [
+    {
+      "rating": 2,
+      "date": "2026-08-20",
+      "text": "Lovely print but it took 4 weeks to arrive and I had to pay import duty on top.",
+      "url": "https://example.invalid/1"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-14",
+      "text": "Love it, but you don't ship to Australia so I had to have it sent to a friend.",
+      "url": "https://example.invalid/11"
+    },
+    {
+      "rating": 1,
+      "date": "2026-08-02",
+      "text": "Waited 5 weeks. Arrived cracked, the packaging was crushed.",
+      "url": "https://example.invalid/2"
+    },
+    {
+      "rating": 3,
+      "date": "2026-07-11",
+      "text": "Still not arrived after 3 weeks, customs held it.",
+      "url": "https://example.invalid/3"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "Gorgeous design, exactly what I wanted.",
+      "url": "https://example.invalid/4"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-20",
+      "text": "Great quality and quick delivery.",
+      "url": "https://example.invalid/5"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-15",
+      "text": "Perfect, thank you!",
+      "url": "https://example.invalid/6"
+    }
+  ]
+}

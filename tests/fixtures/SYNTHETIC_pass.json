@@ -1,0 +1,17 @@
+{
+  "SYNTHETIC": true,
+  "warning": "FABRICATED TEST DATA. Never used as evidence, never rendered into leads.md. Exists only to unit-test the scoring function.",
+  "shop": "SyntheticPass",
+  "shop_url": "https://example.invalid/SyntheticPass",
+  "source": "synthetic fixture",
+  "retrieved_at": "2026-08-28",
+  "ships_from": "US",
+  "primary_buyer_market": "US",
+  "stated_processing_days": 2,
+  "reviews": [
+    {"rating": 5, "date": "2026-08-19", "text": "Beautiful, arrived in two days.", "url": "https://example.invalid/7"},
+    {"rating": 5, "date": "2026-08-04", "text": "Exactly as pictured, very happy.", "url": "https://example.invalid/8"},
+    {"rating": 4, "date": "2026-07-22", "text": "Colour slightly different than expected but well made.", "url": "https://example.invalid/9"},
+    {"rating": 5, "date": "2026-06-30", "text": "Fast shipping, great seller.", "url": "https://example.invalid/10"}
+  ]
+}

@@ -1,17 +1,381 @@
 {
   "shop": "HaBins",
   "shop_url": "https://www.etsy.com/shop/HaBins",
-  "source": "https://www.etsy.com/shop/HaBins",
+  "source": "https://www.etsy.com/shop/HaBins/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "GB",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Lost a part to a cabinet and ikea no longer stocks it. Thank goodness for this seller!",
+      "url": "https://www.etsy.com/listing/4427023585/10078170-x2-replacement-for-ikea-plastic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "As described, works perfectly. Thank you.",
+      "url": "https://www.etsy.com/listing/4334681059/ikea-ivar-shelf-support-pins-part-101324"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Just what I needed Thank you!",
+      "url": "https://www.etsy.com/listing/4334431368/156500-ikea-drawer-runners-left-right"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "exactly as described.  speedy delivery .",
+      "url": "https://www.etsy.com/listing/4331187578/replacement-shelf-support-pins-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "as advertised and came quickly",
+      "url": "https://www.etsy.com/listing/4372575719/118678-replacement-for-ikea-duktig"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Thank you, just what I needed.",
+      "url": "https://www.etsy.com/listing/4334706077/2x-ikea-pin-connector-50mm-part-123786"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "The correct replacement parts I needed.",
+      "url": "https://www.etsy.com/listing/4336535183/ikea-compatible-kallax-mounting-kit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Great product for my ikea baliden cases.",
+      "url": "https://www.etsy.com/listing/4338877061/2x-ikea-compatible-white-furniture-feet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Very prompt customer service. They resolved my issue seamlessly.",
+      "url": "https://www.etsy.com/listing/4357879723/115461-100001-replacement-for-ikea-hauga"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Items exactly as described and worked perfectly in my IKEA Billy bookcase.",
+      "url": "https://www.etsy.com/listing/4331187578/replacement-shelf-support-pins-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Fast shipping, we'll packed just what i was looking for.",
+      "url": "https://www.etsy.com/listing/4378255140/10002394-replacement-for-ikea-milsbo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "worked perfectly in the shelves",
+      "url": "https://www.etsy.com/listing/4334681059/ikea-ivar-shelf-support-pins-part-101324"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Items are great and work as intended for my ikea display cabinets.",
+      "url": "https://www.etsy.com/listing/4338877061/2x-ikea-compatible-white-furniture-feet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Item Arrived earlier than expected!",
+      "url": "https://www.etsy.com/listing/4336992828/replacement-for-ikea-hemnes-shelf"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "No issues - item as described and arrived quickly.",
+      "url": "https://www.etsy.com/listing/4334674404/101532-ikea-shelf-support-pins-part"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Item was great, just like the actual piece",
+      "url": "https://www.etsy.com/listing/4339068886/10x-replacement-ikea-enhet-shelf-support"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "Item matched description, fast delivery",
+      "url": "https://www.etsy.com/listing/4331187578/replacement-shelf-support-pins-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "Great product and delivery on time",
+      "url": "https://www.etsy.com/listing/4330346408/hardware-kit-for-ikea-kallax-4x4-shelf"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Perfect fit and arrived on time.",
+      "url": "https://www.etsy.com/listing/4334674404/101532-ikea-shelf-support-pins-part"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "the items arrived very quickly",
+      "url": "https://www.etsy.com/listing/4333375529/shelf-support-pins-for-ikea-besta"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "The hooks were missing from the kitchen that I bought. Great replacement!",
+      "url": "https://www.etsy.com/listing/4372575719/118678-replacement-for-ikea-duktig"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Bought for IKEA high chair I bought for my great granddaughter that did not have the straps.",
+      "url": "https://www.etsy.com/listing/4330333597/130633-ikea-high-chair-replacement-strap"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "It was a great purchase",
+      "url": "https://www.etsy.com/listing/4331201508/white-plastic-cam-lock-nuts-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Replacement keys saved my cabinet. So glad I found them. Worked great.",
+      "url": "https://www.etsy.com/listing/4377332203/130497-x2-replacement-for-ikea-fabrikor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Quick delivery.  Fit Perfectly!",
+      "url": "https://www.etsy.com/listing/4338661695/ikea-compatible-sofa-feet-black-m8"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-28",
+      "text": "Items arrived quickly and as described. Not entirely suited to the Billy Bookcase as there is still a lot of movement between the connected shelves unfortunately but that's not the Sellers fault.",
+      "url": "https://www.etsy.com/listing/4465999137/4x-ikea-billy-gnedby-108965-connection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "perfect",
+      "url": "https://www.etsy.com/listing/4444214923/ikea-metod-wall-mount-set-103693"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "good packaging metal size shipping",
+      "url": "https://www.etsy.com/listing/4332605958/cabinet-mounting-brackets-for-ikea-ivar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Perfect. They come without packaging, just in an enveope, but is exactly like IKEA",
+      "url": "https://www.etsy.com/listing/4375015545/124529-x5-replacement-for-ikea-metod"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "I received a good service from this seller. The brackets were very quality.",
+      "url": "https://www.etsy.com/listing/4339052674/139240-ikea-shelf-support-pins-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "Easy to install 10/10 recommended",
+      "url": "https://www.etsy.com/listing/4434912589/10092200-replacement-for-ikea-rudsta"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Good communication and items received as requested/purchased",
+      "url": "https://www.etsy.com/listing/4337532407/replacement-for-ikea-opparyd-handles"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Good communication and items received as requested/purchased.",
+      "url": "https://www.etsy.com/listing/4444185213/replacement-for-ikea-pax-bracket-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Exactly as described and arrived much quicker than originally predicted!",
+      "url": "https://www.etsy.com/listing/4424165797/130646-replacement-for-ikea-headless"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "Items arrived quickly and were exactly what I needed.",
+      "url": "https://www.etsy.com/listing/4385459482/139995-x6-replacement-ikea-metod-plinth"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Recommend this item. As described.",
+      "url": "https://www.etsy.com/listing/4352235682/ikea-hemnes-stall-hinge-shoe-cabinet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Excellent product -- great service!",
+      "url": "https://www.etsy.com/listing/4424400439/109594-replacement-for-ikea-small-self"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Easy to order. product as described.",
+      "url": "https://www.etsy.com/listing/4377332203/130497-x2-replacement-for-ikea-fabrikor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Our Kallax innards clips were lost in a recent house move so this marvellous company stocking them was a real rescue \ud83e\udd17.",
+      "url": "https://www.etsy.com/listing/4424170248/114258-replacement-for-ikea-support-pins"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Exactly as pictured; fast shipping despite no tracking. Exactly what I needed.",
+      "url": "https://www.etsy.com/listing/4372575719/118678-replacement-for-ikea-duktig"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Just what I needed for an ikea piece",
+      "url": "https://www.etsy.com/listing/4336531792/ikea-kallax-mounting-kit-white-set-4x"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Arrived on time and perfect quality",
+      "url": "https://www.etsy.com/listing/4331187578/replacement-shelf-support-pins-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Arrived on time and perfect quality",
+      "url": "https://www.etsy.com/listing/4334778059/ikea-brimnes-shelf-support-pins-parts"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "KEYS WORKED GREAT! THANK YOU!",
+      "url": "https://www.etsy.com/listing/4377332203/130497-x2-replacement-for-ikea-fabrikor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Highly recommend seller! Excellent purchase.",
+      "url": "https://www.etsy.com/listing/4345324193/2x-ikea-pax-wardrobe-rail-brackets-white"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-04",
+      "text": "These drawer supports arrived quickly and easy to install on an Ikea Malm dresser that we have had for a few years.  So glad we were able to find them!",
+      "url": "https://www.etsy.com/listing/4358353280/123833-105344-replacement-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-02",
+      "text": "This seller continues to deliver ahead of schedule and doesn\u2019t skimp on product or quality.  Real professionals, one of the best on Etsy.",
+      "url": "https://www.etsy.com/listing/4334674404/101532-ikea-shelf-support-pins-part"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "As described,arrived in good time",
+      "url": "https://www.etsy.com/listing/4334761232/ikea-glass-shelf-support-pins-part"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "Exactly what I needed for my CD stands!!",
+      "url": "https://www.etsy.com/listing/4465999137/4x-ikea-billy-gnedby-108965-connection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "Exactly the Ikea part needed for CD shelves. Now if only I could buy the actual shelves instead of having to cut wood myself then all would be golden.",
+      "url": "https://www.etsy.com/listing/4334674404/101532-ikea-shelf-support-pins-part"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "These were exactly what I needed to get my shelves in my cabinet.",
+      "url": "https://www.etsy.com/listing/4358368278/152530-replacement-for-ikea-visthus"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "As expected! Great quality! Just what I needed!",
+      "url": "https://www.etsy.com/listing/4334783345/101558-replacement-for-ikea-komplement"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Fast delivery, items as described, fits well.",
+      "url": "https://www.etsy.com/listing/4434897987/115913-replacement-for-ikea-billy-morebo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-27",
+      "text": "Did the job - exactly what we expected",
+      "url": "https://www.etsy.com/listing/4336505657/ikea-compatible-wheel-for-hemnes-day-bed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-27",
+      "text": "As described by the seller",
+      "url": "https://www.etsy.com/listing/4434049820/106498-replacement-for-ikea-metal-hex"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-27",
+      "text": "Just what I needed to repair an Ikea table.",
+      "url": "https://www.etsy.com/listing/4428026447/10036309-replacement-for-ikea-black-hex"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-26",
+      "text": "Great item, great service, great shipping",
+      "url": "https://www.etsy.com/listing/4330339244/ikea-bed-telescopic-support-bracket-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "Fits perfectly and came faster than I thought. Perfect!",
+      "url": "https://www.etsy.com/listing/4338841085/4x-replacement-feet-compatible-with-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "as described.  quick shipping.",
+      "url": "https://www.etsy.com/listing/4506257941/ikea-luroy-bed-slat-plastic-holder-white"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "Good item for sure yes",
+      "url": "https://www.etsy.com/listing/4352235682/ikea-hemnes-stall-hinge-shoe-cabinet"
+    }
+  ],
   "shop_facts": {
     "country_code": "GB",
     "city": "",
     "region": "",
-    "shipping_rating": 4.619835652652886,
-    "item_quality_rating": 4.737189776479063,
-    "customer_service_rating": 4.702169584354082,
+    "shipping_rating": 4.619835652687842,
+    "item_quality_rating": 4.737189776492521,
+    "customer_service_rating": 4.702169584381793,
     "average_rating": 4.66,
     "total_rating_count": 522,
     "rating_count_past_year": 522,
@@ -22,6 +386,5 @@
     "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
     "accepts_custom_requests": false
   },
-  "related_links": [],
-  "ships_from": "GB"
+  "related_links": []
 }

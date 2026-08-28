@@ -1,17 +1,381 @@
 {
   "shop": "3DPrintedKeycap",
   "shop_url": "https://www.etsy.com/shop/3DPrintedKeycap",
-  "source": "https://www.etsy.com/shop/3DPrintedKeycap",
+  "source": "https://www.etsy.com/shop/3DPrintedKeycap/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "TR",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "The item quality is great I haven\u2019t printed yet but I have got the files sliced to gcode and I\u2019m so excited to print it!",
+      "url": "https://www.etsy.com/listing/1392652366/articulated-pokeball-stl-file-life-size"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "Fantastic quality Would recommend buying",
+      "url": "https://www.etsy.com/listing/1805941683/thousand-sunny-ship-controller-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "love it~ it looks amazing. it great for holding the controller im not using while gaming.",
+      "url": "https://www.etsy.com/listing/1805941683/thousand-sunny-ship-controller-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "The item arrived as described, was well made!",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "I was having problems downloading the images on my computer and the seller went above and beyond to help me to get the images I needed. Thank you again for your customer services.",
+      "url": "https://www.etsy.com/listing/1427032986/iron-man-bundle-svg-file-iron-man-cricut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Would 100% recommend this seller and their products!! The quality is amazing and it looks exactly as it\u2019s pictured!! My daughter was so amazed with it and it was such a hit at her party! The seller worked hard and got this to me in time for my daughter\u2019s birthday party!! They went above and beyond for me and I\u2019m truly thankful!!",
+      "url": "https://www.etsy.com/listing/1878691371/hexcore-rotating-arcane-hextech-core"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-31",
+      "text": "Quick response has some issues",
+      "url": "https://www.etsy.com/listing/1546083145/pokemon-halloween-candy-bucket-3d-stl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Item was packaged carefully and arrived on time.  Item matched description and met our expectations. Thanks!! \ud83d\ude0a",
+      "url": "https://www.etsy.com/listing/1723946557/cloud-headphone-stand-minimalist-desk"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "Met expectations. Matched listing well.",
+      "url": "https://www.etsy.com/listing/4436548770/mini-guitar-amp-pick-holder-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "It\u2019s really really awesome and I absolutely love spinning it! My shipping was horrid but thats on USPS, other than that I think it\u2019s really unique!",
+      "url": "https://www.etsy.com/listing/1878691371/hexcore-rotating-arcane-hextech-core"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-14",
+      "text": "can not wait to print",
+      "url": "https://www.etsy.com/listing/1392652366/articulated-pokeball-stl-file-life-size"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-14",
+      "text": "The only thing is I thought it wasn\u2019t plastic I thought it would be a lot more heavier.",
+      "url": "https://www.etsy.com/listing/4463880437/viral-punch-zoo-monkey-figurine-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Item is as described. Would buy from again.",
+      "url": "https://www.etsy.com/listing/1581691811/flexi-series-gyarados-stl-file-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Item is as described. Would buy from again.",
+      "url": "https://www.etsy.com/listing/1717922779/star-wars-x-pokemon-stl-4-pack-star-wars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Item is as described. Would buy from again.",
+      "url": "https://www.etsy.com/listing/1564573624/flexi-series-charizard-stl-file-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Nice Product and Cool like it.",
+      "url": "https://www.etsy.com/listing/1385814462/venusaur-pokeball-3d-stl-file-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Thank you! I appreciate it!!",
+      "url": "https://www.etsy.com/listing/1575563370/cubone-skull-pokemon-3d-print-stl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "Great product! Would buy again",
+      "url": "https://www.etsy.com/listing/1878691371/hexcore-rotating-arcane-hextech-core"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-04",
+      "text": "It's soo kick ass \ud83e\udd18\ud83e\udd18",
+      "url": "https://www.etsy.com/listing/1627609228/middle-finger-groot-planter-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Easily readable and we were able to print it right away",
+      "url": "https://www.etsy.com/listing/1566708978/flexi-series-furret-stl-file-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-27",
+      "text": "Good quality files that were are to print just as advertised.",
+      "url": "https://www.etsy.com/listing/1717922779/star-wars-x-pokemon-stl-4-pack-star-wars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Made for a perfect Father\u2019s Day gift for my husband, he loves it! Just as described, quality is great, and it fits a PlayStation controller perfectly.",
+      "url": "https://www.etsy.com/listing/1805941683/thousand-sunny-ship-controller-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Perfect. Thank you for the files",
+      "url": "https://www.etsy.com/listing/1575261867/halloween-pokemon-bulbasaur-diorama-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-18",
+      "text": "Came out great, thank you!",
+      "url": "https://www.etsy.com/listing/1717922779/star-wars-x-pokemon-stl-4-pack-star-wars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-30",
+      "text": "Quality is good, it was easy to put together. A little flimsy just bc it is plastic pieces, a little smaller than I thought but it looks and feels super cool. Does the job and looks great!",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-22",
+      "text": "Worth it",
+      "url": "https://www.etsy.com/listing/1564573624/flexi-series-charizard-stl-file-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-19",
+      "text": "Wonderful gift to give to a friend",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-17",
+      "text": "Great file to print when printing multiples, Although was a lot of filament changes for a standard MMU printer, would assume less for a toolchanger, nonetheless turned out great.",
+      "url": "https://www.etsy.com/listing/1587297625/flexi-series-sewaddle-stl-file-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-14",
+      "text": "Very easy to use files. Prints came out very nice! Love the mashups.",
+      "url": "https://www.etsy.com/listing/1717922779/star-wars-x-pokemon-stl-4-pack-star-wars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-07",
+      "text": "Looks great. Really like it",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-01",
+      "text": "Happy with product. Thanks. Recommend.",
+      "url": "https://www.etsy.com/listing/1575563370/cubone-skull-pokemon-3d-print-stl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-27",
+      "text": "High quality files and easy to print, highly recommend!",
+      "url": "https://www.etsy.com/listing/1395861714/pokemon-3d-stl-file-pack-commercial"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-27",
+      "text": "So far printed out the Umbreon on my Snapmaker U1, and I could not believe the results! Excellent 3mf file, everyone loved how it came out!",
+      "url": "https://www.etsy.com/listing/1397926184/pokemon-eevolutions-3d-stl-files-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-22",
+      "text": "The seller was amazing, I reached out with a situation and they were able to solve the issue and help resolve some of my stress, my husband gets to open this next week for his birthday and I can\u2019t wait to see his face :) will definitely be buying from this seller again.",
+      "url": "https://www.etsy.com/listing/1805941683/thousand-sunny-ship-controller-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-20",
+      "text": "awesome stl files ready to print",
+      "url": "https://www.etsy.com/listing/1540763078/pokemon-articulated-eevolutions-3d-stl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-16",
+      "text": "This is for the right to print and sell at vendor markets with the commercial license! He does have some excellent models on Etsy and this was a fantastic purchase! Ty 3DPrintedKeycap!\n\nI can't wait to show off these prints at PokeFest!\n\nKeep up the amazing work & Ty!!!",
+      "url": "https://www.etsy.com/listing/1395861714/pokemon-3d-stl-file-pack-commercial"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-16",
+      "text": "AM\nAZING MODELS!!! Thank you for everything! Very quick to answer questions!\n\nKeep up the amazing work!!!",
+      "url": "https://www.etsy.com/listing/1540071286/every-pokemon-stl-pack-all-my-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-15",
+      "text": "So so good! Great gift!",
+      "url": "https://www.etsy.com/listing/1878691371/hexcore-rotating-arcane-hextech-core"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-15",
+      "text": "everything was easily accessible and efficient.",
+      "url": "https://www.etsy.com/listing/1540071286/every-pokemon-stl-pack-all-my-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-15",
+      "text": "It is a bit smaller then I expected but that's okay.",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-12",
+      "text": "It was good.  My husband loved it.",
+      "url": "https://www.etsy.com/listing/1627609228/middle-finger-groot-planter-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-10",
+      "text": "It was a great gift",
+      "url": "https://www.etsy.com/listing/1591408699/minecraft-fox-sleeping-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Good Job! Well done. Exactly what I ordered",
+      "url": "https://www.etsy.com/listing/1627609228/middle-finger-groot-planter-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-03",
+      "text": "nice its very nice details",
+      "url": "https://www.etsy.com/listing/1540763078/pokemon-articulated-eevolutions-3d-stl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-27",
+      "text": "Great everything good job on it",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "all designs are as promised.",
+      "url": "https://www.etsy.com/listing/1449767956/pokeball-3d-stl-file-pack-of-5-pokemon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-23",
+      "text": "Got this item as a gift for my husband and he really loves it. He said it holds the controller in a stable way.",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-20",
+      "text": "My kid really loves this toy",
+      "url": "https://www.etsy.com/listing/1586597189/starmie-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-17",
+      "text": "perfect image in every way",
+      "url": "https://www.etsy.com/listing/1425533560/gastly-haunter-gengar-evolutions-svg"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "fast access to files and quick delivery",
+      "url": "https://www.etsy.com/listing/1657285207/valentines-day-pokemon-stl-pack-3d-print"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "Very cute design! the quality was nice",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-08",
+      "text": "Great gift, showed up on time and everything was exactly as described",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-06",
+      "text": "Really good quality. Would recommend it!",
+      "url": "https://www.etsy.com/listing/1805941683/thousand-sunny-ship-controller-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "I printed this for my grandson in a marble pla , looked just like a rock dragon! I really beefed it up on the infill for strength. great file!",
+      "url": "https://www.etsy.com/listing/1572385156/flexi-series-onix-charizard-stl-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-04",
+      "text": "Great quality came as expected thank you !",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "Perfect gift for my brother.",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-02",
+      "text": "Quality stl that printed beautifully!",
+      "url": "https://www.etsy.com/listing/1384387372/valentines-day-bulbasaur-3d-stl-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "amazing!! my boyfriend loved it!",
+      "url": "https://www.etsy.com/listing/1723921543/going-merry-controller-holder-one-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-21",
+      "text": "Item matched description. Cool graphic design",
+      "url": "https://www.etsy.com/listing/1427032986/iron-man-bundle-svg-file-iron-man-cricut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-20",
+      "text": "Awesome model and was easy to print and assemble. Wish there was a locking mechanism to hold everything together without requiring glue",
+      "url": "https://www.etsy.com/listing/1392652366/articulated-pokeball-stl-file-life-size"
+    }
+  ],
   "shop_facts": {
     "country_code": "TR",
     "city": "",
     "region": "",
-    "shipping_rating": 4.68327761382514,
-    "item_quality_rating": 4.6054780059276546,
-    "customer_service_rating": 4.693872647211742,
+    "shipping_rating": 4.6832776138150765,
+    "item_quality_rating": 4.605478005907846,
+    "customer_service_rating": 4.693872647191156,
     "average_rating": 4.64,
     "total_rating_count": 1296,
     "rating_count_past_year": 1296,
@@ -22,6 +386,5 @@
     "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
     "accepts_custom_requests": false
   },
-  "related_links": [],
-  "ships_from": "TR"
+  "related_links": []
 }

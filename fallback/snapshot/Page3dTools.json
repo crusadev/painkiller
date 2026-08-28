@@ -1,17 +1,381 @@
 {
   "shop": "Page3dTools",
   "shop_url": "https://www.etsy.com/shop/Page3dTools",
-  "source": "https://www.etsy.com/shop/Page3dTools",
+  "source": "https://www.etsy.com/shop/Page3dTools/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "CA",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Work perfectly and keep space in your box.",
+      "url": "https://www.etsy.com/listing/1887920442/snap-on-dead-blow-hammer-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Well made product. Great delivery.",
+      "url": "https://www.etsy.com/listing/4434118702/pittsburgh-adapter-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Great design that is a space saver vs how I had them laid out in my tool box",
+      "url": "https://www.etsy.com/listing/1858958975/mac-tools-ball-peen-anti-vibe-hammer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Fit perfectly in the toolbox",
+      "url": "https://www.etsy.com/listing/4311607005/snap-on-socket-extension-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Shipping could have been a little bit better",
+      "url": "https://www.etsy.com/listing/4311607005/snap-on-socket-extension-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Good product was exactly what I was looking for",
+      "url": "https://www.etsy.com/listing/4311607005/snap-on-socket-extension-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Works perfectly.  Nice item. Bought 4 of them!",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Exactly as described and very high quality.",
+      "url": "https://www.etsy.com/listing/4347015034/icon-adapter-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "This is great! I love it!",
+      "url": "https://www.etsy.com/listing/1850855331/pliers-organizer-multiple-configurations"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "This is great! I love it!",
+      "url": "https://www.etsy.com/listing/4345600151/wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "This is great! I love it!",
+      "url": "https://www.etsy.com/listing/4345600151/wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "Great product works perfectly for my needs.",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Awesome as pictured! I have green, looks great and will help me organize the smaller tools.",
+      "url": "https://www.etsy.com/listing/4341382468/heavy-duty-magnetic-bin-organizer-many"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Great product can\u2019t wait to order more",
+      "url": "https://www.etsy.com/listing/4436033266/icon-wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Fantastic product I can\u2019t wait to order more",
+      "url": "https://www.etsy.com/listing/4314125318/icon-adapter-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "High quality product\nReceived item exactly as described\nExactly what I needed to help get toolbox organized",
+      "url": "https://www.etsy.com/listing/4347015034/icon-adapter-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Great purchase great service great shipping",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Thanks for working with me you made it happen i couldn't be more happier with my purchases look forward to doing business with him again",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "This guy knocked it out of the park he done a outstanding job looking forward to doing business with him again",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Was as described arrived in a timely manner.",
+      "url": "https://www.etsy.com/listing/4436033266/icon-wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Exactly what I ordered arrived on a timely manner.",
+      "url": "https://www.etsy.com/listing/4436033266/icon-wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great Seller have Bought from before will buy from again Highly  Recommended If you Have a question or concern very quick to explain answer and find a solution Product is Great Quality",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great Seller have Bought from before will buy from again Highly  Recommended If you Have a question or concern very quick to explain answer and find a solution Product is Great Quality",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great Seller have Bought from before will buy from again Highly  Recommended If you Have a question or concern very quick to explain answer and find a solution Product is Great Quality",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great Seller have Bought from before will buy from again Highly  Recommended If you Have a question or concern very quick to explain answer and find a solution Product is Great Quality",
+      "url": "https://www.etsy.com/listing/4434995114/icon-scraper-removal-tools-pick-hook-awl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great Seller have Bought from before will buy from again Highly  Recommended If you Have a question or concern very quick to explain answer and find a solution Product is Great Quality",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great Seller have Bought from before will buy from again Highly  Recommended If you Have a question or concern very quick to explain answer and find a solution Product is Great Quality",
+      "url": "https://www.etsy.com/listing/4330830862/icon-mini-screwdriver-torx-pick-hook"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "looks amazing and cleans up alot of mess",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "looks amazing and cleans up alot of mess",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "looks amazing and cleans up alot of mess",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "As described in the shop",
+      "url": "https://www.etsy.com/listing/4330830862/icon-mini-screwdriver-torx-pick-hook"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "As described in the shop",
+      "url": "https://www.etsy.com/listing/4330830862/icon-mini-screwdriver-torx-pick-hook"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "As described in the shop",
+      "url": "https://www.etsy.com/listing/4434540677/icon-screwdriver-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "As described in the shop",
+      "url": "https://www.etsy.com/listing/4330830862/icon-mini-screwdriver-torx-pick-hook"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "I have tons of your items they are all fantastic",
+      "url": "https://www.etsy.com/listing/4436033266/icon-wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Great item thank you so much",
+      "url": "https://www.etsy.com/listing/4436033266/icon-wrench-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/4365233183/icon-socket-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/4365233183/icon-socket-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/4365233183/icon-socket-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/4314125318/icon-adapter-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "It took a little longer than anticipated to arrive but I\u2019m in Texas & the order was coming all the way from Canada.  Overall satisfied with the purchase!  Upon initially opening the box I wasn\u2019t super excited about the extension holders but after getting everything laid out in my box they all look great, saved a ton of space, & definitely worth the purchase.",
+      "url": "https://www.etsy.com/listing/4365233183/icon-socket-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-18",
+      "text": "Simple, but exactly what I wanted. It looks good, just wish the magnets were a little stronger since I wanted to mount them up on the wall of my tool box, but still something I can live with.",
+      "url": "https://www.etsy.com/listing/4357658806/milwaukee-m12-red-lithium-cp-20-battery"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "This extension tray fits my Icon extensions perfectly  and is perfect for my tool chest drawer.  Couldn't be happier with my purchase and I'll definitely purchase here again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "This impact extension tray fits my Icon extensions perfectly  and is perfect for my tool chest drawer.  Couldn't be happier with my purchase and I'll definitely purchase here again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "This impact extension tray fits my Icon extensions perfectly  and is perfect for my tool chest drawer.  Couldn't be happier with my purchase and I'll definitely purchase here again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/4435744758/icon-stackabke-long-hex-bit-socket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/4347015034/icon-adapter-organizer-magnetic-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Arrived quickly, packeged well, and exactly as described. Thank you I would definitely do business again.",
+      "url": "https://www.etsy.com/listing/1855836306/icon-socket-extension-organizer-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-06",
+      "text": "This item is a perfect fit and exactly what I ordered!",
+      "url": "https://www.etsy.com/listing/1845288166/snap-on-ratcheting-screwdriver-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-02",
+      "text": "Well made. Fits the Snap-On ratcheting screwdriver perfectly!!",
+      "url": "https://www.etsy.com/listing/1845288166/snap-on-ratcheting-screwdriver-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "High quality item. Fit is great. Looking forward to buying more things in the future",
+      "url": "https://www.etsy.com/listing/1858958975/mac-tools-ball-peen-anti-vibe-hammer"
+    }
+  ],
   "shop_facts": {
     "country_code": "CA",
     "city": "",
     "region": "",
-    "shipping_rating": 4.865807293497579,
-    "item_quality_rating": 4.9389449208241025,
-    "customer_service_rating": 4.931214868430093,
+    "shipping_rating": 4.86580729349919,
+    "item_quality_rating": 4.93894492082507,
+    "customer_service_rating": 4.93121486843339,
     "average_rating": 4.92,
     "total_rating_count": 588,
     "rating_count_past_year": 588,
@@ -21,6 +385,5 @@
     "is_open": true,
     "accepts_custom_requests": true
   },
-  "related_links": [],
-  "ships_from": "CA"
+  "related_links": []
 }

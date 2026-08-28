@@ -4,3 +4,6 @@ __pycache__/
 # Internal prospect sheet — contains team member names, outreach status and
 # contact emails. Never commit. Publishable derivative: inputs/shops.csv
 input/
+
+# eval scratch output
+evals/.eval-leads.md

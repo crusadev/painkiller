@@ -51,10 +51,10 @@
   "evidence_base": {
     "shops_enriched": 376,
     "shops_in_list": 411,
-    "shops_with_review_capture": 22,
-    "reviews": 1283,
+    "shops_with_review_capture": 61,
+    "reviews": 3623,
     "linked_storefronts_discovered": 195,
-    "note": "Shop facts cover 376 of 411; 35 shops returned no record (closed or renamed). Review capture is a second, narrower pass over the top of the ranking."
+    "note": "Two-stage funnel: shop facts across the whole list, then review capture over the top of the ranking."
   },
   "commit_sha_note": "Self-referential by nature: this names the commit the manifest was written against. The submission issue carries the authoritative SHA.",
   "team_name": "3DAPI"

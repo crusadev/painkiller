@@ -1,17 +1,381 @@
 {
   "shop": "NoOrdinaryLeaf",
   "shop_url": "https://www.etsy.com/shop/NoOrdinaryLeaf",
-  "source": "https://www.etsy.com/shop/NoOrdinaryLeaf",
+  "source": "https://www.etsy.com/shop/NoOrdinaryLeaf/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "HR",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "so lovely I love the purple and white combination.",
+      "url": "https://www.etsy.com/listing/4439272167/miniature-bedroom-furniture-164-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "I ordered this to see if I will like it, so I only ordered one lonely ghost. I absolutely love it and I already ordered the full 3-stackable set. I also let my friends know so that we are prepared for Halloween.",
+      "url": "https://www.etsy.com/listing/4361336910/ghost-tealight-covers-set-of-3-stackable"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Perfect! Exactly what I looked for and perfect for my purposes. I now can display my mini figures the way I want.",
+      "url": "https://www.etsy.com/listing/4553717867/grid-inserts-for-ikea-sannahed-frame"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "I absolutely love it. It\u2019s really pretty and I will buy more in the future to give to friends and family as presents.",
+      "url": "https://www.etsy.com/listing/1687394286/monstera-coaster-plant-magnetic-leaves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Amazing product that allows me to customize my only display to my wants. Great craftsmanship and quick shipping has me as a returning customer. Will definitely buy more as my minifigure needs arise. Thank you!",
+      "url": "https://www.etsy.com/listing/4320577347/grid-inserts-for-ikea-sannahed-frame"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "She was wonderful, very helpful and accommodating",
+      "url": "https://www.etsy.com/listing/4295414022/miniature-oil-drums-164-124-118-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Perfect pothos wall supports. Very cute! Well made! Exactly as described. Quickly sent. Well done!",
+      "url": "https://www.etsy.com/listing/4330948143/wall-plant-clips-monstera-leaf"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "great addition to the little greenhouse!",
+      "url": "https://www.etsy.com/listing/1891846556/drip-trays-for-ikea-akerbar-socker"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-25",
+      "text": "Simple yet very very nice",
+      "url": "https://www.etsy.com/listing/4300078300/4-post-car-lift-adjustable-height-164"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Item was great quality and arrived on time.",
+      "url": "https://www.etsy.com/listing/4385135669/miniature-scandinavian-furniture-modern"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "these finely detailed items (various scale pallets mainly) are amazing and work perfectly with my scale forklift.",
+      "url": "https://www.etsy.com/listing/4295900459/miniature-pallets-164-124-118-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "My delivery was delayed, the seller was prompt with her response. It's light weight and I wish the pot was a little bigger but I love it. The colors are amazing and it looks great in my space.",
+      "url": "https://www.etsy.com/listing/1833665680/monstera-coaster-plant-magnetic-leaves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Great customer service, super responsive!",
+      "url": "https://www.etsy.com/listing/1898606187/hot-wheels-team-transport-or-track-fleet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Great product, perfect for showing off the collection",
+      "url": "https://www.etsy.com/listing/4535494347/logo-for-the-524-wide-stand-for-hot"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Perfect for my displays, highly recommend!",
+      "url": "https://www.etsy.com/listing/1898604711/wall-mount-or-stand-for-hot-wheels"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Fit my Akebar perfectly! Seller was communicative and friendly.",
+      "url": "https://www.etsy.com/listing/1891846556/drip-trays-for-ikea-akerbar-socker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Well done, very professional service",
+      "url": "https://www.etsy.com/listing/4403487510/star-ornaments-set-of-5-christmas-tree"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Lovely little addition. Great ease of use.",
+      "url": "https://www.etsy.com/listing/1833665680/monstera-coaster-plant-magnetic-leaves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "i love it so much!",
+      "url": "https://www.etsy.com/listing/1885138025/cannabis-coaster-plant-marijuana-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Great quality, would order again",
+      "url": "https://www.etsy.com/listing/4295414022/miniature-oil-drums-164-124-118-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Fit well on the handles of my Milsbo cabinet, and look great!",
+      "url": "https://www.etsy.com/listing/4301051321/slip-on-monstera-leaf-handles-for-ikea"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "They fit perfectly, and look great! Love them",
+      "url": "https://www.etsy.com/listing/4491073292/monstera-fan-cover-120mm-plant-themed-pc"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "They fit the fan perfectly, very cute.",
+      "url": "https://www.etsy.com/listing/4491073292/monstera-fan-cover-120mm-plant-themed-pc"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Very cute, and well balanced.",
+      "url": "https://www.etsy.com/listing/4488976321/bonsai-air-plant-holder-tillandsia"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-14",
+      "text": "As described. Was well packaged. Can\u2019t wait to hang it up once I get some string to attach to it.",
+      "url": "https://www.etsy.com/listing/1839716916/inverted-plant-pot-upside-down-planter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "So cute, and great quality! Used them as knobs on my 9 year old daughter's dresser drawers, and she absolutely loves them!",
+      "url": "https://www.etsy.com/listing/1853571484/daisy-knobs-for-drawer-or-door-flower"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "LOVE these for my cabinet!! It hides the damage on the bottom and provides a really nice clean look.",
+      "url": "https://www.etsy.com/listing/4484056909/drainage-trays-for-ikea-milsbo-tall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Excellent addition to my modifications on my Code 3",
+      "url": "https://www.etsy.com/listing/4450308445/firefighter-rescue-gear-set-164-axe"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "very cute, unbelievably small lol. good quality. For reference, the pink desk is a barbie desk and the goose is 2in tall.",
+      "url": "https://www.etsy.com/listing/4300065936/miniature-office-furniture-set-164-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "Great service and communication. item arrived in time.",
+      "url": "https://www.etsy.com/listing/4448609612/miniature-lifebuoy-ring-164-scale-mini"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "To be honest, the product is smaller than I expected. Nonetheless, it's the prettiest of its kind I've seen! I've done hours of scrolling through similar products, but only this one had the delicate patterns that I wanted for my friend. Thank you so much I'm sure she'll love it!",
+      "url": "https://www.etsy.com/listing/1868909656/monstera-thai-coaster-plant-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Thank you so much!  This piece will make an excellent addition to my project. Very well crafted and good communication.  I will definitely buy from this seller again!",
+      "url": "https://www.etsy.com/listing/4300065936/miniature-office-furniture-set-164-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Super cute fan covers, seller is also very proactive and responsive with shipping updates! I had a custom request as well which seller was happy to do, thoroughly recommend",
+      "url": "https://www.etsy.com/listing/4491073292/monstera-fan-cover-120mm-plant-themed-pc"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Highly recommended!",
+      "url": "https://www.etsy.com/listing/4368864119/modular-moss-pole-with-watering"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "I ordered a small TV stand/bench for my 1:24 scale house and my item was just perfect. Good quality work!",
+      "url": "https://www.etsy.com/listing/4385135669/miniature-scandinavian-furniture-modern"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "I ordered a small and received a large, but I am so pleased with this, that I will make do.  The branches are a bit large for my tiniest air plants but they will grow.  This is so beautifully made!  The platform absolutely whispers into place in the base and then is completely stable due to the well balanced design.  Empty it is deceptively simple; with air plants in place it is elegant.  Packaging was top notch as well.  Thank you!",
+      "url": "https://www.etsy.com/listing/4488976321/bonsai-air-plant-holder-tillandsia"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Thanks for the tealight cover. It is very beautiful and well made.",
+      "url": "https://www.etsy.com/listing/4299577569/pumpkins-tealight-covers-mix-and-match"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Beautiful tealight covers. Thank you so kuch!",
+      "url": "https://www.etsy.com/listing/4361336910/ghost-tealight-covers-set-of-3-stackable"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Thank you for this items",
+      "url": "https://www.etsy.com/listing/4434963336/miniature-workbench-164-scale-garage"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Thank you great job nice",
+      "url": "https://www.etsy.com/listing/4300065936/miniature-office-furniture-set-164-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "perfect items for my diorama",
+      "url": "https://www.etsy.com/listing/4324156565/miniature-extendable-ladder-164-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Perfect for what I needed. My air plants are thriving on their new perch :)",
+      "url": "https://www.etsy.com/listing/4488976321/bonsai-air-plant-holder-tillandsia"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-29",
+      "text": "Plastic -- works fine so far.",
+      "url": "https://www.etsy.com/listing/4322948696/extra-tall-extendable-trellis-modular"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Excellent customer service and you can see that it's sent with care.",
+      "url": "https://www.etsy.com/listing/4458393583/modular-moss-pole-with-watering"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "I got these as a gift for a friend who loves Halloween but I think she'll probably use these year round. They looks adorable. \r\n\r\nI was worried about the size but it is exactly how large I expected.  The largest one is approximately the size of 12oz soda can. \r\n\r\nThese are a very nice set and I can't wait to see how much my friend likes them.",
+      "url": "https://www.etsy.com/listing/4532645188/tree-stump-halloween-holder-jack-o"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "They were exactly what I needed for my diorama.",
+      "url": "https://www.etsy.com/listing/4295915218/miniature-sofa-set-164-scale-tiny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great ladder for a climbing plant. Clever idea to make it extendable. I like the cute bubble pattern. Speedy delivery.",
+      "url": "https://www.etsy.com/listing/4322948696/extra-tall-extendable-trellis-modular"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "I love the products from this shop - would totally recommend to order here :)",
+      "url": "https://www.etsy.com/listing/4323105668/weed-drawstring-charms-cannabis-leaf"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "love my new coaster plant\u2764\ufe0f would defo recommend 10/10. Really appreciate the proactive service and swift communication.",
+      "url": "https://www.etsy.com/listing/4299549430/monstera-coaster-plant-two-toned"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Awesome quality.",
+      "url": "https://www.etsy.com/listing/4322948696/extra-tall-extendable-trellis-modular"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Thank you, beautiful monstera for my plant house",
+      "url": "https://www.etsy.com/listing/1833665680/monstera-coaster-plant-magnetic-leaves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "I love them so much",
+      "url": "https://www.etsy.com/listing/4348920450/strawberry-knobs-for-drawer-or-door"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Great folks to work with\r\nGreat quality product.",
+      "url": "https://www.etsy.com/listing/4295946000/miniature-luggage-164-124-118-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Very nice and durable. Thanks.",
+      "url": "https://www.etsy.com/listing/4322948696/extra-tall-extendable-trellis-modular"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-09",
+      "text": "Great quality and looks really cute, but a bit too light - topples over easily. I ended up adding stones to the bottom to give it some weight. Otherwise, a great purchase!",
+      "url": "https://www.etsy.com/listing/1833665680/monstera-coaster-plant-magnetic-leaves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "Fantastic quality, great packaging, fast shipping.  Highly recommended seller thank you for a pleasent surprise included, made my day. Thank you!!!",
+      "url": "https://www.etsy.com/listing/1898604711/wall-mount-or-stand-for-hot-wheels"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Alles genauso wie Angegeben kam schnell an und meine Mostera liebt es einfach. Bestell cih gern wieder.",
+      "url": "https://www.etsy.com/listing/4458393583/modular-moss-pole-with-watering"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Hat alles klappt und das Produkt ist genauso wie ich es mir vorgestellt habe. Meine Monstera liebt es",
+      "url": "https://www.etsy.com/listing/4458393583/modular-moss-pole-with-watering"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "Tut, was es soll und sieht auch gut dabei aus. Gut zu s\u00e4ubern. Sehr leicht durch das 3D-Druck-Material.",
+      "url": "https://www.etsy.com/listing/1818952559/monstera-soap-dish-with-draining-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "Sehen aus wie auf den Bildern und halten auch gut. Allzu schwere Karten oder \u00e4hnliches sollte man vielleicht nicht dranh\u00e4ngen, aber f\u00fcr sich allein genommen sind sie schon sehr dekorativ. Gerne wieder",
+      "url": "https://www.etsy.com/listing/4493523947/leaf-fridge-magnets-set-plant-kitchen"
+    }
+  ],
   "shop_facts": {
     "country_code": "HR",
     "city": "",
     "region": "",
-    "shipping_rating": 4.8227346180112525,
-    "item_quality_rating": 4.896358856652241,
-    "customer_service_rating": 4.896539104349628,
+    "shipping_rating": 4.822734618007817,
+    "item_quality_rating": 4.89635885665101,
+    "customer_service_rating": 4.896539104340032,
     "average_rating": 4.88,
     "total_rating_count": 1007,
     "rating_count_past_year": 1007,
@@ -27,6 +391,5 @@
     "https://www.patreon.com/c/noordinaryleaf",
     "https://www.pinterest.com/noordinaryleaf/",
     "https://www.noordinaryleaf.com/"
-  ],
-  "ships_from": "HR"
+  ]
 }

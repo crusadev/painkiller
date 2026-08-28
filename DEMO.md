@@ -46,8 +46,9 @@ Open `leads.md`.
 
 **1:50 — The honest finding (25s)**
 
-Across 1,283 real reviews: 96.5% five-star, and **0.2% describe a fulfilment
-failure**. Complaint text alone ranks nothing.
+Across 3,623 real reviews only **1.2% describe a fulfilment failure** — and
+every one of them sits in a **four- or five-star** review. Filter by star
+rating and you find nothing.
 
 So the top signal is not complaints — it is that Etsy publishes
 `shipping_rating` **separately** from `item_quality_rating`. When shipping sits

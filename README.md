@@ -40,7 +40,7 @@ python3 scripts/capture.py --shops DeltaLoom,Olee3DArt --ships-from DE --market 
 | `.agents/skills/etsy-fulfillment-leads/SKILL.md` | The skill: taxonomy, rubric, privacy rules |
 | `SEED_PROMPT.md` | The task, as stated |
 | `inputs/shops.csv` | 411 candidate shops · provenance in `inputs/SOURCES.md` |
-| `fallback/snapshot/` | 376 enriched shops · 22 with full review capture |
+| `fallback/snapshot/` | 376 enriched shops · 61 with full review capture (3,623 reviews) |
 | `scripts/taxonomy.py` | Pain signal → what it means → what fixes it |
 | `scripts/qualify.py` | Scoring and rendering |
 | `scripts/capture.py` | Apify capture, strips reviewer identity at ingest |

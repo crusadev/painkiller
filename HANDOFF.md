@@ -50,11 +50,11 @@ python3 -c "import sys;sys.path.insert(0,'tests');import test_scoring as t;\
 |---|---|
 | Shops in list | 411 (`inputs/shops.csv`) |
 | Shops enriched with shop facts | 376 (35 returned no record — closed or renamed) |
-| Shops with full review capture | 22 |
-| Reviews captured | 1,283 |
+| Shops with full review capture | 61 |
+| Reviews captured | 3,623 |
 | Linked storefronts discovered | 195 |
-| Ranking | 6 hot · 75 watch · 83 pass · 212 nurture |
-| Top lead | Creat3DLab — shipping 4.64 vs quality 4.77, 27k sold, prints in HR |
+| Ranking | 17 hot · 64 watch · 83 pass · 212 nurture |
+| Top lead | QuantumQuill3D — shipping 4.52 vs quality 4.72, prints in CA, four buyers describe slow shipping in 4-5 star reviews |
 | Submission | filed from commit `2c443cb`, repo `crusadev/painkiller` |
 
 ## Layout
@@ -92,13 +92,15 @@ Read this before changing the matcher. These cost hours.
    over the whole corpus and eyeball every hit** — see the snippet at the
    bottom.
 
-2. **The complaint base rate is 0.2%.** 96.5% of reviews are five-star. Etsy
-   buyers who wait three weeks still leave five stars. Ranking on complaint
-   text alone returns an empty list. This is why the rubric leans on shop-level
-   facts.
+2. **The complaint base rate is ~1.2%.** The overwhelming majority of reviews
+   are five-star, and Etsy buyers who wait a month still leave five stars.
+   Ranking on complaint text alone returns almost nothing, which is why the
+   rubric leans on shop-level facts.
 
-3. **Star ratings are deliberately unused.** All three fulfilment signals in
-   the corpus sit in *five-star* reviews. Filtering by rating finds zero.
+3. **Star ratings are deliberately unused.** All 44 fulfilment signals in the
+   corpus sit in **four- and five-star** reviews (31 at five stars). Filtering
+   by rating finds zero. Complaints are buried inside praise: "took about two
+   months to arrive" sits in a 5-star review recommending the shop.
 
 4. **Matching is per clause, not per sentence.** Buyers bury complaints in
    praise: "took three weeks but the seller was great". Splitting on
@@ -106,6 +108,14 @@ Read this before changing the matcher. These cost hours.
 
 5. **The review actor fails a whole batch if one shop name is bad.**
    `capture.py` retries failed batches shop-by-shop. Don't remove that.
+
+5b. **`capture.py` merges into the existing snapshot.** It used to overwrite,
+   which silently destroyed the `shop_facts` and `related_links` that
+   `capture_shop.py` had written. Keep the merge.
+
+5c. **The evals write to a scratch path.** `qualify.py`'s default output is the
+   committed `leads.md`; an earlier version of the eval runner clobbered it
+   with a 3-shop report. There is now a regression check for this.
 
 6. **A lead qualifying on ratings alone must render as such.** Creat3DLab has
    no complaint quotes; its card says so explicitly and the opener leads with
@@ -143,10 +153,9 @@ The lead is the **shop**. Everyone else is irrelevant to the score.
    while the fulfilment deficits sit below it. Distribution of lifetime
    averages: p25 = 501, p50 = 1,014, p75 = 1,913, p90 = 3,673, max 21,445.
 
-2. **Second review-capture pass over the top of the ranking.** Shop facts now
-   cover 376 shops; reviews cover only the original 22. Capture reviews for the
-   top ~40 by score to add quoted evidence where it matters most
-   (`scripts/capture.py --shops-file`, ~$0.005/review).
+2. **Third review-capture pass.** Reviews now cover 61 of 376 shops — the top
+   of the ranking. Extend down the `watch` tier as needed
+   (`scripts/capture.py --shops-file`, ~$0.30/shop at 60 reviews).
 
 3. **Multi-platform.** `related_links` found **195 linked storefronts** across
    the enriched shops (the sheet itself had 9). `myjeepduck.com/blogs/news` is a

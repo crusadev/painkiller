@@ -1,17 +1,381 @@
 {
   "shop": "BlueSkyShopUA",
   "shop_url": "https://www.etsy.com/shop/BlueSkyShopUA",
-  "source": "https://www.etsy.com/shop/BlueSkyShopUA",
+  "source": "https://www.etsy.com/shop/BlueSkyShopUA/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "UA",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Great item. Can\u2019t wait to use it",
+      "url": "https://www.etsy.com/listing/1615408723/dragon-clay-cutters-for-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "my package arrived safely.  it took 12 days to the UK.  I really love my purchase.   very good quality and a great service from this seller.  packaged well.  definitely happy with my purchase.  \ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/4336588688/bead-polymer-clay-roller-26-mm28mm30mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Great product, quick shipment.",
+      "url": "https://www.etsy.com/listing/1638673905/old-witch-face-silicone-mold-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "perfect for my needs- thanks!",
+      "url": "https://www.etsy.com/listing/1702885991/silicone-doll-mold-size-45h2-cm177h08"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "All good",
+      "url": "https://www.etsy.com/listing/1785426996/bead-polymer-clay-roller-bead-hole"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "All good",
+      "url": "https://www.etsy.com/listing/1703007406/bead-polymer-clay-roller-cylinder-shape"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "All good",
+      "url": "https://www.etsy.com/listing/1785426996/bead-polymer-clay-roller-bead-hole"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "All good",
+      "url": "https://www.etsy.com/listing/4371960338/leaf-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Super cute cutters that I can't wait to use!",
+      "url": "https://www.etsy.com/listing/1675942710/dragon-polymer-clay-cutters-50-65mm-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "just as pictured. Love how it is a combo and has spots to measure coat and also to pierce the hole.",
+      "url": "https://www.etsy.com/listing/4322142045/polymer-clay-bead-roller-with-hole-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Exactly as promised. Great item. Highly recommend.",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-30",
+      "text": "It was a great gift",
+      "url": "https://www.etsy.com/listing/1712838272/bead-polymer-clay-roller-6mm8mm10mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Great quality, arrived quickly, looking forward to using them",
+      "url": "https://www.etsy.com/listing/1755938794/egg-bead-polymer-clay-roller-bead-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Great quality, arrived quickly, looking forward to using them",
+      "url": "https://www.etsy.com/listing/1755938794/egg-bead-polymer-clay-roller-bead-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Great quality, arrived quickly, looking forward to using them",
+      "url": "https://www.etsy.com/listing/1755938794/egg-bead-polymer-clay-roller-bead-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Great quality, arrived quickly, looking forward to using them",
+      "url": "https://www.etsy.com/listing/1755938794/egg-bead-polymer-clay-roller-bead-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Well crafted, easy to use",
+      "url": "https://www.etsy.com/listing/1782902728/angel-clay-cutter-angel-christmas"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "Very well made, easy to use.",
+      "url": "https://www.etsy.com/listing/1796511275/bead-roller-flower-pot-flower-pot-bead"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "Very easy to use with a touch of cornstarch! Shop owner was very helpful when I had a question",
+      "url": "https://www.etsy.com/listing/1796493213/bead-roller-flower-pot-flower-pot-bead"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-12",
+      "text": "Packaged well, arrived safely, as described, thank you",
+      "url": "https://www.etsy.com/listing/1796493213/bead-roller-flower-pot-flower-pot-bead"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-12",
+      "text": "Packaged well, arrived safely, as described, thank you",
+      "url": "https://www.etsy.com/listing/1796493213/bead-roller-flower-pot-flower-pot-bead"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-10",
+      "text": "Great littler roller. Exactly as described",
+      "url": "https://www.etsy.com/listing/1774249167/egg-bead-polymer-clay-roller-bead-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "perfect size and super cute!",
+      "url": "https://www.etsy.com/listing/4302152822/hibiscus-flower-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-01",
+      "text": "Easy to use: put a little ball of clay in the center, put the two halves together, give it a couple slides back and fourth. Tada! Tiny tiny acorn!",
+      "url": "https://www.etsy.com/listing/1777157625/acorn-bead-roller-bead-maker-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-31",
+      "text": "these will come in handy ive been wanting to make beads :) thanks for the little cutters",
+      "url": "https://www.etsy.com/listing/4322142045/polymer-clay-bead-roller-with-hole-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Packaged well, arrived safely, as described, thank you",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-22",
+      "text": "Makes very cute earrings & pins",
+      "url": "https://www.etsy.com/listing/1801894642/chicken-clay-cutter-cock-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-22",
+      "text": "Makes very cute Christmas ornaments",
+      "url": "https://www.etsy.com/listing/1861260238/chicken-clay-cutter-funy-cock-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-21",
+      "text": "The item matched the description",
+      "url": "https://www.etsy.com/listing/4425935976/daisy-and-bee-stanley-topper-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-13",
+      "text": "Amazing cutter. It is exactly what I was expecting.",
+      "url": "https://www.etsy.com/listing/4373092819/dove-clay-cutter-floral-dove-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-12",
+      "text": "Perfect tool for bead making, easy to use and nicely made.",
+      "url": "https://www.etsy.com/listing/4322142045/polymer-clay-bead-roller-with-hole-maker"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-10",
+      "text": "It\u2019s a bit noisier than I initially expected",
+      "url": "https://www.etsy.com/listing/1712838272/bead-polymer-clay-roller-6mm8mm10mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-07",
+      "text": "As described and just what I wanted thanks. would use this supplier again.",
+      "url": "https://www.etsy.com/listing/1797097245/floral-dove-polymer-clay-cutter-set-bird"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-29",
+      "text": "Perfect cutters. Sharp clean cut",
+      "url": "https://www.etsy.com/listing/1801894642/chicken-clay-cutter-cock-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-28",
+      "text": "Exactly what I was looking for. Thanks!",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-28",
+      "text": "Works great once you get the hang of it",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-22",
+      "text": "Fabulous item,' old witch face'. Really nicely made, I'm looking forward to using this.  Thank you for my free gift.  I highly recommend this seller and will definitely be back for more.",
+      "url": "https://www.etsy.com/listing/1638673905/old-witch-face-silicone-mold-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "arrived today! excited to use it with my project",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "arrived today can wait to use it with my project",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Perfect for my project! I'm excited to try it out!",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Perfect for my project! I'm excited to try it out!",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Perfect for my project! I'm excited to try it out!",
+      "url": "https://www.etsy.com/listing/4371960338/leaf-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Wonderful, compact size to make more detailed clay work much easier. Thanks!",
+      "url": "https://www.etsy.com/listing/1712838272/bead-polymer-clay-roller-6mm8mm10mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Perfect.  Really cute. Anxious to try it.\n I'll be ordering again",
+      "url": "https://www.etsy.com/listing/1712838272/bead-polymer-clay-roller-6mm8mm10mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "The seller added an extra gift with the purchase which I found super cute! Thank you!",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-20",
+      "text": "Wonderful designs, great cutters, and speedy shipping.",
+      "url": "https://www.etsy.com/listing/1860587620/funny-chicken-clay-cutter-cock-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-20",
+      "text": "I am very happy with everything in my order. The seller shipped my items very quickly and arrived in perfect condition.",
+      "url": "https://www.etsy.com/listing/4439250461/bear-cupid-polymer-clay-cutter-bear"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-08",
+      "text": "So neat!! Thank you so much!",
+      "url": "https://www.etsy.com/listing/1671387409/gribnoj-rolik-dla-busin-formoki-dla"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1695648518/hive-bead-polymer-clay-roller-bee-house"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1692575636/acorn-bead-roller-bead-maker-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1638673905/old-witch-face-silicone-mold-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1727021405/doll-face-mold-silicone-face-mold"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1774474851/bead-roller-flower-pot-flower-pot-bead"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1656628106/mushroom-bead-roller-polymer-clay-tool"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "Great seller. Fast shipping and wonderfully packaged.",
+      "url": "https://www.etsy.com/listing/1698434182/mushroom-bead-roller-for-clay-bead-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-19",
+      "text": "Just what I needed.  Thanks for the great product.",
+      "url": "https://www.etsy.com/listing/1733086118/mushroom-bead-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-17",
+      "text": "Look forward to more business with you.",
+      "url": "https://www.etsy.com/listing/1797097245/floral-dove-polymer-clay-cutter-set-bird"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-14",
+      "text": "looks like the picture and works well",
+      "url": "https://www.etsy.com/listing/1695648518/hive-bead-polymer-clay-roller-bee-house"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-14",
+      "text": "it took a long time to get here I didnt realize it was coming from ukraine but its great",
+      "url": "https://www.etsy.com/listing/4336588688/bead-polymer-clay-roller-26-mm28mm30mm"
+    }
+  ],
   "shop_facts": {
     "country_code": "UA",
     "city": "",
     "region": "",
-    "shipping_rating": 4.890957227724425,
-    "item_quality_rating": 4.914248461023361,
-    "customer_service_rating": 4.922494833467637,
+    "shipping_rating": 4.890957227735669,
+    "item_quality_rating": 4.914248461027741,
+    "customer_service_rating": 4.922494833477443,
     "average_rating": 4.89,
     "total_rating_count": 570,
     "rating_count_past_year": 570,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "https://www.instagram.com/blueskyshopua?igsh=eGN0NTJjaHE4dXU5"
-  ],
-  "ships_from": "UA"
+  ]
 }

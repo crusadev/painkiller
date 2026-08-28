@@ -1,17 +1,381 @@
 {
   "shop": "PapelEspresso",
   "shop_url": "https://www.etsy.com/shop/PapelEspresso",
-  "source": "https://www.etsy.com/shop/PapelEspresso",
+  "source": "https://www.etsy.com/shop/PapelEspresso/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "TR",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Overall the quality of the wooden feet were fantastic! I had a small manufacturing sizing error, however this was very quickly rectified by the seller! The customer service has been absolutely outstanding! Thank you :)",
+      "url": "https://www.etsy.com/listing/1384858214/gaggia-classic-pro-wooden-feet-walnut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "All was really good! Thanks",
+      "url": "https://www.etsy.com/listing/1711692454/cafelat-robot-tamper-handle"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Great product, as described, thanks.",
+      "url": "https://www.etsy.com/listing/1549436316/gaggia-classic-portafilter-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Works just fine!  I have it mounted under my Lelit Bianca V3 and I'm using a Themis Ultra!  No complaints here!",
+      "url": "https://www.etsy.com/listing/1385816924/stainless-steel-espresso-scale-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Fits Lelit Bianca V3!  Those extra white tabs that are included are meant to be used to make the drip tray cover flush with the drip tray.  Also, note that the silicon tabs that come factory on the machine need to be removed as well.  It did not include this in the description, but luckily I read it from someone's review, so just passing that info along.  \r\nHonestly looks better than the original and it is beautiful!",
+      "url": "https://www.etsy.com/listing/1507518089/lelit-bianca-drip-tray-cover-stainless"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "I got this wdt tool for my por3 flair basket.  fits perfectly and a distribution is actually amazing.  works perfectly and it comes with extra spikes. it only took a couple of weeks to get here to Canada from Turkey.",
+      "url": "https://www.etsy.com/listing/1644835870/flair-espresso-wdt-tool-planetary-gear"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "got the pro3 flair wdt tool and the base scale  holder for my flair.  Even though, this is from Turkey, it arrived. it only a matter of a couple of weeks to Canada. product is awesome. the wdt tool is actually really really amazing. comes with extra spikes as well.  thanks man.",
+      "url": "https://www.etsy.com/listing/1661764677/flair-espresso-scale-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "Fits great and works well.",
+      "url": "https://www.etsy.com/listing/1689881765/gaggia-classic-proevo-low-profile"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Great product, fits like a glove.",
+      "url": "https://www.etsy.com/listing/1747318295/one-hole-steam-tip-for-lelit-bianca-mara"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Great purchase and always good customer support.",
+      "url": "https://www.etsy.com/listing/1384489919/gaggia-classic-led-light-to-get-better"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Amazing quality, well put together and adds some great functionality to the machine. Perfect!",
+      "url": "https://www.etsy.com/listing/1358655626/stainless-steel-low-profile-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Great seller, came as described thank you",
+      "url": "https://www.etsy.com/listing/1675723112/espresso-puck-screen-remover-effortless"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Great seller, item came well packaged and functions perfect.",
+      "url": "https://www.etsy.com/listing/1718332095/gaggia-classic-pro-or-evo-portafilter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Good seller, came as described. Thank you",
+      "url": "https://www.etsy.com/listing/1367812701/stainless-steel-water-tank-lid-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "Exceptional craftsmanship, precisely what I was looking for. Highly recommend.",
+      "url": "https://www.etsy.com/listing/1498068432/gaggia-classic-water-tank-mirror"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "\ud83d\udc4dGood article I recommend it",
+      "url": "https://www.etsy.com/listing/1747318295/one-hole-steam-tip-for-lelit-bianca-mara"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "very nice item. helps organize our pour over area",
+      "url": "https://www.etsy.com/listing/1450415980/v60-coffee-filter-paper-holder-from"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Thank you. Good transaction. Recommended.",
+      "url": "https://www.etsy.com/listing/1726852225/cafelat-robot-pressure-gauge-mount"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Perfect for my Profitec Go!",
+      "url": "https://www.etsy.com/listing/1747318295/one-hole-steam-tip-for-lelit-bianca-mara"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "they provided a great service and delivery",
+      "url": "https://www.etsy.com/listing/1861587428/profitec-go-ultimate-customization-set"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-16",
+      "text": "Does what it should. The feet do not reach the counter so I added some rubber pads underneath to stabilize it. Now I can fit a scale under the cup!",
+      "url": "https://www.etsy.com/listing/1689881765/gaggia-classic-proevo-low-profile"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "Great quality! I've bought other similar to this one before, and this is by far the better looking and higher quality I have seen.",
+      "url": "https://www.etsy.com/listing/1689881765/gaggia-classic-proevo-low-profile"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Better fit, stopped the noise in every extraction from the previous tray, looking great. On time delivery!",
+      "url": "https://www.etsy.com/listing/1358655626/stainless-steel-low-profile-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-10",
+      "text": "I have a profitec pro 400 and this is a great fit way better than the 2 hole tip..steams like a dream \ud83d\udc4d\ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/1855264510/profitec-go-steam-tip-single-hole-1mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-10",
+      "text": "The negotiator is well made and enhances the xBloom experience. I had an issue with the shipping which was resolved in a quick and friendly manner. How someone handles support tickets like this is a test of a truly great Etsy seller and PapelEspresso delivered.",
+      "url": "https://www.etsy.com/listing/1788929592/xbloom-studio-smoosher-negotiator"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-08",
+      "text": "Great item that works well with the XBloom Onni dripper.",
+      "url": "https://www.etsy.com/listing/1788929592/xbloom-studio-smoosher-negotiator"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-02",
+      "text": "Very nice product.  Thank you.",
+      "url": "https://www.etsy.com/listing/1358655626/stainless-steel-low-profile-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "Great product and delivered earlier than expected.",
+      "url": "https://www.etsy.com/listing/1855264510/profitec-go-steam-tip-single-hole-1mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-23",
+      "text": "The item arrived a little slower than I'd hoped but that's not the fault of the seller. It's a great bit of kit and very well made",
+      "url": "https://www.etsy.com/listing/1644835870/flair-espresso-wdt-tool-planetary-gear"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-19",
+      "text": "I have ordered 2 items but only one of them arrived\u2026. But this one is good quality as expected.",
+      "url": "https://www.etsy.com/listing/1447040458/single-and-double-portafilter-holder"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-15",
+      "text": "Item arrived on time and exactly as described",
+      "url": "https://www.etsy.com/listing/1747327937/planetary-gear-spirograph-espresso-wdt"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-12",
+      "text": "Amazing gift idea and fast shipping!",
+      "url": "https://www.etsy.com/listing/1381585143/gaggia-classic-wooden-steam-knob-walnut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-26",
+      "text": "Expensive - but in my opinion worth the price. Transforms the appearance of the machine. Also the single nozzle is much easier than the stock profitec go two-piece nozzle.",
+      "url": "https://www.etsy.com/listing/1861587428/profitec-go-ultimate-customization-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-24",
+      "text": "Item arrived exactly as described, packaged with care, highly recommend!",
+      "url": "https://www.etsy.com/listing/1747327937/planetary-gear-spirograph-espresso-wdt"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-23",
+      "text": "Great product. Amazing customer service. Highly recommended",
+      "url": "https://www.etsy.com/listing/1507518089/lelit-bianca-drip-tray-cover-stainless"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-23",
+      "text": "wrong item was sent and international turnaround time took a while but seller was great to replace item as purchased.",
+      "url": "https://www.etsy.com/listing/1683173068/gaggia-classic-stainless-steel-extended"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-15",
+      "text": "Works as promised but a little sensitive to bending",
+      "url": "https://www.etsy.com/listing/1727413257/cafelat-robot-arms-up-shoulder-clip"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-08",
+      "text": "Just as described! Love it",
+      "url": "https://www.etsy.com/listing/1358655626/stainless-steel-low-profile-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Perfect, problem solved, easy to fit.",
+      "url": "https://www.etsy.com/listing/1874638893/moccamaster-filter-hanger-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-03",
+      "text": "Great gift for any espresso lover :)",
+      "url": "https://www.etsy.com/listing/1425885239/espresso-shot-mirror-magnetic-coffee"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-30",
+      "text": "Nice portafilter holder! Lelit Anna portafilters fits very well in it. Thank you very much!",
+      "url": "https://www.etsy.com/listing/1447040458/single-and-double-portafilter-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "The center point was not accurately centered.",
+      "url": "https://www.etsy.com/listing/1381585143/gaggia-classic-wooden-steam-knob-walnut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "I wouldn't recommend this unless you really like it.",
+      "url": "https://www.etsy.com/listing/1498068432/gaggia-classic-water-tank-mirror"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "The quality is pretty good.",
+      "url": "https://www.etsy.com/listing/1447040458/single-and-double-portafilter-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "The quality is pretty good.",
+      "url": "https://www.etsy.com/listing/1549436316/gaggia-classic-portafilter-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-28",
+      "text": "The quality is acceptable \ud83d\ude0e",
+      "url": "https://www.etsy.com/listing/1675713764/gaggia-classic-pro-evo-low-profile-drip"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-27",
+      "text": "Works great and is well crafted",
+      "url": "https://www.etsy.com/listing/1381585143/gaggia-classic-wooden-steam-knob-walnut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-27",
+      "text": "Great product. Materials and fit are perfect. Definitely upgrades the look of my machine.",
+      "url": "https://www.etsy.com/listing/1367620425/sleek-cup-rest-grid-for-gaggia-classic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "Fits well, matches description in post.",
+      "url": "https://www.etsy.com/listing/1718336467/delonghi-dedica-espresso-machine-drip"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-19",
+      "text": "The single hole steam wand tip works great! I get a nice swirl in my milk jug, helpful for a beginner like me. It looks just like the stock tip and even looks like the same no-burn material.",
+      "url": "https://www.etsy.com/listing/1855264510/profitec-go-steam-tip-single-hole-1mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-18",
+      "text": "I matches to all my walnut set up. a little bit smaller for 20grams of coffee beans it spill easily but overall I love it. I use 18g all the time.",
+      "url": "https://www.etsy.com/listing/1591919705/coffee-bean-dosing-cup"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-16",
+      "text": "Great product, would recommend to others",
+      "url": "https://www.etsy.com/listing/1381585143/gaggia-classic-wooden-steam-knob-walnut"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-11",
+      "text": "This 1mm one hole tip makes it so much faster to steam milk than the standard 2 hole tip on the Profitec Pro 800.",
+      "url": "https://www.etsy.com/listing/1855264510/profitec-go-steam-tip-single-hole-1mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-09",
+      "text": "Great product and shipped quickly.",
+      "url": "https://www.etsy.com/listing/1855264510/profitec-go-steam-tip-single-hole-1mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-04",
+      "text": "It fit perfectly!!! I am very happy with the accuracy of the handle fit to the tamper.",
+      "url": "https://www.etsy.com/listing/1711692454/cafelat-robot-tamper-handle"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "As described, arrived quickly, thanks again!",
+      "url": "https://www.etsy.com/listing/1498068432/gaggia-classic-water-tank-mirror"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "All great thanks, our coffee corner is so much tidier!",
+      "url": "https://www.etsy.com/listing/1549436316/gaggia-classic-portafilter-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-27",
+      "text": "great little upgrade to improve your milk froth. useful",
+      "url": "https://www.etsy.com/listing/1422243902/gaggia-classic-1-mm-one-hole-steam-tip"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-27",
+      "text": "very useful to have more space on top of the machine!",
+      "url": "https://www.etsy.com/listing/1683173068/gaggia-classic-stainless-steel-extended"
+    },
+    {
+      "rating": 4,
+      "date": "2026-02-27",
+      "text": "it's good, can be useful",
+      "url": "https://www.etsy.com/listing/1367812701/stainless-steel-water-tank-lid-for"
+    }
+  ],
   "shop_facts": {
     "country_code": "TR",
     "city": "",
     "region": "",
-    "shipping_rating": 4.73017671280053,
-    "item_quality_rating": 4.761347667461658,
-    "customer_service_rating": 4.781544911124707,
+    "shipping_rating": 4.7301767128012875,
+    "item_quality_rating": 4.761347667465326,
+    "customer_service_rating": 4.781544911126164,
     "average_rating": 4.75,
     "total_rating_count": 1963,
     "rating_count_past_year": 1963,
@@ -26,6 +390,5 @@
     "https://www.instagram.com/papelespresso/",
     "http://www.papelespresso.com",
     "https://pinterest.com/papelespresso/"
-  ],
-  "ships_from": "TR"
+  ]
 }

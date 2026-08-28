@@ -1,17 +1,381 @@
 {
   "shop": "PDCustomsUK",
   "shop_url": "https://www.etsy.com/shop/PDCustomsUK",
-  "source": "https://www.etsy.com/shop/PDCustomsUK",
+  "source": "https://www.etsy.com/shop/PDCustomsUK/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "GB",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Good product",
+      "url": "https://www.etsy.com/listing/4321886647/perfect-draft-medallion-magnet-high"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "A+, thanks",
+      "url": "https://www.etsy.com/listing/1299470881/perfect-draft-pro-medallion-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "A+, thanks",
+      "url": "https://www.etsy.com/listing/1299470881/perfect-draft-pro-medallion-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "Just great exactly what I wanted",
+      "url": "https://www.etsy.com/listing/4321886647/perfect-draft-medallion-magnet-high"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "Well, that completes the set!!!,\r\nI'm sure he'll be delighted.\r\nThank you for all your help,\r\ncan't wait to see it all in place, it will look fantastic.",
+      "url": "https://www.etsy.com/listing/1254604195/perfect-draft-magnetic-drip-tray-skin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "Looks great, can't wait to see his face.\r\nBrilliant, thank you.",
+      "url": "https://www.etsy.com/listing/1531141116/perfect-draft-tap-handle-tennents-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "Very happy with item and quick service",
+      "url": "https://www.etsy.com/listing/1560549689/perfect-draft-tap-handle-adapter-38-inch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-14",
+      "text": "Great item, perfect for Father\u2019s Day present for my husband",
+      "url": "https://www.etsy.com/listing/1051506193/perfect-draft-magnetic-skin-maxi-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-01",
+      "text": "Nice quality as expected thank you",
+      "url": "https://www.etsy.com/listing/1560549689/perfect-draft-tap-handle-adapter-38-inch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-27",
+      "text": "Very good quality and looks great",
+      "url": "https://www.etsy.com/listing/1051506193/perfect-draft-magnetic-skin-maxi-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "Pulled in a speedy delivery favour and came on time !!",
+      "url": "https://www.etsy.com/listing/1560549689/perfect-draft-tap-handle-adapter-38-inch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-23",
+      "text": "Thank you for a perfect item and delivery",
+      "url": "https://www.etsy.com/listing/1560549689/perfect-draft-tap-handle-adapter-38-inch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-05",
+      "text": "item as described, looks great.",
+      "url": "https://www.etsy.com/listing/4321886647/perfect-draft-medallion-magnet-high"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-16",
+      "text": "Great product would recommend thanks",
+      "url": "https://www.etsy.com/listing/1592769482/camden-ipa-perfect-draft-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-12",
+      "text": "Great looking product , speedy delivery",
+      "url": "https://www.etsy.com/listing/1680170602/perfect-draft-tap-handle-camden-ipa-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-12",
+      "text": "Item was perfectly fine thank you",
+      "url": "https://www.etsy.com/listing/1683833476/perfect-draft-tap-handle-corona-for-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Great card as described \ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/1160255616/the-witcher-birthday-card-funny-geralt"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-10",
+      "text": "Brilliant, i have never seen so many people laugh at a card before",
+      "url": "https://www.etsy.com/listing/754952222/game-of-thrones-funny-valentines-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Excellent very good service \ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/1254604195/perfect-draft-magnetic-drip-tray-skin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Excellent very good service \ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/1254604195/perfect-draft-magnetic-drip-tray-skin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-26",
+      "text": "good product would highly recommend",
+      "url": "https://www.etsy.com/listing/4374606247/proper-job-perfect-draft-pro-medallion"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-26",
+      "text": "Really Pleased Highly Would Recommend",
+      "url": "https://www.etsy.com/listing/4323100742/fullers-london-pride-perfect-draft-pro"
+    },
+    {
+      "rating": 4,
+      "date": "2026-02-24",
+      "text": "Items as described. Good quality",
+      "url": "https://www.etsy.com/listing/4321886647/perfect-draft-medallion-magnet-high"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-22",
+      "text": "Brilliant card my partner loved it \ud83d\ude00",
+      "url": "https://www.etsy.com/listing/757854916/come-dine-with-me-funny-valentines-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-13",
+      "text": "Brilliant and really helpful seller",
+      "url": "https://www.etsy.com/listing/1591341079/custom-design-perfect-draft-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-11",
+      "text": "Great item and a great seller",
+      "url": "https://www.etsy.com/listing/1332667945/middle-finger-funny-secret-santa"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-09",
+      "text": "I received a quality item as described",
+      "url": "https://www.etsy.com/listing/1254604195/perfect-draft-magnetic-drip-tray-skin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "Great perfect draft caps as usual",
+      "url": "https://www.etsy.com/listing/4321886647/perfect-draft-medallion-magnet-high"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-06",
+      "text": "Good quality item, well made.",
+      "url": "https://www.etsy.com/listing/1560549689/perfect-draft-tap-handle-adapter-38-inch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-04",
+      "text": "Great product and looks fab on our machine \ud83d\udc4c",
+      "url": "https://www.etsy.com/listing/1299470881/perfect-draft-pro-medallion-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-30",
+      "text": "Amazing quality and was delivered very quick.",
+      "url": "https://www.etsy.com/listing/1694349955/perfect-draft-tap-handle-theakston-old"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-29",
+      "text": "The item was exactly what I\u2019d ordered. It arrived on time and in good condition. It fits my perfect draught machine perfectly",
+      "url": "https://www.etsy.com/listing/1581614135/lowenbrau-oktoberfest-perfect-draft"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-29",
+      "text": "Great upgrade for PD machine, good quality",
+      "url": "https://www.etsy.com/listing/1051506193/perfect-draft-magnetic-skin-maxi-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-29",
+      "text": "Excellent value for money good",
+      "url": "https://www.etsy.com/listing/4342629179/trooper-perfect-draft-pro-medallion"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-28",
+      "text": "Amazing handmade item, really high quality,    Seller service was fab and arrived really quickly would recommend A*",
+      "url": "https://www.etsy.com/listing/1591341079/custom-design-perfect-draft-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-27",
+      "text": "Top quality medallion magnet that fits perfectly. I would definitely recommend! \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+      "url": "https://www.etsy.com/listing/4375305441/perfect-draft-medallion-magnet-high"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-27",
+      "text": "As described on the site",
+      "url": "https://www.etsy.com/listing/1778746855/peroni-perfect-draft-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-27",
+      "text": "As described on the site",
+      "url": "https://www.etsy.com/listing/1778744189/peroni-perfect-draft-magnetic-skin-maxi"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-26",
+      "text": "Absolutely perfect, partner loves it",
+      "url": "https://www.etsy.com/listing/1051506193/perfect-draft-magnetic-skin-maxi-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-26",
+      "text": "If the item met your expectations is very good",
+      "url": "https://www.etsy.com/listing/4342629179/trooper-perfect-draft-pro-medallion"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-25",
+      "text": "Partner loves it and looks fab \ud83d\udc4c\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/1760739795/mahou-perfect-draft-pro-medallion-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-25",
+      "text": "Partner loves it and looks fab \ud83d\udc4c\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/1683833476/perfect-draft-tap-handle-corona-for-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-25",
+      "text": "Partner loves it and looks fab \ud83d\udc4c\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/4374604513/corona-ligera-perfect-draft-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-25",
+      "text": "Partner loves it and looks fab \ud83d\udc4c\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/1735167467/perfect-draft-tap-handle-mahou-for-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-24",
+      "text": "Great service would use again",
+      "url": "https://www.etsy.com/listing/1778746257/peroni-perfect-draft-pro-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-23",
+      "text": "Perfect gift \ud83c\udf81  very well made and looks fabulous \ud83d\udc4c",
+      "url": "https://www.etsy.com/listing/1567407588/clwb-tropica-perfect-draft-magnetic-skin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-21",
+      "text": "Excellent product.  Would buy from seller again",
+      "url": "https://www.etsy.com/listing/1581605447/jupiler-perfect-draft-magnetic-skin-maxi"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-20",
+      "text": "The perfect gift. He loved it! Fast shipping as well.",
+      "url": "https://www.etsy.com/listing/1600110042/pickle-nicolas-cage-hanging-christmas"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-20",
+      "text": "Great product but took a while to receive",
+      "url": "https://www.etsy.com/listing/4374675020/only-fools-horses-perfect-draft-magnetic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-18",
+      "text": "As described. Excellent product. Would use again.",
+      "url": "https://www.etsy.com/listing/1577107210/jupiler-perfect-draft-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-18",
+      "text": "Unfortunately I had the wrong item delivered,  but the seller was really apologetic and helpful and I had the right product delivered promptly. Card is decent size, and the quality of imagery is high. Really pleased and my friend thought it was hilarious as did I! Added bonus, thank you!!!",
+      "url": "https://www.etsy.com/listing/1364803201/come-dine-with-me-funny-christmas-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-15",
+      "text": "Perfect item to top off the beer pump",
+      "url": "https://www.etsy.com/listing/1531140452/perfect-draft-tap-handle-camden-hells"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-15",
+      "text": "Really great magnets for the perfect draft beer machine. We have 3 sets now for the main beers we drink and it\u2019s great",
+      "url": "https://www.etsy.com/listing/1051506193/perfect-draft-magnetic-skin-maxi-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-13",
+      "text": "Great product as expected. As it said on the advert",
+      "url": "https://www.etsy.com/listing/1254604195/perfect-draft-magnetic-drip-tray-skin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-13",
+      "text": "Good product and promote delivery",
+      "url": "https://www.etsy.com/listing/1600110042/pickle-nicolas-cage-hanging-christmas"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-12",
+      "text": "Amazing product perfect for my tree",
+      "url": "https://www.etsy.com/listing/1600110042/pickle-nicolas-cage-hanging-christmas"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-10",
+      "text": "It fits nicely thank you!",
+      "url": "https://www.etsy.com/listing/1299470881/perfect-draft-pro-medallion-magnet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-01",
+      "text": "Great product thankyou very much",
+      "url": "https://www.etsy.com/listing/4374646451/bullseye-bully-perfect-draft-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-31",
+      "text": "Excellent quality and delivered before xmas which wasn't expected. Great communication \ud83d\udc4f",
+      "url": "https://www.etsy.com/listing/1547204976/clwb-tropica-perfect-draft-pro-drip-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-30",
+      "text": "Husband really pleased with how these look on his perfect draft machine!",
+      "url": "https://www.etsy.com/listing/4321886647/perfect-draft-medallion-magnet-high"
+    }
+  ],
   "shop_facts": {
     "country_code": "GB",
     "city": "",
     "region": "",
-    "shipping_rating": 4.8058494346177225,
-    "item_quality_rating": 4.879723930476821,
-    "customer_service_rating": 4.909502041588134,
+    "shipping_rating": 4.805849434616151,
+    "item_quality_rating": 4.879723930474218,
+    "customer_service_rating": 4.9095020415832495,
     "average_rating": 4.87,
     "total_rating_count": 3535,
     "rating_count_past_year": 3535,
@@ -26,6 +390,5 @@
     "http://www.facebook.com/peabodystudio",
     "http://instagram.com/peabodystudio",
     "http://www.peabodystudio.co.uk"
-  ],
-  "ships_from": "GB"
+  ]
 }

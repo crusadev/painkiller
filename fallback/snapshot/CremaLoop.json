@@ -1,17 +1,381 @@
 {
   "shop": "CremaLoop",
   "shop_url": "https://www.etsy.com/shop/CremaLoop",
-  "source": "https://www.etsy.com/shop/CremaLoop",
+  "source": "https://www.etsy.com/shop/CremaLoop/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "CH",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Brilliant and ingenious little device.",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "works exactly as described!",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "Good design, high quality hopper material, worth every penny.",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "It works well with my eureka!",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-25",
+      "text": "Not the best printing qualiy but the design is  efficient. Be careful, it is not compatible with the latest shaker from mhw 3bomber.",
+      "url": "https://www.etsy.com/listing/1689908218/df64-gen-12-emil-t64-blind-shaker-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-28",
+      "text": "It's the second time I buy 3D printed upgrades for my coffee grinder from this seller - and the quality is always spot on :)",
+      "url": "https://www.etsy.com/listing/1200800993/df64-gen-12-upgraded-dosing-cup-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "Item is good quality and looks as described",
+      "url": "https://www.etsy.com/listing/1386000726/df83-upgraded-dosing-cup-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-03",
+      "text": "ydyx gxydufjfh hduxuxj hdufjxhd hxfu",
+      "url": "https://www.etsy.com/listing/1689908218/df64-gen-12-emil-t64-blind-shaker-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-24",
+      "text": "Love this!! Works as it should!!",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-21",
+      "text": "I am very satisfied with the slow hopper",
+      "url": "https://www.etsy.com/listing/4343695621/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-19",
+      "text": "Wonderful upgrade for our Mignon. Fits perfectly into the opening to the burrs, and with one quick puff virtually all the remaining grinds are expelled.",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Works as designed and fits the dosing cup perfectly.",
+      "url": "https://www.etsy.com/listing/1200800993/df64-gen-12-upgraded-dosing-cup-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-04",
+      "text": "Great product, would recommend. 10/10.",
+      "url": "https://www.etsy.com/listing/1826914692/df54-improved-portafilter-holder-and"
+    },
+    {
+      "rating": 4,
+      "date": "2026-03-21",
+      "text": "This was a good purchase with three caveats: first, be careful with the size of beans you use in this, as I find it gets jammed very easily if your beans are small. Second, it is still a bit faster than I'd like it to be, even with the slower-feed disc (should've sprung for the variable rate one). Third, it does eat through the single-AAA battery relatively quickly -- I wish it either took a bigger battery or maybe one extra AAA battery. Aside from that, works exactly as expected, and definitely makes slow feeding more accessible/less of a chore.",
+      "url": "https://www.etsy.com/listing/1883953699/electric-slow-feeder-for-timemore-078"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-13",
+      "text": "works as intended, fits perfectly! :)",
+      "url": "https://www.etsy.com/listing/1777766684/df54-breville-sage-54mm-portafilter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-10",
+      "text": "I have a Eureka Filtro Silent model and it fits perfectly. Works well to clean up after grinds.",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-10",
+      "text": "Excellent product, many thanks. D",
+      "url": "https://www.etsy.com/listing/1342883534/gaggia-classic-proevo-portafilter-side"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-09",
+      "text": "Just received it, fits well, seems to work perfectly! Thx!",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-07",
+      "text": "Excellent quality.  It\u2019s like it came from the factory like this.  Highly recommend this item.",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "as described product does the job",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-27",
+      "text": "perfect and very useful. recommended",
+      "url": "https://www.etsy.com/listing/1342883534/gaggia-classic-proevo-portafilter-side"
+    },
+    {
+      "rating": 4,
+      "date": "2026-02-27",
+      "text": "good product. seems ok for the intended use",
+      "url": "https://www.etsy.com/listing/1324296878/gaggia-classic-proevo-extended-low-drip"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-08",
+      "text": "Product is good quality and shipping was efficient",
+      "url": "https://www.etsy.com/listing/1777766684/df54-breville-sage-54mm-portafilter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-08",
+      "text": "So glad I got this - a great addition to my DF83!",
+      "url": "https://www.etsy.com/listing/4343695621/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-04",
+      "text": "Shipped fast and works just as described",
+      "url": "https://www.etsy.com/listing/4343695621/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-01",
+      "text": "I delayed buying this product for too long. It has greatly improved my grinding experience and I wish I bought it sooner.",
+      "url": "https://www.etsy.com/listing/1215654772/df64-gen-1-low-retention-declumper-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-31",
+      "text": "Nice stand that fits my blind tumbler nicely. It did differ slightly from the description in that the body has a diamond pattern on it, and I think I would have preferred the smooth finish shown in the listing, but it still looks good.",
+      "url": "https://www.etsy.com/listing/1671077230/eureka-mignon-blind-shaker-and-cup-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-27",
+      "text": "Fits perfect and easy to install.",
+      "url": "https://www.etsy.com/listing/1468769856/df64-gen-12-breville-sage-54mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-16",
+      "text": "I have been using the slow feeder for a year and loving it. Decided to switch to 1 bean at a time. The old disc pops off and the new pops on easy!",
+      "url": "https://www.etsy.com/listing/1874652546/slow-feeder-disc-variations"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-15",
+      "text": "Great product and fun to use",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-14",
+      "text": "Dealing with their customer support is amongst the best interactions I have had on a sale. I had an issue caused by a mistake I made in my order and the representative worked diligently and courteously to help me solve my problem. I would and will order from them again when I need a similar product.  A replacement part that I requested took a bit linger than the original part - which is why I have them a 4 rather than 5 stars on shipping. But honestly I don\u2019t know it\u2019s there fault for the delay. These are  a great seller!",
+      "url": "https://www.etsy.com/listing/1826960722/df64-improved-portafilter-holder-and"
+    },
+    {
+      "rating": 4,
+      "date": "2026-01-06",
+      "text": "Base needs some tape underneath otherwise the whole thing slides around when you start the grinder.",
+      "url": "https://www.etsy.com/listing/1543273275/eureka-mignon-set-with-tilted-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-05",
+      "text": "Looks great and works like it should! Shipping to Canada did take almost a month, however it was around the holidays  - so just be prepared for that. Highly recommend!",
+      "url": "https://www.etsy.com/listing/1543273275/eureka-mignon-set-with-tilted-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-05",
+      "text": "Exactly as I expected it and am totally satisfied.",
+      "url": "https://www.etsy.com/listing/1690152082/df83-v1v2v3-blind-shaker-holder-and-mhw"
+    },
+    {
+      "rating": 4,
+      "date": "2026-01-01",
+      "text": "Great quality item, though I wished it had better surface finish, it's very obviously a 3D printed part that can be improved with some surface treatment.",
+      "url": "https://www.etsy.com/listing/1324305228/gaggia-classic-pro-pid-case-water-tank"
+    },
+    {
+      "rating": 4,
+      "date": "2026-01-01",
+      "text": "Great quality item, though I wished it had better surface finish, it's very obviously a 3D printed part that can be improved with some surface treatment.",
+      "url": "https://www.etsy.com/listing/1652827812/gaggia-classic-proevo-low-drip-tray-long"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-01",
+      "text": "Incredible gift for my boyfriend who loves his espresso machine setup!!! Seller had great communication and got it to me in plenty of time for Christmas. Thank you!",
+      "url": "https://www.etsy.com/listing/1870235576/electric-slow-feeder-for-df54-coffee"
+    },
+    {
+      "rating": 4,
+      "date": "2025-12-28",
+      "text": "Pretty good 3D print quality. The plastic seems sturdy enough and it's not rough on the surface. The coffee admission hole it's a little bit narrow than the original. It's early to judge if it will create regrinding problems in the future due to the fact that coffee dosen't escape grinding chamber fast enough.  As for declumper, it's a little bit stiff and I think it needs a break-in period. For now the coffee has some clumps and needs WDT.",
+      "url": "https://www.etsy.com/listing/1395967647/df83-v1v2v3-low-retention-declumper-and"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-02",
+      "text": "As on photo and descriptions",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-02",
+      "text": "Great also nice support with questions",
+      "url": "https://www.etsy.com/listing/1543273275/eureka-mignon-set-with-tilted-base"
+    },
+    {
+      "rating": 5,
+      "date": "2025-11-13",
+      "text": "Packaged well, ran great. Simple and easy transaction.",
+      "url": "https://www.etsy.com/listing/4343695621/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-29",
+      "text": "Super top from germany! :)",
+      "url": "https://www.etsy.com/listing/1688720602/timemore-sculptor-078s-portafilter"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-28",
+      "text": "Item holds my portafilter and fits on my machine easily. Well made. Would recommend.",
+      "url": "https://www.etsy.com/listing/1342883534/gaggia-classic-proevo-portafilter-side"
+    },
+    {
+      "rating": 4,
+      "date": "2025-10-24",
+      "text": "works and fits well enough",
+      "url": "https://www.etsy.com/listing/1215654772/df64-gen-1-low-retention-declumper-and"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-21",
+      "text": "The mechanism can get jammed sometimes, but overall very good.",
+      "url": "https://www.etsy.com/listing/4343695621/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-15",
+      "text": "Great product, fast shipping! I'll be back again!",
+      "url": "https://www.etsy.com/listing/4344300145/cremaloop-slow-feeder-bean-volume"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-07",
+      "text": "All good! Took longer to ship but as described",
+      "url": "https://www.etsy.com/listing/1324296878/gaggia-classic-proevo-extended-low-drip"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-04",
+      "text": "item arrived very quickly and vendor responded to question i had",
+      "url": "https://www.etsy.com/listing/4344285136/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-25",
+      "text": "Everything works well, the product is of very good quality, and I would highly recommend it!",
+      "url": "https://www.etsy.com/listing/1689908218/df64-gen-12-emil-t64-blind-shaker-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-24",
+      "text": "Disappeared in shipping for a little while but resurfaced. Works great!",
+      "url": "https://www.etsy.com/listing/1468769856/df64-gen-12-breville-sage-54mm"
+    },
+    {
+      "rating": 4,
+      "date": "2025-09-22",
+      "text": "Works as described and makes my grinder that much nicer to use. Would recommend",
+      "url": "https://www.etsy.com/listing/1689908218/df64-gen-12-emil-t64-blind-shaker-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-18",
+      "text": "Fast shipping and the item quality is fantastic!",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-18",
+      "text": "the support is very good, very fast response\r\nand I can custom the slow feeder for my grinder.\r\nReally love it",
+      "url": "https://www.etsy.com/listing/1874652546/slow-feeder-disc-variations"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-18",
+      "text": "The disc insert are not needed for the PRO Slow Feeder, since can adjust the feed rate based on the operating speed.   But they accidently include it.",
+      "url": "https://www.etsy.com/listing/1874652546/slow-feeder-disc-variations"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-18",
+      "text": "For my sniper Grinder.\r\nat last. no need to manual slow feed :D \r\nit helps alot",
+      "url": "https://www.etsy.com/listing/4343695621/electric-slow-feeder-pro-variable-rpm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-18",
+      "text": "The factory hopper was always such a pain to deal with popcorning especially for single dose situations. This works perfectly and deals with retention really well.",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-16",
+      "text": "I would buy again because of the service & quality",
+      "url": "https://www.etsy.com/listing/1770249854/eureka-mci-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 4,
+      "date": "2025-09-15",
+      "text": "item is decent quality, beans tend to get stuck and require some manual placement into the wheel, particularly if RDT is used. Device causes greater retention of grounds if you do not remove prior to using the Bellows.",
+      "url": "https://www.etsy.com/listing/1864750706/electric-slow-feeder-for-df64-df64p"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-13",
+      "text": "Great item - high quality and easy to instal",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-07",
+      "text": "Excellent quality. Shipping took a while",
+      "url": "https://www.etsy.com/listing/1540308605/eureka-mignon-single-dose-bellow-wood-or"
+    }
+  ],
   "shop_facts": {
     "country_code": "CH",
     "city": "",
     "region": "",
-    "shipping_rating": 4.657009075622238,
-    "item_quality_rating": 4.716580988076724,
-    "customer_service_rating": 4.871781687848527,
+    "shipping_rating": 4.657009075636806,
+    "item_quality_rating": 4.716580988085623,
+    "customer_service_rating": 4.8717816878519455,
     "average_rating": 4.74,
     "total_rating_count": 1194,
     "rating_count_past_year": 1194,
@@ -25,6 +389,5 @@
   "related_links": [
     "https://cremaloop.com/",
     "https://www.instagram.com/cremaloop"
-  ],
-  "ships_from": "CH"
+  ]
 }

@@ -9,82 +9,82 @@ Evidence is public Etsy buyer-review text. Reviewer identities are never collect
 
 | # | Shop | Category | Tier | Score | Throughput | Pain signals | Why now |
 |---|---|---|---|---|---|---|---|
-| 1 | [Creat3DLab](https://www.etsy.com/shop/Creat3DLab) | monitor adaptors | **hot** | 65 | 4.3/wk | - | shipping rated 0.13 below item quality |
-| 2 | [ClemmyCreations](https://www.etsy.com/shop/ClemmyCreations) | cute and holders | **hot** | 65 | 11.4/wk | Slow delivery | shipping rated 0.03 below item quality |
-| 3 | [QuantumQuill3D](https://www.etsy.com/shop/QuantumQuill3D) | nintendo, switch, game holders, organizers | **hot** | 62 | 0.0/wk | - | shipping rated 0.20 below item quality |
-| 4 | [XeonCrafts](https://www.etsy.com/shop/XeonCrafts) | lamp & household | **hot** | 61 | 0.0/wk | - | shipping rated 0.15 below item quality |
-| 5 | [BoardGeekFox](https://www.etsy.com/shop/BoardGeekFox) | board games | **hot** | 61 | 0.0/wk | - | shipping rated 0.15 below item quality |
-| 6 | [FluffyHelpersStore](https://www.etsy.com/shop/FluffyHelpersStore) | various stands | **hot** | 61 | 0.0/wk | - | shipping rated 0.15 below item quality |
-| 7 | [BGExpansions](https://www.etsy.com/shop/BGExpansions) | board games | **watch** | 59 | 9.3/wk | - | shipping rated 0.08 below item quality |
-| 8 | [MisfitToysStore](https://www.etsy.com/shop/MisfitToysStore) | nintendo, switch, game holders, organizers | **watch** | 58 | 0.0/wk | - | shipping rated 0.17 below item quality |
-| 9 | [HaBins](https://www.etsy.com/shop/HaBins) | ikea replacement parts | **watch** | 58 | 0.0/wk | - | shipping rated 0.12 below item quality |
-| 10 | [Webspiner3D](https://www.etsy.com/shop/Webspiner3D) | grips and holders | **nurture** | 57 | 0.0/wk | - | shipping rated 0.13 below item quality |
-| 11 | [smartshapes3Dstudio](https://www.etsy.com/shop/smartshapes3Dstudio) | skadis | **nurture** | 57 | 0.0/wk | - | shipping rated 0.74 below item quality |
-| 12 | [3Dreativity](https://www.etsy.com/shop/3Dreativity) | nintendo, switch, game holders, organizers | **nurture** | 55 | 0.0/wk | - | shipping rated 0.29 below item quality |
-| 13 | [GameMaker3D](https://www.etsy.com/shop/GameMaker3D) | board games | **watch** | 52 | 0.0/wk | - | shipping rated 0.09 below item quality |
-| 14 | [TheLayerLab](https://www.etsy.com/shop/TheLayerLab) | sf deco | **nurture** | 52 | 0.0/wk | - | shipping rated 0.19 below item quality |
-| 15 | [CremaLoop](https://www.etsy.com/shop/CremaLoop) | coffee | **watch** | 52 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 16 | [3DPSolver](https://www.etsy.com/shop/3DPSolver) | skadis | **nurture** | 51 | 0.0/wk | - | shipping rated 0.14 below item quality |
-| 17 | [Alice3DTreasures](https://www.etsy.com/shop/Alice3DTreasures) | toys and deco | **watch** | 51 | 0.0/wk | - | shipping rated 0.25 below item quality |
-| 18 | [WheelerCC](https://www.etsy.com/shop/WheelerCC) |  | **nurture** | 50 | 0.0/wk | - | shipping rated 0.15 below item quality |
-| 19 | [MouseDenGames](https://www.etsy.com/shop/MouseDenGames) | board games | **watch** | 49 | 5.7/wk | Slow delivery | produces in CZ |
-| 20 | [Breslauu3D](https://www.etsy.com/shop/Breslauu3D) | ikea and random holders | **nurture** | 49 | 0.0/wk | - | shipping rated 0.12 below item quality |
-| 21 | [PDCustomsUK](https://www.etsy.com/shop/PDCustomsUK) |  | **watch** | 49 | 0.0/wk | - | shipping rated 0.07 below item quality |
-| 22 | [PixelPagesNZ](https://www.etsy.com/shop/PixelPagesNZ) | painting trays | **watch** | 49 | 0.0/wk | - | shipping rated 0.10 below item quality |
-| 23 | [3DPrintsByTrey](https://www.etsy.com/shop/3DPrintsByTrey) | nintendo, switch, game holders, organizers | **watch** | 48 | 0.0/wk | - | shipping rated 0.14 below item quality |
-| 24 | [NoOrdinaryLeaf](https://www.etsy.com/shop/NoOrdinaryLeaf) |  | **watch** | 48 | 0.0/wk | - | shipping rated 0.07 below item quality |
-| 25 | [EasyClayTools](https://www.etsy.com/shop/EasyClayTools) | tools for ceramics | **nurture** | 48 | 0.0/wk | - | shipping rated 0.08 below item quality |
-| 26 | [3DPrintingWizardry](https://www.etsy.com/shop/3DPrintingWizardry) | various props and head mounts | **watch** | 48 | 0.0/wk | - | shipping rated 0.15 below item quality |
-| 27 | [KoolTools](https://www.etsy.com/shop/KoolTools) | tools for ceramics | **watch** | 48 | 0.0/wk | - | shipping rated 0.08 below item quality |
-| 28 | [SulSimArt](https://www.etsy.com/shop/SulSimArt) | home random | **watch** | 48 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 29 | [KYPEX](https://www.etsy.com/shop/KYPEX) | nintendo, switch, game holders, organizers | **nurture** | 47 | 0.0/wk | - | shipping rated 0.14 below item quality |
-| 30 | [Priscillaprintpalace](https://www.etsy.com/shop/Priscillaprintpalace) | vial cases | **nurture** | 47 | 0.0/wk | - | shipping rated 0.21 below item quality |
-| 31 | [PrintMyTools](https://www.etsy.com/shop/PrintMyTools) |  | **nurture** | 47 | 0.0/wk | - | shipping rated 0.14 below item quality |
-| 32 | [Page3dTools](https://www.etsy.com/shop/Page3dTools) | tool holders | **watch** | 47 | 0.0/wk | - | shipping rated 0.07 below item quality |
-| 33 | [MaltipooMania](https://www.etsy.com/shop/MaltipooMania) | toy deco | **watch** | 47 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 34 | [PapelEspresso](https://www.etsy.com/shop/PapelEspresso) | coffee related | **watch** | 47 | 0.0/wk | - | shipping rated 0.03 below item quality |
-| 35 | [PrintItThreeDee](https://www.etsy.com/shop/PrintItThreeDee) |  | **nurture** | 46 | 0.0/wk | - | shipping rated 0.09 below item quality |
-| 36 | [Fuza3D](https://www.etsy.com/shop/Fuza3D) |  | **nurture** | 46 | 0.0/wk | - | shipping rated 0.20 below item quality |
-| 37 | [EGx3D](https://www.etsy.com/shop/EGx3D) | mario | **watch** | 46 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 38 | [DuckSpecialist](https://www.etsy.com/shop/DuckSpecialist) | ducks | **nurture** | 46 | 0.0/wk | - | shipping rated 0.22 below item quality |
-| 39 | [BeyondTheBoardEU](https://www.etsy.com/shop/BeyondTheBoardEU) | board games | **watch** | 45 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 40 | [BKPrint3D](https://www.etsy.com/shop/BKPrint3D) | board games | **watch** | 45 | 12.0/wk | - | shipping rated 0.04 below item quality |
-| 41 | [Lemoniac](https://www.etsy.com/shop/Lemoniac) | pins and toys | **nurture** | 45 | 0.0/wk | - | shipping rated 0.08 below item quality |
-| 42 | [DecordsStore](https://www.etsy.com/shop/DecordsStore) | interior design | **watch** | 45 | 0.0/wk | - | produces in EE |
-| 43 | [3DecoStudio](https://www.etsy.com/shop/3DecoStudio) | lamp | **watch** | 44 | 0.0/wk | - | shipping rated 0.02 below item quality |
-| 44 | [Prinsert](https://www.etsy.com/shop/Prinsert) | board games | **watch** | 44 | 0.0/wk | - | shipping rated 0.05 below item quality |
-| 45 | [TranquilTrinketsCo](https://www.etsy.com/shop/TranquilTrinketsCo) | flexi and dragons | **nurture** | 44 | 0.0/wk | - | shipping rated 0.08 below item quality |
-| 46 | [WeLove3D](https://www.etsy.com/shop/WeLove3D) |  | **watch** | 44 | 2.3/wk | - | shipping rated 0.02 below item quality |
-| 47 | [MonarchDesignGB](https://www.etsy.com/shop/MonarchDesignGB) |  | **nurture** | 44 | 0.0/wk | - | shipping rated 0.04 below item quality |
-| 48 | [TinkerStudio3D](https://www.etsy.com/shop/TinkerStudio3D) | board games | **watch** | 43 | 12.4/wk | - | 12.4/wk throughput |
-| 49 | [DVAMakerStudios](https://www.etsy.com/shop/DVAMakerStudios) | nintendo, switch, game holders, organizers | **nurture** | 43 | 0.0/wk | - | shipping rated 0.16 below item quality |
-| 50 | [kingscreationsusa](https://www.etsy.com/shop/kingscreationsusa) | various | **watch** | 43 | 0.0/wk | - | shipping rated 0.08 below item quality |
-| 51 | [luusprints](https://www.etsy.com/shop/luusprints) | nintendo, switch, game holders, organizers | **nurture** | 43 | 0.0/wk | - | shipping rated 0.17 below item quality |
-| 52 | [RazomUK](https://www.etsy.com/shop/RazomUK) |  | **watch** | 43 | 0.0/wk | - | shipping rated 0.03 below item quality |
-| 53 | [StageTop](https://www.etsy.com/shop/StageTop) |  | **watch** | 43 | 0.0/wk | - | produces in PL |
-| 54 | [KC3DPrintsUK](https://www.etsy.com/shop/KC3DPrintsUK) |  | **nurture** | 43 | 0.0/wk | - | shipping rated 0.13 below item quality |
-| 55 | [PrintablesByCaren](https://www.etsy.com/shop/PrintablesByCaren) | board games | **watch** | 42 | 0.0/wk | - | shipping rated 0.10 below item quality |
-| 56 | [3DPrintedKeycap](https://www.etsy.com/shop/3DPrintedKeycap) | various, stls too | **watch** | 42 | 0.0/wk | - | produces in TR |
-| 57 | [BeTiStCrafting](https://www.etsy.com/shop/BeTiStCrafting) | adaptors for ikea for baby | **watch** | 42 | 0.0/wk | - | produces in DE |
-| 58 | [PrintyNPainty](https://www.etsy.com/shop/PrintyNPainty) | paint storage and warhammer bases | **nurture** | 42 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 59 | [TimPrintDreams](https://www.etsy.com/shop/TimPrintDreams) | dragons | **watch** | 42 | 0.0/wk | - | shipping rated 0.05 below item quality |
-| 60 | [LittleDorkyDesigns](https://www.etsy.com/shop/LittleDorkyDesigns) |  | **watch** | 42 | 0.0/wk | - | shipping rated 0.06 below item quality |
-| 61 | [Levytek](https://www.etsy.com/shop/Levytek) | board games | **nurture** | 41 | 0.0/wk | - | shipping rated 0.04 below item quality |
-| 62 | [wookieeprint](https://www.etsy.com/shop/wookieeprint) | nintendo, switch, game holders, organizers | **watch** | 41 | 0.0/wk | - | shipping rated 0.04 below item quality |
-| 63 | [BlueSkyShopUA](https://www.etsy.com/shop/BlueSkyShopUA) | cookie cutters and clay molders | **watch** | 41 | 0.0/wk | - | shipping rated 0.02 below item quality |
-| 64 | [Lulicutter](https://www.etsy.com/shop/Lulicutter) | cutters for clay | **watch** | 41 | 0.0/wk | - | shipping rated 0.04 below item quality |
-| 65 | [FeldherrGermany](https://www.etsy.com/shop/FeldherrGermany) | board games | **nurture** | 40 | 0.0/wk | - | shipping rated 0.03 below item quality |
-| 66 | [OptimumSolutions](https://www.etsy.com/shop/OptimumSolutions) | car | **nurture** | 40 | 0.0/wk | - | shipping rated 0.18 below item quality |
-| 67 | [ALTO3DSHOP](https://www.etsy.com/shop/ALTO3DSHOP) | adaptors | **watch** | 40 | 0.0/wk | - | produces in DE |
-| 68 | [RosebudHomeGoods](https://www.etsy.com/shop/RosebudHomeGoods) |  | **watch** | 40 | 0.0/wk | - | shipping rated 0.07 below item quality |
-| 69 | [BabylonCutters](https://www.etsy.com/shop/BabylonCutters) | cookie cutters | **watch** | 40 | 0.0/wk | - | shipping rated 0.02 below item quality |
-| 70 | [UA3D](https://www.etsy.com/shop/UA3D) | cosplay props | **nurture** | 40 | 0.0/wk | - | shipping rated 0.05 below item quality |
-| 71 | [DoodlesEmpire](https://www.etsy.com/shop/DoodlesEmpire) | shelves and deco | **nurture** | 40 | 0.0/wk | - | shipping rated 0.05 below item quality |
-| 72 | [LP3Dforge](https://www.etsy.com/shop/LP3Dforge) | nintendo, switch, game holders, organizers | **nurture** | 39 | 0.0/wk | - | shipping rated 0.15 below item quality |
-| 73 | [Krasivoe](https://www.etsy.com/shop/Krasivoe) | nintendo, switch, game holders, organizers | **nurture** | 39 | 0.0/wk | - | shipping rated 0.10 below item quality |
-| 74 | [TECTLE](https://www.etsy.com/shop/TECTLE) | planters | **watch** | 39 | 0.0/wk | - | produces in CA |
-| 75 | [Creative3DByBen](https://www.etsy.com/shop/Creative3DByBen) | planters and other | **watch** | 39 | 26.2/wk | - | 26.2/wk throughput |
-| 76 | [Houseofcozycreations](https://www.etsy.com/shop/Houseofcozycreations) | cozy planters | **watch** | 39 | 0.0/wk | - | produces in NL |
+| 1 | [QuantumQuill3D](https://www.etsy.com/shop/QuantumQuill3D) | nintendo, switch, game holders, organizers | **hot** | 76 | 3.6/wk | Slow delivery | multiple independent reviews |
+| 2 | [XeonCrafts](https://www.etsy.com/shop/XeonCrafts) | lamp & household | **hot** | 75 | 3.3/wk | Slow delivery | multiple independent reviews |
+| 3 | [BoardGeekFox](https://www.etsy.com/shop/BoardGeekFox) | board games | **hot** | 73 | 9.8/wk | - | shipping rated 0.15 below item quality |
+| 4 | [3DPrintingWizardry](https://www.etsy.com/shop/3DPrintingWizardry) | various props and head mounts | **hot** | 72 | 8.2/wk | Slow delivery | multiple independent reviews |
+| 5 | [GameMaker3D](https://www.etsy.com/shop/GameMaker3D) | board games | **hot** | 70 | 8.8/wk | Slow delivery | shipping rated 0.09 below item quality |
+| 6 | [PrintablesByCaren](https://www.etsy.com/shop/PrintablesByCaren) | board games | **hot** | 69 | 14.5/wk | Slow delivery | multiple independent reviews |
+| 7 | [MisfitToysStore](https://www.etsy.com/shop/MisfitToysStore) | nintendo, switch, game holders, organizers | **hot** | 69 | 3.8/wk | Slow delivery | shipping rated 0.17 below item quality |
+| 8 | [FluffyHelpersStore](https://www.etsy.com/shop/FluffyHelpersStore) | various stands | **hot** | 69 | 2.2/wk | Slow delivery | shipping rated 0.15 below item quality |
+| 9 | [HaBins](https://www.etsy.com/shop/HaBins) | ikea replacement parts | **hot** | 66 | 6.5/wk | - | shipping rated 0.12 below item quality |
+| 10 | [Creat3DLab](https://www.etsy.com/shop/Creat3DLab) | monitor adaptors | **hot** | 65 | 4.3/wk | - | shipping rated 0.13 below item quality |
+| 11 | [ClemmyCreations](https://www.etsy.com/shop/ClemmyCreations) | cute and holders | **hot** | 65 | 11.4/wk | Slow delivery | shipping rated 0.03 below item quality |
+| 12 | [Alice3DTreasures](https://www.etsy.com/shop/Alice3DTreasures) | toys and deco | **hot** | 63 | 2.3/wk | Slow delivery | multiple independent reviews |
+| 13 | [BabylonCutters](https://www.etsy.com/shop/BabylonCutters) | cookie cutters | **hot** | 63 | 9.5/wk | Slow delivery | multiple independent reviews |
+| 14 | [3DPrintsByTrey](https://www.etsy.com/shop/3DPrintsByTrey) | nintendo, switch, game holders, organizers | **hot** | 62 | 5.8/wk | Slow delivery | shipping rated 0.14 below item quality |
+| 15 | [kingscreationsusa](https://www.etsy.com/shop/kingscreationsusa) | various | **hot** | 62 | 4.4/wk | Slow delivery | multiple independent reviews |
+| 16 | [MaltipooMania](https://www.etsy.com/shop/MaltipooMania) | toy deco | **hot** | 61 | 5.5/wk | Damaged in transit | shipping rated 0.06 below item quality |
+| 17 | [LittleDorkyDesigns](https://www.etsy.com/shop/LittleDorkyDesigns) |  | **hot** | 60 | 2.4/wk | Damaged in transit, Slow delivery | multiple independent reviews |
+| 18 | [BGExpansions](https://www.etsy.com/shop/BGExpansions) | board games | **watch** | 59 | 9.3/wk | - | shipping rated 0.08 below item quality |
+| 19 | [BeyondTheBoardEU](https://www.etsy.com/shop/BeyondTheBoardEU) | board games | **watch** | 59 | 2.3/wk | Customs / import fees | multiple independent reviews |
+| 20 | [NoOrdinaryLeaf](https://www.etsy.com/shop/NoOrdinaryLeaf) |  | **watch** | 59 | 8.4/wk | - | shipping rated 0.07 below item quality |
+| 21 | [TimPrintDreams](https://www.etsy.com/shop/TimPrintDreams) | dragons | **watch** | 58 | 7.5/wk | Slow delivery | shipping rated 0.05 below item quality |
+| 22 | [Webspiner3D](https://www.etsy.com/shop/Webspiner3D) | grips and holders | **nurture** | 57 | 0.0/wk | - | shipping rated 0.13 below item quality |
+| 23 | [smartshapes3Dstudio](https://www.etsy.com/shop/smartshapes3Dstudio) | skadis | **nurture** | 57 | 0.0/wk | - | shipping rated 0.74 below item quality |
+| 24 | [KoolTools](https://www.etsy.com/shop/KoolTools) | tools for ceramics | **watch** | 56 | 2.6/wk | Slow delivery | shipping rated 0.08 below item quality |
+| 25 | [PDCustomsUK](https://www.etsy.com/shop/PDCustomsUK) |  | **watch** | 56 | 1.9/wk | Slow delivery | shipping rated 0.07 below item quality |
+| 26 | [Lulicutter](https://www.etsy.com/shop/Lulicutter) | cutters for clay | **watch** | 56 | 22.1/wk | - | shipping rated 0.04 below item quality |
+| 27 | [3Dreativity](https://www.etsy.com/shop/3Dreativity) | nintendo, switch, game holders, organizers | **nurture** | 55 | 0.0/wk | - | shipping rated 0.29 below item quality |
+| 28 | [RosebudHomeGoods](https://www.etsy.com/shop/RosebudHomeGoods) |  | **watch** | 55 | 12.7/wk | - | shipping rated 0.07 below item quality |
+| 29 | [SulSimArt](https://www.etsy.com/shop/SulSimArt) | home random | **watch** | 55 | 5.7/wk | - | shipping rated 0.06 below item quality |
+| 30 | [EGx3D](https://www.etsy.com/shop/EGx3D) | mario | **watch** | 55 | 3.8/wk | Damaged in transit | shipping rated 0.06 below item quality |
+| 31 | [PixelPagesNZ](https://www.etsy.com/shop/PixelPagesNZ) | painting trays | **watch** | 54 | 4.4/wk | - | shipping rated 0.10 below item quality |
+| 32 | [CremaLoop](https://www.etsy.com/shop/CremaLoop) | coffee | **watch** | 54 | 1.4/wk | - | shipping rated 0.06 below item quality |
+| 33 | [3DecoStudio](https://www.etsy.com/shop/3DecoStudio) | lamp | **watch** | 53 | 1.0/wk | Slow delivery | multiple independent reviews |
+| 34 | [Page3dTools](https://www.etsy.com/shop/Page3dTools) | tool holders | **watch** | 53 | 4.9/wk | - | shipping rated 0.07 below item quality |
+| 35 | [TheLayerLab](https://www.etsy.com/shop/TheLayerLab) | sf deco | **nurture** | 52 | 0.0/wk | - | shipping rated 0.19 below item quality |
+| 36 | [DecordsStore](https://www.etsy.com/shop/DecordsStore) | interior design | **watch** | 52 | 6.2/wk | - | produces in EE |
+| 37 | [Prinsert](https://www.etsy.com/shop/Prinsert) | board games | **watch** | 51 | 5.4/wk | - | shipping rated 0.05 below item quality |
+| 38 | [3DPSolver](https://www.etsy.com/shop/3DPSolver) | skadis | **nurture** | 51 | 0.0/wk | - | shipping rated 0.14 below item quality |
+| 39 | [RazomUK](https://www.etsy.com/shop/RazomUK) |  | **watch** | 51 | 1.7/wk | Slow delivery | shipping rated 0.03 below item quality |
+| 40 | [WheelerCC](https://www.etsy.com/shop/WheelerCC) |  | **nurture** | 50 | 0.0/wk | - | shipping rated 0.15 below item quality |
+| 41 | [PapelEspresso](https://www.etsy.com/shop/PapelEspresso) | coffee related | **watch** | 50 | 2.3/wk | - | shipping rated 0.03 below item quality |
+| 42 | [MouseDenGames](https://www.etsy.com/shop/MouseDenGames) | board games | **watch** | 49 | 5.7/wk | Slow delivery | produces in CZ |
+| 43 | [Breslauu3D](https://www.etsy.com/shop/Breslauu3D) | ikea and random holders | **nurture** | 49 | 0.0/wk | - | shipping rated 0.12 below item quality |
+| 44 | [EasyClayTools](https://www.etsy.com/shop/EasyClayTools) | tools for ceramics | **nurture** | 48 | 0.0/wk | - | shipping rated 0.08 below item quality |
+| 45 | [wookieeprint](https://www.etsy.com/shop/wookieeprint) | nintendo, switch, game holders, organizers | **watch** | 47 | 4.9/wk | - | shipping rated 0.04 below item quality |
+| 46 | [KYPEX](https://www.etsy.com/shop/KYPEX) | nintendo, switch, game holders, organizers | **nurture** | 47 | 0.0/wk | - | shipping rated 0.14 below item quality |
+| 47 | [Priscillaprintpalace](https://www.etsy.com/shop/Priscillaprintpalace) | vial cases | **nurture** | 47 | 0.0/wk | - | shipping rated 0.21 below item quality |
+| 48 | [PrintMyTools](https://www.etsy.com/shop/PrintMyTools) |  | **nurture** | 47 | 0.0/wk | - | shipping rated 0.14 below item quality |
+| 49 | [StageTop](https://www.etsy.com/shop/StageTop) |  | **watch** | 47 | 2.7/wk | - | produces in PL |
+| 50 | [PrintItThreeDee](https://www.etsy.com/shop/PrintItThreeDee) |  | **nurture** | 46 | 0.0/wk | - | shipping rated 0.09 below item quality |
+| 51 | [Fuza3D](https://www.etsy.com/shop/Fuza3D) |  | **nurture** | 46 | 0.0/wk | - | shipping rated 0.20 below item quality |
+| 52 | [DuckSpecialist](https://www.etsy.com/shop/DuckSpecialist) | ducks | **nurture** | 46 | 0.0/wk | - | shipping rated 0.22 below item quality |
+| 53 | [BKPrint3D](https://www.etsy.com/shop/BKPrint3D) | board games | **watch** | 45 | 12.0/wk | - | shipping rated 0.04 below item quality |
+| 54 | [3DPrintedKeycap](https://www.etsy.com/shop/3DPrintedKeycap) | various, stls too | **watch** | 45 | 2.2/wk | - | produces in TR |
+| 55 | [ALTO3DSHOP](https://www.etsy.com/shop/ALTO3DSHOP) | adaptors | **watch** | 45 | 4.2/wk | - | produces in DE |
+| 56 | [Lemoniac](https://www.etsy.com/shop/Lemoniac) | pins and toys | **nurture** | 45 | 0.0/wk | - | shipping rated 0.08 below item quality |
+| 57 | [BlueSkyShopUA](https://www.etsy.com/shop/BlueSkyShopUA) | cookie cutters and clay molders | **watch** | 44 | 2.2/wk | - | shipping rated 0.02 below item quality |
+| 58 | [BeTiStCrafting](https://www.etsy.com/shop/BeTiStCrafting) | adaptors for ikea for baby | **watch** | 44 | 1.8/wk | - | produces in DE |
+| 59 | [TranquilTrinketsCo](https://www.etsy.com/shop/TranquilTrinketsCo) | flexi and dragons | **nurture** | 44 | 0.0/wk | - | shipping rated 0.08 below item quality |
+| 60 | [WeLove3D](https://www.etsy.com/shop/WeLove3D) |  | **watch** | 44 | 2.3/wk | - | shipping rated 0.02 below item quality |
+| 61 | [MonarchDesignGB](https://www.etsy.com/shop/MonarchDesignGB) |  | **nurture** | 44 | 0.0/wk | - | shipping rated 0.04 below item quality |
+| 62 | [TinkerStudio3D](https://www.etsy.com/shop/TinkerStudio3D) | board games | **watch** | 43 | 12.4/wk | - | 12.4/wk throughput |
+| 63 | [DVAMakerStudios](https://www.etsy.com/shop/DVAMakerStudios) | nintendo, switch, game holders, organizers | **nurture** | 43 | 0.0/wk | - | shipping rated 0.16 below item quality |
+| 64 | [luusprints](https://www.etsy.com/shop/luusprints) | nintendo, switch, game holders, organizers | **nurture** | 43 | 0.0/wk | - | shipping rated 0.17 below item quality |
+| 65 | [KC3DPrintsUK](https://www.etsy.com/shop/KC3DPrintsUK) |  | **nurture** | 43 | 0.0/wk | - | shipping rated 0.13 below item quality |
+| 66 | [PrintyNPainty](https://www.etsy.com/shop/PrintyNPainty) | paint storage and warhammer bases | **nurture** | 42 | 0.0/wk | - | shipping rated 0.06 below item quality |
+| 67 | [Levytek](https://www.etsy.com/shop/Levytek) | board games | **nurture** | 41 | 0.0/wk | - | shipping rated 0.04 below item quality |
+| 68 | [Houseofcozycreations](https://www.etsy.com/shop/Houseofcozycreations) | cozy planters | **watch** | 41 | 1.6/wk | - | produces in NL |
+| 69 | [FeldherrGermany](https://www.etsy.com/shop/FeldherrGermany) | board games | **nurture** | 40 | 0.0/wk | - | shipping rated 0.03 below item quality |
+| 70 | [OptimumSolutions](https://www.etsy.com/shop/OptimumSolutions) | car | **nurture** | 40 | 0.0/wk | - | shipping rated 0.18 below item quality |
+| 71 | [UA3D](https://www.etsy.com/shop/UA3D) | cosplay props | **nurture** | 40 | 0.0/wk | - | shipping rated 0.05 below item quality |
+| 72 | [DoodlesEmpire](https://www.etsy.com/shop/DoodlesEmpire) | shelves and deco | **nurture** | 40 | 0.0/wk | - | shipping rated 0.05 below item quality |
+| 73 | [LP3Dforge](https://www.etsy.com/shop/LP3Dforge) | nintendo, switch, game holders, organizers | **nurture** | 39 | 0.0/wk | - | shipping rated 0.15 below item quality |
+| 74 | [Krasivoe](https://www.etsy.com/shop/Krasivoe) | nintendo, switch, game holders, organizers | **nurture** | 39 | 0.0/wk | - | shipping rated 0.10 below item quality |
+| 75 | [TECTLE](https://www.etsy.com/shop/TECTLE) | planters | **watch** | 39 | 0.0/wk | - | produces in CA |
+| 76 | [Creative3DByBen](https://www.etsy.com/shop/Creative3DByBen) | planters and other | **watch** | 39 | 26.2/wk | - | 26.2/wk throughput |
 | 77 | [NiceNecessity](https://www.etsy.com/shop/NiceNecessity) | kitchen | **nurture** | 39 | 0.0/wk | - | shipping rated 0.07 below item quality |
 | 78 | [TheInsideJungle](https://www.etsy.com/shop/TheInsideJungle) | plant related | **nurture** | 39 | 0.0/wk | - | shipping rated 0.11 below item quality |
 | 79 | [Olee3DArt](https://www.etsy.com/shop/Olee3DArt) | lamp | **watch** | 38 | 0.0/wk | - | produces in SG |
@@ -388,73 +388,89 @@ Evidence is public Etsy buyer-review text. Reviewer identities are never collect
 
 ## Top leads
 
-### Creat3DLab - HOT (65/100)
+### QuantumQuill3D - HOT (76/100)
 
-- **Shop:** https://www.etsy.com/shop/Creat3DLab
-- **Category:** monitor adaptors - est. 5257/yr
-- **Throughput:** 4.3 reviews/week (order-volume proxy)
-- **Produces in:** HR (Etsy demand is largely US/UK)
-- **Etsy ratings:** shipping 4.64 vs item quality 4.77 (deficit +0.13)
-- **Sold to date:** 27,159
-- **Score breakdown:** fulfilment 23, pain 0, volume 20, throughput 5, cross_border 10, corroboration 7, recency 0
-
-**Evidence** (retrieved 2026-08-28, source: https://www.etsy.com/shop/Creat3DLab/reviews)
-
-*No buyer complaint quotes in the captured window.* This shop qualifies on shop-level evidence only:
-
-- Etsy rates its shipping **4.64** against item quality **4.77** — buyers rate the product above the delivery.
-- Produces in **HR**, so most Etsy orders cross a border.
-
-**Opener**
-
-> Etsy rates your shipping 4.64 against 4.77 for item quality, printing everything in HR - buyers rate the product higher than the delivery. 3DAPI routes each order to a print farm near the customer, so the same product ships domestically instead of crossing a border.
-
-### ClemmyCreations - HOT (65/100)
-
-- **Shop:** https://www.etsy.com/shop/ClemmyCreations
-- **Category:** cute and holders - est. 4233/yr
-- **Throughput:** 11.4 reviews/week (order-volume proxy)
-- **Produces in:** GB (Etsy demand is largely US/UK)
-- **Etsy ratings:** shipping 4.82 vs item quality 4.85 (deficit +0.03)
-- **Sold to date:** 19,480
-- **Other storefronts:** https://www.facebook.com/Clemmycreations, https://www.instagram.com/clemmycreation/, http://www.clemmycreations.com
-- **Score breakdown:** fulfilment 7, pain 5, volume 20, throughput 14, cross_border 10, corroboration 7, recency 2
+- **Shop:** https://www.etsy.com/shop/QuantumQuill3D
+- **Category:** nintendo, switch, game holders, organizers - est. 1312/yr
+- **Throughput:** 3.6 reviews/week (order-volume proxy)
+- **Produces in:** CA (Etsy demand is largely US/UK)
+- **Etsy ratings:** shipping 4.52 vs item quality 4.72 (deficit +0.20)
+- **Sold to date:** 3,257
+- **Other storefronts:** https://facebook.com/quantumquill3d, https://www.instagram.com/quantumquill3d, http://www.quantumquill3d.shop
+- **Score breakdown:** fulfilment 25, pain 5, volume 20, throughput 5, cross_border 10, corroboration 10, recency 2
 
 **Mapped pain**
 
 - *Slow delivery* - Long transit from a single origin -> Route the order to the print farm nearest the buyer
 
-**Evidence** (retrieved 2026-08-28, source: https://www.etsy.com/shop/ClemmyCreations/reviews)
+**Evidence** (retrieved 2026-08-28, source: https://www.etsy.com/shop/QuantumQuill3D/reviews)
 
-> "My 11yo bought this with his pocket money.  he says "high quality, bright and vibrant colours". Delivery was a bit slow but that was down to Evri, not the seller."
-> — 5★, 2026-07-26 · Slow delivery
-> · [source](https://www.etsy.com/listing/1471594817/hermit-crab-fidget-toy-multi-colour)
+> "The quality is pretty cheap plastic. Shipping took forever. & they appear larger in the picture but I’m not mad about it! Prefer them a little smaller than how they appeared in the pictures. Overall, they are functional ..."
+> — 4★, 2026-07-01 · Slow delivery
+> · [source](https://www.etsy.com/listing/4367924847/vampire-bat-headset-wings-cosplay-gaming)
+
+> "It took forever to get here but other then that it works and it looks good on the wall."
+> — 5★, 2026-05-02 · Slow delivery
+> · [source](https://www.etsy.com/listing/4382288499/chibi-ghost-headphone-mount-wall-mounted)
+
+> "It took forever for it to come here and its a little smaller then I thot it would be but other then that it works and looks good on the wall."
+> — 5★, 2026-05-02 · Slow delivery
+> · [source](https://www.etsy.com/listing/4381294288/dragon-headphone-mount-fantasy-gaming)
 
 **Opener**
 
 > Your recent Etsy reviews keep landing on the same thing - slow delivery. 3DAPI routes each order to a print farm near the customer, so the same product ships domestically instead of crossing a border.
 
-### QuantumQuill3D - HOT (62/100)
+### XeonCrafts - HOT (75/100)
 
-- **Shop:** https://www.etsy.com/shop/QuantumQuill3D
-- **Category:** nintendo, switch, game holders, organizers - est. 1312/yr
-- **Throughput:** 0.0 reviews/week (order-volume proxy)
-- **Produces in:** CA (Etsy demand is largely US/UK)
-- **Etsy ratings:** shipping 4.52 vs item quality 4.72 (deficit +0.20)
-- **Sold to date:** 3,257
-- **Other storefronts:** https://facebook.com/quantumquill3d, https://www.instagram.com/quantumquill3d, http://www.quantumquill3d.shop
-- **Score breakdown:** fulfilment 25, pain 0, volume 20, throughput 0, cross_border 10, corroboration 7, recency 0
+- **Shop:** https://www.etsy.com/shop/XeonCrafts
+- **Category:** lamp & household - est. 3123/yr
+- **Throughput:** 3.3 reviews/week (order-volume proxy)
+- **Produces in:** GB (Etsy demand is largely US/UK)
+- **Etsy ratings:** shipping 4.31 vs item quality 4.45 (deficit +0.15)
+- **Sold to date:** 14,304
+- **Other storefronts:** https://www.facebook.com/xeoncrafts, https://www.instagram.com/xeoncrafts/, https://xeoncrafts.co.uk
+- **Score breakdown:** fulfilment 25, pain 5, volume 20, throughput 4, cross_border 10, corroboration 10, recency 2
 
-**Evidence** (retrieved 2026-08-28, source: https://www.etsy.com/shop/QuantumQuill3D)
+**Mapped pain**
 
-*No buyer complaint quotes in the captured window.* This shop qualifies on shop-level evidence only:
+- *Slow delivery* - Long transit from a single origin -> Route the order to the print farm nearest the buyer
 
-- Etsy rates its shipping **4.52** against item quality **4.72** — buyers rate the product above the delivery.
-- Produces in **CA**, so most Etsy orders cross a border.
+**Evidence** (retrieved 2026-08-28, source: https://www.etsy.com/shop/XeonCrafts/reviews)
+
+> "I ordered a couple of these to go on my desk, and then came back to buy another one for my bedside table. These are great, you do need the slightly bigger one so it doesn't just fall off the desk all the time. And I've a..."
+> — 5★, 2026-06-11 · Slow delivery
+> · [source](https://www.etsy.com/listing/1215252687/bunny-cable-holder)
+
+> "Again great product but arrived really late"
+> — 4★, 2026-04-29 · Slow delivery
+> · [source](https://www.etsy.com/listing/1392756390/crystal-stand-for-xbox-series-x)
 
 **Opener**
 
-> Etsy rates your shipping 4.52 against 4.72 for item quality, printing everything in CA - buyers rate the product higher than the delivery. 3DAPI routes each order to a print farm near the customer, so the same product ships domestically instead of crossing a border.
+> Your recent Etsy reviews keep landing on the same thing - slow delivery. 3DAPI routes each order to a print farm near the customer, so the same product ships domestically instead of crossing a border.
+
+### BoardGeekFox - HOT (73/100)
+
+- **Shop:** https://www.etsy.com/shop/BoardGeekFox
+- **Category:** board games - est. 3172/yr
+- **Throughput:** 9.8 reviews/week (order-volume proxy)
+- **Produces in:** HU (Etsy demand is largely US/UK)
+- **Etsy ratings:** shipping 4.68 vs item quality 4.83 (deficit +0.15)
+- **Sold to date:** 15,736
+- **Other storefronts:** https://www.instagram.com/boardgeekfox/
+- **Score breakdown:** fulfilment 24, pain 0, volume 20, throughput 12, cross_border 10, corroboration 7, recency 0
+
+**Evidence** (retrieved 2026-08-28, source: https://www.etsy.com/shop/BoardGeekFox/reviews)
+
+*No buyer complaint quotes in the captured window.* This shop qualifies on shop-level evidence only:
+
+- Etsy rates its shipping **4.68** against item quality **4.83** — buyers rate the product above the delivery.
+- Produces in **HU**, so most Etsy orders cross a border.
+
+**Opener**
+
+> Etsy rates your shipping 4.68 against 4.83 for item quality, printing everything in HU - buyers rate the product higher than the delivery. 3DAPI routes each order to a print farm near the customer, so the same product ships domestically instead of crossing a border.
 
 
 ## Watchlist — too small today (212)

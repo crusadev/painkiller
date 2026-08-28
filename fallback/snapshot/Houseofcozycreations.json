@@ -1,17 +1,381 @@
 {
   "shop": "Houseofcozycreations",
   "shop_url": "https://www.etsy.com/shop/Houseofcozycreations",
-  "source": "https://www.etsy.com/shop/Houseofcozycreations",
+  "source": "https://www.etsy.com/shop/Houseofcozycreations/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "NL",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Lovely calendar, pleasure to use.  Second purchase from this seller, would be happy to order from again and to recommend.  Many thanks for free gift with order,  much appreciated.",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-07",
+      "text": "Beautiful product, exactly as described.",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-05",
+      "text": "It\u2019s an adorable planter!  It is lighter weight than I thought it would be, but it\u2019s still so cute!  I love it on my kitchen windowsill!",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-30",
+      "text": "So cute! I ordered two small ones to give away to colleagues. Great quality and well made. I'll be ordering my own soon!",
+      "url": "https://www.etsy.com/listing/1730536243/plant-pot-happy-face-cosmic-star-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Quick delivery and parcel was safely packed",
+      "url": "https://www.etsy.com/listing/1746387088/plant-pot-on-a-swing-happy-face-plant"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Quick delivery and parcel was safely packed",
+      "url": "https://www.etsy.com/listing/1746387088/plant-pot-on-a-swing-happy-face-plant"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-05",
+      "text": "Very nice and cute.  It will be a great gift.",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "Great quality, solid print, customization turned out good",
+      "url": "https://www.etsy.com/listing/1691842720/personalized-piggy-bank-kids"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-17",
+      "text": "I\u2019m very satisfied with this piggy bank. It\u2019s cute and well made, and I especially like that it\u2019s made from recycled plastic.",
+      "url": "https://www.etsy.com/listing/1690966466/happy-face-kids-piggy-bank-unique-gift"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Excellent quality just like pictures. Arrived on time and will make a great gift!",
+      "url": "https://www.etsy.com/listing/1713057247/mothers-day-gift-personalized"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "Amazing product super cute is a great gift idea",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-26",
+      "text": "I love these little pots!! Fabulous as always",
+      "url": "https://www.etsy.com/listing/1730536243/plant-pot-happy-face-cosmic-star-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-18",
+      "text": "This seller is amazing, amazing communication and they answered every question I had within a few hours. I definitely will buy from them again. Thank you so very much",
+      "url": "https://www.etsy.com/listing/1642251558/happy-plant-pot-valentine-gift-for-her"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "This was such a cute pot. My daughter-in-Law loved it\ud83d\ude0a",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "Very sweet design! I  love them all",
+      "url": "https://www.etsy.com/listing/1624823372/plant-pot-face-happy-cute-plant-pot-cute"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "Very sweet design! I  love them all",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "Very sweet design! I  love them all",
+      "url": "https://www.etsy.com/listing/1816941283/happy-face-pencil-holder-marker-pot-cozy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-29",
+      "text": "This was a beautiful piece!",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-12",
+      "text": "it was a bday gift for my sister, she loved it, super cute and arrived fast and in good condition",
+      "url": "https://www.etsy.com/listing/1674729999/adorable-baby-shower-gift-planter-pot"
+    },
+    {
+      "rating": 4,
+      "date": "2026-01-10",
+      "text": "Nice item - nothing amazing - but it will work in my office",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-09",
+      "text": "Just love these little perpetual calendars. This is my third or fourth purchase. They make great gifts. nicely crafted, look good in any room.",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-09",
+      "text": "Just love these little perpetual calendars. This is my third or fourth purchase. They make great gifts. nicely crafted, look good in any room.",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-17",
+      "text": "Such a cute little planter with such great detail  for your favorite cook. Beautiful",
+      "url": "https://www.etsy.com/listing/1775542120/baker-plant-pot-baking-decor-baking"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-08",
+      "text": "The quality of the item is great! I definitely thought it was gonna be a heavier clay material but it\u2019s still cute and works perfect as a planter for my baker friend :)",
+      "url": "https://www.etsy.com/listing/1775542120/baker-plant-pot-baking-decor-baking"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-07",
+      "text": "Item as described, perfect for our hallway, absolutely love it, thank you!",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-06",
+      "text": "Cute gift. Arrived on time.",
+      "url": "https://www.etsy.com/listing/1775542120/baker-plant-pot-baking-decor-baking"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Sehr lustiger und sch\u00f6ner Blumentopf! Vielen Dank!",
+      "url": "https://www.etsy.com/listing/1711275131/tennis-player-gift-plant-pot-happy-face"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "Die Spardose war wie beschrieben. Wenn man den Deckel abnimmt, kann man sie auch als \u00dcbertopf verwenden.",
+      "url": "https://www.etsy.com/listing/1888190607/happy-face-kids-piggy-bank-holding-a"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Tolle Spardose! Manchmal sieht man die F\u00fchrung vom 3D Drucker.. tut der Qualit\u00e4t aber nat\u00fcrlich keinen Abbruch. Sch\u00f6ne Geschenkidee",
+      "url": "https://www.etsy.com/listing/1691842720/personalized-piggy-bank-kids"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Trop mignon, envoy\u00e9 tr\u00e8s vite et de fa\u00e7on soign\u00e9, il a sa place sous l'\u00e9cran de mon ordi ^^",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Super lieber Kundenservice, mein Sonderwunsch wurde ohne zu z\u00f6gern umgesetzt, schnelle Lieferung. \nIch werde sicherlich nochmal was bestellen! \ud83d\ude0a",
+      "url": "https://www.etsy.com/listing/1880577445/happy-plant-pot-dog-lover-gift-for-her"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "Mooi gemaakt, leuk item - leuk cadeau-idee!",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-25",
+      "text": "Super niedliche Spardose und einfach mal etwas anderes",
+      "url": "https://www.etsy.com/listing/1793525240/happy-face-kids-acorn-capped-piggy-bank"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "Genau so wie beschrieben \ud83d\ude0d\nEin niedliches Geschenk dazu, f\u00fcr das ich sofort auf meinen Schreibtisch Verwendung gefunden habe. Dankesch\u00f6n \u2763\ufe0f",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Ich hatte das Gr\u00fcn etwas dunkler auf dem Bild gesehen schade ist ganz sch\u00f6n hellgr\u00fcn.",
+      "url": "https://www.etsy.com/listing/1775542120/baker-plant-pot-baking-decor-baking"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Sehr sch\u00f6ner Artikel. Super als Geschenk f\u00fcr eine Buch- und Pflanzenliebhaberin angekommen!",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-08",
+      "text": "Je ne m'attendais pas \u00e0 cette mati\u00e8re mais cela reste mignon.",
+      "url": "https://www.etsy.com/listing/1713057247/mothers-day-gift-personalized"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-08",
+      "text": "Sieht sehr sch\u00f6n aus, die Farben sind auch wie abgebildet.",
+      "url": "https://www.etsy.com/listing/1866610453/happy-plant-pot-coffee-lover-gift-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Der Topf ist sch\u00f6n und hat eine tolle Farbe. Die Kommunikation war freundlich und schnell!",
+      "url": "https://www.etsy.com/listing/1711275131/tennis-player-gift-plant-pot-happy-face"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "Es war alles top. Der Artikel war wie vorgestellt",
+      "url": "https://www.etsy.com/listing/1713057247/mothers-day-gift-personalized"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-22",
+      "text": "Alles super! Bestelle bestimmt wieder.",
+      "url": "https://www.etsy.com/listing/1624823372/plant-pot-face-happy-cute-plant-pot-cute"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-22",
+      "text": "Schnelle Lieferung und wirklich niedlich. Es fehlen jetzt nur noch die Blumen.",
+      "url": "https://www.etsy.com/listing/1656621257/plant-pot-face-ultra-happy-cute-plant"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-18",
+      "text": "Article tr\u00e8s mignon merci beaucoup \ud83d\udc4c\ud83c\udffb",
+      "url": "https://www.etsy.com/listing/1674729999/adorable-baby-shower-gift-planter-pot"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-14",
+      "text": "Sch\u00f6nes Geschenk f\u00fcr einen Abschluss",
+      "url": "https://www.etsy.com/listing/1861009741/graduation-gift-idea-academic-cap"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-10",
+      "text": "Sehr s\u00fc\u00df, super Geschenkidee, gerne wieder",
+      "url": "https://www.etsy.com/listing/1775542120/baker-plant-pot-baking-decor-baking"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-10",
+      "text": "Genauso niedlich wie auf den Bildern. \ud83e\udd70",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-19",
+      "text": "Bien pass\u00e9, bonne livraison, bien",
+      "url": "https://www.etsy.com/listing/1775542120/baker-plant-pot-baking-decor-baking"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-12",
+      "text": "toll verarbeitet und super niedlich. topp",
+      "url": "https://www.etsy.com/listing/1793525240/happy-face-kids-acorn-capped-piggy-bank"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-09",
+      "text": "Sehr gute Qualit\u00e4t. Mega sch\u00f6\u00f6n. Haben es f\u00fcr dir Praxis als Kaffeekasse bestellt",
+      "url": "https://www.etsy.com/listing/1691842720/personalized-piggy-bank-kids"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-04",
+      "text": "Der Artikel war wie beschrieben und sieht super niedlich aus\u263a\ufe0f",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-03",
+      "text": "Super Qualit\u00e4t. Ich habe es verschenkt. Ich h\u00e4tte gern noch mehr Auswahl an den kleinen B\u00fcchern, Kamera.. Vielleicht noch eine Katze, Blumenstrau\u00df, osterei einen kleinen Topf...",
+      "url": "https://www.etsy.com/listing/1818219129/reading-plant-pot-book-plant-pot-book"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-03",
+      "text": "Ich liebe es soo sehr. Habe es  verschenkt und es wird nicht der letzte gewesen sein. H\u00e4tte gern noch mehr auswahl.. Damit meine Wohnung mit verschiedenen T\u00f6pfen ausgestattet ist. Vielleicht gibt es ja irgedwann noch mehr Auwahl an kleinen Details. Blumenstrau\u00df oder eine Katze oder \u00e4hnliches. :)",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "Diese freundlich, fr\u00f6hlichen T\u00f6pfchen machen absolut gute Laune. Und mit dem richtigen Gew\u00e4chs kann man nur l\u00e4cheln, wenn man dran vorbeigeht.",
+      "url": "https://www.etsy.com/listing/1624823372/plant-pot-face-happy-cute-plant-pot-cute"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-24",
+      "text": "Alles super! Vielen lieben Dank!",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-24",
+      "text": "Alles super! Vielen lieben Dank!",
+      "url": "https://www.etsy.com/listing/1812483784/reading-plant-pot-reading-book-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-20",
+      "text": "Sehr sch\u00f6n gearbeitet, voll zufrieden",
+      "url": "https://www.etsy.com/listing/1691842720/personalized-piggy-bank-kids"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-14",
+      "text": "Hab einen schon verschenkt, meine Freundin war begeistert.",
+      "url": "https://www.etsy.com/listing/1642251558/happy-plant-pot-valentine-gift-for-her"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-14",
+      "text": "Hab schon einmal welche bestellt. Alles super geklappt, vielen Dank, gerne bestelle ich wieder.",
+      "url": "https://www.etsy.com/listing/1642251558/happy-plant-pot-valentine-gift-for-her"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-08",
+      "text": "Der Topf ist genauso wie erwartet, wirklich sch\u00f6n!",
+      "url": "https://www.etsy.com/listing/1711275131/tennis-player-gift-plant-pot-happy-face"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-08",
+      "text": "Ich bin sehr zufrieden. Kalender genau wie beschrieben, gut verarbeitet, sieht toll aus. Danke daf\u00fcr \ud83d\ude00",
+      "url": "https://www.etsy.com/listing/1632417120/perpetual-desk-calendar-cute-calendar"
+    }
+  ],
   "shop_facts": {
     "country_code": "NL",
     "city": "",
     "region": "",
-    "shipping_rating": 4.790372666737092,
-    "item_quality_rating": 4.678166486004873,
-    "customer_service_rating": 4.812970102026247,
+    "shipping_rating": 4.790372666728096,
+    "item_quality_rating": 4.678166485994678,
+    "customer_service_rating": 4.812970102006117,
     "average_rating": 4.71,
     "total_rating_count": 976,
     "rating_count_past_year": 976,
@@ -25,6 +389,5 @@
   "related_links": [
     "https://www.instagram.com/houseofcozycreations/",
     "https://nl.pinterest.com/Houseofcozycreations/"
-  ],
-  "ships_from": "NL"
+  ]
 }

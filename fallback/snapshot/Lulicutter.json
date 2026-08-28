@@ -1,17 +1,381 @@
 {
   "shop": "Lulicutter",
   "shop_url": "https://www.etsy.com/shop/Lulicutter",
-  "source": "https://www.etsy.com/shop/Lulicutter",
+  "source": "https://www.etsy.com/shop/Lulicutter/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "TR",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "love this sellers cutters.will be back soon",
+      "url": "https://www.etsy.com/listing/4525468697/folk-moon-cutter-celestial-floral"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "great cutter, easy printing with great details!",
+      "url": "https://www.etsy.com/listing/4466972059/desert-azulejo-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Love this cutter my favorite for fall season",
+      "url": "https://www.etsy.com/listing/4527857518/mouse-pumpkin-cutter-bow-pumpkin-shape"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "These cutters arrive in the most thoughtful packaging with stickers and freebies and so much care and detail. Already placing my next order!",
+      "url": "https://www.etsy.com/listing/4394050761/modern-christmas-tree-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "I've wanted this cutter forever and so glad I made my first purchase! Your shop is amazing, these have just inspired so many wonderful ideas. Thank you thank you thank you!",
+      "url": "https://www.etsy.com/listing/4449788520/daisy-bunny-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "This made my entire day. It's been a rough Monday and although I usually get all my clay out on the weekends today I finished up my grownup job in my home office and went downstairs and pulled everything back out that I just put away yesterday. I was so excited! These cutters are amazing, thank you!",
+      "url": "https://www.etsy.com/listing/4326918954/spider-web-clay-cutter-set-halloween"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "cute clay cutter, each piece is very good quality.",
+      "url": "https://www.etsy.com/listing/1891228811/bee-honeycomb-polymer-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Adorable Clay cutter. Love the size and the quality.",
+      "url": "https://www.etsy.com/listing/4525468697/folk-moon-cutter-celestial-floral"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Product as stated in description!",
+      "url": "https://www.etsy.com/listing/4531973737/charlies-dog-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "what a awesome clay cutter will be purchasing plenty more",
+      "url": "https://www.etsy.com/listing/4429640851/ava-linden-clay-cutter-floral-arch-round"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Super cute cutters - will definitely purchase from again. Thank you also for the lovely free gifts.",
+      "url": "https://www.etsy.com/listing/4429640851/ava-linden-clay-cutter-floral-arch-round"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Great cutters I\u2019m already back to shop!",
+      "url": "https://www.etsy.com/listing/4333083875/squirrel-clay-cutter-set-woodland"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Great cutters!\nLove them so much I\u2019m already back shopping!",
+      "url": "https://www.etsy.com/listing/4525468697/folk-moon-cutter-celestial-floral"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Thank you so much! Love it!",
+      "url": "https://www.etsy.com/listing/4531987040/charlies-dog-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Thank you so much! Love it!",
+      "url": "https://www.etsy.com/listing/4546267432/trick-or-treat-charlies-dog-cutter-stl"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Thank you so much! Love it!",
+      "url": "https://www.etsy.com/listing/4531986204/charlies-dog-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Thank you so much! Love it!",
+      "url": "https://www.etsy.com/listing/4546268258/wizard-charlies-dog-cutter-stl-digital"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "would by from this store again",
+      "url": "https://www.etsy.com/listing/4366362027/halloween-skull-flower-clay-earring"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "All of the cutters were absolutely adorable, and she even threw in a free gift. Beautifully packaged and came faster than expected, since we are in different countries.",
+      "url": "https://www.etsy.com/listing/4335274266/witch-hat-frog-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Simple and elegant. I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4360426618/floral-clay-earring-cutter-intricate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4303174679/playful-petal-earring-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4396394914/christmas-snowflake-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4371849686/winter-fairy-christmas-tree-clay-earring"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4354124814/angel-clay-cutter-winged-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4361495923/geometric-polymer-clay-cutters-6-shape"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "I love all of the cutters I've ordered. Sharp edges and great details. I definitely keep coming back for more. Extra bonus is extremely fast shipping!",
+      "url": "https://www.etsy.com/listing/4335330403/pumpkin-clay-cutter-with-leaves-fall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "Great item. I really liked it.",
+      "url": "https://www.etsy.com/listing/4536035962/cute-bat-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "amazing",
+      "url": "https://www.etsy.com/listing/4451792984/bloom-dot-clay-cutter-for-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "Beautiful cutter! Thank you for the extra \ud83e\udd7a\ud83d\udc97",
+      "url": "https://www.etsy.com/listing/4484552827/pony-of-the-sea-cutter-seahorse-shape"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "Great customer service and an even better product! Will be a repeat customer. Thank you so much",
+      "url": "https://www.etsy.com/listing/4526758035/autumn-bow-charms-cutter-fall-cameo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Love at first sight. I'm really picky about my designs, and it took forever to find an angel cutter I liked. This is it! This will be lovely for my Christmas and Easter lines. Excellent service too! And the cute sayings on the freebie stickers that came with . . . :D",
+      "url": "https://www.etsy.com/listing/4354124814/angel-clay-cutter-winged-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Love it. This little kitty cutter is cute! And the extras in the box were a wonderful surprise, and greatly appreciated. Cute stickers, and adorable freebie cutters. Love these cutters so much.",
+      "url": "https://www.etsy.com/listing/4524721695/moon-cat-charm-cutter-crescent-feline"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "good cutter, happy with my purchase",
+      "url": "https://www.etsy.com/listing/4346201968/halloween-ghost-pet-clay-cutter-cat-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "good cutter, happy with my purchase",
+      "url": "https://www.etsy.com/listing/4339394348/cozy-skeleton-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "good cutter, happy with my purchase",
+      "url": "https://www.etsy.com/listing/4346201968/halloween-ghost-pet-clay-cutter-cat-or"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "good cutter, happy with my purchase",
+      "url": "https://www.etsy.com/listing/4529874689/halloween-stud-set-cutter-spooky-mini"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-12",
+      "text": "love it and will buy more",
+      "url": "https://www.etsy.com/listing/1875916293/handle-letter-stamp-set-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Brilliant seller and products.",
+      "url": "https://www.etsy.com/listing/4525287149/spooky-kitty-cutter-crescent-cat"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Brilliant seller and products.",
+      "url": "https://www.etsy.com/listing/4506177769/flamingo-sunset-cutter-tropical-palm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Love this cutter.",
+      "url": "https://www.etsy.com/listing/4515324672/guitar-solo-cutter-floral-acoustic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Fab cutter, brilliant seller and fast shipping.",
+      "url": "https://www.etsy.com/listing/4539386593/whimsy-halloween-frogs-cutters-witchy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Cute cutters. The seller goes above and beyond and adds lovely freebies. I've ordered from this seller a few times and have never been disappointed.",
+      "url": "https://www.etsy.com/listing/4528510555/spooky-sausage-pups-cutters-halloween"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Beautiful cutter, great seller and super fast shipping. From Turkey to the UK in 2 days.",
+      "url": "https://www.etsy.com/listing/4515363262/tropical-hummingbird-cutter-floral-bird"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Floral ghosties? Say no more. Everything Luli makes is STELLAR. I will continue to buy from her for her quality, creativity, and big heart! Thank you for sharing your gift!",
+      "url": "https://www.etsy.com/listing/4525156148/cute-floral-ghost-cutter-botanical"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "absolutely loved getting my item in",
+      "url": "https://www.etsy.com/listing/4307615375/citrus-slice-clay-cutter-set-realistic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "Great tool. Makes embedding earring posts a lot easier.",
+      "url": "https://www.etsy.com/listing/4360896207/polymer-clay-earring-post-embedder-tool"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "very helpful and supper nice. cutters work great!!",
+      "url": "https://www.etsy.com/listing/4536023961/ghost-skull-doily-cutter-stl-digital"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Exactly what I needed. I loved it so much I'm ordering another.",
+      "url": "https://www.etsy.com/listing/4376539489/custom-clay-cutter-stl-file-personalized"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Fun shape and design- many possibilities with this cutter. great quality and style",
+      "url": "https://www.etsy.com/listing/4366362027/halloween-skull-flower-clay-earring"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Great cutters. Love using them. Highly recommend!",
+      "url": "https://www.etsy.com/listing/1882118270/flamingo-polymer-clay-cutter-set-3-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4503641027/oval-martini-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4530362677/coffin-charm-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4352507515/floral-ghost-cameo-clay-cutter-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4358121393/cat-skull-clay-cutter-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4529752206/moon-cat-charm-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4531580196/mr-pumpkin-boo-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very cute, prints worked well.",
+      "url": "https://www.etsy.com/listing/4531569319/pumpkin-moon-arch-cutter-stl-digital"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "It is beautiful. I can't wait to start creating with it.",
+      "url": "https://www.etsy.com/listing/4531902907/haunted-folk-ghost-cutter-stl-digital"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "It is beautiful. I can't wait to start creating with it.",
+      "url": "https://www.etsy.com/listing/4536035962/cute-bat-cutter-stl-digital-file"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "It is beautiful. I can't wait to start creating with it.",
+      "url": "https://www.etsy.com/listing/4531575754/spooky-folk-bat-cutter-stl-digital-file"
+    }
+  ],
   "shop_facts": {
     "country_code": "TR",
     "city": "",
     "region": "",
-    "shipping_rating": 4.941275358609967,
-    "item_quality_rating": 4.977218921180102,
-    "customer_service_rating": 4.985939523650428,
+    "shipping_rating": 4.941275358609524,
+    "item_quality_rating": 4.977218921183021,
+    "customer_service_rating": 4.985939523648167,
     "average_rating": 4.97,
     "total_rating_count": 2119,
     "rating_count_past_year": 2119,
@@ -25,6 +389,5 @@
   "related_links": [
     "https://www.instagram.com/lulicutters/",
     "http://www.lulicutters.com"
-  ],
-  "ships_from": "TR"
+  ]
 }

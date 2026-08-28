@@ -1,17 +1,381 @@
 {
   "shop": "Alice3DTreasures",
   "shop_url": "https://www.etsy.com/shop/Alice3DTreasures",
-  "source": "https://www.etsy.com/shop/Alice3DTreasures",
+  "source": "https://www.etsy.com/shop/Alice3DTreasures/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "US",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "great gift!",
+      "url": "https://www.etsy.com/listing/1824003271/gear-ball-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Wonderful quality fidget. It has kept the attention of all of the kids who have seen it.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Everyone loves gift will be getting more",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "Children and adults live playing with it",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "+Grandkids love it and play with it",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-23",
+      "text": "Write at least five words",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-14",
+      "text": "Great fidget toy! I bought it for a friend, who loved the colors\u2014thank you!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-11",
+      "text": "SUCH fun toys! One of my family has enjoyed their fidget spinners so much \ud83d\ude0d I would recommend maybe ages 5+? The stick broke off of a couple of them already, but they are still fun to play with.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-26",
+      "text": "I love fidgeting with these! the mini one broke pretty quickly but the big one has been living on my work desk for a while! so fun to fidget with, but their kind of loud if youre in a public setting... overall 4.5 stars!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-22",
+      "text": "The item itself was great. It\u2019s an awesome fidget and the coloring is so pretty in person! My only complaint is shipping took quite a while, but luckily I was only ordering for fun and didn\u2019t need it for an event or anything so it didn\u2019t bother me. As a fidget, I\u2019d recommend but order it early.",
+      "url": "https://www.etsy.com/listing/1824003271/gear-ball-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-07",
+      "text": "Made a great Easter gift. Thank you so much!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "These fidgets are so fun! The whole family absolutely loved them on Easter!! I will be buying more as gifts \ud83c\udf81",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-05",
+      "text": "Good quality item but shipping took longer than expected",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Great product. Love it so much",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "My boys loved this fidget. It was exactly what we wanted.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-30",
+      "text": "Great for distracting you when on a boring telephone call.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "Great item, shipped fast. Recommended!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "Such a fun little gift! I ordered several. And thank you for the \u201csurprise\u201d gift enclosed. Love these!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "Looks wonderful and is a good fidget.",
+      "url": "https://www.etsy.com/listing/1824003271/gear-ball-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "It\u2019s a well crafted item and it was a well received gift.",
+      "url": "https://www.etsy.com/listing/1824003271/gear-ball-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-25",
+      "text": "Our son absolutely loves this! Very cool.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-25",
+      "text": "I bought this set of fidget toys for my wife as a gift. I know she will love them, but I am waiting for her birthday to give them to her.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-24",
+      "text": "This is a fun toy!",
+      "url": "https://www.etsy.com/listing/1824003271/gear-ball-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-23",
+      "text": "Fun item and well made.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-22",
+      "text": "My son loved this item!  He also loved a bonus gift that was added to the package. Very nice surprise!",
+      "url": "https://www.etsy.com/listing/1824003271/gear-ball-fidget-spinner-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-21",
+      "text": "Cool Dino gift for my niece!  Item as described and arrived on time. Thanks!",
+      "url": "https://www.etsy.com/listing/1498897203/triceratops-head-wall-decor-paintable"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-20",
+      "text": "I have the small, large, and extra large versions and have been giving them out as gifts. My favorite is the extra large. So fun for kids and adults!!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-18",
+      "text": "These little fidgets are so fun! I love how unique you can make them with the multiple color options. I bought all the sizes! They are fun to play with, and I\u2019m sure they will entertain my children very much!! From my 16 year old to even my 2 year old \ud83e\ude77",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-16",
+      "text": "Amazing quality and they even sent me a little baby one with which I\u2019m obsessed. I screamed when I saw it. Absolutely love this fidget. It\u2019s a game changer.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-14",
+      "text": "So amusing to fidget with!  Colors are mesmerizing.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-13",
+      "text": "Beautiful fidget star!  Will make a wonderful gift for my granddaughter who just can't get enough of fidget toys.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "This is so much fun and my center kids love it. I catch myself playing with this toy all day long",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-11",
+      "text": "As always a great product!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-11",
+      "text": "My college age kids love these fidget toys!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-11",
+      "text": "My college age kids love these fidget toys!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-09",
+      "text": "hypnotic & fun-I gave one to my son",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-07",
+      "text": "Everybody plays with it, it's great!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-06",
+      "text": "Good idea for the item",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Very unique item for grandkid\u2019s Easter bag.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Pretty colors. Relaxing to use.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Great item for grandkid\u2019s Easter bag!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Love this! I hope my grandchild does too.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Very pretty. Grandchild will love it.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "SO cool-grandkids will love them!",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-05",
+      "text": "Such fun fidget toys! Love the small one best.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "The object is really neat.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-01",
+      "text": "The object is really neat.",
+      "url": "https://www.etsy.com/listing/1785221375/gear-ball-fidget-toy-3d-printed-stress"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-28",
+      "text": "This is my new favorite! Exactly as described and came with a small bag that is useful for storing in my bag.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-28",
+      "text": "Great product! Just as described. My grandson loves them.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-28",
+      "text": "Everyone loved it! Great present idea.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-27",
+      "text": "I got this for work to help with my ADHD and keep me awake. Everyone at work plays with it. It's a nice stress reliever and mesmerizing. Very happy with my purchase.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-27",
+      "text": "Gave as a gift. Recipient loved it.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 4,
+      "date": "2026-02-26",
+      "text": "I love the product but it took exceptionally long to ship to me for some reason",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-25",
+      "text": "Great quality.  Shipping was fast.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-25",
+      "text": "Sorry for multiple identical reviews.  I didn't want to tank ratings because the products are good.  I got six products all in one shipment, so they were all delayed together.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-25",
+      "text": "Good product, very delayed shipping",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-25",
+      "text": "Good product, very delayed shipping",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 4,
+      "date": "2026-02-25",
+      "text": "Good product, very delayed shipping",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 4,
+      "date": "2026-02-25",
+      "text": "Product good, over a month late arriving",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-25",
+      "text": "I don't like to give sellers bad reviews.  I have no complains about the products.  However, I went with this seller specifically because it was supposed to be shipped within 5 days.  I didn't receive the product for almost 2 months and just kept getting the message that there was backlog and it would be shipped soon.",
+      "url": "https://www.etsy.com/listing/4357889619/fidget-star-with-handle-hypnotic-visual"
+    }
+  ],
   "shop_facts": {
     "country_code": "US",
     "city": "",
     "region": "",
-    "shipping_rating": 4.515655585262619,
-    "item_quality_rating": 4.764589033150191,
-    "customer_service_rating": 4.394881056636815,
+    "shipping_rating": 4.51565558525795,
+    "item_quality_rating": 4.764589033138211,
+    "customer_service_rating": 4.394881056637042,
     "average_rating": 4.72,
     "total_rating_count": 1120,
     "rating_count_past_year": 1120,
@@ -22,6 +386,5 @@
     "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
     "accepts_custom_requests": false
   },
-  "related_links": [],
-  "ships_from": "US"
+  "related_links": []
 }

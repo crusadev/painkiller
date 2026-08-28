@@ -1,17 +1,381 @@
 {
   "shop": "MisfitToysStore",
   "shop_url": "https://www.etsy.com/shop/MisfitToysStore",
-  "source": "https://www.etsy.com/shop/MisfitToysStore",
+  "source": "https://www.etsy.com/shop/MisfitToysStore/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "GB",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Thank you so much for the nostalgia and awesome keychain! I\u2019m a huge MGS fan and looking at my keychain brings back stellar memories from my favorite game!\n\nThis keychain is very high quality and looks even better in person!\n\nI couldn\u2019t be happier and look forward to future purchases!\n\nThank you again!",
+      "url": "https://www.etsy.com/listing/934185436/miniature-ps1-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Great quality and arrived on time",
+      "url": "https://www.etsy.com/listing/853136877/miniature-tv-series-dvd-keychains"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-26",
+      "text": "item was delivered in good time",
+      "url": "https://www.etsy.com/listing/790857657/miniature-switch-game-storage-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Beautiful product! I asked for a custom design and it came just as desired",
+      "url": "https://www.etsy.com/listing/852274456/miniature-pc-game-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Great gift for my boyfriend :) he loved it!",
+      "url": "https://www.etsy.com/listing/852274622/miniature-ds-game-keychains-magnets"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-19",
+      "text": "Took longer than expected to arrive but was worth the wait! great gift!",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "smaller than i thought it'd be, but still awesome nonetheless",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Was exactly what I was looking for. Really cute.",
+      "url": "https://www.etsy.com/listing/820849185/miniature-wii-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "Great comms and product thank you!!",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "I've bought several of these over the years, some as gifts, some for me. I have one on my keys that I use daily and each KC lasts between a year and 2 years before it's had so much wear and tear that it needs a replacing. Would recommend!",
+      "url": "https://www.etsy.com/listing/868364901/miniature-nintendo-64-game-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "Exactly what I was after! It\u2019s the perfect size for my use case, and the quality of the print is amazing! You can even read the text on the back. Great keychain",
+      "url": "https://www.etsy.com/listing/820849185/miniature-wii-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "Sturdy and iconic keychains that you can't wait to show off to your friends \ud83d\ude01\r\n\r\nI've ordered before and probably will order again in the future.\r\n\r\nUnfortunately the shipping took much longer than usual but I managed to get a friend to pick up the package for me as I wasn't in town anymore once it arrived.",
+      "url": "https://www.etsy.com/listing/1761975248/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Super cute, exactly what I asked for definitely ordering more",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "so we'll made. My daughter will love it!",
+      "url": "https://www.etsy.com/listing/853136877/miniature-tv-series-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "great little items, great gifts for friends and family. large range of items.",
+      "url": "https://www.etsy.com/listing/934213064/miniature-gba-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Very nice quality and the print looks great for being so small. Thank you!",
+      "url": "https://www.etsy.com/listing/981225572/miniature-super-nintendo-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Very nice quality and the print looks great for being so small. Thank you!",
+      "url": "https://www.etsy.com/listing/852274622/miniature-ds-game-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Very nice quality and the print looks great for being so small. Thank you!",
+      "url": "https://www.etsy.com/listing/868364901/miniature-nintendo-64-game-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Very nice quality and the print looks great for being so small. Thank you!",
+      "url": "https://www.etsy.com/listing/934213064/miniature-gba-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Very nice quality and the print looks great for being so small. Thank you!",
+      "url": "https://www.etsy.com/listing/906551657/miniature-gamecube-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "loving this!    excellent little replica and an eyecatcher!",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Great keychain and looked exactly like a card",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Was exactly I expected.  thank you!",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Great gift; As described and well made; Seller made a custom design and was great to communicate with",
+      "url": "https://www.etsy.com/listing/805947799/miniature-switch-game-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Even better than before",
+      "url": "https://www.etsy.com/listing/934185436/miniature-ps1-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Absolutely perfect for a gift! It was made well and it was the perfect size.",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Amazing product! Super cute and know I can carry my favorite MTG cards with me.",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "arrived about a week after estimated delivery date, great purchase otherwise",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "10/10 would recommend. \n\nExcellent on the special order for my key chain.\n\nExcellent costumer service.",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Great item, estimated delivery took a while but that\u2019s not a huge problem given the fact it did arrive between the suggested dates. It\u2019s such a fun little gift and great quality, all arrived in nice little gift bags.",
+      "url": "https://www.etsy.com/listing/1204891450/miniature-wii-game-acrylic-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "excellent quality. my wife loved it",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "its very cool and awesome",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "bought it for a friend's birthday, i think they'll like it :)",
+      "url": "https://www.etsy.com/listing/853136877/miniature-tv-series-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-05",
+      "text": "I love it and its pretty<333",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-02",
+      "text": "Arrived on time loved the product gave it as a gift",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-28",
+      "text": "cute little charm",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-28",
+      "text": "Very good quality and arrived quick as well",
+      "url": "https://www.etsy.com/listing/1204885554/miniature-moviefilm-dvd-acrylic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-28",
+      "text": "Item received was absolutely perfect and superior high quality materials",
+      "url": "https://www.etsy.com/listing/1204885554/miniature-moviefilm-dvd-acrylic"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-26",
+      "text": "Looks just like the picture",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "omg this is so cute! the pictures aren't blurry at all and it came packaged so nicely! thank you so much!",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Loved the item. Anna was very willing to customize the keychain charm. \r\n\r\nI am sure my Twilight Zone class attendees will love the gift!.",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Just like in the picture. Was a perfect gift!",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "Really great communication from the seller who replied to my questions promptly. The keyring is great - such an unusual gift. I can't wait to give it to my MGT fan partner as part of his birthday gift!",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "Looks amazing and exactly as described. Being a long time Magic player its great to have a keyring. Highly recommended seller.",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-18",
+      "text": "Amazing result, love it!! \u263a\ufe0f",
+      "url": "https://www.etsy.com/listing/1776163649/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-12",
+      "text": "Great quality! Amazing communication! Thanks!",
+      "url": "https://www.etsy.com/listing/790857657/miniature-switch-game-storage-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-05",
+      "text": "Fantastic little keyring, my son loved it.",
+      "url": "https://www.etsy.com/listing/820849185/miniature-wii-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-04",
+      "text": "I ABSOLUTELY LOVE IT! It makes me super nostalgic for the PS2 era of gaming and my 11 year old self. Thank you!",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Very cute and super tiny",
+      "url": "https://www.etsy.com/listing/831559922/miniature-3ds-game-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "beautiful work, the seller is great, and the product always gets here on time.",
+      "url": "https://www.etsy.com/listing/790857657/miniature-switch-game-storage-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "wonderful craftsmanship, and excellent service.",
+      "url": "https://www.etsy.com/listing/790857657/miniature-switch-game-storage-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "perfect, perfect, perfect. I love them, and the crafter is awesome.",
+      "url": "https://www.etsy.com/listing/790857657/miniature-switch-game-storage-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-28",
+      "text": "Beautiful product and serious vendor. Recommended",
+      "url": "https://www.etsy.com/listing/1761975248/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "Arrived must quicker than this review process",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-20",
+      "text": "Love them so much !! Great gifts !",
+      "url": "https://www.etsy.com/listing/1204885554/miniature-moviefilm-dvd-acrylic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-18",
+      "text": "wonderful little charm, exactly as advertised. frictionless custom card request. EXTREMELY professional packaging.",
+      "url": "https://www.etsy.com/listing/1761975248/miniature-magic-the-gathering-mtg-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-13",
+      "text": "Thank you so much \u263a\ufe0f",
+      "url": "https://www.etsy.com/listing/834027432/miniature-moviefilm-dvd-keychains"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-13",
+      "text": "love these, got bought one as a gift about a year ago and decided to buy one too",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-13",
+      "text": "It\u2019s adorable, and exactly what I wanted. Now everyone will know how much I log Dog\u2019s Life just by looking at my keys",
+      "url": "https://www.etsy.com/listing/866185787/miniature-ps2-keychains-magnets"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "High quality, the seller accommodated my custom order, and was dispatched quickly.",
+      "url": "https://www.etsy.com/listing/906551657/miniature-gamecube-keychains-magnets"
+    }
+  ],
   "shop_facts": {
     "country_code": "GB",
     "city": "",
     "region": "",
-    "shipping_rating": 4.774891207754825,
-    "item_quality_rating": 4.947071696920417,
-    "customer_service_rating": 4.953589397473864,
+    "shipping_rating": 4.774891207748722,
+    "item_quality_rating": 4.947071696917391,
+    "customer_service_rating": 4.953589397467916,
     "average_rating": 4.94,
     "total_rating_count": 8945,
     "rating_count_past_year": 8945,
@@ -25,6 +389,5 @@
   "related_links": [
     "https://www.ebay.co.uk/usr/misfittoysstore",
     "https://www.instagram.com/misfittoys.store/"
-  ],
-  "ships_from": "GB"
+  ]
 }

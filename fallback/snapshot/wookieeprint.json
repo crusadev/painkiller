@@ -1,17 +1,381 @@
 {
   "shop": "wookieeprint",
   "shop_url": "https://www.etsy.com/shop/wookieeprint",
-  "source": "https://www.etsy.com/shop/wookieeprint",
+  "source": "https://www.etsy.com/shop/wookieeprint/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "AU",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "It's perfect! & just like the image.",
+      "url": "https://www.etsy.com/listing/4534352669/custom-switchswitch-2-game-case-switch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Niftiest little switch cartridge holders.  I know the recipients are going to love them and couldn\u2019t be more happy with my order.",
+      "url": "https://www.etsy.com/listing/4534350758/custom-mini-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Got these as birthday presents and they are absolutely perfect.  High quality feel, amazing stickers, and got the charm attachment so I could add my own charms.  \n\nEven came with an adorable little freebie.  Would so recommend this shop and its products and will be definitely buying again in the future",
+      "url": "https://www.etsy.com/listing/4534350758/custom-mini-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Really cool item. I loved the colours and shape, and the price was great.  It shipped very quickly, and the seller's communication was excellent.",
+      "url": "https://www.etsy.com/listing/4516694585/retro-console-clickers-3d-printed-fidget"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "Its amazing!!!",
+      "url": "https://www.etsy.com/listing/4534352669/custom-switchswitch-2-game-case-switch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "It\u2019s so nice and perfect size. Thank you!",
+      "url": "https://www.etsy.com/listing/4534350758/custom-mini-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "As described and is well built. It fit my collection perfectly.",
+      "url": "https://www.etsy.com/listing/4534371081/kanto-badge-fidget-collection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "I loved them! 100% perfect!",
+      "url": "https://www.etsy.com/listing/1796904630/custom-pokemon-gba-case-nintendo-gameboy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "I loved them! 100% perfect",
+      "url": "https://www.etsy.com/listing/1796904630/custom-pokemon-gba-case-nintendo-gameboy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Great product and amazing help from the store owner when I reached out! Definitely recommend shopping here!",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Amazing product! Looks even better in person than in the pictures. Would definitely recommend this to any Switch owner looking for a way to carry multiple games easily.",
+      "url": "https://www.etsy.com/listing/4534360003/custom-n-64-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Awesome item for the Nostalgic child in me plus I get to store recent Nintendo games from Switch 1 and Switch 2!",
+      "url": "https://www.etsy.com/listing/4470240619/custom-nes-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "The quality is great. The item matched the description. The item met my expectations.",
+      "url": "https://www.etsy.com/listing/4516694585/retro-console-clickers-3d-printed-fidget"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "The quality is great. The item matched the description. The item met my expectations.",
+      "url": "https://www.etsy.com/listing/4418378241/custom-gba-cartridge-keychains-gameboy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Item looks great, is well made and has a really satisfying click. I turned it into a necklace.",
+      "url": "https://www.etsy.com/listing/4534368300/ball-clicker-fidget-toy-with-keychain"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "It looks great and it fits my graded card perfectly. I like how I have the option of standing it on my desk or hanging it on the wall. I did have some trouble fitting the stand in but at least I know it's secure and there's no chance of it coming off.",
+      "url": "https://www.etsy.com/listing/4485786788/pokedex-pokemon-card-graded-display-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Fun little fidget toy, got a cute gameboy game charm as well!",
+      "url": "https://www.etsy.com/listing/4516694585/retro-console-clickers-3d-printed-fidget"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "excellent customer service, wookieeprint is on top of it! highly recommend",
+      "url": "https://www.etsy.com/listing/4516694585/retro-console-clickers-3d-printed-fidget"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "well made and so cute. nick is the best",
+      "url": "https://www.etsy.com/listing/4516694585/retro-console-clickers-3d-printed-fidget"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Very cute I like it a lot",
+      "url": "https://www.etsy.com/listing/1776881627/bmo-haptic-fidget-slider-3-types-smiley"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Thank you. He likes it.",
+      "url": "https://www.etsy.com/listing/1641807554/pokeball-fidget-gyro-keyring"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Thank you! It's a great item.",
+      "url": "https://www.etsy.com/listing/4316522458/pokeball-clicker-fidget-toy-great-ball"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "as described",
+      "url": "https://www.etsy.com/listing/1756298480/tetris-mechanical-keyboard-switch-fidget"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Love this case. Mabosstiff is one of my favorites. The case looks really nice and holds my games securely. Would recommend.",
+      "url": "https://www.etsy.com/listing/4354553148/custom-pokemon-gbc-case-nintendo-gameboy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "This was the second case like this I ordered (too many DS/3DS games). It is a nice case. It looks good and the games feel secure within it.",
+      "url": "https://www.etsy.com/listing/4351741587/custom-pokemon-3ds-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "This case looks great. Games fit and feel securely stored. Happy with this purchase!",
+      "url": "https://www.etsy.com/listing/4351741587/custom-pokemon-3ds-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Amazing quality!!! Cartridge holder matched the description perfectly. I love pink so much so this is going to be perfect to hold my games and be displayed on my gaming desk. very very happy with my purchase, thank you!",
+      "url": "https://www.etsy.com/listing/1697007896/custom-pokemon-switch-game-case-sylveon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Coolest thing that I have gotten",
+      "url": "https://www.etsy.com/listing/1887967347/custom-gb-switch-game-case-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Item arrived just as it was advertised and it even came with a free gift! Amazing vendor and would buy from again.",
+      "url": "https://www.etsy.com/listing/1776881627/bmo-haptic-fidget-slider-3-types-smiley"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "These cases are fantastically made as always, and the seller was kind enough to put in an adorable Glaceon mini keychain as extra!! Thank you for the accommodating my sticker requests for the front cover too, these look incredible! \ud83d\ude01",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "These cases are fantastically made as always, and the seller was kind enough to put in an adorable Glaceon mini keychain as extra!! Thank you for the accommodating my sticker requests for the front cover too, these look incredible! \ud83d\ude01",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "This is so beautiful and I love a little toy inside the package , thank you enough! \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+      "url": "https://www.etsy.com/listing/4451815452/custom-pokemon-sd-and-micro-sd-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "I\u2019ve bought many items from shop and love every item.",
+      "url": "https://www.etsy.com/listing/4334565356/cardboy-pokemon-card-35pt-mag-display"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "I asked the seller to fulfill a custom request to put some card art I photoshopped on the front of my 3ds cartridge case and not only did he follow through with it, but it looks amazing too! My only remarks are that communication was a bit irregular at times and I would've liked to see a mockup before it got shipped. Sometimes the cartridges will have a hard time coming out on their own so you might need to leverage them out with a small tool but it varies based on each individual catridge and it doesn't bother me too much. I'd still happily get another one!\r\nEdit: The seller reached out to me apologizing for the communication mishap and even asked about how they could improve on their design. It really shows how much they care about their products and I will definitely order from them again. :)",
+      "url": "https://www.etsy.com/listing/4351741587/custom-pokemon-3ds-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-06",
+      "text": "I absolutely love it.  Great addition to my Mario decor.",
+      "url": "https://www.etsy.com/listing/1646941613/super-mario-planter-3d-printed-nintendo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-02",
+      "text": "nice quality and was the perfect gift",
+      "url": "https://www.etsy.com/listing/1707729683/custom-pokemon-switch-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Item is fantastic quality, I brought this for my partner\u2019s birthday and he loved it! Definitely will be shopping here again!",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "Great item - I bought it as a birthday present for a Nintendo fan, he loved it and appreciated the high quality of the item, as well as the sentiment.\r\nThe case has embedded magnets into it so it doesn't swing open randomly - your gaming cartridges will be nice and secure!",
+      "url": "https://www.etsy.com/listing/4496547995/custom-mini-pokemon-switchswitch-2-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "A great way to keep my ds and 3ds cartridges and display item",
+      "url": "https://www.etsy.com/listing/4351741587/custom-pokemon-3ds-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "Obsessed with this fidget toy!!",
+      "url": "https://www.etsy.com/listing/1666416304/haptic-fidget-toy-retro-and-custom"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-28",
+      "text": "The item is absolutely fantastic! I've purchased from those seller before and will again. Seller was super friendly and accommodating. I work at Victoria's Secret so I absolutely love the case.",
+      "url": "https://www.etsy.com/listing/1887967347/custom-gb-switch-game-case-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-27",
+      "text": "probably the cutest way to store switch cartridges - you will not be disappointed",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-26",
+      "text": "What a great item and well made!  Excellent seller and well-packaged! Arrived all in great shape!  Pleasure doing business!",
+      "url": "https://www.etsy.com/listing/4485772413/pokedex-pokemon-card-toploader-display"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-26",
+      "text": "What a great item and well made!  Excellent seller and well-packaged! Arrived all in great shape!  Pleasure doing business!",
+      "url": "https://www.etsy.com/listing/4485772413/pokedex-pokemon-card-toploader-display"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "High quality, as described in the videos. Also ordered a Turtwig front but didn't know how it would look since they didn't have pics but turned out really good. 10/10 would recommend.",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Shipped quickly and came exactly as described",
+      "url": "https://www.etsy.com/listing/4485772413/pokedex-pokemon-card-toploader-display"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "Great quality and fun design!",
+      "url": "https://www.etsy.com/listing/1776881627/bmo-haptic-fidget-slider-3-types-smiley"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Absolutely love this. Seller was kind enough to include a charm which my child was happy to take away from me. Huge fan of Adventure Time and fidgets- had to get all the BMOs! Amazing seller.",
+      "url": "https://www.etsy.com/listing/1776881627/bmo-haptic-fidget-slider-3-types-smiley"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Got a Piplup one for a friend and she LOVES it",
+      "url": "https://www.etsy.com/listing/1653784163/custom-pokemon-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "It came in fast and was great quality",
+      "url": "https://www.etsy.com/listing/4501788285/cardboy-one-piece-4x6-photo-frame"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Game out better than what I was expecting. Love it!",
+      "url": "https://www.etsy.com/listing/4470240619/custom-nes-switchswitch-2-game-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "I love it",
+      "url": "https://www.etsy.com/listing/1666416304/haptic-fidget-toy-retro-and-custom"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-12",
+      "text": "Love the look of it. Like the option of standing or hanging it.",
+      "url": "https://www.etsy.com/listing/4503489441/pokedex-4x6-photo-frame"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "The items came in today and they look absolutely stunning and were wrapped individually and obviously Sean with a ton of care and detail.  it shipped very quickly. I didn't have any issues and I would certainly buy from this seller again. highly recommend",
+      "url": "https://www.etsy.com/listing/4316522458/pokeball-clicker-fidget-toy-great-ball"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-07",
+      "text": "my 6 month old loves it. his favorite toy right now",
+      "url": "https://www.etsy.com/listing/4463687539/pokemon-kanto-badge-fidget-collection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-06",
+      "text": "I absolutely love it! It\u2019s a gift for my best friend. The customer service was great, and I was able to make a change to my order. Everything went smoothly. Thank you so much!",
+      "url": "https://www.etsy.com/listing/4496547995/custom-mini-pokemon-switchswitch-2-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-03",
+      "text": "exceeded expectations as expected!!!! this is so much cooler in person \ud83d\ude0d\ud83d\ude0d",
+      "url": "https://www.etsy.com/listing/4496547995/custom-mini-pokemon-switchswitch-2-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-03",
+      "text": "So incredible, every and all expectations were exceeded. Cannot believe the high quality. The seller is so kind and very on top of everything replies/requests. The custom artwork really is above and beyond",
+      "url": "https://www.etsy.com/listing/4354553148/custom-pokemon-gbc-case-nintendo-gameboy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-03",
+      "text": "Exceeded all and any expectations! The quality is incredible and now I want to make this the purchase for all gamer gifts",
+      "url": "https://www.etsy.com/listing/1703132257/custom-pokemon-switch-game-case-silver"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-31",
+      "text": "First of all, this seller is AMAZING! They were able to ship this item to a different address in Australia while I was traveling. The item arrived early, and its stellar. I was able to get the Pikachu case customized with a light blue interior which is awesome, and I love the attention to detail, the cartridge holders have little clips to make sure they are secure. Craftsmanship is on 1000. Thank you! He also sent me a cute little wooden creature (pokemon maybe), regardless I love it!",
+      "url": "https://www.etsy.com/listing/1659008676/pokemon-switch-game-case-yellow-pikachu"
+    }
+  ],
   "shop_facts": {
     "country_code": "AU",
     "city": "",
     "region": "",
-    "shipping_rating": 4.923815476304484,
-    "item_quality_rating": 4.961383879971382,
-    "customer_service_rating": 4.968258291787595,
+    "shipping_rating": 4.923815476299495,
+    "item_quality_rating": 4.961383879968342,
+    "customer_service_rating": 4.968258291782421,
     "average_rating": 4.95,
     "total_rating_count": 1106,
     "rating_count_past_year": 1106,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "https://www.instagram.com/wookieeprint"
-  ],
-  "ships_from": "AU"
+  ]
 }

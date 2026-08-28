@@ -22,7 +22,8 @@ SIGNALS = [
             r"\bmissed (?:christmas|the birthday|the deadline)\b",
             r"\bworth the wait\b",
             r"\b(?:long|bit of a|quite a|a bit of a)\s+wait\b",
-            r"\btook (?:a while|ages|forever|longer than)\b",
+            r"\btook (?:a while|ages|forever|longer than)\b"
+            r"(?=.{0,45}\b(?:arriv|deliver|ship|post|receiv|get here|got here|come|came|dispatch))",
             r"\bpatien(?:t|ce)\b.{0,30}\b(?:wait|ship|deliver|arriv)",
             r"\b(?:wait|waited)\b.{0,20}\bpatient(?:ly)?\b",
         ],
@@ -148,7 +149,8 @@ NEGATED = re.compile(
     r"|\bdidn'?t\s+(?:have to\s+)?pay\b"
     r"|\bnever\s+(?:had|any)\s+(?:issue|problem|delay)"
     r"|\b(?:fast|quick|quickly|speedy|prompt|promptly|early|ahead of)\b"
-    r"|\bno\s+(?:extra\s+)?(?:fee|charge|cost)s?\b",
+    r"|\bno\s+(?:extra\s+)?(?:fee|charge|cost)s?\b"
+    r"|\bonly took\b",
     re.I)
 
 

@@ -1,21 +1,385 @@
 {
   "shop": "PixelPagesNZ",
   "shop_url": "https://www.etsy.com/shop/PixelPagesNZ",
-  "source": "https://www.etsy.com/shop/PixelPagesNZ",
+  "source": "https://www.etsy.com/shop/PixelPagesNZ/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "NZ",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "I bought the green from the original posting image and LOVE it!",
+      "url": "https://www.etsy.com/listing/4297535760/trash-buddy-cover-minder-dino-duo-tri"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "GORGEOUS!  Such high-quality work and my friend absolutely LOVED her gifts of both trays & the tray for her EW's as well.",
+      "url": "https://www.etsy.com/listing/4481680854/diamond-drill-storage-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "GORGEOUS!  Such high-quality work and my friend absolutely LOVED her gifts of both trays & the tray for her EW's as well.",
+      "url": "https://www.etsy.com/listing/4481669991/pixel-pieces-trinket-tray-resin-glitter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "GORGEOUS!  Such high-quality work and my friend absolutely LOVED her gifts of both trays & the tray for her EW's as well.",
+      "url": "https://www.etsy.com/listing/4481669991/pixel-pieces-trinket-tray-resin-glitter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "I love my new diamond painting canvas roller,  the colors are really beautiful and add a bit more whimsy into my craft time!  On top of the high quality of the item, I was most impressed with how lightening fast they managed to get it mailed out and shipped to me, especially coming from across the world!  This shop has so many wonderful diamond painting accessories, so I can't wait to come back to shop for more soon!  Thanks!",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Exactly what is expected!",
+      "url": "https://www.etsy.com/listing/4297535760/trash-buddy-cover-minder-dino-duo-tri"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "This tray is even more bright, bold, sparkly, shimmer-y & glitter-y than in the pic...LOVE it sooooo much & will be buying a couple other colors for gifts!",
+      "url": "https://www.etsy.com/listing/4481669991/pixel-pieces-trinket-tray-resin-glitter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "LOVE my new dp tray!  The rainbow colors are perfectly bold & brilliant & tray is quality & well made!  I will be buying again!",
+      "url": "https://www.etsy.com/listing/4463148354/stackable-diamond-painting-tray-with-lid"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "LOVE my adorable blue turtle cover minder!  His color is beautiful & he is perfectly sized & described online!  I will be buying other colors!",
+      "url": "https://www.etsy.com/listing/4481678373/handmade-resin-turtle-cover-minders"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "LOVE all 3 of my adorable dp's!  Sooo colorful, cute & perfectly described!  I will be buying again!",
+      "url": "https://www.etsy.com/listing/4328061043/diamond-painting-mini-page-canvas-wow"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "LOVE all 3 of my adorable dp's!  Sooo colorful, cute & perfectly described!  I will be buying again!",
+      "url": "https://www.etsy.com/listing/4328060017/diamond-painting-mini-page-canvas-retro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "LOVE all 3 of my adorable dp's!  Sooo colorful, cute & perfectly described!  I will be buying again!",
+      "url": "https://www.etsy.com/listing/4328049022/diamond-painting-mini-page-canvas-cluck"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Very cute, I highly recommend you get it!!",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Thank you lisa for the pen",
+      "url": "https://www.etsy.com/listing/4316858989/diamond-painting-pen-threaded-ends-basic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "The custom color of the pen came out perfectly. The weight is about the same if not lighter than the DAC pen it replaces. My stainless tips also fit well in the other side.",
+      "url": "https://www.etsy.com/listing/4481671056/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "This is a well made drill helper. I look forward to using it. It is sturdy.",
+      "url": "https://www.etsy.com/listing/4326709068/diamond-drill-funnel-elizabeth-ward-duo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "tips are great quality and fit well",
+      "url": "https://www.etsy.com/listing/4306983145/stainless-steel-threaded-diamond"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "absolutely love this pen",
+      "url": "https://www.etsy.com/listing/4298045657/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "love the colors so much",
+      "url": "https://www.etsy.com/listing/4298045657/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "absolutely love these pens. can't wait to use them",
+      "url": "https://www.etsy.com/listing/4298045657/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "The clamps are so pretty and are great quality! They work perfectly with my table (my table is one of the hard plastic foldable types). These are exactly what I\u2019ve been looking for to hold my diamond paintings that drape over the edge. Would highly recommend!",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "love it so pretty",
+      "url": "https://www.etsy.com/listing/4481671056/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "This item is a must if you have a large canvas, but a small desk! Very helpful!",
+      "url": "https://www.etsy.com/listing/4462252361/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Seller did an amazing job item matched the description. Will be buying again.",
+      "url": "https://www.etsy.com/listing/4450172207/diamond-painting-pen-display-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "This tray is beautiful! It is sturdy and perfect for my pens! It is exactly what I was looking for.",
+      "url": "https://www.etsy.com/listing/4481669991/pixel-pieces-trinket-tray-resin-glitter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "I really like these canvas holders.  My tabletop is thicker than the holders available, but I contacted Lisa and she made the holders big enough to fit my table.  And they arrived faster than the estimated date.  I would definitely recommend Lisa to anyone wanting this item.",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "The customer service is amazing, I\u2019ve never had such good experience than I had dealing with them, definitely will purchase again in the future! Highly recommend",
+      "url": "https://www.etsy.com/listing/4297909871/diamond-painting-putty-by-pixel-pages"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Great quality! Will be ordering more!",
+      "url": "https://www.etsy.com/listing/1898061213/diamond-painting-canvas-rings-multi"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Amazing quality! Exceeded my expectations!",
+      "url": "https://www.etsy.com/listing/1897471227/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "I absolutely love this! And use it everytime",
+      "url": "https://www.etsy.com/listing/4326709068/diamond-drill-funnel-elizabeth-ward-duo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Such a beautiful set of dominoes, would highly recommend!",
+      "url": "https://www.etsy.com/listing/4471037226/handmade-resin-dominos-set-with-case"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Can't wait to use this! I like the color scheme and the feel of it.",
+      "url": "https://www.etsy.com/listing/4462252361/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "I ordered a total of 11 items. 3 pens 6 tips 2 putty. Everything is so good. \nThe pens especially. The colours on them change at every angle so much fun to look at. The most important thing is I was able to edit the entire set as per my requirements. Shipped fast enough all the way to India! No complaints! \u2665\ufe0f",
+      "url": "https://www.etsy.com/listing/4298045657/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "these are beautifully made. not on3 flaw. I got the full tray with 6 squares, which I paid for 2. ive been using two small tray sets with 6 squares and I wanted a bigger set. they come with a top 2. love them will start tomorrow",
+      "url": "https://www.etsy.com/listing/4330827757/pixel-palettes-8pc-6-small-tray-caddy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "These work perfect for my use! Quality product. shipping was long but it is from New Zeland so totally understandable. Thank you!",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Very well made!  Lovely to have such a wide colour choice. A+",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "10/10 this time I chose the right item. Perfect for the twist and pick tips of DAC.",
+      "url": "https://www.etsy.com/listing/4481671056/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "Great product. Good for keeping square drills straight",
+      "url": "https://www.etsy.com/listing/4465053043/diamond-painting-grid-guide-straight"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-05",
+      "text": "This is the first time I've bought this size. I work on a lot of large projects, so I hope it will come in handy.",
+      "url": "https://www.etsy.com/listing/4463148354/stackable-diamond-painting-tray-with-lid"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-05",
+      "text": "I'm a repeat customer. Thank you for the wonderful product.",
+      "url": "https://www.etsy.com/listing/4462237601/stackable-diamond-painting-trays-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-05",
+      "text": "I'm a repeat customer. Thank you for the wonderful product.",
+      "url": "https://www.etsy.com/listing/4462237601/stackable-diamond-painting-trays-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "Beautiful pen! Thabk you!",
+      "url": "https://www.etsy.com/listing/4399499613/resin-glitter-pen-and-tip-bundle"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "Love the putty and the scent. Works great in my climate (switzerland).",
+      "url": "https://www.etsy.com/listing/4297909871/diamond-painting-putty-by-pixel-pages"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "Great multiplacer, works great. I love how thin it is. Thank you!",
+      "url": "https://www.etsy.com/listing/4306983145/stainless-steel-threaded-diamond"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Love my new tray and pen holder. Works great. I do wish it was bigger",
+      "url": "https://www.etsy.com/listing/1869345668/diamond-painting-pen-holder-large"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-25",
+      "text": "So sparkly it\u2019s gorgeous thank you!!!",
+      "url": "https://www.etsy.com/listing/4481669991/pixel-pieces-trinket-tray-resin-glitter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-25",
+      "text": "Beautiful I love it! Thank you",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "OMG OMG I\u2019m so in love with this pen I love it so much thank you \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+      "url": "https://www.etsy.com/listing/4513938687/diamond-painting-pen-threaded-ends-bling"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-18",
+      "text": "Good good good good good",
+      "url": "https://www.etsy.com/listing/4302243367/premium-diamond-painting-tray-white-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "Better thank expected.  Thank  you for doing all the work to make my project work even smoother",
+      "url": "https://www.etsy.com/listing/4337438704/diamond-painting-symbol-stickers"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-10",
+      "text": "This is a well made product. Keeps your lines a lot straighter. I will be buying mote",
+      "url": "https://www.etsy.com/listing/4465053043/diamond-painting-grid-guide-straight"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "I ordered it by accident, I wanted the twist and pick pen. However Im surprised with the color and the quality. Now I need 10 more lol",
+      "url": "https://www.etsy.com/listing/4298045657/refillable-twist-pen-threaded-end"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-04",
+      "text": "Great Quality!",
+      "url": "https://www.etsy.com/listing/1883295982/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-01",
+      "text": "Thank you for the great product.",
+      "url": "https://www.etsy.com/listing/4302243367/premium-diamond-painting-tray-white-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-01",
+      "text": "Thank you for the great product.",
+      "url": "https://www.etsy.com/listing/4302243367/premium-diamond-painting-tray-white-base"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-01",
+      "text": "Thank you for the great product.",
+      "url": "https://www.etsy.com/listing/4462237601/stackable-diamond-painting-trays-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Fall in love with this  immediately i got it!",
+      "url": "https://www.etsy.com/listing/4462252361/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Great pen nice and light  thank you",
+      "url": "https://www.etsy.com/listing/4456319674/diamond-painting-pen-threaded-ends"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-27",
+      "text": "better than the ones that don't attach to the desk",
+      "url": "https://www.etsy.com/listing/1897471227/diamond-painting-canvas-holder-table"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-23",
+      "text": "Great device for keeping all of those drills handy and in line of view",
+      "url": "https://www.etsy.com/listing/4481680854/diamond-drill-storage-stand"
+    }
+  ],
   "shop_facts": {
     "country_code": "NZ",
     "city": "",
     "region": "",
-    "shipping_rating": 4.870961821990498,
-    "item_quality_rating": 4.96763348975817,
-    "customer_service_rating": 4.925332023028584,
+    "shipping_rating": 4.870961821998539,
+    "item_quality_rating": 4.967633489754641,
+    "customer_service_rating": 4.92533202303589,
     "average_rating": 4.89,
     "total_rating_count": 492,
     "rating_count_past_year": 492,
-    "sold_count": 2550,
+    "sold_count": 2551,
     "active_listing_count": 105,
     "create_date": 1732657474,
     "is_open": true,
@@ -25,6 +389,5 @@
   "related_links": [
     "https://www.facebook.com/PixelPagesNZ/",
     "https://www.pixelpages.co.nz/"
-  ],
-  "ships_from": "NZ"
+  ]
 }

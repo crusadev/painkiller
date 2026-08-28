@@ -1,20 +1,384 @@
 {
   "shop": "FluffyHelpersStore",
   "shop_url": "https://www.etsy.com/shop/FluffyHelpersStore",
-  "source": "https://www.etsy.com/shop/FluffyHelpersStore",
+  "source": "https://www.etsy.com/shop/FluffyHelpersStore/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "PL",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Perfect fit. Smart design. And compleet set of wall mounts for the rocket and the little lego Tittin figures. Happy with it.",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "It was exactly as described and it arrived extremely fast! It was easy to install and my plant look\u2019s great on the wall!!!!!",
+      "url": "https://www.etsy.com/listing/4457601201/wall-mount-for-lego-botanical-collection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "\u2014- \u2014- Great stuff \u2014- \u2014-",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "item was what was promised",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "very good now i can hang my vr on the wall and looks very tidy",
+      "url": "https://www.etsy.com/listing/4471802799/wall-mount-for-meta-quest-3-3s-2"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Such a great concept. Well designed. Carefully packaged and works great.",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Great display for my sons pop figures",
+      "url": "https://www.etsy.com/listing/1873270649/modular-hexagon-funko-pop-shelf-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Great Idea for the Lego Rocket. Fast Shipping. Quick response for any questions. Thanxx",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "very good",
+      "url": "https://www.etsy.com/listing/4449249982/wall-mount-to-display-lego-star-trek-uss"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Its a 3D printed plastic item, but works perfectly!",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Fantastic! Could not be happier with this. For anyone considering ordering this, you will be more than satisfied. Totally elevates the Varmblixt.",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-25",
+      "text": "Looks good and nice item",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "All good! Would buy again",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Arrived on time and was as promised.",
+      "url": "https://www.etsy.com/listing/1836093014/wall-mount-bracket-for-ev-charger-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "very helpful seller, great product, highly recommend",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-12",
+      "text": "Simply brilliant! Very sturdy and neatly done!",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "item works great",
+      "url": "https://www.etsy.com/listing/4457601201/wall-mount-for-lego-botanical-collection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-05",
+      "text": "I ordered custom measurements and it fits perfectly.",
+      "url": "https://www.etsy.com/listing/1773077503/under-desk-mini-pc-mount-customizable"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-20",
+      "text": "It's the best addition for the Varmblixt! You just hang it on the stand and can put in everywhere in seconds. And I really like the hole for the cable, so it's not dangling on the side of the lamp. Very well thought out Design, will probably buy another one :)",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-15",
+      "text": "Great ! Excellent design, high quality, very happy and highly recommanded ! Thanks again !",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-09",
+      "text": "Great stand.\r\nIt was a little fiddly to get the model on to the stand but we managed it, looks absolutely fantastic now that it's displayed properly.\r\nWould recommend to people who are looking for a stand themselves",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-07",
+      "text": "Thank you so much !",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-06",
+      "text": "Worked perfectly to display Funko Pops.",
+      "url": "https://www.etsy.com/listing/4356041815/modular-hexagon-funko-pop-display-shelf"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-26",
+      "text": "Good item that delivered as described",
+      "url": "https://www.etsy.com/listing/1880239439/under-desk-external-hard-drive-hdd-sdd"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-21",
+      "text": "Excellent wall mount. Great quality and fits perfectly. Easy to mount. Despite the international shipping (in this case: Poland to Germany), the delivery time is clearly too long. Especially since we are within the EU without customs formalities.",
+      "url": "https://www.etsy.com/listing/4449249982/wall-mount-to-display-lego-star-trek-uss"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-16",
+      "text": "This mount for the Lego Saturn V is really neat! It allows for horizontal or vertical display and fits the pieces really well. One of the pieces snapped apart really easily when trying to screw it into the wall, but it still functions just fine and holds the Lego set!",
+      "url": "https://www.etsy.com/listing/4377972573/wall-mount-display-for-lego-apollo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-12",
+      "text": "Fast shipping, very well made brackets for the LEGO Saturn V rocket. Looks great on the wall!",
+      "url": "https://www.etsy.com/listing/4377972573/wall-mount-display-for-lego-apollo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-11",
+      "text": "Very satisfied with the purchase.",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-07",
+      "text": "Fast shipping. Great item. Perfect package.",
+      "url": "https://www.etsy.com/listing/1880239439/under-desk-external-hard-drive-hdd-sdd"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-28",
+      "text": "Very good design :) recommend!",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-24",
+      "text": "Topdesign & quality! Great invention! Thank you",
+      "url": "https://www.etsy.com/listing/4306671982/stand-for-ikea-varmblixt-led-table-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-16",
+      "text": "My second order looked great!",
+      "url": "https://www.etsy.com/listing/1779697856/screw-cover-4-pcs-for-ikea-skadis"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-16",
+      "text": "Had an issue with my first order and it was corrected and he shipped me new covers, I am very pleased!",
+      "url": "https://www.etsy.com/listing/1779697856/screw-cover-4-pcs-for-ikea-skadis"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-16",
+      "text": "Great quality. Will buy from again.",
+      "url": "https://www.etsy.com/listing/4377972573/wall-mount-display-for-lego-apollo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "Great item and shipping was quick",
+      "url": "https://www.etsy.com/listing/1871583161/wall-mount-display-for-lego-millennium"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "Great item and shipping was quick",
+      "url": "https://www.etsy.com/listing/1847310720/wall-mount-for-lego-international-space"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "Great item and shipping was quick",
+      "url": "https://www.etsy.com/listing/1861510801/wall-mount-for-lego-saturn-v-92176-21309"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-10",
+      "text": "Perfect for my Lego set",
+      "url": "https://www.etsy.com/listing/4449249982/wall-mount-to-display-lego-star-trek-uss"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-09",
+      "text": "I'm very happy with this product. It perfectly serves the purposes of holding my hard drives and decluttering my desk.",
+      "url": "https://www.etsy.com/listing/1880239439/under-desk-external-hard-drive-hdd-sdd"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-28",
+      "text": "Easy to assemble. Solid. Easy to put the Falcon on it. Fast shipping.",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-27",
+      "text": "I waited even after the expected delivery date had passed. However, unfortunately, the item has not\n\nThe product arrived one week late. There is no problem with the product itself. However, I am disappointed that it did not arrive in time for the construction date.",
+      "url": "https://www.etsy.com/listing/4323644101/wall-mount-bracket-for-audi-e-tron"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-21",
+      "text": "Great quality! It's perfect design form Mac mini M4.",
+      "url": "https://www.etsy.com/listing/1827368401/new-apple-mac-mini-m4-2024-underdesk"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-17",
+      "text": "Excellent mount for the Lego Saturn V rocket, it looks great on our wall and was easy to install!",
+      "url": "https://www.etsy.com/listing/1861510801/wall-mount-for-lego-saturn-v-92176-21309"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-16",
+      "text": "Great product and fast delivery",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Die Halterung konnten wir einfach und selbsterkl\u00e4rend aufbauen. Sie ist schlicht und passend f\u00fcr das Lego set.",
+      "url": "https://www.etsy.com/listing/1871587365/stand-display-for-lego-millennium-falcon"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Kupi\u0142am 2 raz i jestem bardzo zadowolona. Niestety tym razem karton przyszed\u0142 w op\u0142akanym stanie. Oczywi\u015bcie nie jest to wina wysy\u0142aj\u0105cego tylko kuriera. Na szcz\u0119\u015bcie zawarto\u015b\u0107 nie ucierpia\u0142a.",
+      "url": "https://www.etsy.com/listing/1873270649/modular-hexagon-funko-pop-shelf-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Produkt spe\u0142nia moje oczekiwania. Troch\u0119 d\u0142ugi okres na realizacj\u0119, ale warto poczeka\u0107",
+      "url": "https://www.etsy.com/listing/1880239439/under-desk-external-hard-drive-hdd-sdd"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Re\u00e7u rapidement, plus qu'\u00e0 installer.\r\nTr\u00e8s bonne qualit\u00e9.",
+      "url": "https://www.etsy.com/listing/4377972573/wall-mount-display-for-lego-apollo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "Gute Qualit\u00e4t und gutes Aussehen",
+      "url": "https://www.etsy.com/listing/4322977183/wall-mount-for-lego-botanical-collection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Artigo muito bom, servi\u00e7o \u00f3timo.",
+      "url": "https://www.etsy.com/listing/1853661127/wall-mount-display-for-lego-concorde"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Top , r\u00e1pido zzzz fdfff",
+      "url": "https://www.etsy.com/listing/4483377331/digital-file-stl-for-3d-printing-wall"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Parfait pour les legos heardz.",
+      "url": "https://www.etsy.com/listing/1870288015/hexagonal-shelf-for-lego-brickheadz"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Parfait pour les legos headz.",
+      "url": "https://www.etsy.com/listing/1870288015/hexagonal-shelf-for-lego-brickheadz"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-06",
+      "text": "Schnelle Lieferung, sehr gute Qualit\u00e4t, alles wie beschrieben, kann ich weiterempfehlen!",
+      "url": "https://www.etsy.com/listing/1773253272/universal-wall-mount-bracket-mounting"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-05",
+      "text": "Fid\u00e8le \u00e0 la description. Parfait",
+      "url": "https://www.etsy.com/listing/4377972573/wall-mount-display-for-lego-apollo"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "Produit conforme \u00e0 l\u2019annonce \nMerci",
+      "url": "https://www.etsy.com/listing/1871583161/wall-mount-display-for-lego-millennium"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "Au top. Rapide et bien soign\u00e9",
+      "url": "https://www.etsy.com/listing/4482959253/wall-mount-display-for-lego-ideas-21367"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Super article, correspond aux photos",
+      "url": "https://www.etsy.com/listing/4330510114/ikea-trofast-20x30x10cm-insert-divider"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Super article, correspond aux photos",
+      "url": "https://www.etsy.com/listing/4330510114/ikea-trofast-20x30x10cm-insert-divider"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Super article, correspond aux photos",
+      "url": "https://www.etsy.com/listing/4330510114/ikea-trofast-20x30x10cm-insert-divider"
+    }
+  ],
   "shop_facts": {
     "country_code": "PL",
     "city": "",
     "region": "",
-    "shipping_rating": 4.677807180107043,
-    "item_quality_rating": 4.829472609231289,
-    "customer_service_rating": 4.842001147419874,
+    "shipping_rating": 4.6778071800900065,
+    "item_quality_rating": 4.82947260923325,
+    "customer_service_rating": 4.842001147415057,
     "average_rating": 4.84,
-    "total_rating_count": 390,
-    "rating_count_past_year": 390,
+    "total_rating_count": 391,
+    "rating_count_past_year": 391,
     "sold_count": 3319,
     "active_listing_count": 95,
     "create_date": 1703271376,
@@ -22,6 +386,5 @@
     "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
     "accepts_custom_requests": true
   },
-  "related_links": [],
-  "ships_from": "PL"
+  "related_links": []
 }

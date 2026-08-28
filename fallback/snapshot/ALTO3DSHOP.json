@@ -1,17 +1,381 @@
 {
   "shop": "ALTO3DSHOP",
   "shop_url": "https://www.etsy.com/shop/ALTO3DSHOP",
-  "source": "https://www.etsy.com/shop/ALTO3DSHOP",
+  "source": "https://www.etsy.com/shop/ALTO3DSHOP/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "DE",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "top",
+      "url": "https://www.etsy.com/listing/4410275968/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "Very helpful and precise in everything",
+      "url": "https://www.etsy.com/listing/1827951990/knob-adapter-for-nuki-pro-connects"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "Very helpful and precise in everything",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Very happy with the purchase. It's a very nice item",
+      "url": "https://www.etsy.com/listing/1777811341/8x-screw-covers-for-kallax-expedit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "IT WAS STURDY AND STOOD UP STRIGHT WHEN IT WAS FULL OF PENS . \ud83d\udc4d\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/1882319489/3d-printed-legami-pen-holder-stairs-eco"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Very good seller and product, probably the best one on Etsy for Nuki accessories.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "Great item fast shipping.  thanks",
+      "url": "https://www.etsy.com/listing/4341712252/switchbot-lock-ultra-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Despite the issues we encountered with the first delivery \u2014 which were not the fault of Alto3DShop \u2014 I must say that the customer service was excellent.",
+      "url": "https://www.etsy.com/listing/4307278828/white-decorative-cover-for-aqara"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-04",
+      "text": "Always great service. Highly recommend.",
+      "url": "https://www.etsy.com/listing/4471046130/smartlock-knob-adapter-for-pro-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "they work well",
+      "url": "https://www.etsy.com/listing/1682831592/robust-shelf-bracket-support-for-pax"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "it fits the smart lock perfectly",
+      "url": "https://www.etsy.com/listing/1827951990/knob-adapter-for-nuki-pro-connects"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "Looks great on door bell \nIt\u2019s in direct sunlight, will see how it holds up",
+      "url": "https://www.etsy.com/listing/4307278828/white-decorative-cover-for-aqara"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-18",
+      "text": "The seller was able to customise it for my raised keyhole cover! Fast reply and fast shipping! 100% reccomended!",
+      "url": "https://www.etsy.com/listing/4413150134/nuki-5-pro-and-ultra-protection-cover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "As expected. Happy with product",
+      "url": "https://www.etsy.com/listing/1827951990/knob-adapter-for-nuki-pro-connects"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Great little piece for the Nuki Pro",
+      "url": "https://www.etsy.com/listing/4465570293/smartlock-knob-adapter-for-kaba-door"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-14",
+      "text": "Excellent work! Everything was perfect from start to finish. I asked for a 3D piece with some specific adaptations, and he followed all my instructions to the letter. The final quality is flawless, and the result couldn't be better. I'm very grateful for his attentiveness and professionalism. Without a doubt, I will trust him again for future projects. 100% recommended!",
+      "url": "https://www.etsy.com/listing/1712027467/nuki-2-3-4-pro-and-go-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "Excellent quality and outstanding customer service from the seller.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "Excellent quality and outstanding customer service from the seller.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "Excellent quality and outstanding customer service from the seller.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "Excellent quality and outstanding customer service from the seller.",
+      "url": "https://www.etsy.com/listing/4350631296/knob-adapter-for-nuki-5-pro-keso-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-09",
+      "text": "Excellent quality and outstanding customer service from the seller.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-20",
+      "text": "The seller was super helpful. Engineered to perfection and gave lots of good advise.",
+      "url": "https://www.etsy.com/listing/4341712252/switchbot-lock-ultra-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Eigentlich bin ich sehr zufrieden, die Form passt perfekt und der Preis find ich fair,das was mich gest\u00f6rt hat ist, das der DHL Lieferant das Paket als zugestellt vermerkt hat obwohl es erst einen Tag sp\u00e4ter zugestellt wurde",
+      "url": "https://www.etsy.com/listing/1712290834/nuki-smart-lock-spacer-adapter-fits"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Alles bestens, passt perfekt an die Haust\u00fcr.",
+      "url": "https://www.etsy.com/listing/4410796259/nuki-5-pro-and-5-ultra-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Super L\u00f6sung - unbedingt genau messen und mit Verk\u00e4ufer beraten was genau passt - Top Beratung",
+      "url": "https://www.etsy.com/listing/4382280980/knob-adapter-fits-nuki-smart-lock-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Funktioniert- bin froh um die L\u00f6sung - guter Verk\u00e4ufer und Beratung",
+      "url": "https://www.etsy.com/listing/4410275968/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Tip top! Sehr gut, wenn das Original mal schw\u00e4chelt!",
+      "url": "https://www.etsy.com/listing/1830424640/2x-adhesive-tape-for-nuki-smart-door-30"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Passt genau und macht was n\u00f6tih ist",
+      "url": "https://www.etsy.com/listing/4382280980/knob-adapter-fits-nuki-smart-lock-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "Perfekt gemacht, bin sehr zufrieden",
+      "url": "https://www.etsy.com/listing/4465570293/smartlock-knob-adapter-for-kaba-door"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Machen genau das was sie sollen und fallen kaum auf =)",
+      "url": "https://www.etsy.com/listing/1777811341/8x-screw-covers-for-kallax-expedit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Correcte verkoper, snelle reactie, prima kwaliteit.\r\nBeantwoord aan de verwachtingen",
+      "url": "https://www.etsy.com/listing/1712027467/nuki-2-3-4-pro-and-go-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Plaque d\u2019adaptation Nuki Smart Lock Pro 5e g\u00e9n\u00e9ration - Entretoise universelle pour montage encastr\u00e9 (norme UE)\nCon\u00e7u par ALTO3DSHOP\n\nJe suis extr\u00eamement satisfait de ce produit. J\u2019ai opt\u00e9 pour l\u2019\u00e9paisseur de 4 mm, qui s\u2019av\u00e8re parfaitement adapt\u00e9e, contrairement \u00e0 la plaque de mousse de 3 mm que j\u2019avais utilis\u00e9e pr\u00e9c\u00e9demment. Cette derni\u00e8re ne permettait pas un maintien optimal du cylindre.  Je tiens \u00e0 exprimer ma gratitude envers le vendeur pour son excellent service et je le recommande vivement.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Top. Kann ich nur empfehlen.",
+      "url": "https://www.etsy.com/listing/1666641011/jabra-speaker-mount-vertical-desk-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Ottimo venditore..consigliato ha anche risolto un problema",
+      "url": "https://www.etsy.com/listing/4340239564/nuki-smart-lock-knob-adapter-5-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Alles sehr gut gelaufen. Danke!",
+      "url": "https://www.etsy.com/listing/4465570293/smartlock-knob-adapter-for-kaba-door"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Maatwerk, past perfect en snel geleverd. Top!",
+      "url": "https://www.etsy.com/listing/4546403359/custom-order-for-joa"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-07",
+      "text": "F\u00fcr meinen Knauf musste ich den Adapter anpassen.",
+      "url": "https://www.etsy.com/listing/4471046232/smartlock-knob-adapter-for-winkhaus-door"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "Hat alles perfekt und schnell funktioniert",
+      "url": "https://www.etsy.com/listing/4410796259/nuki-5-pro-and-5-ultra-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "Individuelle Ma\u00dfanfertigung mit eingebauten Muttern hat super funktioniert. 5 Sterne",
+      "url": "https://www.etsy.com/listing/4410796259/nuki-5-pro-and-5-ultra-universal-spacer"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-30",
+      "text": "merci de la rapidit\u00e9  et de la r\u00e9activit\u00e9 aux questions",
+      "url": "https://www.etsy.com/listing/4410275968/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-29",
+      "text": "Als Notl\u00f6sung gut zu gebrauchen. Langlebigkeit tbc",
+      "url": "https://www.etsy.com/listing/1830424640/2x-adhesive-tape-for-nuki-smart-door-30"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Das Produkt weist eine Super-Qualit\u00e4t auf! Kann ich so weiterempfehlen.\r\nDie Versandadresse musste korrigiert werden, was nicht gemacht wurde. Deshalb ein Punkt Abzug.",
+      "url": "https://www.etsy.com/listing/4465570293/smartlock-knob-adapter-for-kaba-door"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "Articolo perfetto, curato nei dettagli e robusto",
+      "url": "https://www.etsy.com/listing/4340239564/nuki-smart-lock-knob-adapter-5-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "super schnell sehr sch\u00f6ne qualit\u00e4t",
+      "url": "https://www.etsy.com/listing/4340765464/smart-lock-knob-adapter-aluminum"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "perfetto",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "perfetto",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Alles lief Top. Vielen Dank",
+      "url": "https://www.etsy.com/listing/4410796259/nuki-5-pro-and-5-ultra-universal-spacer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "W Polsce nie mo\u017cna korzysta\u0107 z poczty polskiej \ud83d\ude2c\ud83d\ude2c\ud83d\ude2c Lepiej ka\u017cdy rodzaj kuriera \ud83d\ude2c",
+      "url": "https://www.etsy.com/listing/4534772795/aqara-g5-35-degree-tilt-mount-camera"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-20",
+      "text": "Kleber schw\u00e4cher als erwartet, aber trotzdem noch okay",
+      "url": "https://www.etsy.com/listing/1830424640/2x-adhesive-tape-for-nuki-smart-door-30"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "Alles wie beschrieben und gute Kommutation.",
+      "url": "https://www.etsy.com/listing/4340239564/nuki-smart-lock-knob-adapter-5-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "Gute Kommunikation zur Kl\u00e4rung aller m\u00f6glichen Probleme.",
+      "url": "https://www.etsy.com/listing/1890788881/nuki-smart-lock-pro-5th-gen-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Toller Service , tolles Produkt",
+      "url": "https://www.etsy.com/listing/4532836386/ersatz-aqara-platte-36mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Personne honn\u00eate, arrangeante, produit de qualit\u00e9",
+      "url": "https://www.etsy.com/listing/4307281118/nuki-smart-lock-adhesive-tape-for-pro"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Perfetto, peccato per la spedizione che comunque ci mette dei giorni nonostante sia in europa",
+      "url": "https://www.etsy.com/listing/4471038511/smartlock-knob-adapter-for-mottura"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Super Adapter f\u00fcr das Aqara T\u00fcrschloss. Nun passt es problemlos auf den EU-Zylinder der T\u00fcre",
+      "url": "https://www.etsy.com/listing/1781369715/aqara-u200-universal-spacer-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "Ottimo prodotto come da descrizione",
+      "url": "https://www.etsy.com/listing/1784606378/knob-adapter-for-tedee-go-1-cnc-aluminum"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "Besser geht\u2019s nichts! Tolles Produkt und unglaublich starker Kundenservice",
+      "url": "https://www.etsy.com/listing/1767353420/aqara-u200-universal-spacer-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-06",
+      "text": "Produit conforme \u00e0 mes attentes",
+      "url": "https://www.etsy.com/listing/4307278828/white-decorative-cover-for-aqara"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-06",
+      "text": "Produit au top. Fid\u00e8le \u00e0 mes attentes",
+      "url": "https://www.etsy.com/listing/4401908915/protective-cover-for-aqara-doorbell-g4"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-04",
+      "text": "Top wie immer und schnell geliefert",
+      "url": "https://www.etsy.com/listing/4410275968/nuki-smart-lock-pro-5th-gen-adapter"
+    }
+  ],
   "shop_facts": {
     "country_code": "DE",
     "city": "",
     "region": "",
-    "shipping_rating": 4.764051127701198,
-    "item_quality_rating": 4.748807321149239,
-    "customer_service_rating": 4.841791847808909,
+    "shipping_rating": 4.764051127702227,
+    "item_quality_rating": 4.748807321153,
+    "customer_service_rating": 4.841791847816355,
     "average_rating": 4.71,
     "total_rating_count": 647,
     "rating_count_past_year": 647,
@@ -22,6 +386,5 @@
     "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
     "accepts_custom_requests": true
   },
-  "related_links": [],
-  "ships_from": "DE"
+  "related_links": []
 }

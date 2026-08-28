@@ -1,17 +1,381 @@
 {
   "shop": "StageTop",
   "shop_url": "https://www.etsy.com/shop/StageTop",
-  "source": "https://www.etsy.com/shop/StageTop",
+  "source": "https://www.etsy.com/shop/StageTop/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "PL",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Looks very good and fits perfect onto the tubes from my Corsair Titan.",
+      "url": "https://www.etsy.com/listing/1752015778/corsair-aio-radiator-tubes-comb-pack-of"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Great little organizer. It helps keep things in order.",
+      "url": "https://www.etsy.com/listing/4505607348/wall-mount-compatible-with-shark-stratos"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Great! Better than I would have expected from 3D printed. Smooth surface. \ud83d\udc4d\ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/4475617481/drip-tray-extender-for-jura-e8-coffee"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-16",
+      "text": "Overall, this is a high-quality container that holds water perfectly, and fits our De\u2019Longhi Magnifica plus machine exactly. The only concern was that it is just slightly too small to hold all the water that the machine puts out when descaling. If the container could just be built slightly taller so it can fully handle all the water that the machine puts out, it would be perfect. Overall, it\u2019s still usable, but you do have to pay attention and swap it out with another container briefly when there are pauses in the process, in order to ensure the container doesn\u2019t overflow.",
+      "url": "https://www.etsy.com/listing/4477270631/descaling-container-for-delonghi"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "Thank you and GOD Bless always",
+      "url": "https://www.etsy.com/listing/1686992958/archery-target-pins-bullseye-shooting"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-13",
+      "text": "It also fits the Qrevo Curv 5A1 robotic vacuum cleaner, but only just.",
+      "url": "https://www.etsy.com/listing/4491782468/reusable-dustbin-for-roborock-qrevo-curv"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "good quality",
+      "url": "https://www.etsy.com/listing/1703363503/cane-clip-for-walker-or-wheelchair"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "Recommended.\r\n\r\nI started looking for a way to extend the drip tray on our Jura E8 to support mugs with wide bases after losing a favorite coffee cup to a tile floor.\r\n\r\nI saw clip on plastic extensions, the difference here is this extension is a solid block of material that is printed to exactly match the corner of the Jura drip tray below the milk frother, and is also just the right height to lean the oversized cup slightly toward the machine for stability.\r\n\r\nThe extension is not attached to the drip tray for good reason:  the drip tray is removed frequently to remove the coffee grounds.  \r\n\r\nThat said, it is nothing to move the extension to the side, service the tray and move it back both.\r\n\r\nDefinitely solved the issue that wanted solving.\r\n\r\nThe extension arrived promptly and well packaged by regular post.",
+      "url": "https://www.etsy.com/listing/4475617481/drip-tray-extender-for-jura-e8-coffee"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "Well produced product, 3D printing came out nice and good structure. Has good details that stand out from a lower quality build.",
+      "url": "https://www.etsy.com/listing/4480301876/charging-base-for-philips-multigroom"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Amazed by the wonderful fit.",
+      "url": "https://www.etsy.com/listing/1720533260/oral-b-io-series-10-toothbrush-holder"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-03",
+      "text": "product is nice, shipping took a long time.",
+      "url": "https://www.etsy.com/listing/4476075600/steam-lever-extension-for-sage-breville"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Item is just what I was looking for.",
+      "url": "https://www.etsy.com/listing/1684486646/google-nest-wifi-point-wall-mount-smart"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "thanks for the item. seems to fit well.",
+      "url": "https://www.etsy.com/listing/4491782468/reusable-dustbin-for-roborock-qrevo-curv"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Exactly what I was after, great communication from the seller as I had used an old address for shipping and she helped me sort it out. Great product",
+      "url": "https://www.etsy.com/listing/1634091620/oral-b-electric-toothbrush-stand-family"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "What an awesome and practical product, great quality. Many thanks to the seller!",
+      "url": "https://www.etsy.com/listing/1568207736/oral-b-dock-gunk-stopper-protects-dock"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "This item is exactly what I was looking for, and works exactly as described",
+      "url": "https://www.etsy.com/listing/1703366705/oral-b-toothbrush-head-holder-pack-of-2"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "This fit perfectly into my Qrevo Curv multifunctional dock and is a quality replacement for the Roborock dust bags that have difficulty being fully utilized in the L-shaped space.  Suction when emptying the Roborock onboard dustbin is top notch with all debris ending up in the reusable dustbin seated in the dock.",
+      "url": "https://www.etsy.com/listing/4491782468/reusable-dustbin-for-roborock-qrevo-curv"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Perfect final accessory for my Dedica coffee machine, it holds perfectly firmly my portafilter so I can push my tamper as hard as I can to make a nice espresso. Highly recommended for Dedica owners!",
+      "url": "https://www.etsy.com/listing/4475630648/tamper-station-for-delonghi-dedica"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "yet to use it but looks good definitely fits for the purpose glad I was able find this coz I had lot issues find the right tray that could fit and not splatter water everywhere so this will save me slot clean ups.",
+      "url": "https://www.etsy.com/listing/4477270631/descaling-container-for-delonghi"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "fits as expected and fulfills its purpose",
+      "url": "https://www.etsy.com/listing/1752047780/ikea-skadis-wall-mount-screw-adapter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Great item and fast delivery",
+      "url": "https://www.etsy.com/listing/4490649793/hair-dryer-wall-mount-for-dyson"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Brilliant, I don\u2019t know why it\u2019s not an add on by the tooth brush company. Wow!",
+      "url": "https://www.etsy.com/listing/4475181996/oral-b-io-7-8-9-toothbrush-holder-brush"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Great gift for graduation, something to have as a keepsake. Helps my son loves frogs but a brilliant gift, well made and did not take long to arrive. Would recommend seller",
+      "url": "https://www.etsy.com/listing/1722446328/graduation-frog-3d-printed-frog-with"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-27",
+      "text": "Product is fine and works great. Cleans up the bathroom. Only suggestion would be to add something that reduces sliding of the hair dryer.",
+      "url": "https://www.etsy.com/listing/4480311837/wall-mount-holder-for-dyson-airwrap-6"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-26",
+      "text": "Ended up buying 2 more. Very clever and keeps my bathroom clean and organized.",
+      "url": "https://www.etsy.com/listing/4490649793/hair-dryer-wall-mount-for-dyson"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-23",
+      "text": "It's 3D printed and the color is nice.",
+      "url": "https://www.etsy.com/listing/4477279302/hair-dryer-and-straightener-holder-dual"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Exactly as advertised. This is what the razor should have come with. Phillips should take inspiration.",
+      "url": "https://www.etsy.com/listing/4475490235/travel-case-for-philips-oneblade-compact"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "it fits good. excellent creation",
+      "url": "https://www.etsy.com/listing/1685642479/braun-oral-b-3757-professional-series"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Perfect for hanging your Dyson",
+      "url": "https://www.etsy.com/listing/4490649793/hair-dryer-wall-mount-for-dyson"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-04",
+      "text": "Perfect, made well and just as described, thank you",
+      "url": "https://www.etsy.com/listing/4477270631/descaling-container-for-delonghi"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-31",
+      "text": "Great item! Well packed. Works as it shoud and cheaper than cupholder from cybex.",
+      "url": "https://www.etsy.com/listing/4490411098/cup-holder-for-cybex-stroller-snap-on"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-24",
+      "text": "Fit my unit perfectly and organized my mess.",
+      "url": "https://www.etsy.com/listing/4475152748/philips-sonicare-toothbrush-holder-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-22",
+      "text": "Well made, delivered as quickly as possible. \r\nExactly as described. \r\nVery pleased, thank you!",
+      "url": "https://www.etsy.com/listing/4475490235/travel-case-for-philips-oneblade-compact"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-21",
+      "text": "I like this heavy duty wall hook. From the picture I thought it was larger. I would like to buy larger ones. perhaps you could put the measurements in with the pictures.",
+      "url": "https://www.etsy.com/listing/4478872670/heavy-duty-wall-hook-multi-purpose"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-19",
+      "text": "Grwat product very easy to install.",
+      "url": "https://www.etsy.com/listing/1761802703/makita-18v-charger-wall-mount-foot"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-19",
+      "text": "As described, well made, very useful.",
+      "url": "https://www.etsy.com/listing/4476067348/tamping-station-for-58mm-portafilter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-16",
+      "text": "This item fits the Google Nest Mesh Point perfectly. Be aware it does not fit the router.",
+      "url": "https://www.etsy.com/listing/1684486646/google-nest-wifi-point-wall-mount-smart"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "This is genius! I love it. It sticks perfectly and everything is satisfyingly organised.",
+      "url": "https://www.etsy.com/listing/4476063406/cling-wrap-organizer-cabinet-door-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "Perfect for toothbrush head storage for travel. I've used it already and it was just what I needed.",
+      "url": "https://www.etsy.com/listing/1734720201/toothbrush-travel-case-for-oral-b-heads"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-05",
+      "text": "Fast delivery, my Makita battery charger fits perfectly.",
+      "url": "https://www.etsy.com/listing/4490408601/charger-wall-mount-for-makita-dc18sd-and"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-02",
+      "text": "The seller included an extra piece, which was nice! However, it was missing several zip ties. A useful item that takes a very long time to ship, no surprise since it\u2019s from overseas. Thank you!",
+      "url": "https://www.etsy.com/listing/1703363503/cane-clip-for-walker-or-wheelchair"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-30",
+      "text": "Excellent and very friendly seller.",
+      "url": "https://www.etsy.com/listing/1705378587/eureka-mignon-funnel-spout-espresso"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-27",
+      "text": "Item works quite well holding a cane on a walker.",
+      "url": "https://www.etsy.com/listing/1703363503/cane-clip-for-walker-or-wheelchair"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-26",
+      "text": "Solid - good product, fast delivery.",
+      "url": "https://www.etsy.com/listing/4369468619/co2-cylinder-for-sparkling-water-maker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-13",
+      "text": "Such a great item, exactly as described. Thank you!",
+      "url": "https://www.etsy.com/listing/1671638106/google-home-nest-mini-stand-smart"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-13",
+      "text": "Items were exactly as described. Very nice and I'm very happy. Thank you!",
+      "url": "https://www.etsy.com/listing/1681300528/google-nest-hub-wall-mount-smart-speaker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-09",
+      "text": "Works perfectly on my mom\u2019s walker",
+      "url": "https://www.etsy.com/listing/1703363503/cane-clip-for-walker-or-wheelchair"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-06",
+      "text": "Happy with the purchase, item as described",
+      "url": "https://www.etsy.com/listing/4370471470/oral-b-io-toothbrush-stand-countertop"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-05",
+      "text": "Great storage for Clingfilm snd foil it\u2019s perfect thanks",
+      "url": "https://www.etsy.com/listing/1749375948/kitchen-foil-tray-holder-kitchen"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-30",
+      "text": "Worked perfectly on two different walkers. Great job.",
+      "url": "https://www.etsy.com/listing/1703363503/cane-clip-for-walker-or-wheelchair"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "Absolutely perfect addition for Frosthaven.  Im considering getting a second one, because its so handy having the tokens in the slots, vs in the centre.  \n\nIt\u2019s nice and sturdy, there\u2019s no fear someone will accidentally knock it over",
+      "url": "https://www.etsy.com/listing/1688237854/gloomhaven-token-holder-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-25",
+      "text": "Great solution to storage of electric toothbrushes",
+      "url": "https://www.etsy.com/listing/1634091620/oral-b-electric-toothbrush-stand-family"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-25",
+      "text": "It\u2019s a simple item but it\u2019s well made and looks nice on our countertop. Holds the filters tidy.",
+      "url": "https://www.etsy.com/listing/1685639025/hario-v60-filter-holder-coffee-station"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-24",
+      "text": "Thank you. Love it. I just hope it lasts being made out of wood.",
+      "url": "https://www.etsy.com/listing/4370471470/oral-b-io-toothbrush-stand-countertop"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Fait parfaitement ce pour quoi il sert",
+      "url": "https://www.etsy.com/listing/1583031365/pc-fan-deflector-improve-airflow-cooling"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "Die Ware war leider defekt von der Lieferung. Mir wurde sofort Ersatz versprochen. Das fand ich sehr nett.\r\nEs wurde sehr rasch auf mein Anliegen geantwortet.",
+      "url": "https://www.etsy.com/listing/1761797625/small-shipping-container-organizer-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Passt sehr gut als Alternative zum originalen Artikel.",
+      "url": "https://www.etsy.com/listing/1637434096/nespresso-essenza-coffee-maker-upgraded"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": ".",
+      "url": "https://www.etsy.com/listing/4478858068/baseball-cap-wall-rack-four-clip-hat"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "Je suis vraiment tr\u00e8s satisfaite de cet achat, tellement pratique. La conception est g\u00e9niale. Tr\u00e8s bonne r\u00e9activit\u00e9 du vendeur. Envoi rapide. Je recommande et le produit et la boutique ! Merci",
+      "url": "https://www.etsy.com/listing/4475613087/bedside-organizer-hook-on-storage-box"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "correspond \u00e0 mes attentes",
+      "url": "https://www.etsy.com/listing/1769541161/two-cats-hugging-with-heart-shaped-tails"
+    }
+  ],
   "shop_facts": {
     "country_code": "PL",
     "city": "",
     "region": "",
-    "shipping_rating": 4.5817701544658345,
-    "item_quality_rating": 4.582772666572057,
-    "customer_service_rating": 4.602826282568609,
+    "shipping_rating": 4.581770154460279,
+    "item_quality_rating": 4.582772666570166,
+    "customer_service_rating": 4.602826282564674,
     "average_rating": 4.54,
     "total_rating_count": 694,
     "rating_count_past_year": 694,
@@ -22,6 +386,5 @@
     "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
     "accepts_custom_requests": true
   },
-  "related_links": [],
-  "ships_from": "PL"
+  "related_links": []
 }

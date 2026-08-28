@@ -1,27 +1,390 @@
 {
   "shop": "kingscreationsusa",
   "shop_url": "https://www.etsy.com/shop/kingscreationsusa",
-  "source": "https://www.etsy.com/shop/kingscreationsusa",
+  "source": "https://www.etsy.com/shop/kingscreationsusa/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "US",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "I love her work , everything is on time Great customer service. I do recommend 10/10",
+      "url": "https://www.etsy.com/listing/1806412538/mugler-50ml-and-25ml-star-perfume-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "great customer service! BEAUTIFUL product! perfect addition for our family Crab-i-tat! One of the pools unfortunately was damaged upon arriving and set up, but when I reached out to seller they were FAST to respond and even faster to send a replacement! Great quality and amazing service!",
+      "url": "https://www.etsy.com/listing/1493405255/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "It\u2019s absolutely beautiful. I can\u2019t wait to use this much like a tower of doom for important dice rolls in my game.",
+      "url": "https://www.etsy.com/listing/1734177869/damned-souls-dice-tower-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "I love this. it us exactly \ud83d\udcaf what I needed. holds 2 balks of yarn, perfect for my projects and lightweight.",
+      "url": "https://www.etsy.com/listing/1428169911/yarn-bowl-3d-printed-high-quality-sturdy"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Exactly what I needed. Works perfect. Thank you!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "These hermit crab pools are perfect because the air holes for the water bubblers are large enough that they don\u2019t get clogged all the time. They are easy to clean as well.",
+      "url": "https://www.etsy.com/listing/1866399338/hex-hermit-crab-pools-with-middle-bubble"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-12",
+      "text": "I absolutely love these water pools. I've been working on a bigger crabitat for my crabs and these are going to be their new pools. My only issue is the fresh water one is leaking. I would fill it up and walk back about 30 minutes later and it's around half full, though I'm sure I'll be able to figure out the source of the leak soon and get it patched. Other than that, these are absolutely fantastic pools and I highly recommend.",
+      "url": "https://www.etsy.com/listing/1510292631/castle-hermit-crab-pool-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "beautiful!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Beautiful colors, great customer service, bubbler works, happy crabs and mom \ud83d\ude0a",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "took a little longer than expected but the owner was very sweet and kept me updated. I am very pleased with how they came out!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "These pools are so nice, I was worried they might not be big enough for my jumbo crab to fully submerge but they\u2019re more than big enough! They fit into my tank so well and add a natural looking water area. Definitely recommend!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Great job really enjoyed and is a huge hit at the car shows!",
+      "url": "https://www.etsy.com/listing/1672483130/v8-engine-ice-block-3d-printed-can"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Purchased from buyer several times, never disappointed.",
+      "url": "https://www.etsy.com/listing/1806412538/mugler-50ml-and-25ml-star-perfume-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "Perfect size for my crabs and they love to climb in and out of the deep pools! Highly reccomend",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Works very well, no issues.",
+      "url": "https://www.etsy.com/listing/1866399338/hex-hermit-crab-pools-with-middle-bubble"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "I wouldn\u2019t order from this place again. Shipping was way too long!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-31",
+      "text": "These stitch markers are perfect for Large projects!! The small kind usually get lost. So these are amazing for visual finding & marking placement for projects! Love it!",
+      "url": "https://www.etsy.com/listing/1453632282/knit-marker-3d-printed-lock-marker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "I LOVE how these pools look in my tank! Thank you so much! I'm fighting high humidity in there right now but I definitely plan to attach them to a bubbler soon! \ud83d\ude0d",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-29",
+      "text": "Shipping did take quite a while. The product does exactly what I needed it to do as the perfume bottle is such an inconvenient shape. Overall, pleased with it!!",
+      "url": "https://www.etsy.com/listing/1806412538/mugler-50ml-and-25ml-star-perfume-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "I love it love it well worth the money",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Great Pools! Of course they are made to order so the time to make them was slightly longer then I thought, but seller informed me along the way and messaged me back when I messaged him. Offered refund as they were taking longer than expected but I declined. Continued to wait and glad I did. They are just what I wanted!",
+      "url": "https://www.etsy.com/listing/1866399338/hex-hermit-crab-pools-with-middle-bubble"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Just what I needed. Thank you.",
+      "url": "https://www.etsy.com/listing/1426402299/aldi-coin-holder-3d-printed-coin-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Whimsical and great for crafters!",
+      "url": "https://www.etsy.com/listing/1903472369/xx-large-sleeping-horned-dragon-yarn"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "love my new water dishes. took longer to make/ship than was quoted (popular color probs) but the quality was worth the wait",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Nice work on the 3d printing.",
+      "url": "https://www.etsy.com/listing/1472843663/vape-atomizer-dripper-rdta-rda-rta-tank"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "great quality. my Hermies love their new bubble baths! thank you!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Great item. Fast shipping, would purchase from here again!",
+      "url": "https://www.etsy.com/listing/1463058596/custom-trading-card-stand-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "These are SO gorgeous omg. I got the black and green shift option. They look GORGEOUS in dark settings as well as light. Here is them in the sun for reference. Can\u2019t wait to use the bubbler feature! My babies are gonna love this. Seller is also very sweet from our brief interaction. I\u2019m literally obsessed with these ahhhh!!!\ud83d\udc95",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "I love this product",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "These are exactly as pictured. They are strong , well designed and work perfectly",
+      "url": "https://www.etsy.com/listing/1439153524/yarn-bobbins-yarn-winder-yarn-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "This is such a fun little yarn bowl. Fun and quirky. They shipping did take a bit but that\u2019s not a huge deal.",
+      "url": "https://www.etsy.com/listing/1457158368/cauldron-yarn-bowl-with-lid-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "I love how it turned out",
+      "url": "https://www.etsy.com/listing/1726394141/sleeping-horned-dragon-yarn-bowl-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Item as described, great for older Mathews bows!",
+      "url": "https://www.etsy.com/listing/1698091693/compound-bow-legs-o-3d-printed-o-engage"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-08",
+      "text": "The yarn bowls I ordered are so cute and will make wonderful additions to my collection of yarn bowls.",
+      "url": "https://www.etsy.com/listing/1481770661/frog-yarn-bowl-3d-printed-animal-yarn"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Great communication and very cool design",
+      "url": "https://www.etsy.com/listing/1463058596/custom-trading-card-stand-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "Wonderful! Thank you so much!",
+      "url": "https://www.etsy.com/listing/1452580509/slug-fidget-toy-articulated-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "Love them, so do my cats",
+      "url": "https://www.etsy.com/listing/1452580509/slug-fidget-toy-articulated-3d-printed"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-07",
+      "text": "Love the stands!! Great item, sturdy, and great color. Seller was not timely with shipment in my opinion. Items took over 2 weeks to ship. Items were purchased on 06/16 and just delivered on 07/06. Just an FYI. But other than that I would order again but with an adjusted expectation.",
+      "url": "https://www.etsy.com/listing/1806412538/mugler-50ml-and-25ml-star-perfume-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "The even spacing of holes and width in which they are separated, makes this board convenient easy to use",
+      "url": "https://www.etsy.com/listing/1407727412/blocking-board-4-wooden-dowels-included"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-04",
+      "text": "The castles are awesome.  I love  that I can attach my bubbler to the top. The castle itself it quite large and thick. They are not to deep though.  its good for smaller crabs. They did take a while to arrive but it was worth the wait.",
+      "url": "https://www.etsy.com/listing/1510292631/castle-hermit-crab-pool-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "As expected. Works and fits my Matthew's Vertix like a charm. The printing on the bottom of the legs got a little sloppy but I have to keep it at 5 stars for the price. Especially compared to the Matthew's options.",
+      "url": "https://www.etsy.com/listing/1698091693/compound-bow-legs-o-3d-printed-o-engage"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "I am very pleased with my orders and I highly recommend seller. 10/10",
+      "url": "https://www.etsy.com/listing/1691136546/mugler-travel-perfume-stand-3d-printed"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-26",
+      "text": "Took almost a month from placing order to receiving the item.  Every step was slow.",
+      "url": "https://www.etsy.com/listing/1698091693/compound-bow-legs-o-3d-printed-o-engage"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "It\u2019s a wonderful pool for hermit crabs, the little holes at the bottom can get clogged pretty easily so you have to get a little wire brush to clean them, but other than that? 100% recommend!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Measurements were accurate, and creates lots of bubbles, perfect pools for the shell boys.",
+      "url": "https://www.etsy.com/listing/1493405255/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Loveee these bubblers! Perfect salt and fresh pools for my hermies.",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Needed an easy to use quarter holder for my elderly father.  This is perfect for arthritic fingers.",
+      "url": "https://www.etsy.com/listing/1426402299/aldi-coin-holder-3d-printed-coin-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Shipped out fast but the usps is horrible",
+      "url": "https://www.etsy.com/listing/1698091693/compound-bow-legs-o-3d-printed-o-engage"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-08",
+      "text": "Although the items arrived 10 days late, and didn\u2019t get an update from the seller until the item was delivered. But they came wrapped nicely in the packaging & got to me safely. The pools work as described, they do splatter a bit but my enclosure needs help with humidity so that\u2019s okay. They look great in my enclosure, and do the job they are meant to so I can\u2019t complain about the quality! (=",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-07",
+      "text": "Very excited for my hermit friend to use this!",
+      "url": "https://www.etsy.com/listing/1545889213/hermit-crab-skull-hut-3d-printed-hermit"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-30",
+      "text": "I really would love to be able to review this item! It\u2019s been almost a month since I ordered, and it hasn\u2019t shipped yet. I\u2019ve tried reaching out to the seller several times, and really this is just another attempt to contact them. I hate to pester and leave a bad review, but it\u2019s just hard when there\u2019s no communication and Etsy can\u2019t seem to help me either. \ud83d\ude1e",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-30",
+      "text": "Great product. It works just as good as brand names just cheaper",
+      "url": "https://www.etsy.com/listing/1698091693/compound-bow-legs-o-3d-printed-o-engage"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Perfect and fast shipping, thanks",
+      "url": "https://www.etsy.com/listing/1463058596/custom-trading-card-stand-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Perfect and fast shipping. Thanks",
+      "url": "https://www.etsy.com/listing/1463058596/custom-trading-card-stand-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-28",
+      "text": "These pools are perfect for my hermit crabs. Well made, pretty colors, and great size! \nThere was a small issue with the first set I got (not sellers fault) and they responded to me, were super kind, and replaced the pools with no issue! Can\u2019t say how much I appreciate that. \nThe pools are great, but buying from someone who is honest, kind, and helpful is why I\u2019ll buy from them again!\nThank you!!",
+      "url": "https://www.etsy.com/listing/1477880226/hermit-crab-pool-o-3d-printed-o-hermit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-28",
+      "text": "Love this dish so much. Super cute and perfect for the crabs!",
+      "url": "https://www.etsy.com/listing/1545908219/hermit-crab-feeding-dish-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "they arrived in great condition, just like I envisioned them! thank you!",
+      "url": "https://www.etsy.com/listing/1463058596/custom-trading-card-stand-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-26",
+      "text": "Fast delivery, perfect for my Angel Mugler 50ml parfum bottles.",
+      "url": "https://www.etsy.com/listing/1806412538/mugler-50ml-and-25ml-star-perfume-stand"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-25",
+      "text": "the blockers work well thanks",
+      "url": "https://www.etsy.com/listing/1407727412/blocking-board-4-wooden-dowels-included"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-24",
+      "text": "Worked as it should on a V3X. Seems to be well made.",
+      "url": "https://www.etsy.com/listing/1698091693/compound-bow-legs-o-3d-printed-o-engage"
+    }
+  ],
   "shop_facts": {
     "country_code": "US",
     "city": "",
     "region": "",
-    "shipping_rating": 4.680893603038378,
-    "item_quality_rating": 4.760520325747906,
-    "customer_service_rating": 4.642491416191118,
+    "shipping_rating": 4.680893603029552,
+    "item_quality_rating": 4.760520325744293,
+    "customer_service_rating": 4.642491416186962,
     "average_rating": 4.7,
     "total_rating_count": 4917,
     "rating_count_past_year": 4917,
-    "sold_count": 19517,
+    "sold_count": 19518,
     "active_listing_count": 141,
     "create_date": 1572715960,
     "is_open": true,
     "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
     "accepts_custom_requests": false
   },
-  "related_links": [],
-  "ships_from": "US"
+  "related_links": []
 }

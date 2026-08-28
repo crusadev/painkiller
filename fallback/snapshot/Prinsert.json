@@ -1,17 +1,381 @@
 {
   "shop": "Prinsert",
   "shop_url": "https://www.etsy.com/shop/Prinsert",
-  "source": "https://www.etsy.com/shop/Prinsert",
+  "source": "https://www.etsy.com/shop/Prinsert/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "DE",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Aaaaa++++ seller will buy again",
+      "url": "https://www.etsy.com/listing/4546150054/wondrous-creatures-organizer-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Thank you so much, awesome product!",
+      "url": "https://www.etsy.com/listing/4537524002/rebirth-bag-for-game-pieces-chips-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Thank you, everything as expected",
+      "url": "https://www.etsy.com/listing/4467225022/rebirth-3d-upgrade-tokens-deluxe-tokens"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Absolutely perfect! Beautifully made and arrived quickly.",
+      "url": "https://www.etsy.com/listing/4546150054/wondrous-creatures-organizer-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Arrived fast and as described. Thank you!",
+      "url": "https://www.etsy.com/listing/1861985596/arkham-horror-connecting-arrows-arkham"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Absolutely impressed with the quality of this. Really great insert; fits perfectly.",
+      "url": "https://www.etsy.com/listing/4516819059/rebirth-insert-with-pouches-and-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "As promised, also fits very well in the original box.",
+      "url": "https://www.etsy.com/listing/1877268387/bomb-busters-cable-holder-upgrade-insert"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "This is a really great insert and would 100% recommend it. Unfortunately I didn't read the whole description and missed where it was not for first run of the retail edition, so I cannot use the castle trays. This was 100% my fault. I am still using all of it now but the castle trays.",
+      "url": "https://www.etsy.com/listing/4516819059/rebirth-insert-with-pouches-and-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Excellent addition to the game. A friend saw it and immediately wanted one too. What better advertisement do you want?",
+      "url": "https://www.etsy.com/listing/1883609327/mixed-forest-insert-forest-shuffle-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "nicely fits the base game and expansion",
+      "url": "https://www.etsy.com/listing/4437759139/seti-insert-with-extension-for-space"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "I didn't believe how much better this storage system, corporation trays and tokens are so well made! This is amazing, tokens are incredibly cool, trays are so strudy and well made with high quality material far stronger than normal thin storages systems are out here in Etsy.\r\nWithout mentioning that eveything fit in the box in an incredible smart way.\r\nHigly reccommended.",
+      "url": "https://www.etsy.com/listing/4385576211/moon-base-shackleton-base-insert"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "One of the best organizer that I've ever seen; well designed, sturdy and helps organize everything quickly",
+      "url": "https://www.etsy.com/listing/4512714244/saltfjord-insert-sleeves-compatible"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "I arrived as scheduled. \r\nThank you very much.",
+      "url": "https://www.etsy.com/listing/1877268387/bomb-busters-cable-holder-upgrade-insert"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "I love it! It\u2019s going to make game setup so much easier \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/4340027887/everdell-duo-insert-organizer-sleeves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Beautifully crafted and fast shipping!",
+      "url": "https://www.etsy.com/listing/4458386671/river-of-gold-3d-upgrade-token-river-of"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Good quality, Clean condition, Perfect!",
+      "url": "https://www.etsy.com/listing/1866134882/4x-seti-token-and-card-holder-token-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Good quality, Clean condition, Perfect!",
+      "url": "https://www.etsy.com/listing/1880348897/seti-display-card-holder-card-holder"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Good quality, Clean condition, Perfect!",
+      "url": "https://www.etsy.com/listing/4437759139/seti-insert-with-extension-for-space"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "wonderful insert for scythe! Made clean up a breeze and pickup games so easy to set up and love that there's room for the expansions. Great seller with a great product.",
+      "url": "https://www.etsy.com/listing/4376404467/scythe-insert-with-expansions-sleeves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Excellent quality! Great seller with fast delivery!",
+      "url": "https://www.etsy.com/listing/4320939991/life-of-the-amazonia-token-sleeves-188"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Excellent product as advertised and delivered in a reasonable time.",
+      "url": "https://www.etsy.com/listing/4488330941/wingbeat-insert-with-expansion-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Excellent quality and fast delivery!",
+      "url": "https://www.etsy.com/listing/1876292073/seti-upgrade-token-credits-energy-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Fantastic quality item which arrived really quickly. Easy to follow instructions for how to arrange the insert. Would definitely buy from this seller again. Thank you!",
+      "url": "https://www.etsy.com/listing/4437759139/seti-insert-with-extension-for-space"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "My moon base never looked so good.",
+      "url": "https://www.etsy.com/listing/4386106946/moonbase-shackleton-base-3d-token"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "great quality insert",
+      "url": "https://www.etsy.com/listing/4400515879/artengarten-insert-organizer-sanctuary"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-02",
+      "text": "Great quality, however it does not work for the version with bigger and more Castles. The Castles won\u2019t fit the insert and the insert won\u2019t fit the map + is too small for the box.",
+      "url": "https://www.etsy.com/listing/4516819059/rebirth-insert-with-pouches-and-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "I never write reviews, I'm usually happy with overall quality with what I buy online but this time I felt I needed to. I'm used to other premium inserts like E-Raptor or Laserox (wooden ones), but Prinsert really established a benchmark here, we're talking distinction levels, make no mistake. I love playing Emberleaf solo but the setup/teardown without an insert sometimes makes me leave the game on the shelf. Well, this insert helps not only with setup/teardown but you can see the designer was thinking \"how can I pull the boxes from the box and integrate them with the game?\". The worker boxes fit exactly their spaces, (FINALLY) card boxes that really allow sleeved cards, and the locations tiles tray is superb. I'm really speachless, it's not cheap but it's worth every penny.",
+      "url": "https://www.etsy.com/listing/4490579766/emberleaf-insert-with-trophies-bonuses"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-28",
+      "text": "Not the biggest fan of Deep Regrets but this insert makes the setup extremely easy. Simply pull the containers out of the box, shuffle the cards and you're ready to play. I really like the quality of the materials and I was pleasantly surprised to also get a guide on how each slot fits in the box and how I should organise them.",
+      "url": "https://www.etsy.com/listing/4336363339/deep-regrets-insert-organizer-sleeves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-28",
+      "text": "Really happy with the insert. Everything fits perfectly in the box and it makes it super easy to set up a game.",
+      "url": "https://www.etsy.com/listing/4400515879/artengarten-insert-organizer-sanctuary"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-25",
+      "text": "really good materials, well built, fits perfectly in the box",
+      "url": "https://www.etsy.com/listing/1883609327/mixed-forest-insert-forest-shuffle-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Great replacement to include dragon academy in one box. If you've bought stonemaier upgraded resources they won't all fit in. But otherwise no complaints.",
+      "url": "https://www.etsy.com/listing/4488330941/wingbeat-insert-with-expansion-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-21",
+      "text": "Great insert, it was a perfect fit and very well done",
+      "url": "https://www.etsy.com/listing/4307476837/wondrous-creatures-insert-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "This insert is high quality - one of the best I\u2019ve purchased. Every piece has a place, and it streamlines cleanup and teardown tremendously. There\u2019s plenty of room for expansion content and deluxe components, which I plan on getting soon.",
+      "url": "https://www.etsy.com/listing/4490579766/emberleaf-insert-with-trophies-bonuses"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "Great quality pieces. Can\u2019t wait to give as a gift",
+      "url": "https://www.etsy.com/listing/4381643954/arcs-insert-organizer-with-dice-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Quick service, exactly what I wanted.",
+      "url": "https://www.etsy.com/listing/1833567738/seti-insert-sleeves-compatible-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "Well made. The items fit the box perfectly.",
+      "url": "https://www.etsy.com/listing/1833567738/seti-insert-sleeves-compatible-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "Well made. Everything fits the box perfectly.",
+      "url": "https://www.etsy.com/listing/1833567738/seti-insert-sleeves-compatible-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Incredible design that is probably the most durable material i have as an organizer. Looks sleek on the table too. Love it and will be buying from here again- worth the price!",
+      "url": "https://www.etsy.com/listing/4458108345/recall-insert-sleeves-compatible-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-12",
+      "text": "Great quality and improves setup time",
+      "url": "https://www.etsy.com/listing/1877268387/bomb-busters-cable-holder-upgrade-insert"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "very good tokens! super fast shipping!",
+      "url": "https://www.etsy.com/listing/4480011581/galactic-cruise-3d-token-upgrade-deluxe"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-10",
+      "text": "Fits perfectly! Everything is well organised and makes setup much easier!! 100% recomended!!",
+      "url": "https://www.etsy.com/listing/4458108345/recall-insert-sleeves-compatible-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "schnelle Lieferung,  toller Einsatz, endlich ist alles ordentlich verstaut",
+      "url": "https://www.etsy.com/listing/1883609327/mixed-forest-insert-forest-shuffle-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "alles top, gerne wieder",
+      "url": "https://www.etsy.com/listing/4376404467/scythe-insert-with-expansions-sleeves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Alles super, vielen Dank! Schneller Versand und sch\u00f6nes Zubeh\u00f6r f\u00fcr Everdell.",
+      "url": "https://www.etsy.com/listing/1809573121/everdell-upgrade-kit-expansion-token"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Toller Service",
+      "url": "https://www.etsy.com/listing/4518242364/vale-of-eternity-insert-with-expansions"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Tolles Insert und noch besserer Kundenservice!",
+      "url": "https://www.etsy.com/listing/4516819059/rebirth-insert-with-pouches-and-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "wie immer ein sehr sch\u00f6nes und qualitativ hochwertiges Insert. Alles wie beschrieben und sehr passgenau. Sehr zu empfehlen.",
+      "url": "https://www.etsy.com/listing/4532588416/orloj-insert-horologium-compatible"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Erleichtert das 2-Spieler Set-up wirklich ungemein - tolle Idee",
+      "url": "https://www.etsy.com/listing/4537505395/rebirth-2-player-cover-aid-tiles-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Sehr liebevoll verpackt und zusammengestellt. Alles ist passgenau und wertet das Spiel definitiv auf. Vielen Dank an den Verk\u00e4ufer!",
+      "url": "https://www.etsy.com/listing/1809573121/everdell-upgrade-kit-expansion-token"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Me ha entrado todo perfecto\u2026",
+      "url": "https://www.etsy.com/listing/1843724693/nucleum-upgrade-token-nucleum-power"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Me ha encantado todo genial\u2026",
+      "url": "https://www.etsy.com/listing/1829028394/nucleum-insert-with-extensions-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Ich bin total zufrieden mit dem Inlay!",
+      "url": "https://www.etsy.com/listing/1883609327/mixed-forest-insert-forest-shuffle-inlay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Insert parfaitement fonctionnel pour Dartmoor + Exmoor",
+      "url": "https://www.etsy.com/listing/4525018924/mixed-forest-dartmoor-insert-extension"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "Eccellente sotto ogni punto di vista!",
+      "url": "https://www.etsy.com/listing/4525018924/mixed-forest-dartmoor-insert-extension"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "perfektes Insert - alles super organisiert und perfekt verr\u00e4umt",
+      "url": "https://www.etsy.com/listing/4307476837/wondrous-creatures-insert-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Alles Bestens. Top Qualit\u00e4t, schnelle und sichere Lieferung und tolle Anleitung.",
+      "url": "https://www.etsy.com/listing/4526206390/kilia-board-game-insert-organizer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Alles Bestens. Top Qualit\u00e4t, schnelle und sichere Lieferung und tolle Anleitung.",
+      "url": "https://www.etsy.com/listing/4376404467/scythe-insert-with-expansions-sleeves"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Alles Bestens. Top Qualit\u00e4t, schnelle und sichere Lieferung und tolle Anleitung.",
+      "url": "https://www.etsy.com/listing/4518242364/vale-of-eternity-insert-with-expansions"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Ruckzuck Tipp Top es wertet das Spiel praktisch und optoptisch",
+      "url": "https://www.etsy.com/listing/4516819059/rebirth-insert-with-pouches-and-3d"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-08",
+      "text": "Ich bin vom Gesamtpaket begeistert, wenngleich die Qualit\u00e4t der Credit-Tokens entt\u00e4uscht (die schwarze Umrandung der Zahlen ist bei all meinen Tokens verlaufen).\r\n\r\n+Versand erfolgte im angegebenen Zeitfenster. \r\n+Ware kam gut verpackt an.",
+      "url": "https://www.etsy.com/listing/4386106946/moonbase-shackleton-base-3d-token"
+    }
+  ],
   "shop_facts": {
     "country_code": "DE",
     "city": "",
     "region": "",
-    "shipping_rating": 4.882499653470787,
-    "item_quality_rating": 4.936249373371989,
-    "customer_service_rating": 4.9346422304344735,
+    "shipping_rating": 4.882499653470679,
+    "item_quality_rating": 4.936249373368561,
+    "customer_service_rating": 4.934642230440077,
     "average_rating": 4.94,
     "total_rating_count": 783,
     "rating_count_past_year": 783,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "https://www.instagram.com/prinsert.de/"
-  ],
-  "ships_from": "DE"
+  ]
 }

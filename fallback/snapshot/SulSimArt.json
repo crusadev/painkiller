@@ -1,17 +1,381 @@
 {
   "shop": "SulSimArt",
   "shop_url": "https://www.etsy.com/shop/SulSimArt",
-  "source": "https://www.etsy.com/shop/SulSimArt",
+  "source": "https://www.etsy.com/shop/SulSimArt/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "LT",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "perfect gift",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "Exactly as described, arrived early, and was a truly spectacular gift.",
+      "url": "https://www.etsy.com/listing/1662228226/the-nicolas-cage-planter-for-house"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Perfect for what I needed it for. Nice little trophy and great that you can put your own message on. Arrived on time and was well packaged.",
+      "url": "https://www.etsy.com/listing/4434526559/mini-meme-trophies-personalizable-funny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-25",
+      "text": "Bought this as a gift for my son and I\u2019m thrilled with it! They really captured Frank Reynolds perfectly, funny, detailed, and surprisingly sturdy.  My son is a super fan of \u201cIt\u2019s Always Sunny in Philadelphia\u201d and I know he\u2019s going to love this.  Great size for a small plant planter or whatever they decide to do with it! It\u2019s awesome!",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "The seller did an excellent job in communicating and creating the item as requested. The shipping method showed attention to detail, and ensuring the item arrived undamaged. Would absolutely recommend the seller and their products!",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Love the item thank you, top quality",
+      "url": "https://www.etsy.com/listing/1650774514/runescape-halloween-mask-3d-wall-art-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Loved it, looks amazing thank you",
+      "url": "https://www.etsy.com/listing/1690153127/oldschool-runescape-general-graardor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Fast delivery and printed to specs. Excellent value, thank you!",
+      "url": "https://www.etsy.com/listing/4532860884/custom-order-for-joan"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Great item, well made. My friend loved it.",
+      "url": "https://www.etsy.com/listing/1494600748/the-duck-you-original-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "As expected, well packaged. Thanks!",
+      "url": "https://www.etsy.com/listing/4553248094/10-extra-tiles"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Lovely item, as described, great gift. Will be ordering more soon. Thank you!",
+      "url": "https://www.etsy.com/listing/4322583170/3d-printed-biking-distance-tracker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "fantastic item, great quality my movie mad son will love this!!",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "this sign was the perfect touch in our retro cafe",
+      "url": "https://www.etsy.com/listing/4509115508/custom-mid-century-modern-sign"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Really nice quality, very happy \ud83d\ude01",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "Cool item looks as described",
+      "url": "https://www.etsy.com/listing/4511508511/adjustable-paper-towel-holder-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Looks great, can\u2019t wait to have this up in my kitchen!",
+      "url": "https://www.etsy.com/listing/4312024799/3d-printed-pizza-slice-wall-art-playful"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "It was cute and a perfect gift",
+      "url": "https://www.etsy.com/listing/1805553155/muscular-arms-rubber-duck-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "recommend",
+      "url": "https://www.etsy.com/listing/4348188624/highland-cow-ghost-figurine-funny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "Creepy and beautiful, obsessed with this duck",
+      "url": "https://www.etsy.com/listing/4335142852/cursed-rubber-duck-figurine-creepy-human"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Thanks much. Arrived as expected.",
+      "url": "https://www.etsy.com/listing/1796045565/golden-potato-of-luck-desk-decoration-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Love this item, super fun and silly. I\u2019m sure the recipient will love it. Thanks",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Love my new Danny planter, very happy!",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Was a gift. He loved it!",
+      "url": "https://www.etsy.com/listing/4324955237/frog-headphone-holder-cute-desk-clamp"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Love the vibrant colours! Genuinely looks just like Danny DeVito too",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Fantastic for the movie lovers out there!",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "I love nicolas cage",
+      "url": "https://www.etsy.com/listing/1651113953/nicolas-cage-in-cage-3d-printed-meme"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "I love it, quirky & humorous.",
+      "url": "https://www.etsy.com/listing/4324889174/retro-taco-wall-decor-funny-kitsch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "I love it, quirky & humorous.",
+      "url": "https://www.etsy.com/listing/4312024799/3d-printed-pizza-slice-wall-art-playful"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "top",
+      "url": "https://www.etsy.com/listing/4391285336/mood-ducks-set-of-4-cute-3d-printed-desk"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "great seller and great service",
+      "url": "https://www.etsy.com/listing/4392109755/basketball-headset-holder-funny-desk"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "so funny and very well made!",
+      "url": "https://www.etsy.com/listing/1769873563/ryan-gosling-planter-for-house-plants"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "so funny",
+      "url": "https://www.etsy.com/listing/1775680784/3d-printed-muscular-legs-duck-meme-jeep"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "This is absolutely adorable & will make a great gift for a movie lover I know!",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Very nicely done 3D print work!  My wife loves Always Sunny and thought it was perfect!",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Great gift item, good seller",
+      "url": "https://www.etsy.com/listing/1656794796/buff-duck-figurine-magnetic-keytool"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "thanks!",
+      "url": "https://www.etsy.com/listing/4493530337/abstract-black-panther-sculpture"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "These are exactly what I was looking for! Super cute and they look like I expected. Delivery within the timeframe indicated as well.",
+      "url": "https://www.etsy.com/listing/4434526559/mini-meme-trophies-personalizable-funny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Great gift idea. My daughter will love this, as a huge film fan. Great quality, well packaged so no damage and quick delivery.",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Great product, fast delivery. Would recommend.",
+      "url": "https://www.etsy.com/listing/1671001721/old-school-runescape-custom-number"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Great product, fast delivery. Would recommend.",
+      "url": "https://www.etsy.com/listing/1805557711/oldschool-runescape-rune-storage-box-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Arrived really quickly, such a fun item and the glow in the dark works so well!!",
+      "url": "https://www.etsy.com/listing/1706977828/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "Excellent service and excellent product!",
+      "url": "https://www.etsy.com/listing/4393191727/books-read-tracker-custom-name-option"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "Loved this item!! Came on time and the magnets work so well!! The color looks off in the photo because of a shadow but the horns are identical in person",
+      "url": "https://www.etsy.com/listing/1702220980/bowser-inspired-horns-hat-charm-bucket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-06",
+      "text": "Seller was able to fulfill my custom order request and communicated in a timely matter. Item quality is good and makes for a great gift.",
+      "url": "https://www.etsy.com/listing/4434526559/mini-meme-trophies-personalizable-funny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-01",
+      "text": "Great product and good price. Would highly recommend",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "Excellent, exactly as described.",
+      "url": "https://www.etsy.com/listing/1702203000/danny-devito-planter-frank-reynolds-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "A bit bigger than I thought it would be but still great!",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "Perfect and just as described.  Thanks!",
+      "url": "https://www.etsy.com/listing/4445456645/shows-watched-tracker-3d-printed-tv-show"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "Perfect and just as described.  Thanks!",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "Perfect and as advertised.  Thanks!",
+      "url": "https://www.etsy.com/listing/1790578832/devil-horns-hat-charm-bucket-hat-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "Amazing quality! Boyfriend will be stoked! Thank you so much :)",
+      "url": "https://www.etsy.com/listing/1650774514/runescape-halloween-mask-3d-wall-art-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-21",
+      "text": "Great quality, as described, met expectations",
+      "url": "https://www.etsy.com/listing/4297652080/3d-printed-buff-frog-figurine-gym-lover"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-21",
+      "text": "Beautiful  figure, sadly had issues with royal mail and delivery was approx 3 weeks, not sellers fault. Can recommend the seller.",
+      "url": "https://www.etsy.com/listing/4463924485/gargoyle-figurine-gothic-fantasy-decor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Both items are so sweet! thank you! i adore them!",
+      "url": "https://www.etsy.com/listing/4393191727/books-read-tracker-custom-name-option"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Both items are so sweet! I adore them! Thank you so much!",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Love it custom built trophy thank you",
+      "url": "https://www.etsy.com/listing/4434526559/mini-meme-trophies-personalizable-funny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Well Made and Shipped Quickly!",
+      "url": "https://www.etsy.com/listing/1877305931/birds-arent-real-pigeon-meme-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "amazing, great gift and just as pictured",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-16",
+      "text": "Amazing little addition to my hat!",
+      "url": "https://www.etsy.com/listing/1790578832/devil-horns-hat-charm-bucket-hat-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-14",
+      "text": "Great gift",
+      "url": "https://www.etsy.com/listing/4390036991/movies-watched-tracker-3d-printed-cinema"
+    }
+  ],
   "shop_facts": {
     "country_code": "LT",
     "city": "",
     "region": "",
-    "shipping_rating": 4.799503507659013,
-    "item_quality_rating": 4.859902450588227,
-    "customer_service_rating": 4.890997263666804,
+    "shipping_rating": 4.7995035076551025,
+    "item_quality_rating": 4.859902450587721,
+    "customer_service_rating": 4.890997263661567,
     "average_rating": 4.86,
     "total_rating_count": 1392,
     "rating_count_past_year": 1392,
@@ -22,6 +386,5 @@
     "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
     "accepts_custom_requests": true
   },
-  "related_links": [],
-  "ships_from": "LT"
+  "related_links": []
 }

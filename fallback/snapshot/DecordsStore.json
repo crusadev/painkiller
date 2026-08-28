@@ -1,17 +1,381 @@
 {
   "shop": "DecordsStore",
   "shop_url": "https://www.etsy.com/shop/DecordsStore",
-  "source": "https://www.etsy.com/shop/DecordsStore",
+  "source": "https://www.etsy.com/shop/DecordsStore/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "EE",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Unique and beautiful urn for my dog's ashes. Building him a memorial art piece with his bones and pelt, and this urn fit the theme perfectly. As something that means so much to me, I cannot express enough how excited I was that this worked as beautifully as it did - thank you!\ud83d\udda4",
+      "url": "https://www.etsy.com/listing/4522234744/dark-fantasy-raven-memorial-urn-with-lid"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "great product , arrived promptly and we are really pleased with it, thank you for adding additional personalisation to the urn too. It now completes our memory cabinet.",
+      "url": "https://www.etsy.com/listing/4465383103/paw-print-pet-ashes-urn-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "Very cute piece of decor!",
+      "url": "https://www.etsy.com/listing/4444161944/3d-printed-gothic-hanging-wall-decor-on"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Love this for my daughters wall in her room. They are the most perfect dainty little flowers that are great for a 2 year old and as she gets older!",
+      "url": "https://www.etsy.com/listing/4335787648/watercolor-flower-wall-decals-botanical"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "perfect for my wall ensamble...",
+      "url": "https://www.etsy.com/listing/1904453171/tree-branch-wall-shelf-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Love these! I had ordered a smaller one also to go with this size.... They are so unique..",
+      "url": "https://www.etsy.com/listing/1904453171/tree-branch-wall-shelf-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "I miss read the description.  I ordered  by the price and it was too small and it was also plastic not wood. Seller was understanding and gave me a refund.",
+      "url": "https://www.etsy.com/listing/1890270330/root-inspired-floating-shelf-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "Beautiful!!! Great quality, highly recommend. Tied together our nursery so well! Tip for balloons/ bigger pieces: stick the top directly on wall and peel down as you go, otherwise the bottom of each piece can easily stick to the rest.",
+      "url": "https://www.etsy.com/listing/4335782374/vintage-hot-air-balloon-wall-decals"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Perfect for my cosplay! I love it",
+      "url": "https://www.etsy.com/listing/1863798773/blank-face-mask-minimalist-cosplay-mask"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-07",
+      "text": "Expected to be a little bigger on top. Not much but one tiny thing can go up there. Other than that very cool looking.",
+      "url": "https://www.etsy.com/listing/1903859939/tree-root-wall-shelf-organic-3d-printed"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-06",
+      "text": "While I was expecting something  slightly different, the item received is of pretty decent quality for what it is and the customer service is prompt, professional, and very understanding.",
+      "url": "https://www.etsy.com/listing/1866806239/cyberpunk-mask-tactical-cosplay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "Im absolutely thrilled with my little Gothic style wall shelf. It is perfect for a small gargoyle I have. The quality and workmanship is outstanding and it is exactly as described. I am very, very happy with my purchase. Thankyou so much \ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc\ud83d\udc4c\ud83c\udffc",
+      "url": "https://www.etsy.com/listing/4424921037/3d-printed-gothic-wall-shelf-bracket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "At first, I had a few difficulties because the mask didn't fit properly. But Andrei and his team were very\r\nhelpful and supportive. After they corrected my measurements, they made a completely new mask and sent it to me quickly so I could wear it in time for my performance. Thank you, and I'd love to work with you again\ud83e\udd17 YVE",
+      "url": "https://www.etsy.com/listing/4391964061/3d-printed-futuristic-mask-gothic-sci-fi"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Extremely awesome, this is perfect for kids room",
+      "url": "https://www.etsy.com/listing/1794873263/playful-giraffe-wall-sticker-o"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "It looks exactly as on the image and the print is very good",
+      "url": "https://www.etsy.com/listing/1868692519/japanese-ghost-spirit-mask-horror"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Looks like a dead face. Very nice.",
+      "url": "https://www.etsy.com/listing/1854477916/phantom-mask-minimalist-faceless-mask-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "Cute memorial for my dog",
+      "url": "https://www.etsy.com/listing/4465374225/french-bulldog-memorial-urn-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "As described, like overall, thank you",
+      "url": "https://www.etsy.com/listing/4438338194/3d-printed-japanese-shrine-wall-decor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Have ordered multiple. And will continue.  Thank you",
+      "url": "https://www.etsy.com/listing/1854477916/phantom-mask-minimalist-faceless-mask-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Have ordered multiple. And will continue. Thank you",
+      "url": "https://www.etsy.com/listing/1854477916/phantom-mask-minimalist-faceless-mask-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Good product. Would buy again.",
+      "url": "https://www.etsy.com/listing/4404211497/3d-printed-minimal-visor-mask-glasses"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Beautiful decals and works perfect for nursery",
+      "url": "https://www.etsy.com/listing/4335787648/watercolor-flower-wall-decals-botanical"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "lovely item. my boys really like it.",
+      "url": "https://www.etsy.com/listing/4509518676/sleeping-bear-memorial-urn-with-lid-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Exactly as described and seller produced and delivered even quicker than anticipated to arrive for a family memorial. Great communication from the seller who was so friendly and helpful",
+      "url": "https://www.etsy.com/listing/4509507399/owl-memorial-urn-with-lid-3d-printed-pet"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Worked super well saved so much money doing it myself",
+      "url": "https://www.etsy.com/listing/977952392/custom-frosted-window-film-sticker"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Lovely little container for grandma's ashes for my boys and they love it next to their bed. The container is beautiful and smooth and easy to open. Shipping took a little while.",
+      "url": "https://www.etsy.com/listing/4509518676/sleeping-bear-memorial-urn-with-lid-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "This is like Darth Bane\u2019s mask",
+      "url": "https://www.etsy.com/listing/1868701539/biomorphic-cyberpunk-warrior-mask-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "This is cute and a good size.",
+      "url": "https://www.etsy.com/listing/4400423558/3d-printed-bird-wall-decor-modern"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-19",
+      "text": "Very nice mask, i wish theres a hole somewhere around the jaw to make it fit much better in your face and the other thing is the mask is a lil rough around the edges that you have to sand it down to make it more smooth.",
+      "url": "https://www.etsy.com/listing/4300883995/matte-black-futuristic-half-face-mask-3d"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-16",
+      "text": "Cute shelf, but the lines are less pronounced.",
+      "url": "https://www.etsy.com/listing/1869309453/fungi-floating-wall-shelf-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "perfect gifts for using, the raven skull wands, when rooting on the Baltimore Ravens, this upcoming season, with my sons!",
+      "url": "https://www.etsy.com/listing/4504376653/raven-skull-magic-wand-with-stand-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "product is awesome, solid well detailed. Shipping and packaging was top notch. had several questions for seller and received quick and friendly replies. excellent site.",
+      "url": "https://www.etsy.com/listing/4308019957/octopus-tentacle-wall-shelf-nautical-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-13",
+      "text": "Great texture on these 3D printed items.  Came with mounting tabs and double sided tape, but opted for my own screws + anchors since it will hold plants.  Have to be careful aligning the two tabs (may be easier if has one central slide instead of two), but with careful measurements went easy enough.\r\n\r\nI ended up painting them because I wanted it a custom color to match existing decor and took the paint really well.",
+      "url": "https://www.etsy.com/listing/4338875684/wall-mounted-planter-3d-printed-indoor"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Just as described and arrived sooner than expected.",
+      "url": "https://www.etsy.com/listing/4399211212/3d-printed-half-face-mask-for-cosplay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-12",
+      "text": "Wonderful seller and great quality shelf and produce. This is my second purchase from the seller and both transactions have been wonderful. Trust the seller and you\u2019ll be impressed with what you get and so will everyone else!",
+      "url": "https://www.etsy.com/listing/4393967104/3d-printed-corner-wall-shelf-minimalist"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-11",
+      "text": "Great customer service....interesting products.....highly recommend website",
+      "url": "https://www.etsy.com/listing/4400422153/3d-printed-wavy-wall-shelf-modern"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "As described, super sturdy and well made! Pretty sure my package came early too. ^_^ Please support this shop. <3",
+      "url": "https://www.etsy.com/listing/4300883995/matte-black-futuristic-half-face-mask-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "It matches the photos perfectly, and the material feels pretty solid.\r\n\r\nUnfortunately, it is a bit too small for me, but that is entirely my fault as I made a mistake with my initial face measurements. For future buyers, I highly recommend using a flexible tape measure to get the exact distances.",
+      "url": "https://www.etsy.com/listing/4300883995/matte-black-futuristic-half-face-mask-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "The mask is light and paintable, Perfect for my outfit. The shop owner was very nice and responded to questions quickly.",
+      "url": "https://www.etsy.com/listing/1863798773/blank-face-mask-minimalist-cosplay-mask"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "What a fine light weight shelf, I can't wait to use it for Halloween. It came as quickly as it could being that it shipped between two countries.  I would highly recommend this shelf if you need a neat little way to display a Halloween item, it's really fun!!!",
+      "url": "https://www.etsy.com/listing/4424833118/3d-printed-ribcage-wall-shelf-gothic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-09",
+      "text": "I have loved both decals that came in. both drastically different sizes on purpose. It has been a great addition to my office!",
+      "url": "https://www.etsy.com/listing/1609940501/cherry-blossom-corner-tree-wall-decal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-08",
+      "text": "As described on sellers shop!",
+      "url": "https://www.etsy.com/listing/1278756676/personalized-reflective-mailbox-decal"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-08",
+      "text": "a couple places could be printed better but overall design is A+",
+      "url": "https://www.etsy.com/listing/4504281488/dragon-head-magic-wand-with-display"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-07",
+      "text": "great",
+      "url": "https://www.etsy.com/listing/988068601/custom-wall-decal-logo-create"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-06",
+      "text": "While shipping took a bit longer then the seller or I expected, it was all good. It came in and needed a little sanding, which I found out the filament used did not like. But I got it smoothed out by several layers of gloss paint and now im happy. Overall, pretty good. Not a bad purchase",
+      "url": "https://www.etsy.com/listing/1863798773/blank-face-mask-minimalist-cosplay-mask"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-05",
+      "text": "Awesome! I love the mask!",
+      "url": "https://www.etsy.com/listing/1854477916/phantom-mask-minimalist-faceless-mask-3d"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-04",
+      "text": "We initially had an issue with shipping but we were able to get immediate help in solving the problem and then the decals arrived in no time! They're perfect for our nursery. The colors and theme were exactly what we were looking for. Very happy with it!",
+      "url": "https://www.etsy.com/listing/4335782374/vintage-hot-air-balloon-wall-decals"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "They provide multiple areas for your ideal horn placemet.",
+      "url": "https://www.etsy.com/listing/1877272891/demon-horns-headpiece-3d-printed-devil"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-29",
+      "text": "fits like a glove outstanding.",
+      "url": "https://www.etsy.com/listing/4296367707/futuristic-warrior-face-mask-black-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-27",
+      "text": "Item arrived quickly and in good condition",
+      "url": "https://www.etsy.com/listing/1879164335/vine-stencil-3d-printed-leaf-stencil"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-26",
+      "text": "Perfect condition! Would order again!",
+      "url": "https://www.etsy.com/listing/1903446759/black-tactical-face-mask-3d-printed-full"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-26",
+      "text": "High quality item and fast shipping, looks great! I had a complicated order, but Andrei and his team provided amazing customer service that made receiving my order a breeze. Thank you so much!",
+      "url": "https://www.etsy.com/listing/4328654237/custom-b-pillar-car-sticker-personalized"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-21",
+      "text": "The item was exactly as described and Andrei was an exceptionally attentive person to buy from.",
+      "url": "https://www.etsy.com/listing/976054294/24x-window-decal-for-bird-strike-glass"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-21",
+      "text": "This was the second one I had received as I ordered the first one a little bit too small. They were both really good quality and the customer service was superb.",
+      "url": "https://www.etsy.com/listing/4504234864/octopus-tentacle-wall-shelf-nautical-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-20",
+      "text": "Looks great on my wall!",
+      "url": "https://www.etsy.com/listing/4301517255/wave-inspired-3d-printed-floating-shelf"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-18",
+      "text": "Perfect for my cosplay. thank you so much! <3",
+      "url": "https://www.etsy.com/listing/1863798773/blank-face-mask-minimalist-cosplay-mask"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-18",
+      "text": "Really cool piece - life like! Great addition to my Florida wall!",
+      "url": "https://www.etsy.com/listing/4308022137/hand-wall-shelf-3d-printed-floating"
+    },
+    {
+      "rating": 4,
+      "date": "2026-06-16",
+      "text": "Shipping and customs was an issue but after communicating with vendor all problems were addressed. This was meant to be a gift in June, but it will become a wonderful surprise for July. Love the size and look of the bed. With the added padding I have no doubt the new owner will cherish it",
+      "url": "https://www.etsy.com/listing/4459885209/dark-fantasy-skull-wall-mounted-pet-bed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Beautiful urns and kind customer service.",
+      "url": "https://www.etsy.com/listing/4465370032/gecko-pet-ashes-urn-tower-3d-printed"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-14",
+      "text": "This was beyond expectations! It looks amazing in my office and I will be purchasing more in the future.",
+      "url": "https://www.etsy.com/listing/1609940501/cherry-blossom-corner-tree-wall-decal"
+    }
+  ],
   "shop_facts": {
     "country_code": "EE",
     "city": "",
     "region": "",
-    "shipping_rating": 4.562758610992215,
-    "item_quality_rating": 4.575692856458972,
-    "customer_service_rating": 4.689538561578481,
+    "shipping_rating": 4.562758611005207,
+    "item_quality_rating": 4.575692856458833,
+    "customer_service_rating": 4.689538561576377,
     "average_rating": 4.55,
     "total_rating_count": 2116,
     "rating_count_past_year": 2116,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "http://www.decords.com"
-  ],
-  "ships_from": "EE"
+  ]
 }

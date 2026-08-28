@@ -1,20 +1,384 @@
 {
   "shop": "BabylonCutters",
   "shop_url": "https://www.etsy.com/shop/BabylonCutters",
-  "source": "https://www.etsy.com/shop/BabylonCutters",
+  "source": "https://www.etsy.com/shop/BabylonCutters/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "HU",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Perfect! very pleased!",
+      "url": "https://www.etsy.com/listing/1508926044/fine-pebbles-clay-texture-roller-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Love the texture rollers! \ud83d\ude03 Thank you!",
+      "url": "https://www.etsy.com/listing/1596837333/hammered-metal-clay-texture-roller"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Very pleased! Would recommend this shop if you're looking for *Quality * and great customer service! \u2728\ufe0f\ud83d\udc4c",
+      "url": "https://www.etsy.com/listing/1718851605/tree-bark-clay-texture-roller-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Beautiful, always pleased with my purchases from Babylon Cutters.\ud83d\ude03",
+      "url": "https://www.etsy.com/listing/1447215510/moon-surface-clay-texture-roller-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Absolutely wonderful!  \ud83d\ude0d love the clay rollers!",
+      "url": "https://www.etsy.com/listing/1704665520/wood-clay-texture-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "I can\u2019t wait to use these clay cutters! The detail is absolutely amazing, and they look beautifully made. I\u2019m so excited to start creating with them! Highly recommend!",
+      "url": "https://www.etsy.com/listing/1543436154/snowflake-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-27",
+      "text": "I can\u2019t wait to use these clay cutters! The detail is absolutely wonderful, and they look beautifully made. I\u2019m so excited to start creating with them! Highly recommend!",
+      "url": "https://www.etsy.com/listing/1883299040/sand-dollar-clay-cutter-coastal-trinket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Nice attention to detail! It took a little while, but it was well worth it considering how far it traveled!",
+      "url": "https://www.etsy.com/listing/1538410713/monstera-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Just what I was looking for, very carefully packaged.",
+      "url": "https://www.etsy.com/listing/1736255010/mushroom-a-clay-cutter-set-for-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Customer service was amazing very approachable seller and described every stage of the process . These are well crafted cutters . I would highly recommend this seller .\ud83e\udeb9\ud83e\udd0e",
+      "url": "https://www.etsy.com/listing/4541886715/custom-cutter-and-stamp-set-for-sandra"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "Beautiful cutters.  Cut smooth and high quality.",
+      "url": "https://www.etsy.com/listing/4537961049/ghost-holding-a-cat-polymer-clay-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "These get heavy use so I got three of them. It's a simple pattern but there's something about this one I like a lot. I'll post a pic when I finish what I'm working on now. I start with clay then cast a mold for concrete; overall I'm making composites, but this one is what gives the finished item a natural look.  Pattern is 'ice' but works very well for a stone-textured concrete piece when I gently sand it down a tad. They're easier to clean than most, too.",
+      "url": "https://www.etsy.com/listing/4426067186/ice-texture-roller-for-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Nice quality cutters..Look forward to using!",
+      "url": "https://www.etsy.com/listing/1146162243/basic-shapes-clay-cutters-geometric"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Nice quality cutter....look forward to using..",
+      "url": "https://www.etsy.com/listing/1146162243/basic-shapes-clay-cutters-geometric"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Nice cutters..look forward to using..",
+      "url": "https://www.etsy.com/listing/1146162243/basic-shapes-clay-cutters-geometric"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Great designs, extremely high quality materials",
+      "url": "https://www.etsy.com/listing/1313716067/jerrycan-racing-clay-cutter-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Great designs, extremely high quality materials",
+      "url": "https://www.etsy.com/listing/1523405779/cute-mushroom-clay-cutter-fall-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Great designs, extremely high quality materials",
+      "url": "https://www.etsy.com/listing/4488435841/garden-clog-polymer-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Love love love your cutters! High quality materials that make cutting so much easier! Wish all my cutters were made by you.",
+      "url": "https://www.etsy.com/listing/4515459076/squirrel-acorn-clay-cutter-set-3-piece"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "their items are just adorable ships in a timely manner communication is perfect",
+      "url": "https://www.etsy.com/listing/4480249822/baby-feet-polymer-clay-cutter-set-tiny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "great work ships in a timely manner have my eye in a few more items that the small business sells and will be ordering soon good communication",
+      "url": "https://www.etsy.com/listing/4480249822/baby-feet-polymer-clay-cutter-set-tiny"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "Excellent communication about the process. Shipping was as expected and documented along the way. Would purchase again and look forward to working with my purchase.",
+      "url": "https://www.etsy.com/listing/1543436154/snowflake-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "My client was happy with the result; soccer balls for the FIFA World Cup!",
+      "url": "https://www.etsy.com/listing/1704663754/sports-balls-clay-cutters-summer-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "Great quality as always with Babylon Cutters!",
+      "url": "https://www.etsy.com/listing/1219273496/double-star-clay-cutter-4th-of-july-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": "They look great and looks perfect",
+      "url": "https://www.etsy.com/listing/4520054324/bat-masked-cat-clay-cutter-set-halloween"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Love the design and will work well with polymer clay",
+      "url": "https://www.etsy.com/listing/1181654454/folding-donut-clay-cutter-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "was exactly what the description s say.  was in contact with seller answered every question that I had.",
+      "url": "https://www.etsy.com/listing/1776873350/gingerbread-man-trinket-dish-cutter"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Great seller and a quality item",
+      "url": "https://www.etsy.com/listing/1718851605/tree-bark-clay-texture-roller-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "awesome bezel cutter",
+      "url": "https://www.etsy.com/listing/1883231908/border-tool-cutter-set-scalloped"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Cutest cutters!! Arrived quickly. Very easy to communicate with.",
+      "url": "https://www.etsy.com/listing/4537987186/paper-bag-ghost-polymer-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "love the item",
+      "url": "https://www.etsy.com/listing/4520059396/spooky-heart-clay-cutters-halloween"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Cutest cutter!! Great quality and arrive quickly",
+      "url": "https://www.etsy.com/listing/4537987186/paper-bag-ghost-polymer-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-09",
+      "text": "It's exactly what I was looking for. The quality is really good. I can't wait to use it!",
+      "url": "https://www.etsy.com/listing/1750415299/creepy-face-mask-clay-cutter-for-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Super cute! Must have it!",
+      "url": "https://www.etsy.com/listing/1543605474/cute-gingerbread-couple-christmas-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Super cute! Must have it!",
+      "url": "https://www.etsy.com/listing/4537959235/vampire-cat-polymer-clay-cutter-set"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Received a gift, packed neatly and fast by express mail. Highly recommend getting any trinket dish cutter for your collection!",
+      "url": "https://www.etsy.com/listing/1524240332/scalloped-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "The cutters and service were above and beyond what I imagined! A big plus for this seller who made it possible! I had unsuccessful service mostly from US sellers who didn't do their best, like no measurements, flat communication, lost mail packages, etc. Measurement is important; like Ufuk, he makes sure to add more details because measurement really matters! If you're a serious buyer like me, he's the guy! High-quality cutters, no messy spider webs inside the cutters; it is completely clean. Very well-made. If you're from the US or far away, save some extra funds for express delivery fees because it's worth it. Thank you for the wonderful communication and your time!",
+      "url": "https://www.etsy.com/listing/1447296908/owl-3d-clay-cutter-mold-cute-owl-animal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "The cutters and service were above and beyond what I imagined! A big plus for this seller who made it possible! I had unsuccessful service mostly from US sellers who didn't do their best, like no measurements, flat communication, lost mail packages, etc. Measurement is important; like Ufuk, he makes sure to add more details because measurement really matters! If you're a serious buyer like me, he's the guy! High-quality cutters, no messy spider webs inside the cutters; it is completely clean. Very well-made. If you're from the US or far away, save some extra funds for express delivery fees because it's worth it. Thank you for the wonderful communication and your time!",
+      "url": "https://www.etsy.com/listing/4515462138/sleeping-fox-moon-clay-cutter-set-autumn"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "The cutters are very well made. They cut really and are super cute too!",
+      "url": "https://www.etsy.com/listing/4320498528/maple-leaf-clay-cutter-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "I love it. The quality is great and matches the description. It took a little longer to get here, but it's worth the wait. Can't wait to create.",
+      "url": "https://www.etsy.com/listing/1828026216/cassette-tape-clay-cutter-resin-3d"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "I was very happy with my order. The clay cutters are great quality and work perfectly. Everything arrived quickly, and there was even a lovely little gift included, which was such a nice surprise. Thank you so much \u2013 I highly recommend this shop!",
+      "url": "https://www.etsy.com/listing/4476423882/beaded-teardrop-polymer-clay-cutter-boho"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "Great product!\nJust as described.\nLooking forward to purchasing from you again.\nThanks.",
+      "url": "https://www.etsy.com/listing/1181658392/shield-embossing-clay-cutter-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "Great service and fast response. High quality of all items I ordered.  Well packed, clearly described and sent with additional two items as a small gift, which was really surprising and made me smile. \nOnly one disadvantage was related to delivery company (extremely slow and out of length of delivery assumptions) but this is not seller responsibility. Maybe next time we will agree different delivery service. Overall experience - highly recommended.",
+      "url": "https://www.etsy.com/listing/1146162243/basic-shapes-clay-cutters-geometric"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Thank you for the variety and efficiency in each design.  I have been making clouds with raindrops. Now I am adding lightning.",
+      "url": "https://www.etsy.com/listing/1095519079/sky-clay-cutter-set-weather-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Cute little nativity scene.  I have made these into magnets to sell at my stall for Christmas. Well made, easy to use cutters.",
+      "url": "https://www.etsy.com/listing/4374348772/nativity-clay-cutter-christmas-polymer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Love how this cutter made my life a little easier.  Thank you,  the Koi are well designed. (Sorry about the unglazed work. You will also notice that I have given these a more 3D appearance by building them up.)",
+      "url": "https://www.etsy.com/listing/1704657786/koi-fish-clay-cutter-summer-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "This has to be a new favourite!  The tiny bricks are perfect for my tiny Houses. I also like the irregular imprint with some bricks sticking out a little.",
+      "url": "https://www.etsy.com/listing/1718855017/bricks-clay-texture-roller-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "This was a great product for my pottery shop and way sturdier than most 3D printed products, especially with they clay I use. Highly recommend.",
+      "url": "https://www.etsy.com/listing/1524240332/scalloped-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "This is probably my favorite basic circle trinket cutter. No sanding needed and I use it on air and polymer clay. Love it!",
+      "url": "https://www.etsy.com/listing/1524240332/scalloped-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Super cute!! I love it.",
+      "url": "https://www.etsy.com/listing/1791458799/grinch-clay-cutter-set-festive-christmas"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Beautiful may very well definitely recommend",
+      "url": "https://www.etsy.com/listing/1538403725/daisy-trinket-dish-cutter-ring-dish-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Great stamp for my porcelain work. would definitely buy again.",
+      "url": "https://www.etsy.com/listing/4508015668/dahlia-flower-clay-cutter-4-inch-trinket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "great product for my porcelain work. Would 100% buy again",
+      "url": "https://www.etsy.com/listing/4508007375/succulent-clay-cutter-4-inch-trinket"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "I'm a potter by trade and these guys make great tools. I bought a whole set of the flower stamps and all of them are fantastic. A little cornstarch on thinly rolled porcelain yields fantastic results for fired clay.",
+      "url": "https://www.etsy.com/listing/4488456448/hibiscus-trinket-dish-polymer-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-24",
+      "text": "Just recieved my new cutter. It has beautiful details. I can't wait to use it. It's very well made.",
+      "url": "https://www.etsy.com/listing/4455782211/poppy-flower-trinket-dish-cutter-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "The cutters are really great. Make sure you check all the shipping information though",
+      "url": "https://www.etsy.com/listing/4304042049/geometric-turkish-clay-cutter-mosaic"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Great Seller, Quick Delivery, Quality Product, Excellent Customer Service.",
+      "url": "https://www.etsy.com/listing/1883010886/snake-skin-texture-roller-reptile-scale"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "As described.  Seller was able to fill special request. Thrilled with order.",
+      "url": "https://www.etsy.com/listing/4443338460/alphabet-tile-cutter-set-for-jewelry"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "As described plus seller made shopping easy & enjoyable.",
+      "url": "https://www.etsy.com/listing/1538410713/monstera-trinket-dish-cutter-ring-dish"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-15",
+      "text": "Item received was great. Great service and  fast delivery.  Very happy!",
+      "url": "https://www.etsy.com/listing/4374129585/nordic-christmas-tree-clay-cutter"
+    }
+  ],
   "shop_facts": {
     "country_code": "HU",
     "city": "",
     "region": "",
-    "shipping_rating": 4.9325341811991485,
-    "item_quality_rating": 4.957485219841001,
-    "customer_service_rating": 4.974900984064839,
-    "average_rating": 4.94,
-    "total_rating_count": 16157,
-    "rating_count_past_year": 16157,
+    "shipping_rating": 4.932534181198356,
+    "item_quality_rating": 4.957485219840578,
+    "customer_service_rating": 4.974900984063013,
+    "average_rating": 4.95,
+    "total_rating_count": 16162,
+    "rating_count_past_year": 16162,
     "sold_count": 107032,
     "active_listing_count": 1562,
     "create_date": 1630400624,
@@ -25,6 +389,5 @@
   "related_links": [
     "http://www.instagram.com/babyloncutters",
     "http://www.babyloncutters.com"
-  ],
-  "ships_from": "HU"
+  ]
 }

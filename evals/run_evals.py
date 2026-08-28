@@ -43,15 +43,23 @@ check("case 4 · states gap and recheck", small["recheck_days"] is not None,
 
 env = {k: v for k, v in os.environ.items() if k not in ("APIFY_TOKEN", "APIFY_ETSY_ACTOR")}
 t0 = time.time()
-p = subprocess.run([sys.executable, str(ROOT / "scripts" / "qualify.py"), "--limit", "3"],
+# Write to a scratch path: the default output is the committed deliverable and
+# must not be clobbered by running the evals.
+scratch = ROOT / "evals" / ".eval-leads.md"
+p = subprocess.run([sys.executable, str(ROOT / "scripts" / "qualify.py"),
+                    "--limit", "3", "--out", str(scratch)],
                    capture_output=True, text=True, env=env, cwd=ROOT)
 elapsed = time.time() - t0
 snaps = list((ROOT / "fallback" / "snapshot").glob("*.json"))
 if snaps:
-    out = (ROOT / "leads.md").read_text()
+    out = scratch.read_text()
     check("case 3 · runs with no token", p.returncode == 0, p.stderr.strip()[:120])
     check("case 3 · declares data mode", "committed snapshot" in out)
     check("case 3 · under 75s", elapsed < 75, f"{elapsed:.1f}s")
+    check("case 3 · leaves the committed report untouched",
+          (ROOT / "leads.md").read_text().count("| ") > 100,
+          "evals must not clobber leads.md")
+    scratch.unlink(missing_ok=True)
 else:
     check("case 3 · refuses rather than fabricating",
           p.returncode != 0 and "no snapshots" in (p.stdout + p.stderr),

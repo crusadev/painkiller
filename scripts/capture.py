@@ -64,6 +64,12 @@ def assert_clean(snap):
 
 
 def build(shop, items, source, ships_from=None, market=None, processing=None):
+    # Preserve anything capture_shop.py already wrote. Overwriting the file
+    # wholesale silently destroys shop_facts and related_links.
+    prior = {}
+    f = OUT / f"{shop}.json"
+    if f.exists():
+        prior = json.loads(f.read_text(encoding="utf-8"))
     snap = {
         "shop": shop,
         "shop_url": f"https://www.etsy.com/shop/{shop}",
@@ -75,6 +81,11 @@ def build(shop, items, source, ships_from=None, market=None, processing=None):
         "stated_processing_days": processing,
         "reviews": [r for r in (normalise_review(i) for i in items) if r["text"]],
     }
+    for k in ("shop_facts", "related_links"):
+        if prior.get(k) is not None:
+            snap[k] = prior[k]
+    if not snap.get("ships_from") and prior.get("ships_from"):
+        snap["ships_from"] = prior["ships_from"]
     assert_clean(snap)
     return snap
 

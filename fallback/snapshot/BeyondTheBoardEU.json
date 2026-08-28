@@ -1,17 +1,381 @@
 {
   "shop": "BeyondTheBoardEU",
   "shop_url": "https://www.etsy.com/shop/BeyondTheBoardEU",
-  "source": "https://www.etsy.com/shop/BeyondTheBoardEU",
+  "source": "https://www.etsy.com/shop/BeyondTheBoardEU/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "DE",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "I've wanted these for a very long time. Quality material content, and well packaged for the delivery!",
+      "url": "https://www.etsy.com/listing/1128994238/metal-cubes-tokens-terraforming-mars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Look good, feel good, sound good. A little smaller than what I had visualized but probably accurate size to description. Had to pay customs charge when delivered which was okay just hadn\u2019t planned for it. (Shipped to SK, Canada) customs came to $28.28 CAD for 2 different coins sets, just for a rough idea of cost for anyone else ordering",
+      "url": "https://www.etsy.com/listing/1206682300/metal-coins-sheriff-of-nottingham"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Look good, feel good, sound good. A little smaller than what I had visualized but probably accurate size to description. Had to pay customs charge when delivered which was okay just hadn\u2019t planned for it. (Shipped to SK, Canada) customs came to $28.28 CAD for 2 different coins sets, just for a rough idea of cost for anyone else ordering",
+      "url": "https://www.etsy.com/listing/1259848886/mix-and-match-colours-metal-coins-gold"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "Everything was exactly as described. Arrived super quickly.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "Second time I order some coins. Very good quality and speedy delivery both times. Highly recommend!",
+      "url": "https://www.etsy.com/listing/1259848886/mix-and-match-colours-metal-coins-gold"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Great product, good quality, very happy",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-05",
+      "text": "Awsome Articel, just as expected.",
+      "url": "https://www.etsy.com/listing/4458151834/upgrade-gem-set-for-splendor-duel-board"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Very nice product. As expected.",
+      "url": "https://www.etsy.com/listing/1033933790/upgrade-gem-set-for-splendor-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Really cool supply for game!",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "high quality, fast shipping",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "As described, always great quality. Will purchase from again in the future.",
+      "url": "https://www.etsy.com/listing/1033933790/upgrade-gem-set-for-splendor-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-10",
+      "text": "Definitely gonna order more at some point",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-19",
+      "text": "The coins look very good, shipping was fast and hassle free.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "Fantastic value for money - cubes are just like in the pictures and feel great in hand.\nBox and bags give that added value that puts this package among the very best I ordered.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-17",
+      "text": "They are perfect! The weight of the metal feels great! And they come in cute little boxes with foam!",
+      "url": "https://www.etsy.com/listing/1128994238/metal-cubes-tokens-terraforming-mars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Amazing quality and great product! Very happy with the upgrade!",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-13",
+      "text": "excellent product all as expected - fully satisfied",
+      "url": "https://www.etsy.com/listing/1330008489/extra-large-metal-coins-gold-silver"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-10",
+      "text": "very nice quality, sending was quick and arrived in perfect state.",
+      "url": "https://www.etsy.com/listing/1106537972/metal-gold-coins-pirate-treasure-coin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-04",
+      "text": "In 5 words, 5 stars.",
+      "url": "https://www.etsy.com/listing/1342962656/silver-metal-cubes-for-board-games-8mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-03",
+      "text": "Very high quality game marking cubes in a very well designed padded box for storage. These perfectly match the sellers other metal cubes adding another color and texture for games that require more types of maker. Great seller.",
+      "url": "https://www.etsy.com/listing/1254061361/lava-rock-cubes-8mm-natural-black-dark"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-03",
+      "text": "Very high quality game marker cubes in a wonderful little storage tin to keep them neat and organized. Would absolutely recommend.",
+      "url": "https://www.etsy.com/listing/1342962656/silver-metal-cubes-for-board-games-8mm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-25",
+      "text": "100% recommend, these are absolute perfection, amazing quality that really enhance the enjoyment of playing the game, will definitely purchase from again without hesitation!!",
+      "url": "https://www.etsy.com/listing/4458151834/upgrade-gem-set-for-splendor-duel-board"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-21",
+      "text": "Very nice gems. They shine on the table. I enjoy playing Splendor with them. I recommend !",
+      "url": "https://www.etsy.com/listing/1033933790/upgrade-gem-set-for-splendor-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-12",
+      "text": "The packaging (the little box) is just awesome! :D",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-11",
+      "text": "Excellent. I ordered to a gift.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "Thanks, great coins. Very pretty.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "Thanks, great coins. Very pretty.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-08",
+      "text": "Thanks, great coins. Very pretty.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-05",
+      "text": "Great coins. The quality seems great, the colours look good too.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-05",
+      "text": "These coins are great. They are quite small but the quality seems good, and they arrived well packaged and quite quickly.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-04",
+      "text": "Absolutely fantastic addition, my friend loves them and keeps bragging about them",
+      "url": "https://www.etsy.com/listing/1128994238/metal-cubes-tokens-terraforming-mars"
+    },
+    {
+      "rating": 4,
+      "date": "2026-05-03",
+      "text": "These look great, but there is one important thing that needs to be pointed out. The lava rock cubes will scratch each other quite easily. You have to be careful with how you store them to prevent that.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-25",
+      "text": "Great item!  Elevates the table presence of the game.  Shipping was also faster than expected considering it was international.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-25",
+      "text": "Great upgrade for Brass Birmingham!",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-24",
+      "text": "As described. Great upgrade for brass. Very happy with these.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-24",
+      "text": "It elevates the Patchworks game perfectly .",
+      "url": "https://www.etsy.com/listing/1047916285/upgrade-set-for-patchwork-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-21",
+      "text": "Absolutely delighted with these upgraded cubes for Brass, I have a similar set from Top Shelf Gamer which I picked up online in the U.K. but these look much nicer. Can\u2019t wait to try them out!",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-20",
+      "text": "Excellent items delivered quick and  great additions to our game. Thanks",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-14",
+      "text": "Great quality and as described. No complaints.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-13",
+      "text": "wow, what great quality, premium product. Amazing packaging also, the cloth baggies are great!",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-09",
+      "text": "Great upgrade for BL and BB games",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-08",
+      "text": "Arrived on time, great for use as prop coins with a nice weight to them",
+      "url": "https://www.etsy.com/listing/1106537972/metal-gold-coins-pirate-treasure-coin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-07",
+      "text": "Excellent item, these cubes are very nice, well made and superbly packaged. Will purchase more when in stock!",
+      "url": "https://www.etsy.com/listing/1201985202/gold-silver-bronze-metal-cubes-for-board"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-05",
+      "text": "Love these! They make Brass just that much better. Highly recommend.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-03",
+      "text": "As advertised.  The gems are of very good quality and the coins are heavy and look cool",
+      "url": "https://www.etsy.com/listing/1033933790/upgrade-gem-set-for-splendor-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-01",
+      "text": "Great quality, these really add to the experience.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-25",
+      "text": "Nice items, nicely packed. High quality. Highly recommended.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-21",
+      "text": "Matched the pictures and description perfectly- great size and weight, high quality product.",
+      "url": "https://www.etsy.com/listing/1106531226/metal-coins-gold-silver-copper-pirate"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-19",
+      "text": "These really elevate the game experience! Very high-quality. Great customer service and very responsive as well. Highly recommend!",
+      "url": "https://www.etsy.com/listing/1033933790/upgrade-gem-set-for-splendor-board-game"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-14",
+      "text": "Massive upgrade of the original peaces without making it to much. Highly recommended!",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-12",
+      "text": "These are excellent quality upgrades for the coal and iron components, which complement the art direction of the game and pair well with other third party coin options available.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-08",
+      "text": "Very nice materials, thank you",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-06",
+      "text": "Awesome coins, perfect for garphill games. Ultra fast delivery !",
+      "url": "https://www.etsy.com/listing/1120476713/metal-silver-coins-pirate-treasure-coin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "Excellent quality metal game cubes. The tin boxes with foam padding are a major plus as they are perfect for storing the cubes. Excellent product and seller.",
+      "url": "https://www.etsy.com/listing/1201985202/gold-silver-bronze-metal-cubes-for-board"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "High quality exactly as described. Perfect metal board game counters. Very well packaged in their own little metal boxes with plenty of foam padding to prevent damage. Perfect for storage. Absolutely recommend.",
+      "url": "https://www.etsy.com/listing/1201985202/gold-silver-bronze-metal-cubes-for-board"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "Everything is perfect. Like i Hoped \ud83d\udc4d\ud83d\udc4c",
+      "url": "https://www.etsy.com/listing/1128994238/metal-cubes-tokens-terraforming-mars"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-03",
+      "text": "Great quality and well packaged.",
+      "url": "https://www.etsy.com/listing/1744270523/glass-cubes-player-tokens-terraforming"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-24",
+      "text": "Made for an excellent gift for a D&D friend",
+      "url": "https://www.etsy.com/listing/1106537972/metal-gold-coins-pirate-treasure-coin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Es wertet das Spiel definitiv auf. Und macht aus der Deluxe Version eine noch edlere Version.",
+      "url": "https://www.etsy.com/listing/1248949411/upgrade-set-brass-birmingham-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "Diese Goldtaler sind ein Muss f\u00fcr jede Schatzsuche!!! Sie f\u00fchlen sich total wertvoll und besonders an! Da wird man selbst wieder zum Kind \ud83d\udc4d absolut Kaufempfehlung \ud83d\udc4d",
+      "url": "https://www.etsy.com/listing/1106537972/metal-gold-coins-pirate-treasure-coin"
+    }
+  ],
   "shop_facts": {
     "country_code": "DE",
     "city": "",
     "region": "",
-    "shipping_rating": 4.882828860329154,
-    "item_quality_rating": 4.939213298965036,
-    "customer_service_rating": 4.914908091088424,
+    "shipping_rating": 4.882828860338306,
+    "item_quality_rating": 4.939213298971051,
+    "customer_service_rating": 4.91490809108803,
     "average_rating": 4.93,
     "total_rating_count": 2096,
     "rating_count_past_year": 2096,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "https://www.instagram.com/beyondtheboardeu/"
-  ],
-  "ships_from": "DE"
+  ]
 }

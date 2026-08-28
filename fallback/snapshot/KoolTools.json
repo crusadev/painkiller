@@ -1,17 +1,381 @@
 {
   "shop": "KoolTools",
   "shop_url": "https://www.etsy.com/shop/KoolTools",
-  "source": "https://www.etsy.com/shop/KoolTools",
+  "source": "https://www.etsy.com/shop/KoolTools/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "GB",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-26",
+      "text": "Quick delivery and look good. Haven't had a chance to use them yet but they look as though they'll be perfect for the job",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "I had a slight issue with my order, and I got help right away. The seller was very quick to respond and help me. I am so excited to use the roller!",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Makes using the wheel more streamlined",
+      "url": "https://www.etsy.com/listing/1780389665/bat-system-fits-shimpo-aspirerk5t"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-22",
+      "text": "Very pleased with my purchase",
+      "url": "https://www.etsy.com/listing/1051198996/spinner-trimming-tool-spinner-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Even better quality than it appears on listing. Both the rolling rod and the end pieces are very heavy duty and substantial! Always great when your expectations are exceeded!",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-07",
+      "text": "The item was exactly as described. The seller was kind and responded very quickly. I\u2019m so happy to have found such a great product. I highly recommend this seller!",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "Move easily & tighten well. Look great, arrived safely & packaged securely \nCan\u2019t wait to use them",
+      "url": "https://www.etsy.com/listing/1860078055/double-sided-calipers-up-to-25cm10inch"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "Spin easily & well. Look great, arrived safely & packaged securely \nCan\u2019t wait to use them",
+      "url": "https://www.etsy.com/listing/1051198996/spinner-trimming-tool-spinner-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-31",
+      "text": "Amazing customer service! Had an issue with my order but got resolved super quick! \n\nSuper happy with my order \u2764\ufe0f",
+      "url": "https://www.etsy.com/listing/1784015307/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-30",
+      "text": "Exactly what I was looking for. I\u2019m delighted with the purchase and supporting this shop. I will certainly purchase there again in the future",
+      "url": "https://www.etsy.com/listing/4380623888/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Works perfectly. So happy to have a bat system that works on my 11 inch Vevor wheel!",
+      "url": "https://www.etsy.com/listing/1845871626/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "Really pleased\u2026 works perfectly and the colour requested was met perfectly!",
+      "url": "https://www.etsy.com/listing/1534619493/height-throwing-gauge-clamp-on-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-23",
+      "text": "Great product and communication from Sven.",
+      "url": "https://www.etsy.com/listing/4505224293/30-small-bats"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Good item exactly what I wanted, seller was lovely.",
+      "url": "https://www.etsy.com/listing/4380623888/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Fits my wheel perfectly, easy to install and remove, makes removing items so much easier. Love it!",
+      "url": "https://www.etsy.com/listing/1784015307/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-15",
+      "text": "Sven is great. He answers promptly and the product is supporting my ceramic work as described. Great tool.",
+      "url": "https://www.etsy.com/listing/1847603444/custom-listing-35cm-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-04",
+      "text": "Just as described, really easy communication, would definitely buy other items from them",
+      "url": "https://www.etsy.com/listing/1282151551/tall-trimming-tool-rotary-spinning-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-03",
+      "text": "Great item. Sturdy and easy to use",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-24",
+      "text": "I have installed this on my wheel and am excited to test it out. It fit perfectly on my very old Pacifica wheel\u2019s splash pan and it will be so nice to keep the clay trimmings contained. I was impressed with the quality and the accompanying illustrated instructions were very clear and helpful. Thanks for making a great product!!",
+      "url": "https://www.etsy.com/listing/1382451870/clay-screen-splash-pan-protection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Fantastic customer service and a great seller, are delighted with the product which is already attached to the wheel. Thank you for going above and beyond. It's much appreciated x",
+      "url": "https://www.etsy.com/listing/4380623888/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Brilliant service! I asked for a custom order and it arrived within a few days. Thank you so much!",
+      "url": "https://www.etsy.com/listing/4514809767/10-square-bats-l"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Great product, good communication from seller",
+      "url": "https://www.etsy.com/listing/1534619493/height-throwing-gauge-clamp-on-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-11",
+      "text": "Great product!  Sven was great to deal with!  would highly recommend!",
+      "url": "https://www.etsy.com/listing/4476859719/bat-system-bundle"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-08",
+      "text": "Always good quality products and great customer service. I recommend them to all my potter friends",
+      "url": "https://www.etsy.com/listing/4507160053/10-small-bats"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-07",
+      "text": "This is my 3rd time shopping with Sven at KoolTools and it's been fantastic customer service every time. This is my 2nd custom wheel batt (recently got a new wheel) and you cannot beat the price and speed of getting a custom system created. Sven is fantastic with any questions you may have and getting it to your exact requirements. Cannot recommend enough!",
+      "url": "https://www.etsy.com/listing/4509223788/airgoo-wheel-bat-system"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-03",
+      "text": "Changed my potter-life! Love it!!",
+      "url": "https://www.etsy.com/listing/1847603444/custom-listing-35cm-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "Excellent customer service thank you!",
+      "url": "https://www.etsy.com/listing/1845871626/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-29",
+      "text": "I bought this bat system for my Schimpo whisperer 30cm and I\u2019m super happy with it. It\u2019s a game changer! My wheel head has no pins and I wasn\u2019t sure what to do - I\u2019m a beginner hobby potter. When I saw this on etsy, I thought it was a great and simple alternative to exchanging the whole wheel and buying extra bats. Now I have no more wonky pots and no more accidents while lifting the pots from the wheel. The only limitation is the size of the bats, but it works perfectly for me because I don\u2019t throw large pieces. The bat system are also good in quality and feel stable while throwing. I would totally recommend it! The nice gummy bears that came with the shipment were also really appreciated :) Thank you!",
+      "url": "https://www.etsy.com/listing/1784015307/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-24",
+      "text": "Good quality item. I like it.",
+      "url": "https://www.etsy.com/listing/1845871626/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-18",
+      "text": "Such a nifty little system and well priced. Sven went above and beyond, he was a pleasure to deal with. I will purchase more him. Highly recommend!",
+      "url": "https://www.etsy.com/listing/4494429557/335mm-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-15",
+      "text": "This is so great bat system! \ud83d\ude0d I just love it!",
+      "url": "https://www.etsy.com/listing/4490096631/30cm-bat-system-15-batts"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-15",
+      "text": "It\u2019s very easy to use. No messing around.",
+      "url": "https://www.etsy.com/listing/1784015307/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-07",
+      "text": "fantastic item, very supportive seller. ***make sure to measure your wheel head exacly with millimeters before purchasing and let know the seller!",
+      "url": "https://www.etsy.com/listing/4488738570/30cm-bat-system"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-03",
+      "text": "Great product! Was uncertain at first but now it's one of my few necessary tools",
+      "url": "https://www.etsy.com/listing/1534619493/height-throwing-gauge-clamp-on-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-30",
+      "text": "Fantastic products, beautiful colors and works great!",
+      "url": "https://www.etsy.com/listing/1051198996/spinner-trimming-tool-spinner-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-27",
+      "text": "Excellent tool, delighted with it!",
+      "url": "https://www.etsy.com/listing/1051198996/spinner-trimming-tool-spinner-clay"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-25",
+      "text": "Item is as described. Fast shipping",
+      "url": "https://www.etsy.com/listing/1534619493/height-throwing-gauge-clamp-on-with"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-21",
+      "text": "Works well I will have to order more ends",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-18",
+      "text": "I had a difficulty with my order originally and once I let customer service know this it was corrected immediately. I am now very happy with my purchase",
+      "url": "https://www.etsy.com/listing/4481471126/long-rolling-pin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-16",
+      "text": "This is fantastic!! Arrived today, easy to fit and a great bit of kit. Highly recommend",
+      "url": "https://www.etsy.com/listing/1784015307/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-16",
+      "text": "Always a 5* service from Kool Tools.",
+      "url": "https://www.etsy.com/listing/1847643758/25cm-throwing-bat-for-shimpo-aspirerk"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-15",
+      "text": "All good. Well packaged and high quality.\r\n.",
+      "url": "https://www.etsy.com/listing/4481478311/5-sqaure-batts"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-13",
+      "text": "Fit great, works great, the boards fit nice and snug but are easy to remove, very well made!",
+      "url": "https://www.etsy.com/listing/4380623888/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-11",
+      "text": "Really useful for lifting batts out of H&N system, have used for a while now and has withstood frequent use!",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-05",
+      "text": "Game changer, really easy to assemble and doesn't take up loads of storage space. Love it!",
+      "url": "https://www.etsy.com/listing/1382451870/clay-screen-splash-pan-protection"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-05",
+      "text": "Works great with the system.",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-05",
+      "text": "Great quality, fit well over my 14\" Vevor wheel. Looking forward to using the easy to remove square tiles so I don't wreck work and can quickly move from one piece to the next.",
+      "url": "https://www.etsy.com/listing/1847603444/custom-listing-35cm-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-03",
+      "text": "A gift for my brother - he's very happy.",
+      "url": "https://www.etsy.com/listing/1534619493/height-throwing-gauge-clamp-on-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-31",
+      "text": "This is just what I was looking for.  The bat fit my wheel perfectly.  It is well made and any correspondence between the seller and myself was very positive.  My package arrived very quickly.  I would buy from this seller any time.",
+      "url": "https://www.etsy.com/listing/1847603444/custom-listing-35cm-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-31",
+      "text": "I was able to provide custom sizing.",
+      "url": "https://www.etsy.com/listing/4380623888/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-31",
+      "text": "This tool makes lifting bats a breeze.",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-31",
+      "text": "Finally, got to use this tool and it worked great!",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "It works like a charm! Thightebing the screw requires some care - too tight and it will push off the wheel, too loose and it will wobble. But when set exactly right it is perfect and makes throwing delicate pieces significantly easier",
+      "url": "https://www.etsy.com/listing/1845871626/pottery-throwing-bat-system-over-the"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "great quality and no issues",
+      "url": "https://www.etsy.com/listing/1534619493/height-throwing-gauge-clamp-on-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-29",
+      "text": "The pins and the disc looks great. Seller Sven was very helpful and responsive. Buying from this store has been a good experience.",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-27",
+      "text": "Looking good. Can\u2019t wait to use it.",
+      "url": "https://www.etsy.com/listing/1847603444/custom-listing-35cm-bat-system-over-the"
+    },
+    {
+      "rating": 4,
+      "date": "2026-03-26",
+      "text": "Good quality product but roller very small, not long enough for my requirements.",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-21",
+      "text": "I received my parcel and I \n was relieved. It took a while to arrive but deadline was met. I give it a Excellence rating. The seller stayed to resolve issues.",
+      "url": "https://www.etsy.com/listing/1866166195/low-profile-short-clay-screen-splash"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-20",
+      "text": "It\u2019s a cute little tool, works as it was designed ., I use it everyday with my bats. I\u2019m very happy with my purchase . Thanks:)",
+      "url": "https://www.etsy.com/listing/1836151422/bat-remover-tool-for-pottery-wheel"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-16",
+      "text": "great , thanks ! !",
+      "url": "https://www.etsy.com/listing/1799289497/adjustable-pottery-slab-rolling-pin-for"
+    }
+  ],
   "shop_facts": {
     "country_code": "GB",
     "city": "",
     "region": "",
-    "shipping_rating": 4.833926265132394,
-    "item_quality_rating": 4.910163986167272,
-    "customer_service_rating": 4.957639915805493,
+    "shipping_rating": 4.833926265134814,
+    "item_quality_rating": 4.910163986166246,
+    "customer_service_rating": 4.957639915810546,
     "average_rating": 4.89,
     "total_rating_count": 3682,
     "rating_count_past_year": 3682,
@@ -22,6 +386,5 @@
     "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
     "accepts_custom_requests": true
   },
-  "related_links": [],
-  "ships_from": "GB"
+  "related_links": []
 }

@@ -1,17 +1,381 @@
 {
   "shop": "3DecoStudio",
   "shop_url": "https://www.etsy.com/shop/3DecoStudio",
-  "source": "https://www.etsy.com/shop/3DecoStudio",
+  "source": "https://www.etsy.com/shop/3DecoStudio/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "NL",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-24",
+      "text": "Gorgeous lamp and wonderful service! This is a one-of-a-kind piece and I already cherish it! Pure magic",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Feels a little delicate and light. Great color.",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Awesome lamp! \n. . .",
+      "url": "https://www.etsy.com/listing/1891557179/space-age-tripod-lamp-black-sculptural"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-20",
+      "text": "Honestly it\u2019s my first 3D printed lamp. I was blown away. It looks amazing. I am definitely purchasing more.",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Funky and elegant design. Fantastic quality. Love that they're also committed to sustainable practices. Always a pleasure to purchase from 3Deco Studio. Thanks, Robin!",
+      "url": "https://www.etsy.com/listing/1809612489/kero-space-age-table-lamp-warm-amber"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-14",
+      "text": "Funky and elegant design. Fantastic quality. Love that they're also committed to sustainable practices. Always a pleasure to purchase from 3Deco Studio. Thanks, Robin!",
+      "url": "https://www.etsy.com/listing/1809177663/wavy-table-lamp-l-in-amber-handmade-mid"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-30",
+      "text": "beautiful lights and excellent responsive service! would highly recommend.",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-28",
+      "text": "I bought both the hanging pendant and the lamp. The pendant is my fave! Adds really nice ambiance to the room.",
+      "url": "https://www.etsy.com/listing/1082453835/pendant-lampshade-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-06-15",
+      "text": "Very beautiful lamp, gives awesome light. Unfortunately quite fragile. A cleaner at my house broke it so had to buy a replacement. Overall, bouught three like this. The light has a fairy-tale quality.",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-16",
+      "text": "This is a lovely, simple lamp, with a warm orange glow, looks great on chestnut side table",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-05-04",
+      "text": "The cutest little lamp, I love it \ud83d\ude0a",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-30",
+      "text": "Love my new lamp it\u2019s beautiful",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-28",
+      "text": "I love it! Robin was super supportive and lovely to deal with, the lamp looks awesome and came with the right plug and a bulb - ready to rock!\n\nCozy and awesome",
+      "url": "https://www.etsy.com/listing/1809612489/kero-space-age-table-lamp-warm-amber"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-25",
+      "text": "Great lamp for side table and office desk.",
+      "url": "https://www.etsy.com/listing/1469846062/seconds-toro-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-25",
+      "text": "Very nice product. Perfect for book shelves.",
+      "url": "https://www.etsy.com/listing/1469846062/seconds-toro-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 4,
+      "date": "2026-04-23",
+      "text": "Good lamp but a little overpriced for what you're getting.",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-04-02",
+      "text": "Fast shipping , very good item\nThanks",
+      "url": "https://www.etsy.com/listing/1469846062/seconds-toro-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-31",
+      "text": "Took a long time to arrive but well worth the wait. Gorgeous lamp! I can\u2019t wait to get another.",
+      "url": "https://www.etsy.com/listing/1469821520/seconds-wavy-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-26",
+      "text": "I love my new lampshades! They look stylish and high-quality while also being lightweight and durable. They make perfect pendant accent lights for my couch",
+      "url": "https://www.etsy.com/listing/1082453835/pendant-lampshade-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-24",
+      "text": "For the materials used it is quite pricey, but it shipped and arrived in good time and the responsiveness of the company was good. It has a really calming glow for my space and works well with other lighting I already have",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-03-19",
+      "text": "The candle-lit lighting effect creates such a warm and calming feeling in the room. I would have loved a taller version, but the 30cm lamp still achieves a great atmosphere",
+      "url": "https://www.etsy.com/listing/1809177663/wavy-table-lamp-l-in-amber-handmade-mid"
+    },
+    {
+      "rating": 4,
+      "date": "2026-03-03",
+      "text": "The lamp itself is beautiful - the design is as I expected. It looks stunning in my space and feels warm. \r\nThe only small thing I would mention is the switch button, which is positioned quite far from the lamp and fairly low on the cord. It\u2019s not a major issue, but it\u2019s something to be aware of depending on where you plan to place it.\r\n\r\nI would also like to point out that the shipping experience to the Czech Republic was absolutely catastrophic \u2013 and this is NOT the seller\u2019s fault. \u010cesk\u00e1 po\u0161ta took a week and a half to deliver the package, and the whole process was very frustrating. I strongly recommend considering alternative carriers for deliveries to the Czech Republic, such as Z\u00e1silkovna, DPD, or PPL. \r\nOverall, I truly love the lamp and would definitely recommend the seller - just hopefully with a different shipping provider",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-18",
+      "text": "Very nice little lamp, gives beautiful amber glow. Got two like this.",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-02",
+      "text": "Great desk lamp. Exactly as described.",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-02-02",
+      "text": "Had this lamp on my wishlist for awhile and so glad I pulled the trigger. It is beautiful and the shadow it cast so nice. Perfect for the kitchen when it is dark outside to not use the harsh overhead lights.",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-24",
+      "text": "Very light, but otherwise good quality and very pretty lamp.",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-22",
+      "text": "I got this as a gift for a friend and it's her favorite light in her apartment! Really beautiful color!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2026-01-10",
+      "text": "Really pretty, fast answers, everything is perfectly fine!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-20",
+      "text": "So adorable! It came before the expected date and as described",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-17",
+      "text": "Beautiful lamp design! it gives the warm vibe at home I was looking for. \nThank you",
+      "url": "https://www.etsy.com/listing/1469821520/seconds-wavy-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-15",
+      "text": "Such a beautiful lamp, whether turned on or off!",
+      "url": "https://www.etsy.com/listing/1469821520/seconds-wavy-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-14",
+      "text": "Fantastic such a great piece and really well made great quality",
+      "url": "https://www.etsy.com/listing/1809612489/kero-space-age-table-lamp-warm-amber"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-09",
+      "text": "It\u2019s a cool little light! Quite small but fits beautifully where I needed it to go",
+      "url": "https://www.etsy.com/listing/1880873408/kero-x-noir-table-lamp-tripod-mid"
+    },
+    {
+      "rating": 5,
+      "date": "2025-12-02",
+      "text": "Amazing! Such a cute cozy lamp",
+      "url": "https://www.etsy.com/listing/1809612489/kero-space-age-table-lamp-warm-amber"
+    },
+    {
+      "rating": 5,
+      "date": "2025-11-14",
+      "text": "Great lamp - makes a huge difference to the room. I am buying another",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-11-10",
+      "text": "When I noticed my order was late. I got in contact with Robin who sorted me out and everything was smooth as butter after that. The lamp looks great and gives off a relaxing light that really helps set the mood.",
+      "url": "https://www.etsy.com/listing/1809612489/kero-space-age-table-lamp-warm-amber"
+    },
+    {
+      "rating": 5,
+      "date": "2025-11-08",
+      "text": "Fantastic item. Gives the vibes and colour I wanted to our new bathroom",
+      "url": "https://www.etsy.com/listing/1082453835/pendant-lampshade-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2025-11-07",
+      "text": "This lamp is fabulous, magical, like from the dreams. I put tinted rose bulb inside. OMG, the color! I fall asleep staring in the darkness to this lamp. My Kitty died recently and I sleep with the heart-shaped urn containing her ashes. We travel to different galactics, to places no one ever's seen before. Colors when lit: amber, golden rose, some surreal color of the other world. When not lit: amber. Very compact. If only I listened to the reviews. Photos don't do the beauty of this thing no justice. And the shadows on the wall. The miracles that you can create with light. The product itself is minimalist and nicely made.  It's the light that's hypnotic. Polish Post botched their job as usual, The Netherlands post was flawless. Such a little miracle. I wish my Kitty could live to see it. She loved lights\u2764\ufe0f",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2025-11-05",
+      "text": "Great product! Love the colour, makes the room feel really nice and cosy! Thank you!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-29",
+      "text": "Perfect light for our living room. Beautiful color and intriguing shape",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-29",
+      "text": "Great deep amber tone line for our living room",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-29",
+      "text": "Absolutely the cutest lamp I've ever seen",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-25",
+      "text": "Robin made a personalized lamp shade for us, they took into consideration our very specific wishes and the result is super!",
+      "url": "https://www.etsy.com/listing/4383886859/custom-order-for-anna-willburger"
+    },
+    {
+      "rating": 4,
+      "date": "2025-10-07",
+      "text": "Just very cheesy feeling light plastic. Not worth the price. But it is as described.",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2025-10-02",
+      "text": "Fast. And  best seller",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-25",
+      "text": "Love this lamp, it fits perfect in our living room!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-22",
+      "text": "sweet and enjoyed every day",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-17",
+      "text": "Seller was very communicative. Product is better than expected. Very happy with the purchase.",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-08",
+      "text": "Looks great, just like the pictures!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-04",
+      "text": "Honestly this lamp is exactly what I was hoping for - beautifully crafted and a great addition to my space. I don\u2019t usually leave reviews but this feels worthwhile! Thank you",
+      "url": "https://www.etsy.com/listing/1809177663/wavy-table-lamp-l-in-amber-handmade-mid"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-04",
+      "text": "10/10 new fave thank you!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-09-03",
+      "text": "Item was as expected, even more beautiful up close. Small, but beautiful.",
+      "url": "https://www.etsy.com/listing/1806676768/dune-table-lamp-soft-ambient-lighting"
+    },
+    {
+      "rating": 5,
+      "date": "2025-08-07",
+      "text": "Lovely lights that give off a very warm amber glow. Love the 70s retro styling!! Thanks again!",
+      "url": "https://www.etsy.com/listing/1469846062/seconds-toro-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-31",
+      "text": "Love the lamp, gives off such a lovely warm glow. Thank you!",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-28",
+      "text": "Beautiful both when it's light and dark out. My favorite lamp; adds a lot of character to my space :)",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-26",
+      "text": "great! shipping was fairly quick too, even for such a far distance! :)",
+      "url": "https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-21",
+      "text": "Beautiful lamp.  I bought one of the seconds to get a better price, so I knew there'd be a small blemish on the lamp shade, but only I see it.  Would definitely buy from this seller again.",
+      "url": "https://www.etsy.com/listing/1469846062/seconds-toro-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-16",
+      "text": "This is beautiful and would suggest this seller.",
+      "url": "https://www.etsy.com/listing/1469846062/seconds-toro-x-amber-40-off-lamps-with"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-03",
+      "text": "Nice little charming  table lamp",
+      "url": "https://www.etsy.com/listing/1051949745/table-lamp-toro-x-amber-retro-minimal"
+    },
+    {
+      "rating": 5,
+      "date": "2025-07-02",
+      "text": "Fantastic. The space age aesthetic completely nailed.",
+      "url": "https://www.etsy.com/listing/1809612489/kero-space-age-table-lamp-warm-amber"
+    }
+  ],
   "shop_facts": {
     "country_code": "NL",
     "city": "",
     "region": "",
-    "shipping_rating": 4.801815530940019,
-    "item_quality_rating": 4.823709027153774,
-    "customer_service_rating": 4.924287793838772,
+    "shipping_rating": 4.8018155309444985,
+    "item_quality_rating": 4.823709027145119,
+    "customer_service_rating": 4.924287793841335,
     "average_rating": 4.87,
     "total_rating_count": 1460,
     "rating_count_past_year": 1460,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "https://www.instagram.com/3deco.studio/"
-  ],
-  "ships_from": "NL"
+  ]
 }

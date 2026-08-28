@@ -1,17 +1,381 @@
 {
   "shop": "BoardGeekFox",
   "shop_url": "https://www.etsy.com/shop/BoardGeekFox",
-  "source": "https://www.etsy.com/shop/BoardGeekFox",
+  "source": "https://www.etsy.com/shop/BoardGeekFox/reviews",
   "retrieved_at": "2026-08-28",
-  "collection_note": "Shop-level facts only; no buyer reviews captured.",
-  "reviews": [],
+  "collection_note": "Public buyer reviews. Reviewer identity not collected.",
+  "ships_from": "HU",
+  "primary_buyer_market": null,
+  "stated_processing_days": null,
+  "reviews": [
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Fantastic addition to the game.  Tokens are chunkier and therefore easier to handle.  Very nice upgrade.",
+      "url": "https://www.etsy.com/listing/4329802396/spirit-island-token-set-upgrade"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Nice upgrade of the cardboard tokens.",
+      "url": "https://www.etsy.com/listing/1460479554/spirit-island-fear-tokens-20pcs"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-28",
+      "text": "Very handy tokens, which help to remember defence values in the game.",
+      "url": "https://www.etsy.com/listing/1710758686/spirit-island-defense-tokens-upgrade-set"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-26",
+      "text": "I really liked it, it was so cute.",
+      "url": "https://www.etsy.com/listing/1474685303/spirit-island-upgrade-tokens-dahan-huts"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-25",
+      "text": "Doesnt fit absolutely perfectly but it does the job",
+      "url": "https://www.etsy.com/listing/4339924793/azul-game-board-overlay-3d-printed-tile"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-23",
+      "text": "great price, fast shipping, well packaged, and 5\u2606 quality!",
+      "url": "https://www.etsy.com/listing/4312906148/magnetic-hexagon-board-game-token-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-21",
+      "text": "The items were high quality and arrived far ahead of the scheduled date.",
+      "url": "https://www.etsy.com/listing/1888138927/finspan-coral-resource-holders-upgrade"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-20",
+      "text": "Works perfectly to store all the pieces of the game.  Much better than putting everything in baggies.",
+      "url": "https://www.etsy.com/listing/1193176324/brass-birmingham-organizer-insert"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "Delivery took a very long time because they ran out of materials and did not inform me of this. They were very friendly and easy to contact. The products are good and as expected",
+      "url": "https://www.etsy.com/listing/1073644704/wingspan-upgrade-kit-bird-houses-and"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "The product is nice and Match the pictures. The delivery took a long time because they ran out of materials. They did not inform me of this so I had to message them a few times for a update. They were friendly and helpful. Just wish they informed me earlier about the delay because it was for a birthday party.",
+      "url": "https://www.etsy.com/listing/4335287702/wingspan-egg-nest-token-containers"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-19",
+      "text": "It was exactly as I expected",
+      "url": "https://www.etsy.com/listing/4493422130/rebirth-board-game-token-set-round-tower"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "Great quality and easy to idendify. these items add more funs in the games. Highly recommend to play with.",
+      "url": "https://www.etsy.com/listing/1474685303/spirit-island-upgrade-tokens-dahan-huts"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-18",
+      "text": "What a wonderful qualities they are! I really love them and much greater feelings to play with!",
+      "url": "https://www.etsy.com/listing/4329802396/spirit-island-token-set-upgrade"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-17",
+      "text": "They are a must have for Board Gamers!! Love the colors, they are bigger then i thought which is better for me :D \r\nThere was an issue with the delivery of my order, NOT from the seller, but Etsy that gave wrong shipping information. But a quick message forth and back between me and the seller was enough to be relieved that it would go well. I recommend seller.",
+      "url": "https://www.etsy.com/listing/4493896141/magnetic-board-game-token-tray-set-16"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-16",
+      "text": "Perfect - exactly what I was expecting",
+      "url": "https://www.etsy.com/listing/4312906148/magnetic-hexagon-board-game-token-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "It\u2019s not really necessary for the game but it is really nice quality and you certainly don\u2019t forget you have it or it\u2019s your turn with it! Really well made, recommend.",
+      "url": "https://www.etsy.com/listing/1069723634/wingspan-first-player-resin-bird-token"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Really good and are such a nice thematic token holder. Highly recommend.",
+      "url": "https://www.etsy.com/listing/4335287702/wingspan-egg-nest-token-containers"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Really good, arrived quickly and improves the game a lot! Highly recommend",
+      "url": "https://www.etsy.com/listing/1197418915/wingspan-dice-tower"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-15",
+      "text": "Really good organiser and the coral token holders look adorable! Highly recommend!",
+      "url": "https://www.etsy.com/listing/1888150731/finspan-board-game-organizer-coral"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-13",
+      "text": "A few 3d-printed parts needed a second brushing to eliminate stray strands, but the product itself is awesome!",
+      "url": "https://www.etsy.com/listing/1881019690/seti-board-game-insert-organizer-sleeved"
+    },
+    {
+      "rating": 4,
+      "date": "2026-08-13",
+      "text": "Soso good quality, quick shipment",
+      "url": "https://www.etsy.com/listing/1589401747/masterpiece-bladeswarm-miniature-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "high quality item, would recommend",
+      "url": "https://www.etsy.com/listing/1793126473/white-castle-3d-printed-bridge-set-3"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-13",
+      "text": "love how well it organized our game.",
+      "url": "https://www.etsy.com/listing/1279773631/wingspan-organizer-europa-oceania"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-12",
+      "text": "These are quality pieces for the game Rebirth. They really enhance the gaming experience over the plain cardboard option.",
+      "url": "https://www.etsy.com/listing/4493422130/rebirth-board-game-token-set-round-tower"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-11",
+      "text": "Very happy with the product!",
+      "url": "https://www.etsy.com/listing/1405552685/everdell-upgrade-kit-3d-printed-resource"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Awesome. Would buy from again.",
+      "url": "https://www.etsy.com/listing/1566470739/flamecraft-organizer-magical-game-setup"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-10",
+      "text": "Got the whole collection and I am thrilled to see it on the table frequently. Much better than meeples to make the game pop.",
+      "url": "https://www.etsy.com/listing/1605424204/lost-ruins-of-arnak-custom-explorer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Absolute game-changer for Flamecraft! The storage insert fits everything perfectly in the original box with zero lid lift, cutting setup time down to seconds. The 3D-printed dragons and tokens look and feel incredible, massively elevating the table presence. Excellent quality all around\u2014if you're on the fence about upgrading, just buy this!",
+      "url": "https://www.etsy.com/listing/1566470739/flamecraft-organizer-magical-game-setup"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-08",
+      "text": "Figures arrived as show in the images, and were a great addition to the game table.  The quality and detail were excellent.",
+      "url": "https://www.etsy.com/listing/1605424204/lost-ruins-of-arnak-custom-explorer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-06",
+      "text": "Its great and even works with the expansion, even if its not really meant for that",
+      "url": "https://www.etsy.com/listing/1774486975/sky-team-organizerinsert-and-tokens"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "Excellent tokens well made thank you.",
+      "url": "https://www.etsy.com/listing/1474685303/spirit-island-upgrade-tokens-dahan-huts"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-04",
+      "text": "The coral reef set was exactly what the pictures were and they look really good.",
+      "url": "https://www.etsy.com/listing/1888138927/finspan-coral-resource-holders-upgrade"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-03",
+      "text": "Had some issues with shipping thanks to the post office not the seller. but my package did arrive and everything intact. love the look already in my box.",
+      "url": "https://www.etsy.com/listing/1566470739/flamecraft-organizer-magical-game-setup"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-02",
+      "text": "This is a great addition to Azul.",
+      "url": "https://www.etsy.com/listing/4339924793/azul-game-board-overlay-3d-printed-tile"
+    },
+    {
+      "rating": 5,
+      "date": "2026-08-01",
+      "text": "Great tokens, fast delivery, thank you!",
+      "url": "https://www.etsy.com/listing/4329802396/spirit-island-token-set-upgrade"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-31",
+      "text": "material diffrent from other gloomhaven figures, scale slightly too big. Othervise fine",
+      "url": "https://www.etsy.com/listing/1589401747/masterpiece-bladeswarm-miniature-for"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-29",
+      "text": "Very nice Product. Looks as expected, had to re glue 2-3 Compasses thou..",
+      "url": "https://www.etsy.com/listing/1270360258/lost-ruins-of-arnak-compass-and-coins"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-28",
+      "text": "Very happy with this product",
+      "url": "https://www.etsy.com/listing/1605424204/lost-ruins-of-arnak-custom-explorer"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Fast delivery in a well packed box. All items are exactly as described. Satisfied with my purchase. Thanks!!!",
+      "url": "https://www.etsy.com/listing/1749680094/heat-pedal-to-the-metal-upgrade-kit"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-27",
+      "text": "Fast delivery in a well packed box. All items are exactly as described. Satisfied with my purchase. Thanks!!!",
+      "url": "https://www.etsy.com/listing/1397497622/ark-nova-money-coin-set-upgrade-pack"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "This seller is a gem. Wonderful communication and quality items.",
+      "url": "https://www.etsy.com/listing/1474685303/spirit-island-upgrade-tokens-dahan-huts"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-26",
+      "text": "Perfect! Love this seller and the quality is top-tier",
+      "url": "https://www.etsy.com/listing/4490182008/spirit-island-token-upgrade-incarna"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Amazing quality, look great. As good or better than the photos.",
+      "url": "https://www.etsy.com/listing/1405552685/everdell-upgrade-kit-3d-printed-resource"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-25",
+      "text": "Absolutely fantastic quality. Literally as good or better as I expected.",
+      "url": "https://www.etsy.com/listing/1318240743/everdell-event-card-holder-resin-tree"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-22",
+      "text": "Great service and item!  A++++++++!",
+      "url": "https://www.etsy.com/listing/1460464488/spirit-island-dahan-huts-tokens-36pcs"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-22",
+      "text": "Coins are less than half of the amount in the game and very thin, not really like golden coins.\r\nThere are not enough coins not even for 3 players.\r\nCompass are ok but some arrived open up, i had to glue the pieces",
+      "url": "https://www.etsy.com/listing/1270360258/lost-ruins-of-arnak-compass-and-coins"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Works fine! Tha magnets are not the strongest but strong enough to keep the boxes together and makes it easy to separate them",
+      "url": "https://www.etsy.com/listing/4312906148/magnetic-hexagon-board-game-token-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-21",
+      "text": "Just as described. Works fine and fits well in box",
+      "url": "https://www.etsy.com/listing/1389109814/scout-insert-first-player-and-active"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-19",
+      "text": "Great addition, just as in the pictures",
+      "url": "https://www.etsy.com/listing/1069723634/wingspan-first-player-resin-bird-token"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-18",
+      "text": "Great seller and great upgrade for my gaming experience! Thanks.",
+      "url": "https://www.etsy.com/listing/1725160903/wyrmspan-resource-tokens-and-coin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Wonderful product and no issues receiving once purchased",
+      "url": "https://www.etsy.com/listing/4348545852/arkham-horror-lcg-token-set-tentacle"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Great holders! Unfortunately no response from customer service about the possibility of mixing and matching for a specific bundle of holders from other Everdell series but they are nicely made",
+      "url": "https://www.etsy.com/listing/1391271972/everdell-resource-holders-upgrade-kit-4"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Lovely little organiser for the game",
+      "url": "https://www.etsy.com/listing/1731005034/trails-board-game-insert-organizer-with"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-17",
+      "text": "Great item. Many board game storage uses",
+      "url": "https://www.etsy.com/listing/4335287702/wingspan-egg-nest-token-containers"
+    },
+    {
+      "rating": 4,
+      "date": "2026-07-16",
+      "text": "ottim",
+      "url": "https://www.etsy.com/listing/4312906148/magnetic-hexagon-board-game-token-tray"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Good quality and arrived in timely manner.",
+      "url": "https://www.etsy.com/listing/1774486975/sky-team-organizerinsert-and-tokens"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Well made and arrived quickly.",
+      "url": "https://www.etsy.com/listing/1725160903/wyrmspan-resource-tokens-and-coin"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Well made and arrived quickly.",
+      "url": "https://www.etsy.com/listing/1702911152/wyrmspan-game-insert-sleeved-card"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Great product, as described, would recommend",
+      "url": "https://www.etsy.com/listing/4329802396/spirit-island-token-set-upgrade"
+    },
+    {
+      "rating": 5,
+      "date": "2026-07-16",
+      "text": "Great product, as described, would recommend",
+      "url": "https://www.etsy.com/listing/1474685303/spirit-island-upgrade-tokens-dahan-huts"
+    }
+  ],
   "shop_facts": {
     "country_code": "HU",
     "city": "",
     "region": "",
-    "shipping_rating": 4.678144825391616,
-    "item_quality_rating": 4.8325358582593925,
-    "customer_service_rating": 4.730535781694184,
+    "shipping_rating": 4.678144825390106,
+    "item_quality_rating": 4.832535858258878,
+    "customer_service_rating": 4.730535781695597,
     "average_rating": 4.8,
     "total_rating_count": 3934,
     "rating_count_past_year": 3934,
@@ -24,6 +388,5 @@
   },
   "related_links": [
     "https://www.instagram.com/boardgeekfox/"
-  ],
-  "ships_from": "HU"
+  ]
 }

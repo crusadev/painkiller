@@ -295,9 +295,9 @@ def render(leads, mode, ref):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--shops", default=str(ROOT / "inputs" / "shops.csv"))
+    ap.add_argument("--shops", default=str(ROOT / "demo" / "input" / "shops.csv"))
     ap.add_argument("--snapshot", default=str(SNAPSHOT))
-    ap.add_argument("--out", default=str(ROOT / "leads.md"))
+    ap.add_argument("--out", default=str(ROOT / "demo" / "output" / "leads.md"))
     ap.add_argument("--limit", type=int, default=3, help="shops to evaluate (75s judging gate)")
     ap.add_argument("--only", default="", help="comma-separated shop names")
     a = ap.parse_args()

@@ -22,7 +22,7 @@ hard way").
 python3 scripts/qualify.py --limit 0     # no credentials needed
 ```
 
-Reads `fallback/snapshot/*.json`, writes `leads.md`. Takes ~0.1s. `--limit 3`
+Reads `fallback/snapshot/*.json`, writes `demo/output/leads.md`. Takes ~0.1s. `--limit 3`
 is the default for the judging gate; `--limit 0` means all.
 
 To capture fresh data you need your own Apify token:
@@ -48,7 +48,7 @@ python3 -c "import sys;sys.path.insert(0,'tests');import test_scoring as t;\
 
 | | |
 |---|---|
-| Shops in list | 411 (`inputs/shops.csv`) |
+| Shops in list | 411 (`demo/input/shops.csv`) |
 | Shops enriched with shop facts | 376 (35 returned no record — closed or renamed) |
 | Shops with full review capture | 61 |
 | Reviews captured | 3,623 |
@@ -62,6 +62,8 @@ python3 -c "import sys;sys.path.insert(0,'tests');import test_scoring as t;\
 | Path | |
 |---|---|
 | `.agents/skills/etsy-fulfillment-leads/SKILL.md` | The skill: taxonomy, rubric, privacy rules, known limits |
+| `submission.json` | Manifest, schema v2 |
+| `demo/` | The judged artifacts: seed prompt, input, output, evals |
 | `scripts/taxonomy.py` | 8 pain signals: `patterns` → `means` → `fix`. Edit this to retarget |
 | `scripts/qualify.py` | Scoring + rendering. `score_shop()` is the rubric |
 | `scripts/capture.py` | Review capture. Drops buyer identity at ingest |
@@ -114,7 +116,7 @@ Read this before changing the matcher. These cost hours.
    `capture_shop.py` had written. Keep the merge.
 
 5c. **The evals write to a scratch path.** `qualify.py`'s default output is the
-   committed `leads.md`; an earlier version of the eval runner clobbered it
+   committed `demo/output/leads.md`; an earlier version of the eval runner clobbered it
    with a 3-shop report. There is now a regression check for this.
 
 6. **A lead qualifying on ratings alone must render as such.** Creat3DLab has
@@ -133,6 +135,27 @@ The lead is the **shop**. Everyone else is irrelevant to the score.
   and our revenue estimates of third-party businesses — is gitignored at
   `input/`. Only `scripts/sanitize_list.py` output gets published.
 - `tests/test_scoring.py` asserts the review rules. Keep it passing.
+
+## Submission structure
+
+The repo follows the official starter layout, which is **not** what this repo
+originally used — the artifacts live under `demo/` with exact names the
+validator checks. Before any resubmission:
+
+```bash
+node .agents/skills/skillathon-submit/scripts/validate.mjs .   # must print OK
+```
+
+That script is the organizer's own validator, vendored from the starter repo
+along with the two organizer skills. The submission system runs this exact
+script against the submitted commit.
+It enforces things that are easy to break by accident: `SKILL.md` frontmatter
+may contain **only** `name` and `description`; the folder name must equal the
+frontmatter `name`; the seed prompt must invoke the entry skill as
+`$etsy-fulfillment-leads` **and** name the input path; `demo/evals.md` must
+contain the literal labels `Intended`, `Insufficient evidence` and `Failure`
+plus at least three `| pass |` or `| fail |` cells; and no file may contain the
+word TODO in a placeholder position.
 
 ## Open work, highest value first
 

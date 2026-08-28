@@ -1,61 +1,23 @@
 {
-  "skill_name": "etsy-fulfillment-leads",
-  "skill_path": ".agents/skills/etsy-fulfillment-leads/SKILL.md",
-  "team": [
+  "schema_version": 2,
+  "team": {
+    "name": "3DAPI",
+    "members": [
+      "crusadev"
+    ]
+  },
+  "track": "custom",
+  "problem": "A distributed 3D-printing manufacturing network has 411 candidate Etsy shops and no basis for choosing who to contact first; the skill ranks them by evidence that they are hitting the limits of printing everything in one place, and produces a lead list with quoted buyer evidence and drafted openers.",
+  "entry_skill": ".agents/skills/etsy-fulfillment-leads/SKILL.md",
+  "skills": [
     {
-      "name": "3DAPI",
-      "github": "crusadev",
-      "email": "dev@dapi.digital"
+      "path": ".agents/skills/etsy-fulfillment-leads/SKILL.md",
+      "role": "Score and rank Etsy shops as fulfilment-pain leads from public buyer reviews and Etsy's own shop metrics."
     }
   ],
-  "problem": "Which shops in a 411-shop Etsy prospect list should we contact now, and what do we open with?",
-  "gtm_use_case": "Signal-based lead qualification and outbound prioritisation for a distributed 3D-printing manufacturing network.",
-  "how_it_works": "Captures public Etsy buyer reviews per shop via Apify, matches them against a pain taxonomy that maps each complaint to the capability that removes it, scores each shop 0-100 across pain match, recency, trend, volume fit and corroboration, and renders a ranked lead list with quoted evidence and drafted openers.",
-  "inputs": {
-    "shops": "inputs/shops.csv",
-    "provenance": "inputs/SOURCES.md",
-    "count": 411
-  },
-  "data_sources": [
-    {
-      "name": "Etsy public buyer reviews",
-      "via": "Apify (hello.datawizards~etsy-reviews)",
-      "attribution": "fallback/snapshot/*.json carries source URL and retrieved_at per shop"
-    },
-    {
-      "name": "Etsy public shop facts (origin, shipping vs quality rating, sold count, linked storefronts)",
-      "via": "Apify (getdataforme~etsy-shop-details-scraper)",
-      "attribution": "fallback/snapshot/*.json shop_facts, retrieved_at per shop"
-    }
-  ],
-  "outputs": [
-    "leads.md"
-  ],
-  "fallback": {
-    "path": "fallback/snapshot/",
-    "behaviour": "Runs with no credentials. Scores the committed snapshot, declares data mode and capture date in the report header, fabricates nothing, exits with a message if no snapshot exists."
-  },
-  "evaluation": {
-    "doc": "evals/EVALS.md",
-    "runner": "evals/run_evals.py",
-    "cases": 3
-  },
-  "demo": "DEMO.md",
-  "run_command": "python3 scripts/qualify.py --limit 3",
-  "runtime_seconds_typical": 3,
-  "requires_auth": false,
-  "privacy": "Buyer identity is discarded at review ingest and seller identity at shop ingest; only business facts and review rating/date/text/url are retained. The team's internal prospect sheet (names, outreach status, contact emails, revenue estimates) is gitignored. Enforced by tests/test_scoring.py.",
-  "license": "MIT",
-  "repo": "https://github.com/crusadev/painkiller",
-  "commit_sha": "3e23cd635e96de03b54e773db7e258372a3b5f61",
-  "evidence_base": {
-    "shops_enriched": 376,
-    "shops_in_list": 411,
-    "shops_with_review_capture": 61,
-    "reviews": 3623,
-    "linked_storefronts_discovered": 195,
-    "note": "Two-stage funnel: shop facts across the whole list, then review capture over the top of the ranking."
-  },
-  "commit_sha_note": "Self-referential by nature: this names the commit the manifest was written against. The submission issue carries the authoritative SHA.",
-  "team_name": "3DAPI"
+  "seed_prompt": "demo/seed-prompt.md",
+  "input": "demo/input/shops.csv",
+  "output": "demo/output/leads.md",
+  "evals": "demo/evals.md",
+  "run_sheet": "DEMO.md"
 }

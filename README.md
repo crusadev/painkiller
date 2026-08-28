@@ -23,7 +23,7 @@ prospect's own customer.
 python3 scripts/qualify.py --limit 3     # no credentials needed
 ```
 
-Writes `leads.md`: a ranked table, a card per top lead with quoted evidence
+Writes `demo/output/leads.md`: a ranked table, a card per top lead with quoted evidence
 (source URL + retrieval date) and a drafted opener, and every rejected shop
 with its reason.
 
@@ -38,14 +38,14 @@ python3 scripts/capture.py --shops DeltaLoom,Olee3DArt --ships-from DE --market 
 | Path | |
 |---|---|
 | `.agents/skills/etsy-fulfillment-leads/SKILL.md` | The skill: taxonomy, rubric, privacy rules |
-| `SEED_PROMPT.md` | The task, as stated |
-| `inputs/shops.csv` | 411 candidate shops · provenance in `inputs/SOURCES.md` |
+| `demo/seed-prompt.md` | The task, as stated |
+| `demo/input/shops.csv` | 411 candidate shops · provenance in `demo/input/SOURCES.md` |
 | `fallback/snapshot/` | 376 enriched shops · 61 with full review capture (3,623 reviews) |
 | `scripts/taxonomy.py` | Pain signal → what it means → what fixes it |
 | `scripts/qualify.py` | Scoring and rendering |
 | `scripts/capture.py` | Apify capture, strips reviewer identity at ingest |
 | `fallback/snapshot/` | Committed evidence for credential-free runs |
-| `evals/` | Three evaluation cases + runner |
+| `demo/evals.md`, `evals/` | Three evaluation cases + 13-assertion runner |
 | `DEMO.md` | 2.5-minute runsheet |
 | `HANDOFF.md` | Picking this up cold: state, gotchas, open work |
 
@@ -59,7 +59,7 @@ reduced list is published.
 
 ## Reuse
 
-Swap `inputs/shops.csv` for any shop list. Retarget to another business by
+Swap `demo/input/shops.csv` for any shop list. Retarget to another business by
 editing one table in `scripts/taxonomy.py`.
 
 MIT.

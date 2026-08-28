@@ -37,7 +37,7 @@ analysis is the shop.
 
 | Path | What it is |
 |---|---|
-| `inputs/shops.csv` | Candidate shops: `shop`, `shop_url`, `website`, `category` |
+| `demo/input/shops.csv` | Candidate shops: `shop`, `shop_url`, `website`, `category` |
 | `fallback/snapshot/<shop>.json` | Captured public review evidence, shop facts and linked storefronts per shop |
 
 Volume is not taken from the input list. `scripts/capture_shop.py` retrieves
@@ -140,7 +140,7 @@ it.** A shop with both is the strongest possible lead.
 
 A single angry review never qualifies a shop. Corroboration across independent
 evidence types is what separates a lead from noise. The skill must be willing
-to return `pass`, and must say why — `leads.md` always renders the rejected
+to return `pass`, and must say why — `demo/output/leads.md` always renders the rejected
 shops with their reasons.
 
 ## Privacy rules — non-negotiable
@@ -173,7 +173,7 @@ python3 scripts/qualify.py --limit 3
 Seller identity (name, bio, avatar) is dropped in step 2, exactly as reviewer
 identity is dropped in step 1.
 
-Output: `leads.md` — ranked table, a card per top lead with quoted evidence
+Output: `demo/output/leads.md` — ranked table, a card per top lead with quoted evidence
 (URL + retrieval date) and a drafted opener, then every rejection with its reason.
 
 ## Degraded operation
@@ -181,7 +181,7 @@ Output: `leads.md` — ranked table, a card per top lead with quoted evidence
 **The skill runs with no credentials.** With no `APIFY_TOKEN`, it scores the
 committed snapshot in `fallback/snapshot/` instead of fetching, prints
 `cached snapshot (no APIFY_TOKEN)`, and states the data mode and retrieval date
-at the top of `leads.md`. Nothing is fabricated to fill the gap: if evidence is
+at the top of `demo/output/leads.md`. Nothing is fabricated to fill the gap: if evidence is
 missing, the shop scores low and says so.
 
 `--limit` defaults to 3 so a run finishes inside the 75-second judging gate.
@@ -212,7 +212,7 @@ missing, the shop scores low and says so.
 
 ## Reuse
 
-Swap `inputs/shops.csv` for any shop list. To retarget a different business,
+Swap `demo/input/shops.csv` for any shop list. To retarget a different business,
 edit the taxonomy in `scripts/taxonomy.py`: each entry is `patterns` (what the
 customer says) → `means` (what it implies) → `fix` (what you sell). The rubric
 and renderer are unchanged.

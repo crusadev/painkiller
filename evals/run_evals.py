@@ -57,7 +57,7 @@ if snaps:
     check("case 3 · declares data mode", "committed snapshot" in out)
     check("case 3 · under 75s", elapsed < 75, f"{elapsed:.1f}s")
     check("case 3 · leaves the committed report untouched",
-          (ROOT / "leads.md").read_text().count("| ") > 100,
+          (ROOT / "demo" / "output" / "leads.md").read_text().count("| ") > 100,
           "evals must not clobber leads.md")
     scratch.unlink(missing_ok=True)
 else:

@@ -701,86 +701,86 @@ Shown so the rubric can be checked against its own rejections.
 
 | Shop | Score | Throughput | Reviews seen | Why not |
 |---|---|---|---|---|
-| [Boom3DDesigns](https://www.etsy.com/shop/Boom3DDesigns) | 34 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [PottrUK](https://www.etsy.com/shop/PottrUK) | 34 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [JASFDesign](https://www.etsy.com/shop/JASFDesign) | 34 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [NoTimeLikeTheGift](https://www.etsy.com/shop/NoTimeLikeTheGift) | 34 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [MS3DDruck24](https://www.etsy.com/shop/MS3DDruck24) | 33 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [HappyTappyShop](https://www.etsy.com/shop/HappyTappyShop) | 33 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [EGOMounts](https://www.etsy.com/shop/EGOMounts) | 33 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Trella3DPrints](https://www.etsy.com/shop/Trella3DPrints) | 33 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [LEDBFG](https://www.etsy.com/shop/LEDBFG) | 33 | 7.8/wk | 60 | no fulfilment complaints found in the reviewed window |
-| [PRINTserts](https://www.etsy.com/shop/PRINTserts) | 32 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [FusedLine](https://www.etsy.com/shop/FusedLine) | 32 | 5.7/wk | 60 | no fulfilment complaints found in the reviewed window |
-| [ZephyrsMarket](https://www.etsy.com/shop/ZephyrsMarket) | 31 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TealCatCreative](https://www.etsy.com/shop/TealCatCreative) | 30 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [lousbrews](https://www.etsy.com/shop/lousbrews) | 30 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [OverlandEngineering](https://www.etsy.com/shop/OverlandEngineering) | 30 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [VibratoVault](https://www.etsy.com/shop/VibratoVault) | 30 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [RogueHomeDesign](https://www.etsy.com/shop/RogueHomeDesign) | 30 | 5.5/wk | 60 | no fulfilment complaints found in the reviewed window |
-| [NewSwedishDesign](https://www.etsy.com/shop/NewSwedishDesign) | 30 | 6.7/wk | 60 | no fulfilment complaints found in the reviewed window |
-| [Imperial3DFactory](https://www.etsy.com/shop/Imperial3DFactory) | 30 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Sander3DPrint](https://www.etsy.com/shop/Sander3DPrint) | 30 | 1.1/wk | 60 | no fulfilment complaints found in the reviewed window; volume 171 orders/yr below the 1200/yr floor; low throughput (1.1 reviews/wk) - not yet at the constraint; review rate declining (0.54x quarter on quarter) |
-| [FlightFlair](https://www.etsy.com/shop/FlightFlair) | 29 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Carzdeluxe](https://www.etsy.com/shop/Carzdeluxe) | 29 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Makearoni](https://www.etsy.com/shop/Makearoni) | 28 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [3DPrintedByBrian](https://www.etsy.com/shop/3DPrintedByBrian) | 28 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [HldMyBeerEngineering](https://www.etsy.com/shop/HldMyBeerEngineering) | 28 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [3DHotShop](https://www.etsy.com/shop/3DHotShop) | 28 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Houseofdavinci](https://www.etsy.com/shop/Houseofdavinci) | 27 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [MakersRemix](https://www.etsy.com/shop/MakersRemix) | 26 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [LevityGames](https://www.etsy.com/shop/LevityGames) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TopoCoArt](https://www.etsy.com/shop/TopoCoArt) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Dancyn3DPrints](https://www.etsy.com/shop/Dancyn3DPrints) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Intrinsic3D](https://www.etsy.com/shop/Intrinsic3D) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Hox3D](https://www.etsy.com/shop/Hox3D) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Pashmation](https://www.etsy.com/shop/Pashmation) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [ChiclyBuilt](https://www.etsy.com/shop/ChiclyBuilt) | 25 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [DeltaLoom](https://www.etsy.com/shop/DeltaLoom) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [ModCre8tor](https://www.etsy.com/shop/ModCre8tor) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Buzz3DPrint](https://www.etsy.com/shop/Buzz3DPrint) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TheBearandWolfStudio](https://www.etsy.com/shop/TheBearandWolfStudio) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [LostTravelerLee3D](https://www.etsy.com/shop/LostTravelerLee3D) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [CreativePlasticsShop](https://www.etsy.com/shop/CreativePlasticsShop) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TheOwlchemyNest](https://www.etsy.com/shop/TheOwlchemyNest) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Express3DCustoms](https://www.etsy.com/shop/Express3DCustoms) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [RedFive3D](https://www.etsy.com/shop/RedFive3D) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [ChickaDoodlez](https://www.etsy.com/shop/ChickaDoodlez) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [CleverContraptions](https://www.etsy.com/shop/CleverContraptions) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [SenacLLC](https://www.etsy.com/shop/SenacLLC) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [PixieCube](https://www.etsy.com/shop/PixieCube) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [CO3Dprint](https://www.etsy.com/shop/CO3Dprint) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TDStudiosChicago](https://www.etsy.com/shop/TDStudiosChicago) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Marbol3DWorkshop](https://www.etsy.com/shop/Marbol3DWorkshop) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [CoalRegionPrints](https://www.etsy.com/shop/CoalRegionPrints) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [LeafyPlarent](https://www.etsy.com/shop/LeafyPlarent) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [MontanaAngleWorx](https://www.etsy.com/shop/MontanaAngleWorx) | 24 | 2.0/wk | 60 | no fulfilment complaints found in the reviewed window; volume 120 orders/yr below the 1200/yr floor; low throughput (2.0 reviews/wk) - not yet at the constraint; review rate declining (0.43x quarter on quarter) |
-| [Print4Fun3D](https://www.etsy.com/shop/Print4Fun3D) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [wonderland3dprinting](https://www.etsy.com/shop/wonderland3dprinting) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [BaristaGadgets](https://www.etsy.com/shop/BaristaGadgets) | 24 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [LitArtifactz](https://www.etsy.com/shop/LitArtifactz) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [EvilMachine](https://www.etsy.com/shop/EvilMachine) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TabletopTerrain3D](https://www.etsy.com/shop/TabletopTerrain3D) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TinInsertCo](https://www.etsy.com/shop/TinInsertCo) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [MikesThingamajigs](https://www.etsy.com/shop/MikesThingamajigs) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TwistedDesignUSA](https://www.etsy.com/shop/TwistedDesignUSA) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [CosmicForce3DPrints](https://www.etsy.com/shop/CosmicForce3DPrints) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [GalaxyGames3dPrints](https://www.etsy.com/shop/GalaxyGames3dPrints) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [PoconoPrinting](https://www.etsy.com/shop/PoconoPrinting) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [HobbyPilled](https://www.etsy.com/shop/HobbyPilled) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [EternaDecor](https://www.etsy.com/shop/EternaDecor) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [CentrionStudio](https://www.etsy.com/shop/CentrionStudio) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [HoneycrispLabs](https://www.etsy.com/shop/HoneycrispLabs) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TechnicallyBuilt](https://www.etsy.com/shop/TechnicallyBuilt) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [WeBe3DPrinting](https://www.etsy.com/shop/WeBe3DPrinting) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [TheFelizCo](https://www.etsy.com/shop/TheFelizCo) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [BurtonDesignWorks](https://www.etsy.com/shop/BurtonDesignWorks) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Kevins3DKreations](https://www.etsy.com/shop/Kevins3DKreations) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [FrawstedCreations](https://www.etsy.com/shop/FrawstedCreations) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [Print3DSteve](https://www.etsy.com/shop/Print3DSteve) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [K2KustomsLLC](https://www.etsy.com/shop/K2KustomsLLC) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [FlexiFactoryStore](https://www.etsy.com/shop/FlexiFactoryStore) | 23 | 0.0/wk | 0 | no fulfilment complaints found in the reviewed window; low throughput (0.0 reviews/wk) - not yet at the constraint |
-| [ShellypartsShop](https://www.etsy.com/shop/ShellypartsShop) | 21 | 0.5/wk | 43 | no fulfilment complaints found in the reviewed window; volume 154 orders/yr below the 1200/yr floor; low throughput (0.5 reviews/wk) - not yet at the constraint; review rate declining (0.43x quarter on quarter) |
-| [3DSchmelzwerk](https://www.etsy.com/shop/3DSchmelzwerk) | 16 | 0.3/wk | 40 | no fulfilment complaints found in the reviewed window; volume 79 orders/yr below the 1200/yr floor; low throughput (0.3 reviews/wk) - not yet at the constraint; review rate declining (0.00x quarter on quarter) |
-| [OffDaBench](https://www.etsy.com/shop/OffDaBench) | 10 | 1.0/wk | 60 | no fulfilment complaints found in the reviewed window; volume 116 orders/yr below the 1200/yr floor; low throughput (1.0 reviews/wk) - not yet at the constraint; review rate declining (0.75x quarter on quarter) |
-| [GirdledGoodsShop](https://www.etsy.com/shop/GirdledGoodsShop) | 9 | 0.4/wk | 60 | no fulfilment complaints found in the reviewed window; volume 95 orders/yr below the 1200/yr floor; low throughput (0.4 reviews/wk) - not yet at the constraint; review rate declining (0.50x quarter on quarter) |
+| [Boom3DDesigns](https://www.etsy.com/shop/Boom3DDesigns) | 34 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [PottrUK](https://www.etsy.com/shop/PottrUK) | 34 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [JASFDesign](https://www.etsy.com/shop/JASFDesign) | 34 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [NoTimeLikeTheGift](https://www.etsy.com/shop/NoTimeLikeTheGift) | 34 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [MS3DDruck24](https://www.etsy.com/shop/MS3DDruck24) | 33 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [HappyTappyShop](https://www.etsy.com/shop/HappyTappyShop) | 33 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [EGOMounts](https://www.etsy.com/shop/EGOMounts) | 33 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Trella3DPrints](https://www.etsy.com/shop/Trella3DPrints) | 33 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [LEDBFG](https://www.etsy.com/shop/LEDBFG) | 33 | 7.8/wk | 60 | no fulfilment complaints in 60 reviews read |
+| [PRINTserts](https://www.etsy.com/shop/PRINTserts) | 32 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [FusedLine](https://www.etsy.com/shop/FusedLine) | 32 | 5.7/wk | 60 | no fulfilment complaints in 60 reviews read |
+| [ZephyrsMarket](https://www.etsy.com/shop/ZephyrsMarket) | 31 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TealCatCreative](https://www.etsy.com/shop/TealCatCreative) | 30 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [lousbrews](https://www.etsy.com/shop/lousbrews) | 30 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [OverlandEngineering](https://www.etsy.com/shop/OverlandEngineering) | 30 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [VibratoVault](https://www.etsy.com/shop/VibratoVault) | 30 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [RogueHomeDesign](https://www.etsy.com/shop/RogueHomeDesign) | 30 | 5.5/wk | 60 | no fulfilment complaints in 60 reviews read |
+| [NewSwedishDesign](https://www.etsy.com/shop/NewSwedishDesign) | 30 | 6.7/wk | 60 | no fulfilment complaints in 60 reviews read |
+| [Imperial3DFactory](https://www.etsy.com/shop/Imperial3DFactory) | 30 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Sander3DPrint](https://www.etsy.com/shop/Sander3DPrint) | 30 | 1.1/wk | 60 | no fulfilment complaints in 60 reviews read; volume 171 orders/yr below the 1200/yr floor; low throughput (1.1 reviews/wk) - not yet at the constraint; review rate declining (0.54x quarter on quarter) |
+| [FlightFlair](https://www.etsy.com/shop/FlightFlair) | 29 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Carzdeluxe](https://www.etsy.com/shop/Carzdeluxe) | 29 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Makearoni](https://www.etsy.com/shop/Makearoni) | 28 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [3DPrintedByBrian](https://www.etsy.com/shop/3DPrintedByBrian) | 28 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [HldMyBeerEngineering](https://www.etsy.com/shop/HldMyBeerEngineering) | 28 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [3DHotShop](https://www.etsy.com/shop/3DHotShop) | 28 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Houseofdavinci](https://www.etsy.com/shop/Houseofdavinci) | 27 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [MakersRemix](https://www.etsy.com/shop/MakersRemix) | 26 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [LevityGames](https://www.etsy.com/shop/LevityGames) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TopoCoArt](https://www.etsy.com/shop/TopoCoArt) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Dancyn3DPrints](https://www.etsy.com/shop/Dancyn3DPrints) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Intrinsic3D](https://www.etsy.com/shop/Intrinsic3D) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Hox3D](https://www.etsy.com/shop/Hox3D) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Pashmation](https://www.etsy.com/shop/Pashmation) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [ChiclyBuilt](https://www.etsy.com/shop/ChiclyBuilt) | 25 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [DeltaLoom](https://www.etsy.com/shop/DeltaLoom) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [ModCre8tor](https://www.etsy.com/shop/ModCre8tor) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Buzz3DPrint](https://www.etsy.com/shop/Buzz3DPrint) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TheBearandWolfStudio](https://www.etsy.com/shop/TheBearandWolfStudio) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [LostTravelerLee3D](https://www.etsy.com/shop/LostTravelerLee3D) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [CreativePlasticsShop](https://www.etsy.com/shop/CreativePlasticsShop) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TheOwlchemyNest](https://www.etsy.com/shop/TheOwlchemyNest) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Express3DCustoms](https://www.etsy.com/shop/Express3DCustoms) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [RedFive3D](https://www.etsy.com/shop/RedFive3D) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [ChickaDoodlez](https://www.etsy.com/shop/ChickaDoodlez) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [CleverContraptions](https://www.etsy.com/shop/CleverContraptions) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [SenacLLC](https://www.etsy.com/shop/SenacLLC) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [PixieCube](https://www.etsy.com/shop/PixieCube) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [CO3Dprint](https://www.etsy.com/shop/CO3Dprint) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TDStudiosChicago](https://www.etsy.com/shop/TDStudiosChicago) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Marbol3DWorkshop](https://www.etsy.com/shop/Marbol3DWorkshop) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [CoalRegionPrints](https://www.etsy.com/shop/CoalRegionPrints) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [LeafyPlarent](https://www.etsy.com/shop/LeafyPlarent) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [MontanaAngleWorx](https://www.etsy.com/shop/MontanaAngleWorx) | 24 | 2.0/wk | 60 | no fulfilment complaints in 60 reviews read; volume 120 orders/yr below the 1200/yr floor; low throughput (2.0 reviews/wk) - not yet at the constraint; review rate declining (0.43x quarter on quarter) |
+| [Print4Fun3D](https://www.etsy.com/shop/Print4Fun3D) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [wonderland3dprinting](https://www.etsy.com/shop/wonderland3dprinting) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [BaristaGadgets](https://www.etsy.com/shop/BaristaGadgets) | 24 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [LitArtifactz](https://www.etsy.com/shop/LitArtifactz) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [EvilMachine](https://www.etsy.com/shop/EvilMachine) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TabletopTerrain3D](https://www.etsy.com/shop/TabletopTerrain3D) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TinInsertCo](https://www.etsy.com/shop/TinInsertCo) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [MikesThingamajigs](https://www.etsy.com/shop/MikesThingamajigs) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TwistedDesignUSA](https://www.etsy.com/shop/TwistedDesignUSA) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [CosmicForce3DPrints](https://www.etsy.com/shop/CosmicForce3DPrints) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [GalaxyGames3dPrints](https://www.etsy.com/shop/GalaxyGames3dPrints) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [PoconoPrinting](https://www.etsy.com/shop/PoconoPrinting) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [HobbyPilled](https://www.etsy.com/shop/HobbyPilled) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [EternaDecor](https://www.etsy.com/shop/EternaDecor) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [CentrionStudio](https://www.etsy.com/shop/CentrionStudio) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [HoneycrispLabs](https://www.etsy.com/shop/HoneycrispLabs) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TechnicallyBuilt](https://www.etsy.com/shop/TechnicallyBuilt) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [WeBe3DPrinting](https://www.etsy.com/shop/WeBe3DPrinting) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [TheFelizCo](https://www.etsy.com/shop/TheFelizCo) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [BurtonDesignWorks](https://www.etsy.com/shop/BurtonDesignWorks) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Kevins3DKreations](https://www.etsy.com/shop/Kevins3DKreations) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [FrawstedCreations](https://www.etsy.com/shop/FrawstedCreations) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [Print3DSteve](https://www.etsy.com/shop/Print3DSteve) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [K2KustomsLLC](https://www.etsy.com/shop/K2KustomsLLC) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [FlexiFactoryStore](https://www.etsy.com/shop/FlexiFactoryStore) | 23 | 0.0/wk | 0 | no review evidence captured - scored on shop facts only |
+| [ShellypartsShop](https://www.etsy.com/shop/ShellypartsShop) | 21 | 0.5/wk | 43 | no fulfilment complaints in 43 reviews read; volume 154 orders/yr below the 1200/yr floor; low throughput (0.5 reviews/wk) - not yet at the constraint; review rate declining (0.43x quarter on quarter) |
+| [3DSchmelzwerk](https://www.etsy.com/shop/3DSchmelzwerk) | 16 | 0.3/wk | 40 | no fulfilment complaints in 40 reviews read; volume 79 orders/yr below the 1200/yr floor; low throughput (0.3 reviews/wk) - not yet at the constraint; review rate declining (0.00x quarter on quarter) |
+| [OffDaBench](https://www.etsy.com/shop/OffDaBench) | 10 | 1.0/wk | 60 | no fulfilment complaints in 60 reviews read; volume 116 orders/yr below the 1200/yr floor; low throughput (1.0 reviews/wk) - not yet at the constraint; review rate declining (0.75x quarter on quarter) |
+| [GirdledGoodsShop](https://www.etsy.com/shop/GirdledGoodsShop) | 9 | 0.4/wk | 60 | no fulfilment complaints in 60 reviews read; volume 95 orders/yr below the 1200/yr floor; low throughput (0.4 reviews/wk) - not yet at the constraint; review rate declining (0.50x quarter on quarter) |

@@ -133,15 +133,18 @@ def score_shop(meta, snap, ref):
         tier = "pass" if shrinking else "nurture"
 
     reasons = []
-    if not hits:
-        reasons.append("no fulfilment complaints found in the reviewed window")
+    if not reviews:
+        # Saying "no complaints found" would imply we looked. We did not.
+        reasons.append("no review evidence captured - scored on shop facts only")
+    elif not hits:
+        reasons.append(f"no fulfilment complaints in {len(reviews)} reviews read")
     if not recent and hits:
         reasons.append("complaints exist but none in the last 90 days")
     if orders_yr and orders_yr > SWEET_HIGH:
         reasons.append(f"volume {orders_yr} orders/yr above the serviceable band")
     elif orders_yr and orders_yr < SWEET_LOW:
         reasons.append(f"volume {orders_yr} orders/yr below the {SWEET_LOW}/yr floor")
-    if velocity < 3:
+    if reviews and velocity < 3:
         reasons.append(f"low throughput ({velocity:.1f} reviews/wk) - not yet at the constraint")
     if growth is not None and growth < 1.0:
         reasons.append(f"review rate declining ({growth:.2f}x quarter on quarter)")

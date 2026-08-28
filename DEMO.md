@@ -41,6 +41,6 @@ in **four- and five-star** reviews* — "took about two months to arrive" inside
 5-star review recommending the shop. Filter by star rating and you find nothing.
 
 **Fallback output was produced:** 2026-08-28 during the event, by running
-`python3 scripts/qualify.py --limit 0` against the committed snapshot in
+`python3 scripts/qualify.py` against the committed snapshot in
 `fallback/snapshot/` — 3,623 public Etsy reviews and shop facts for 376 shops,
 captured the same day via Apify. Not live.

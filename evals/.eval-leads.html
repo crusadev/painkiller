@@ -1,0 +1,113 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>3DAPI — fulfilment-pain lead qualification</title><style>
+/* "Print job traveler" — a machine report interrupted by human voices.
+   Machine values are monospace; buyer quotes are humanist sans, larger.
+   System fonts only: this must render on a laptop with no network. */
+:root{
+  --sheet:#E9E5DC;      /* build plate */
+  --sheet2:#F2EFE9;     /* card stock */
+  --ink:#14161A;        /* machine ink */
+  --ink2:#5C6169;       /* secondary */
+  --rule:#C4BEB2;       /* hairline */
+  --flag:#C63A16;       /* filament orange — the shortfall */
+  --ok:#2A6152;         /* spruce — product quality */
+  --stamp:#1C3D6E;      /* routing stamp */
+  --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
+  --sans:ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--sheet);color:var(--ink);font-family:var(--mono);
+  font-size:14px;line-height:1.5;
+  /* layer lines: the defining artifact of an FDM print */
+  background-image:repeating-linear-gradient(to bottom,
+    rgba(20,22,26,.035) 0 1px, transparent 1px 6px);}
+.wrap{max-width:1000px;margin:0 auto;padding:0 28px 72px}
+
+/* ---- job header: reads like a routing card ---- */
+.head{border-bottom:2px solid var(--ink);padding:26px 0 12px;margin-bottom:0}
+.head h1{font-family:var(--mono);font-size:15px;font-weight:700;letter-spacing:.16em;
+  text-transform:uppercase;margin:0 0 14px}
+.spec{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:2px 24px;
+  font-size:11.5px;letter-spacing:.04em}
+.spec div{border-top:1px solid var(--rule);padding:6px 0}
+.spec b{display:block;color:var(--ink2);font-weight:400;text-transform:uppercase;
+  letter-spacing:.1em;font-size:10px}
+
+/* ---- thesis: the one idea, sized for a projector ---- */
+.thesis{padding:44px 0 40px;border-bottom:1px solid var(--rule)}
+.thesis p{font-family:var(--sans);font-size:clamp(24px,3.4vw,38px);line-height:1.22;
+  font-weight:600;letter-spacing:-.02em;margin:0;max-width:22ch}
+.thesis .num{font-family:var(--mono);font-weight:700;
+  border-bottom:3px solid var(--flag);padding-bottom:1px}
+.thesis .said{font-family:var(--sans);font-size:clamp(15px,1.6vw,18px);font-weight:400;
+  color:var(--ink2);margin:20px 0 0;max-width:46ch;line-height:1.45}
+.thesis .said em{font-style:normal;color:var(--ink);box-shadow:inset 0 -.5em 0 rgba(198,58,22,.14)}
+
+/* ---- tally ---- */
+.tally{display:flex;flex-wrap:wrap;gap:0 28px;padding:14px 0;border-bottom:2px solid var(--ink);
+  font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+.tally span{color:var(--ink2)}
+.tally b{color:var(--ink);font-size:15px;margin-right:5px}
+.tally .hot b{color:var(--flag)}
+
+/* ---- lead cards ---- */
+h2{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink2);
+  font-weight:400;margin:38px 0 14px}
+.lead{background:var(--sheet2);border:1px solid var(--rule);border-left:3px solid var(--ink);
+  padding:20px 22px;margin-bottom:12px}
+.lead.hot{border-left-color:var(--flag)}
+.ltop{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.rank{font-size:12px;color:var(--ink2);letter-spacing:.1em}
+.lead h3{font-family:var(--mono);font-size:20px;font-weight:700;letter-spacing:-.01em;margin:0}
+.tag{font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
+  border:1px solid currentColor;padding:2px 7px;color:var(--ink2)}
+.tag.hot{color:var(--flag)}
+.sc{margin-left:auto;font-size:13px;color:var(--ink2);letter-spacing:.04em}
+.route{font-size:11.5px;color:var(--ink2);letter-spacing:.06em;text-transform:uppercase;
+  margin:9px 0 16px}
+.route .o{color:var(--stamp);font-weight:700}
+
+/* ---- signature: the gap drawn as two extruded layers ---- */
+.gap{margin:0 0 16px}
+.lay{display:flex;align-items:center;gap:12px;margin:4px 0;font-size:11px;
+  letter-spacing:.08em;text-transform:uppercase}
+.lay i{width:96px;flex:none;color:var(--ink2);font-style:normal}
+.track{flex:1;height:12px;position:relative;background:
+  repeating-linear-gradient(to bottom,rgba(20,22,26,.10) 0 1px,transparent 1px 3px);
+  border-bottom:1px solid var(--rule)}
+.fill{position:absolute;inset:0 auto 0 0;
+  background:repeating-linear-gradient(to bottom,currentColor 0 2px,rgba(255,255,255,.35) 2px 3px)}
+.lay.q{color:var(--ok)} .lay.s{color:var(--flag)}
+.lay b{width:42px;text-align:right;flex:none;font-size:12.5px;color:var(--ink)}
+.short{height:14px;position:relative;margin-left:108px;margin-right:54px}
+.short span{position:absolute;top:0;bottom:0;border-left:1px solid var(--flag);
+  border-right:1px solid var(--flag);
+  background:repeating-linear-gradient(45deg,rgba(198,58,22,.16) 0 3px,transparent 3px 6px)}
+.verdict{font-family:var(--sans);font-size:13.5px;color:var(--flag);margin:8px 0 0;font-weight:500}
+
+/* ---- human voices ---- */
+.said{font-family:var(--sans);font-size:15.5px;line-height:1.45;margin:14px 0 0;
+  padding-left:14px;border-left:2px solid var(--rule)}
+.said .attr{display:block;font-family:var(--mono);font-size:10.5px;color:var(--ink2);
+  letter-spacing:.08em;text-transform:uppercase;margin-top:6px}
+.said .attr a{color:var(--stamp)}
+.none{font-family:var(--sans);font-size:14px;color:var(--ink2);margin:14px 0 0;
+  padding-left:14px;border-left:2px dashed var(--rule)}
+.opener{margin-top:16px;padding-top:12px;border-top:1px solid var(--rule)}
+.opener i{display:block;font-style:normal;font-size:10px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink2);margin-bottom:6px}
+.opener p{font-family:var(--sans);font-size:14px;line-height:1.45;margin:0}
+
+/* ---- ranked table ---- */
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th{text-align:left;font-weight:400;font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink2);padding:7px 10px;border-bottom:1px solid var(--ink)}
+td{padding:7px 10px;border-bottom:1px solid var(--rule)}
+td a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule)}
+.n{text-align:right;font-variant-numeric:tabular-nums}
+tr.hot td:first-child{box-shadow:inset 2px 0 0 var(--flag)}
+.foot{font-size:11.5px;color:var(--ink2);margin-top:16px;line-height:1.6;letter-spacing:.03em}
+.foot a{color:var(--stamp)}
+@media(max-width:640px){.wrap{padding:0 16px 48px}.lay i{width:70px}.short{margin-left:82px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style></head><body><div class="wrap"><div class="head"><h1>3DAPI &nbsp;·&nbsp; Fulfilment-pain lead qualification</h1><div class="spec"><div><b>Shops evaluated</b>3</div><div><b>Reviews read</b>60</div><div><b>Evidence retrieved</b>2026-08-28</div><div><b>Data mode</b>committed snapshot</div><div><b>Storefronts found</b>1</div></div></div><div class="thesis"><p>All <span class="num">2</span> fulfilment complaints across <span class="num">60</span> reviews sit in four- and five-star reviews.</p><p class="said">Which is why this does not read star ratings. <em>&ldquo;It took about two months to arrive&rdquo;</em> &mdash; five stars, and the buyer recommends the shop. Filter on rating and you find nothing.</p></div><div class="tally"><span class="hot"><b>0</b>hot</span><span><b>1</b>watch</span><span><b>0</b>tracked below floor</span><span><b>2</b>rejected, with reasons</span></div><h2>Call these first</h2><div class="lead"><div class="ltop"><span class="rank">01</span><h3>3DecoStudio</h3><span class="tag">watch</span><span class="sc">53/100</span></div><div class="route">prints in <span class="o">NL</span> &rarr; buyers largely US / UK &nbsp;·&nbsp; 7,446 sold &nbsp;·&nbsp; ~1,361 orders/yr</div><div class="gap"><div class="lay q"><i>item quality</i><div class="track"><div class="fill" style="width:78.8%"></div></div><b>4.82</b></div><div class="lay s"><i>shipping</i><div class="track"><div class="fill" style="width:76.5%"></div></div><b>4.80</b></div><div class="short"><span style="left:76.5%;width:2.4%"></span></div><p class="verdict">Buyers rate the delivery 0.02 below the product. The print is fine. The distance is not.</p></div><p class="said">&ldquo;Took a long time to arrive but well worth the wait. Gorgeous lamp! I can’t wait to get another.&rdquo;<span class="attr">5&#9733; &nbsp;·&nbsp; 2026-03-31 &nbsp;·&nbsp; Slow delivery &nbsp;·&nbsp; <a href="https://www.etsy.com/listing/1469821520/seconds-wavy-x-amber-40-off-lamps-with">listing</a></span></p><p class="said">&ldquo;The lamp itself is beautiful - the design is as I expected. It looks stunning in my space and feels warm.  The only small thing I would mention is the switch button, which is positioned quite far fro…&rdquo;<span class="attr">4&#9733; &nbsp;·&nbsp; 2026-03-03 &nbsp;·&nbsp; Slow delivery &nbsp;·&nbsp; <a href="https://www.etsy.com/listing/1340468140/wavy-x-amber-japandi-table-lamp-warm">listing</a></span></p><div class="opener"><i>drafted opener</i><p>Your recent Etsy reviews keep landing on the same thing - slow delivery. 3DAPI routes each order to a print farm near the customer, so the same product ships domestically instead of crossing a border.</p></div></div><h2>Ranked</h2><table><tr><th class="n">#</th><th>Shop</th><th>Tier</th><th class="n">Score</th><th>Prints in</th><th>Pain signals</th></tr><tr><td class="n">01</td><td><a href="https://www.etsy.com/shop/3DecoStudio">3DecoStudio</a></td><td>watch</td><td class="n">53</td><td>NL</td><td>Slow delivery</td></tr><tr><td class="n">02</td><td><a href="https://www.etsy.com/shop/DeltaLoom">DeltaLoom</a></td><td>pass</td><td class="n">24</td><td>US</td><td>&mdash;</td></tr><tr><td class="n">03</td><td><a href="https://www.etsy.com/shop/ModCre8tor">ModCre8tor</a></td><td>pass</td><td class="n">24</td><td>US</td><td>&mdash;</td></tr></table><p class="foot">2 shops rejected with a stated reason and 0 tracked below the volume floor &mdash; all listed in <a href="leads.md">leads.md</a>. Evidence is public Etsy review text with source and retrieval date; reviewer and seller identity are never collected. committed snapshot, captured 2026-08-28 — no APIFY_TOKEN, cannot refresh.</p></div></body></html>

@@ -22,23 +22,26 @@ stores the identity of a buyer or a seller.
 
 1. Codex is open at the repository root.
 2. Paste [`demo/seed-prompt.md`](demo/seed-prompt.md).
-3. Watch for: `376 scored ({'hot': 17, 'watch': 64, 'pass': 83}) -> demo/output/leads.md`
-   — it runs with no credentials and takes about a fifth of a second.
-4. If nothing visible after 60 seconds, open the fallback:
-   [`demo/output/leads.md`](demo/output/leads.md)
+3. Watch for: `376 scored ({'hot': 17, ...}) -> leads.md + leads.html` — it runs
+   with no credentials and takes about a fifth of a second.
+4. Open [`demo/output/leads.html`](demo/output/leads.html) in the browser. That
+   is the report; `leads.md` beside it holds the full 376-shop listing.
+5. If nothing visible after 60 seconds, open that same file — it is committed
+   and identical to what the run produces.
 
 ## Show this — 25 seconds
 
-**Result:** a ranked list of 376 shops. Scroll to **QuantumQuill3D** at the top:
-Canada, Etsy rates its shipping 4.52 against 4.72 for item quality, and three
-buyers describe slow shipping — two of them in five-star reviews. Then scroll to **"Not qualified"** — the skill
-rejects 83 shops and says why for each.
+**Result:** the page opens on the finding — *all 44 fulfilment complaints across
+3,623 reviews sit in four- and five-star reviews.* Then **QuantumQuill3D** at
+the top: prints in Canada, and the two bars show Etsy rating its shipping 4.52
+against 4.72 for item quality, with the shortfall hatched between them. The
+print is fine; the distance is not. Two buyers say so in their own words, both
+in five-star reviews.
 
 **Evidence:** every quote carries its star rating, date and a link to the
-listing it came from. Each card states its data mode and retrieval date. The
-one line worth reading aloud: *all 44 fulfilment complaints in 3,623 reviews sit
-in **four- and five-star** reviews* — "took about two months to arrive" inside a
-5-star review recommending the shop. Filter by star rating and you find nothing.
+listing. The header states the data mode and retrieval date. Scroll once more:
+83 shops rejected with a stated reason, 212 tracked below the volume floor — it
+says no as readily as yes.
 
 **Fallback output was produced:** 2026-08-28 during the event, by running
 `python3 scripts/qualify.py` against the committed snapshot in

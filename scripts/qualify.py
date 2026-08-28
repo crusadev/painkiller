@@ -10,6 +10,7 @@ import argparse, csv, datetime as dt, json, os, pathlib, sys
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from env import load_env
 from taxonomy import match_signals, weight, BY_ID  # noqa: E402
+import render_html  # noqa: E402
 
 load_env()
 
@@ -336,8 +337,21 @@ def main():
         leads.append(score_shop(meta, json.loads(f.read_text(encoding="utf-8")), ref))
 
     pathlib.Path(a.out).write_text(render(leads, mode, ref), encoding="utf-8")
+
+    # Self-contained HTML alongside the markdown, for showing on a screen.
+    for l in leads:
+        l["opener"] = opener(l)
+    corpus = sum(l["reviews_seen"] for l in leads)
+    signals = sum(1 for l in leads for _ in l["evidence"]) or 0
+    signals = sum(len([1 for r in json.loads((snapdir / f"{l['shop']}.json").read_text())
+                       .get("reviews", []) if match_signals(r["text"])]) for l in leads)
+    links = sum(1 for l in leads if l.get("related_links"))
+    html_path = pathlib.Path(a.out).with_suffix(".html")
+    html_path.write_text(render_html.render(leads, {
+        "mode": mode, "date": ref.isoformat(), "reviews": corpus,
+        "signals": signals, "links": links}, BY_ID), encoding="utf-8")
     tiers = {t: sum(1 for l in leads if l["tier"] == t) for t in ("hot", "watch", "pass")}
-    print(f"{len(leads)} scored ({tiers}) -> {a.out}  [{mode}]")
+    print(f"{len(leads)} scored ({tiers}) -> {a.out} + {html_path.name}  [{mode}]")
 
 
 if __name__ == "__main__":

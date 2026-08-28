@@ -135,7 +135,7 @@ of magnitude. A shop clearing 20 orders a week out of one workshop is scaling
 into the constraint whether or not anyone has complained yet; a shop clearing
 one is not, whatever its reviews say.
 
-So: **throughput finds who isapproaching the ceiling, complaints prove they have hit
+So: **throughput finds who is approaching the ceiling, complaints prove they have hit
 it.** A shop with both is the strongest possible lead.
 
 A single angry review never qualifies a shop. Corroboration across independent

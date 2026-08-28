@@ -29,19 +29,26 @@
     }
   ],
   "outputs": [
+    "demo/output/radar.md",
     "leads.md"
   ],
   "fallback": {
-    "path": "fallback/snapshot/",
-    "behaviour": "Runs with no credentials. Scores the committed snapshot, declares data mode and capture date in the report header, fabricates nothing, exits with a message if no snapshot exists."
+    "path": "demo/output/radar.md",
+    "behaviour": "Pre-committed. Runs with no credentials against the committed snapshot; declares data mode and retrieval date in the report header; fabricates nothing; reports an empty week as an empty week."
   },
   "evaluation": {
-    "doc": "evals/EVALS.md",
-    "runner": "evals/run_evals.py",
+    "doc": "demo/evals.md",
+    "runner": "scripts/periodic.py",
     "cases": 3
   },
-  "demo": "DEMO.md",
-  "run_command": "python3 scripts/qualify.py --limit 3",
+  "demo": {
+    "seed_prompt": "demo/seed-prompt.md",
+    "input": "demo/input/",
+    "output": "demo/output/radar.md",
+    "evals": "demo/evals.md",
+    "runsheet": "DEMO.md"
+  },
+  "run_command": "python3 scripts/periodic.py",
   "runtime_seconds_typical": 3,
   "requires_auth": false,
   "privacy": "Buyer identity is discarded at review ingest and seller identity at shop ingest; only business facts and review rating/date/text/url are retained. The team's internal prospect sheet (names, outreach status, contact emails, revenue estimates) is gitignored. Enforced by tests/test_scoring.py.",
@@ -53,6 +60,18 @@
     "reviews": 1283,
     "note": "22 of 411 shops captured; rubric scores 55/100 from shop facts alone, so the full list can be ranked without per-shop review capture"
   },
-  "commit_sha_note": "Self-referential by nature: this names the commit the manifest was written against. The submission issue carries the authoritative SHA.",
-  "team_name": "3DAPI"
+  "team_name": "3DAPI",
+  "skills": [
+    {
+      "name": "etsy-fulfillment-leads",
+      "path": ".agents/skills/etsy-fulfillment-leads/SKILL.md",
+      "entry": true
+    }
+  ],
+  "stages": {
+    "1_setup": ".agents/skills/etsy-fulfillment-leads/STAGES.md",
+    "2_processing": ".agents/skills/etsy-fulfillment-leads/STAGES.md",
+    "3_periodic": "scripts/periodic.py",
+    "state_note": "Stages 1 and 2 write real company and client conclusions to state/, which is gitignored. Nothing private is committed."
+  }
 }

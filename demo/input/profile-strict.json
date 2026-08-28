@@ -1,0 +1,68 @@
+{
+  "_note": "EXAMPLE strict profile for eval case 3: ripening threshold raised above anything the watchlist can reach, to prove the skill will report an empty week.",
+  "company": {
+    "name": "Example Distributed Print Network",
+    "sells": "Routes each order to the print farm nearest the buyer, produces locally under QC, ships domestically.",
+    "removes": [
+      "long cross-border transit",
+      "customs events",
+      "single-workshop capacity ceiling",
+      "countries the seller cannot post to"
+    ]
+  },
+  "icp": {
+    "theoretical": "Any Etsy shop selling 3D-printed products.",
+    "real": "Shops clearing 1k-20k orders/year, printing outside the US/UK, whose delivery is visibly worse than their product.",
+    "gap_note": "Theoretical ICP is 10x the real one. The real ICP is defined by a fulfilment deficit, not by category."
+  },
+  "motion": {
+    "cold_email": "primary",
+    "cold_call": "not used",
+    "note": "Openers must lead with the prospect's own numbers, not a pitch."
+  },
+  "triggers": [
+    {
+      "id": "fulfilment_deficit",
+      "metric": "item_quality_rating - shipping_rating",
+      "fires_at": 0.06,
+      "weight": 35,
+      "why": "The seller's own buyers say the product is fine and the delivery is not. Exists for every shop."
+    },
+    {
+      "id": "serviceable_volume",
+      "metric": "orders_per_year",
+      "band": [
+        1000,
+        40000
+      ],
+      "weight": 25,
+      "why": "Below the floor we are early; above the ceiling they have solved fulfilment already."
+    },
+    {
+      "id": "throughput_momentum",
+      "metric": "reviews_last_90d / reviews_prior_90d",
+      "fires_at": 1.15,
+      "weight": 20,
+      "why": "Order rate rising into a single-workshop ceiling. Finds who is approaching the constraint."
+    },
+    {
+      "id": "cross_border_origin",
+      "metric": "ships_from not in [US, GB]",
+      "weight": 12,
+      "why": "Etsy demand concentrates in the US/UK; a non-US/UK origin means most orders cross a border."
+    },
+    {
+      "id": "complaint_keywords",
+      "metric": "taxonomy signals in review text",
+      "weight": 8,
+      "why": "Rarest and sharpest evidence. Base rate is 0.2%, so it confirms rather than ranks."
+    }
+  ],
+  "keywords_note": "Keyword patterns live in scripts/taxonomy.py (patterns -> means -> fix). Stage 2 writes them there.",
+  "cadence_days": 7,
+  "ripeness_bands": {
+    "ripe": 95,
+    "ripening": 92,
+    "watch": 90
+  }
+}

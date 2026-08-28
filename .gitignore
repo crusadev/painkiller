@@ -3,4 +3,7 @@
 __pycache__/
 # Internal prospect sheet — contains team member names, outreach status and
 # contact emails. Never commit. Publishable derivative: inputs/shops.csv
-input/
+/input/
+
+# Stage 1 and Stage 2 write real company and client conclusions here. Never commit.
+state/

@@ -1,82 +1,101 @@
 # Demo runsheet — 2.5 minutes
 
-**Skill:** `etsy-fulfillment-leads` · **Repo:** public · **Run:** no credentials required
+**Skill:** `etsy-fulfillment-leads` · **Stage shown:** 3 of 3, the periodic run
+**Run:** no credentials, no API keys, ~1 second · **Repo:** public
 
 ---
 
 **0:00 — The problem (20s)**
 
-3DAPI is a global manufacturing network for 3D-printed products. Sellers list,
-we route each order to the print farm nearest the customer, produce it locally
-under QC, ship domestically.
+3DAPI is a distributed manufacturing network for 3D-printed products. Sellers
+list; we route each order to the print farm nearest the customer, produce it
+locally under QC, ship domestically.
 
-We have 411 candidate Etsy shops. Which do we call *this week*, and what do we
-say? Reading 411 shops' reviews by hand is the whole job, and it does not scale.
+Outbound has 411 candidate Etsy shops. The question is never *who could use
+this* — it is **who is ready this week, and what do I open with**. Those are
+different questions, and only the second one is worth a Monday.
 
-**0:20 — The insight (25s)**
+**0:20 — The three stages (20s)**
 
-Etsy's negative reviews are dominated by fulfilment complaints — "took four
-weeks", "I paid €18 customs", "arrived cracked", "you don't ship to Australia".
+The skill runs in three stages. **Setup** interviews you — who you are, what you
+sell, the ICP you think you have, and the ICP your signed clients actually
+describe. **Processing** researches those signed clients and derives the
+triggers that predict readiness. Both write locally and never leave your
+machine.
 
-Every one of those is the same root cause: *printed far from the buyer, by one
-workshop*. That is precisely what routing removes. So a complaint is not
-sentiment — it is a qualified, timed sales trigger, written by the prospect's
-own customer.
+**Stage three is what you live in**, and it is what runs now.
 
-**0:45 — Run it (35s)**
+**0:40 — Run it (25s)**
 
 ```bash
-python3 scripts/qualify.py --limit 3
+python3 scripts/periodic.py
 ```
 
-Point at the header: **data mode and capture date**, stated up front. No token
-on this laptop — it scores the committed snapshot and says so.
+Point at the header: **no credentials, data mode and retrieval date stated up
+front.** It sweeps 22 prospects against 5 triggers and prints progress as it
+goes.
 
-**1:20 — The output (45s)**
+**1:05 — The output (50s)**
 
-Open `leads.md`.
+Open `demo/output/radar.md`.
 
-1. **Ranked table** — tier, score, mapped pain signals.
-2. **A top lead card** — the quoted buyer review, its date, its source URL, and
-   the taxonomy line connecting it: *slow delivery → long transit from a single
-   origin → route to the nearest print farm.*
-3. **The opener** — leads with their problem, in their customer's words.
-4. **Scroll to "Not qualified"** — this is the part to linger on. The skill
-   rejects shops and says why. A rubric that qualifies everything is not a rubric.
+1. **The radar table** — every prospect with a **ripeness percentage**, a band,
+   and the driver that produced it. Not a yes/no: readiness is continuous, and a
+   prospect at 54% is not a "no", it is a "call in three weeks".
 
-**1:50 — The honest finding (25s)**
+2. **Confidence is a separate column**, and the report defines it — the share of
+   triggers that could be evaluated at all. A prospect can be ripe at low
+   confidence. Collapsing those two numbers into one is how a radar starts
+   lying.
 
-Across 1,283 real reviews: 96.5% five-star, and **0.2% describe a fulfilment
-failure**. Complaint text alone ranks nothing.
+3. **Creat3DLab, 82%, RIPE.** Four independent triggers: shipping 4.64 against
+   quality 4.77, ~5,300 orders/yr inside the serviceable band, 56 reviews in 90
+   days against 4 in the 90 before — and it prints in Croatia while the demand
+   sits in the US. Its card says **"no buyer complaint quotes in the captured
+   window"**, because there are none, and the opener leads with the numbers
+   instead of pretending otherwise.
 
-So the top signal is not complaints — it is that Etsy publishes
-`shipping_rating` **separately** from `item_quality_rating`. When shipping sits
-below quality, the seller's own customers are saying the product is fine and
-the delivery is not. Creat3DLab: 4.64 shipping against 4.77 quality, 27,000
-sold, printing in Croatia. That is the pitch, in their buyers' numbers.
+4. **Scroll to "Not ripe this run" — 17 of 22.** This is the part to linger on.
+   The skill rejects most of the list and says why. A radar that always finds
+   something to call is not a radar.
 
-And when a shop qualifies on ratings alone, the card says *"no buyer complaint
-quotes in the captured window"* and the opener leads with the numbers instead
-of pretending reviews said something they did not.
+**1:55 — The honest finding (20s)**
 
-**2:10 — Reuse (15s)**
+Across 1,283 real reviews: 96.5% five-star, **0.2% describe a fulfilment
+failure**. Ranking on complaints returns nothing.
 
-Swap `inputs/shops.csv` for any shop list. Retarget the whole skill by editing
-one table in `scripts/taxonomy.py`: what the customer says → what it implies →
-what you sell.
+So the load-bearing signal is not complaints. Etsy publishes `shipping_rating`
+**separately** from `item_quality_rating` — when shipping sits below quality,
+the seller's own customers are saying the product is fine and the *delivery* is
+not. That number exists for every shop, which is what makes an honest ranking
+possible at all. Complaints then confirm; they never rank.
 
-And: the lead is the *shop*. Reviewer identity is discarded at ingest, before
-anything touches disk — enforced by a test, not a promise.
+**2:15 — Limits and the loop (15s)**
 
-**2:25 — Close**
+Every run ends with what it **cannot** see — invisible pain, truncated history,
+buyer geography that is not public — and then asks who replied, which reason was
+wrong, and who signed. Triggers that produce replies gain weight; triggers that
+miss lose it.
 
-Public complaints, mapped to a specific capability, ranked, with the evidence
-attached.
+**2:30 — Close**
+
+Public signals, mapped to one capability, scored as a likelihood, with the
+evidence and the blind spots both attached.
 
 ---
 
+## Reuse
+
+Nothing here is Etsy-specific below the surface. Triggers, thresholds and
+weights live in the profile JSON that Stage 2 writes — not in the code. Point
+`--watchlist` at another list and `--profile` at another company's setup and the
+same runner works. With no review corpus at all it runs metrics-only and reports
+the keyword trigger as unassessed rather than scoring it zero.
+
 ## If something breaks
 
-- No network: expected — it is already running from the snapshot.
-- Empty output: `ls fallback/snapshot/` then `python3 scripts/qualify.py --only <shop>`.
-- Skip the live run entirely; the snapshot path is the demo.
+- **No network:** expected — it never needed one.
+- **Live run stalls or errors:** `demo/output/radar.md` is pre-committed. Open it
+  and keep going; it is the same file the run produces.
+- **Empty output:** `ls demo/input/` then `python3 scripts/periodic.py --limit 3`.
+- Skip the live run entirely if time is short. The committed report is the demo.

@@ -162,14 +162,23 @@ denominator; emit a progress line every ~10% of it.
    `demo/input/watchlist.json` uses: one row per prospect, each carrying its
    source URL and retrieval date. This is what Stage 3 sweeps.
 
-8. **Set up tracking.** For each metric, propose the concrete mechanism — which
-   Apify actor, API, or connected service, at what cadence and cost. Wire up
-   what the user approves; ask rather than pick when the choice is not obvious.
+8. **Specify tracking.** For each metric, name the concrete mechanism it would
+   use — which Apify actor, API, or connected service — at what cadence and
+   cost. Ask rather than pick when the choice is not obvious.
 
-   Available in this deployment: Apify (`hello.datawizards~etsy-reviews`,
-   `getdataforme~etsy-shop-details-scraper`), and — where the prospect's own web
-   presence is the signal — Google Search Console, GA4, and Google Ads
-   connectors. Avoid any actor returning seller emails.
+   **Specify, do not connect.** Stage 2 writes the tracking plan into
+   `state/triggers.md`; it does not authorise services or start pulling data.
+   Connecting is a separate, explicit step the user asks for, because it spends
+   money and grants access. A plan the user can read and approve beats a
+   connection they discover after the fact.
+
+   Known-good mechanisms: Apify `hello.datawizards~etsy-reviews` (~$0.005/review)
+   and `getdataforme~etsy-shop-details-scraper` (~$0.01/shop). Where a prospect
+   has a linked storefront domain, Google Search Console / GA4 / Google Ads can
+   in principle carry demand-side triggers — note them as *available, not
+   wired*, and note the coverage limit: only 8 of 22 captured shops have a usable
+   domain, so any such trigger is unmeasurable for most of the list. Avoid any
+   actor returning seller emails.
 
 9. **Explain it back**, in this order: what is tracked and whether that matches
    Stage 1; how it will be tracked; and — at length — **what it cannot see**. A

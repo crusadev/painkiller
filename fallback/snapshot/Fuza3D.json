@@ -1,0 +1,27 @@
+{
+  "shop": "Fuza3D",
+  "shop_url": "https://www.etsy.com/shop/Fuza3D",
+  "source": "https://www.etsy.com/shop/Fuza3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.728747036714271,
+    "item_quality_rating": 4.931674221025143,
+    "customer_service_rating": 4.923280280890229,
+    "average_rating": 4.91,
+    "total_rating_count": 916,
+    "rating_count_past_year": 916,
+    "sold_count": 3531,
+    "active_listing_count": 35,
+    "create_date": 1678209015,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

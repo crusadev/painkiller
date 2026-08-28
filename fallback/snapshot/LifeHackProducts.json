@@ -1,0 +1,27 @@
+{
+  "shop": "LifeHackProducts",
+  "shop_url": "https://www.etsy.com/shop/LifeHackProducts",
+  "source": "https://www.etsy.com/shop/LifeHackProducts",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.809276545943173,
+    "item_quality_rating": 4.726227826997919,
+    "customer_service_rating": 4.906215267462806,
+    "average_rating": 4.79,
+    "total_rating_count": 349,
+    "rating_count_past_year": 349,
+    "sold_count": 2495,
+    "active_listing_count": 44,
+    "create_date": 1642021351,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "NL"
+}

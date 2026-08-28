@@ -1,0 +1,27 @@
+{
+  "shop": "TilloLabsStore",
+  "shop_url": "https://www.etsy.com/shop/TilloLabsStore",
+  "source": "https://www.etsy.com/shop/TilloLabsStore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.96209201997211,
+    "item_quality_rating": 4.888809681317744,
+    "customer_service_rating": 4.968827918729778,
+    "average_rating": 4.9,
+    "total_rating_count": 693,
+    "rating_count_past_year": 693,
+    "sold_count": 2459,
+    "active_listing_count": 13,
+    "create_date": 1681506023,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

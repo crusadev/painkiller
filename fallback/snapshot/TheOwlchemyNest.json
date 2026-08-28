@@ -1,0 +1,29 @@
+{
+  "shop": "TheOwlchemyNest",
+  "shop_url": "https://www.etsy.com/shop/TheOwlchemyNest",
+  "source": "https://www.etsy.com/shop/TheOwlchemyNest",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.910913242585226,
+    "item_quality_rating": 4.8203126937735945,
+    "customer_service_rating": 4.855362609447534,
+    "average_rating": 4.82,
+    "total_rating_count": 956,
+    "rating_count_past_year": 956,
+    "sold_count": 4307,
+    "active_listing_count": 46,
+    "create_date": 1681865480,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://theowlchemynest.com/"
+  ],
+  "ships_from": "US"
+}

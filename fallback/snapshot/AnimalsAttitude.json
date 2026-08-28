@@ -1,0 +1,29 @@
+{
+  "shop": "AnimalsAttitude",
+  "shop_url": "https://www.etsy.com/shop/AnimalsAttitude",
+  "source": "https://www.etsy.com/shop/AnimalsAttitude",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.690432202567141,
+    "item_quality_rating": 4.647618960056744,
+    "customer_service_rating": 4.8734047375499765,
+    "average_rating": 4.66,
+    "total_rating_count": 444,
+    "rating_count_past_year": 444,
+    "sold_count": 2380,
+    "active_listing_count": 86,
+    "create_date": 1706179755,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.plasticopmaat.nl/"
+  ],
+  "ships_from": "NL"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "MS3DDruck24",
+  "shop_url": "https://www.etsy.com/shop/MS3DDruck24",
+  "source": "https://www.etsy.com/shop/MS3DDruck24",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.974870559682875,
+    "item_quality_rating": 4.960777767134726,
+    "customer_service_rating": 4.9848860910960155,
+    "average_rating": 4.95,
+    "total_rating_count": 1247,
+    "rating_count_past_year": 1247,
+    "sold_count": 4486,
+    "active_listing_count": 291,
+    "create_date": 1719326463,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

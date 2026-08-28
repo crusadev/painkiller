@@ -1,0 +1,29 @@
+{
+  "shop": "WannapigCrafts",
+  "shop_url": "https://www.etsy.com/shop/WannapigCrafts",
+  "source": "https://www.etsy.com/shop/WannapigCrafts",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.814620140994665,
+    "item_quality_rating": 4.884044086533007,
+    "customer_service_rating": 4.898885375563586,
+    "average_rating": 4.87,
+    "total_rating_count": 1043,
+    "rating_count_past_year": 1043,
+    "sold_count": 5405,
+    "active_listing_count": 54,
+    "create_date": 1487770570,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.pinterest.com/jeremyjvaillant/"
+  ],
+  "ships_from": "US"
+}

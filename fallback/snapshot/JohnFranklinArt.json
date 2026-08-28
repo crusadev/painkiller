@@ -1,0 +1,32 @@
+{
+  "shop": "JohnFranklinArt",
+  "shop_url": "https://www.etsy.com/shop/JohnFranklinArt",
+  "source": "https://www.etsy.com/shop/JohnFranklinArt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.851177528083287,
+    "item_quality_rating": 4.831230565405332,
+    "customer_service_rating": 4.902187275874433,
+    "average_rating": 4.86,
+    "total_rating_count": 3205,
+    "rating_count_past_year": 3205,
+    "sold_count": 18309,
+    "active_listing_count": 119,
+    "create_date": 1512257502,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.facebook.com/JohnFranklinArt",
+    "http://www.johnfranklinart.de/links",
+    "http://www.instagram.com/john_franklin_art/",
+    "https://youtube.com/c/JohnFranklinArt"
+  ],
+  "ships_from": "DE"
+}

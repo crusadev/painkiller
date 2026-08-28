@@ -1,0 +1,30 @@
+{
+  "shop": "3DijkstraFinds",
+  "shop_url": "https://www.etsy.com/shop/3DijkstraFinds",
+  "source": "https://www.etsy.com/shop/3DijkstraFinds",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.809404451616897,
+    "item_quality_rating": 4.774041050862331,
+    "customer_service_rating": 4.889051329265449,
+    "average_rating": 4.81,
+    "total_rating_count": 1417,
+    "rating_count_past_year": 1417,
+    "sold_count": 6470,
+    "active_listing_count": 859,
+    "create_date": 1716501314,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/3dijkstrafinds/",
+    "https://www.facebook.com/people/3DijkstraFinds/61570007220505/"
+  ],
+  "ships_from": "NL"
+}

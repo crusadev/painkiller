@@ -1,0 +1,32 @@
+{
+  "shop": "3DPrintersaur",
+  "shop_url": "https://www.etsy.com/shop/3DPrintersaur",
+  "source": "https://www.etsy.com/shop/3DPrintersaur",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.835013658075344,
+    "item_quality_rating": 4.78600319724827,
+    "customer_service_rating": 4.94416553389074,
+    "average_rating": 4.81,
+    "total_rating_count": 266,
+    "rating_count_past_year": 266,
+    "sold_count": 1752,
+    "active_listing_count": 51,
+    "create_date": 1670666552,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/3Dprintersaur/",
+    "https://www.instagram.com/3dprintersaur/",
+    "https://www.3dprintersaur.com",
+    "https://cults3d.com/en/users/3DPrintersaur/3d-models"
+  ],
+  "ships_from": "CA"
+}

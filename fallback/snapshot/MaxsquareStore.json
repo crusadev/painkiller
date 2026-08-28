@@ -1,0 +1,28 @@
+{
+  "shop": "MaxsquareStore",
+  "shop_url": "https://www.etsy.com/shop/MaxsquareStore",
+  "source": "https://www.etsy.com/shop/MaxsquareStore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.906821742484253,
+    "item_quality_rating": 4.966576543213103,
+    "customer_service_rating": 4.896358357512034,
+    "average_rating": 4.92,
+    "total_rating_count": 171,
+    "rating_count_past_year": 171,
+    "sold_count": 1341,
+    "active_listing_count": 11,
+    "create_date": 1620053118,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/mountaloutdoor"
+  ],
+  "ships_from": "DE"
+}

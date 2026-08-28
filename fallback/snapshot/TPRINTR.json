@@ -1,0 +1,29 @@
+{
+  "shop": "TPRINTR",
+  "shop_url": "https://www.etsy.com/shop/TPRINTR",
+  "source": "https://www.etsy.com/shop/TPRINTR",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.929999982326172,
+    "item_quality_rating": 4.955272129650399,
+    "customer_service_rating": 4.970392878036709,
+    "average_rating": 4.97,
+    "total_rating_count": 1329,
+    "rating_count_past_year": 1329,
+    "sold_count": 4396,
+    "active_listing_count": 77,
+    "create_date": 1662561794,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/tprintr.3d/"
+  ],
+  "ships_from": "DE"
+}

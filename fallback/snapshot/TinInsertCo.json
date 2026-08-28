@@ -1,0 +1,30 @@
+{
+  "shop": "TinInsertCo",
+  "shop_url": "https://www.etsy.com/shop/TinInsertCo",
+  "source": "https://www.etsy.com/shop/TinInsertCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.970183390156703,
+    "item_quality_rating": 4.963272255003139,
+    "customer_service_rating": 4.997272930158129,
+    "average_rating": 4.95,
+    "total_rating_count": 490,
+    "rating_count_past_year": 490,
+    "sold_count": 2689,
+    "active_listing_count": 15,
+    "create_date": 1724441017,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://tininsert.com",
+    "https://wildersupply.com/"
+  ],
+  "ships_from": "US"
+}

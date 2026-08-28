@@ -1,0 +1,27 @@
+{
+  "shop": "SulSimArt",
+  "shop_url": "https://www.etsy.com/shop/SulSimArt",
+  "source": "https://www.etsy.com/shop/SulSimArt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "LT",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.799503507659013,
+    "item_quality_rating": 4.859902450588227,
+    "customer_service_rating": 4.890997263666804,
+    "average_rating": 4.86,
+    "total_rating_count": 1392,
+    "rating_count_past_year": 1392,
+    "sold_count": 9126,
+    "active_listing_count": 188,
+    "create_date": 1665755473,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "LT"
+}

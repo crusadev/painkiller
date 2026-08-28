@@ -1,0 +1,29 @@
+{
+  "shop": "CalculatedMFG",
+  "shop_url": "https://www.etsy.com/shop/CalculatedMFG",
+  "source": "https://www.etsy.com/shop/CalculatedMFG",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.956739766598501,
+    "item_quality_rating": 4.963722749526429,
+    "customer_service_rating": 4.977957529622598,
+    "average_rating": 4.95,
+    "total_rating_count": 358,
+    "rating_count_past_year": 358,
+    "sold_count": 1642,
+    "active_listing_count": 66,
+    "create_date": 1643931988,
+    "is_open": true,
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/originmillwork/",
+    "https://www.originmillwork.com/"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,31 @@
+{
+  "shop": "NewJerseyAquatics",
+  "shop_url": "https://www.etsy.com/shop/NewJerseyAquatics",
+  "source": "https://www.etsy.com/shop/NewJerseyAquatics",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8802911120133805,
+    "item_quality_rating": 4.9206540339143245,
+    "customer_service_rating": 4.91561743514388,
+    "average_rating": 4.89,
+    "total_rating_count": 667,
+    "rating_count_past_year": 667,
+    "sold_count": 2561,
+    "active_listing_count": 33,
+    "create_date": 1631831244,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://newjerseyaquatics.com",
+    "https://www.facebook.com/profile.php?id=61564210226698",
+    "http://instagram.com/newjerseyaquatics"
+  ],
+  "ships_from": "US"
+}

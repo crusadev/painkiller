@@ -1,0 +1,27 @@
+{
+  "shop": "TrinityDesignLabs",
+  "shop_url": "https://www.etsy.com/shop/TrinityDesignLabs",
+  "source": "https://www.etsy.com/shop/TrinityDesignLabs",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9623988010291065,
+    "item_quality_rating": 4.970460517490319,
+    "customer_service_rating": 4.931314612348672,
+    "average_rating": 4.97,
+    "total_rating_count": 294,
+    "rating_count_past_year": 294,
+    "sold_count": 1024,
+    "active_listing_count": 19,
+    "create_date": 1734752238,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

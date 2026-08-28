@@ -1,0 +1,31 @@
+{
+  "shop": "PapelEspresso",
+  "shop_url": "https://www.etsy.com/shop/PapelEspresso",
+  "source": "https://www.etsy.com/shop/PapelEspresso",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.73017671280053,
+    "item_quality_rating": 4.761347667461658,
+    "customer_service_rating": 4.781544911124707,
+    "average_rating": 4.75,
+    "total_rating_count": 1963,
+    "rating_count_past_year": 1963,
+    "sold_count": 9601,
+    "active_listing_count": 101,
+    "create_date": 1670678084,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/papelespresso/",
+    "http://www.papelespresso.com",
+    "https://pinterest.com/papelespresso/"
+  ],
+  "ships_from": "TR"
+}

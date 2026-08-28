@@ -1,0 +1,29 @@
+{
+  "shop": "Makearoni",
+  "shop_url": "https://www.etsy.com/shop/Makearoni",
+  "source": "https://www.etsy.com/shop/Makearoni",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.956322420132651,
+    "item_quality_rating": 4.977138535132461,
+    "customer_service_rating": 4.986313252595834,
+    "average_rating": 4.98,
+    "total_rating_count": 755,
+    "rating_count_past_year": 755,
+    "sold_count": 7688,
+    "active_listing_count": 63,
+    "create_date": 1732127714,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/shopmakearoni/"
+  ],
+  "ships_from": "US"
+}

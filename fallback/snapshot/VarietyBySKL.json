@@ -1,0 +1,29 @@
+{
+  "shop": "VarietyBySKL",
+  "shop_url": "https://www.etsy.com/shop/VarietyBySKL",
+  "source": "https://www.etsy.com/shop/VarietyBySKL",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.869865244840037,
+    "item_quality_rating": 4.851150539998454,
+    "customer_service_rating": 4.857739820517753,
+    "average_rating": 4.79,
+    "total_rating_count": 760,
+    "rating_count_past_year": 760,
+    "sold_count": 5572,
+    "active_listing_count": 158,
+    "create_date": 1587759321,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.varietybyskl.com"
+  ],
+  "ships_from": "US"
+}

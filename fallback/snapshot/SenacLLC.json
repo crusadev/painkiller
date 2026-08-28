@@ -1,0 +1,32 @@
+{
+  "shop": "SenacLLC",
+  "shop_url": "https://www.etsy.com/shop/SenacLLC",
+  "source": "https://www.etsy.com/shop/SenacLLC",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.916975816236084,
+    "item_quality_rating": 4.873135621685908,
+    "customer_service_rating": 4.908548970243001,
+    "average_rating": 4.87,
+    "total_rating_count": 1530,
+    "rating_count_past_year": 1530,
+    "sold_count": 7583,
+    "active_listing_count": 266,
+    "create_date": 1600720800,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/senac.llc/",
+    "http://senac.info",
+    "https://senacfdm.notion.site/Senac-FDM-Tech-33947f9d3dd64b5a8d54fe30d215ed0a",
+    "https://www.instagram.com/senac.cardboard/"
+  ],
+  "ships_from": "US"
+}

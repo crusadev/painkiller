@@ -1,0 +1,26 @@
+{
+  "shop": "3DTECHNO",
+  "shop_url": "https://www.etsy.com/shop/3DTECHNO",
+  "source": "https://www.etsy.com/shop/3DTECHNO",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.864490161817869,
+    "item_quality_rating": 4.93840374720527,
+    "customer_service_rating": 4.977177101393089,
+    "average_rating": 4.95,
+    "total_rating_count": 395,
+    "rating_count_past_year": 395,
+    "sold_count": 1844,
+    "active_listing_count": 25,
+    "create_date": 1653220348,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

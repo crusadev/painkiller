@@ -1,0 +1,29 @@
+{
+  "shop": "ShapeLabs",
+  "shop_url": "https://www.etsy.com/shop/ShapeLabs",
+  "source": "https://www.etsy.com/shop/ShapeLabs",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.7588854375977725,
+    "item_quality_rating": 4.659893762742183,
+    "customer_service_rating": 4.853098943102926,
+    "average_rating": 4.67,
+    "total_rating_count": 1595,
+    "rating_count_past_year": 1595,
+    "sold_count": 8188,
+    "active_listing_count": 29,
+    "create_date": 1540661674,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/shape.labs/"
+  ],
+  "ships_from": "CA"
+}

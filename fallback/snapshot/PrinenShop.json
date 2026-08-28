@@ -1,0 +1,32 @@
+{
+  "shop": "PrinenShop",
+  "shop_url": "https://www.etsy.com/shop/PrinenShop",
+  "source": "https://www.etsy.com/shop/PrinenShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.840415674479265,
+    "item_quality_rating": 4.771284249026643,
+    "customer_service_rating": 4.876647031098027,
+    "average_rating": 4.76,
+    "total_rating_count": 996,
+    "rating_count_past_year": 996,
+    "sold_count": 7785,
+    "active_listing_count": 126,
+    "create_date": 1683971310,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.prinen.de",
+    "https://www.instagram.com/prinenshop/",
+    "https://twitter.com/prinenshop",
+    "https://www.pinterest.de/prinenshop/"
+  ],
+  "ships_from": "DE"
+}

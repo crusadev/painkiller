@@ -1,0 +1,27 @@
+{
+  "shop": "VampressLorekeeper",
+  "shop_url": "https://www.etsy.com/shop/VampressLorekeeper",
+  "source": "https://www.etsy.com/shop/VampressLorekeeper",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9591658047769736,
+    "item_quality_rating": 4.986825668056373,
+    "customer_service_rating": 4.989979987061117,
+    "average_rating": 4.99,
+    "total_rating_count": 175,
+    "rating_count_past_year": 175,
+    "sold_count": 554,
+    "active_listing_count": 18,
+    "create_date": 1494448135,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,30 @@
+{
+  "shop": "HappyTappyShop",
+  "shop_url": "https://www.etsy.com/shop/HappyTappyShop",
+  "source": "https://www.etsy.com/shop/HappyTappyShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9593679497588985,
+    "item_quality_rating": 4.934400988788774,
+    "customer_service_rating": 4.9637588830279915,
+    "average_rating": 4.95,
+    "total_rating_count": 488,
+    "rating_count_past_year": 488,
+    "sold_count": 2891,
+    "active_listing_count": 157,
+    "create_date": 1746799612,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/happytappyshop/",
+    "https://www.facebook.com/people/Happy-Tappy-Shop/61576705850691/"
+  ],
+  "ships_from": "GB"
+}

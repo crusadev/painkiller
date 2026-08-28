@@ -1,0 +1,29 @@
+{
+  "shop": "PottrUK",
+  "shop_url": "https://www.etsy.com/shop/PottrUK",
+  "source": "https://www.etsy.com/shop/PottrUK",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.934308062632372,
+    "item_quality_rating": 4.940576339410663,
+    "customer_service_rating": 4.971991845129984,
+    "average_rating": 4.93,
+    "total_rating_count": 820,
+    "rating_count_past_year": 820,
+    "sold_count": 4711,
+    "active_listing_count": 43,
+    "create_date": 1700827762,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.serifina.co.uk"
+  ],
+  "ships_from": "GB"
+}

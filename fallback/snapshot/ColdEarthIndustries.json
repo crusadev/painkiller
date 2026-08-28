@@ -1,0 +1,30 @@
+{
+  "shop": "ColdEarthIndustries",
+  "shop_url": "https://www.etsy.com/shop/ColdEarthIndustries",
+  "source": "https://www.etsy.com/shop/ColdEarthIndustries",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.894112210318885,
+    "item_quality_rating": 4.919454590663334,
+    "customer_service_rating": 4.946665699811097,
+    "average_rating": 4.91,
+    "total_rating_count": 1223,
+    "rating_count_past_year": 1223,
+    "sold_count": 5708,
+    "active_listing_count": 178,
+    "create_date": 1542190774,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/coldearthindustries/",
+    "https://www.facebook.com/coldearthindustries/"
+  ],
+  "ships_from": "GB"
+}

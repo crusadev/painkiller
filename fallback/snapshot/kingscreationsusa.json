@@ -1,0 +1,27 @@
+{
+  "shop": "kingscreationsusa",
+  "shop_url": "https://www.etsy.com/shop/kingscreationsusa",
+  "source": "https://www.etsy.com/shop/kingscreationsusa",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.680893603038378,
+    "item_quality_rating": 4.760520325747906,
+    "customer_service_rating": 4.642491416191118,
+    "average_rating": 4.7,
+    "total_rating_count": 4917,
+    "rating_count_past_year": 4917,
+    "sold_count": 19517,
+    "active_listing_count": 141,
+    "create_date": 1572715960,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

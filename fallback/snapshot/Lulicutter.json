@@ -1,0 +1,30 @@
+{
+  "shop": "Lulicutter",
+  "shop_url": "https://www.etsy.com/shop/Lulicutter",
+  "source": "https://www.etsy.com/shop/Lulicutter",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.941275358609967,
+    "item_quality_rating": 4.977218921180102,
+    "customer_service_rating": 4.985939523650428,
+    "average_rating": 4.97,
+    "total_rating_count": 2119,
+    "rating_count_past_year": 2119,
+    "sold_count": 29812,
+    "active_listing_count": 2241,
+    "create_date": 1737316615,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/lulicutters/",
+    "http://www.lulicutters.com"
+  ],
+  "ships_from": "TR"
+}

@@ -1,0 +1,30 @@
+{
+  "shop": "Webspiner3D",
+  "shop_url": "https://www.etsy.com/shop/Webspiner3D",
+  "source": "https://www.etsy.com/shop/Webspiner3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "SK",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.611170139769765,
+    "item_quality_rating": 4.737569959735574,
+    "customer_service_rating": 4.782244170309118,
+    "average_rating": 4.73,
+    "total_rating_count": 669,
+    "rating_count_past_year": 669,
+    "sold_count": 3217,
+    "active_listing_count": 35,
+    "create_date": 1692138046,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.webspiner3d.com/",
+    "https://www.instagram.com/webspiner3d?igsh=Mm9oZTBoamViZmIw&utm_source=qr"
+  ],
+  "ships_from": "SK"
+}

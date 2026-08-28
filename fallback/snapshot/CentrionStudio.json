@@ -1,0 +1,33 @@
+{
+  "shop": "CentrionStudio",
+  "shop_url": "https://www.etsy.com/shop/CentrionStudio",
+  "source": "https://www.etsy.com/shop/CentrionStudio",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.94007884291476,
+    "item_quality_rating": 4.9172066706203195,
+    "customer_service_rating": 4.9789576448447335,
+    "average_rating": 4.93,
+    "total_rating_count": 3496,
+    "rating_count_past_year": 3496,
+    "sold_count": 10369,
+    "active_listing_count": 1731,
+    "create_date": 1641662476,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/Centrion3D",
+    "https://www.instagram.com/centrion3d/",
+    "https://www.pinterest.com/Centrionstudios/pins/",
+    "http://centrion3d.com",
+    "https://shop.app/m/5nymzvr83e"
+  ],
+  "ships_from": "US"
+}

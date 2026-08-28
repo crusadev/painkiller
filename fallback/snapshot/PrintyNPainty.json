@@ -1,0 +1,29 @@
+{
+  "shop": "PrintyNPainty",
+  "shop_url": "https://www.etsy.com/shop/PrintyNPainty",
+  "source": "https://www.etsy.com/shop/PrintyNPainty",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.893605635688567,
+    "item_quality_rating": 4.955794823283735,
+    "customer_service_rating": 4.938715693746021,
+    "average_rating": 4.94,
+    "total_rating_count": 758,
+    "rating_count_past_year": 758,
+    "sold_count": 3870,
+    "active_listing_count": 16,
+    "create_date": 1670417553,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://Printynpainty.com"
+  ],
+  "ships_from": "GB"
+}

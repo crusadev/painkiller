@@ -1,0 +1,27 @@
+{
+  "shop": "CelestialCreationsSt",
+  "shop_url": "https://www.etsy.com/shop/CelestialCreationsSt",
+  "source": "https://www.etsy.com/shop/CelestialCreationsSt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.971166342048109,
+    "item_quality_rating": 4.921442443495486,
+    "customer_service_rating": 4.999999999999998,
+    "average_rating": 4.94,
+    "total_rating_count": 228,
+    "rating_count_past_year": 228,
+    "sold_count": 970,
+    "active_listing_count": 61,
+    "create_date": 1729280079,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

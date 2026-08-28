@@ -1,0 +1,26 @@
+{
+  "shop": "Breslauu3D",
+  "shop_url": "https://www.etsy.com/shop/Breslauu3D",
+  "source": "https://www.etsy.com/shop/Breslauu3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.551158702191068,
+    "item_quality_rating": 4.674077272422947,
+    "customer_service_rating": 4.814849651994094,
+    "average_rating": 4.69,
+    "total_rating_count": 335,
+    "rating_count_past_year": 335,
+    "sold_count": 2809,
+    "active_listing_count": 91,
+    "create_date": 1639155331,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

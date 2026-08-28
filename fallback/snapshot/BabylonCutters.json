@@ -1,0 +1,30 @@
+{
+  "shop": "BabylonCutters",
+  "shop_url": "https://www.etsy.com/shop/BabylonCutters",
+  "source": "https://www.etsy.com/shop/BabylonCutters",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "HU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9325341811991485,
+    "item_quality_rating": 4.957485219841001,
+    "customer_service_rating": 4.974900984064839,
+    "average_rating": 4.94,
+    "total_rating_count": 16157,
+    "rating_count_past_year": 16157,
+    "sold_count": 107032,
+    "active_listing_count": 1562,
+    "create_date": 1630400624,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.instagram.com/babyloncutters",
+    "http://www.babyloncutters.com"
+  ],
+  "ships_from": "HU"
+}

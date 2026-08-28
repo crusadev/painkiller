@@ -1,0 +1,30 @@
+{
+  "shop": "MaricreaSwiss",
+  "shop_url": "https://www.etsy.com/shop/MaricreaSwiss",
+  "source": "https://www.etsy.com/shop/MaricreaSwiss",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CH",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.875752841123598,
+    "item_quality_rating": 4.880180227557144,
+    "customer_service_rating": 4.9180621223743275,
+    "average_rating": 4.87,
+    "total_rating_count": 201,
+    "rating_count_past_year": 201,
+    "sold_count": 3053,
+    "active_listing_count": 41,
+    "create_date": 1715949603,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/maricreaswiss/",
+    "https://www.maricrea.ch/en"
+  ],
+  "ships_from": "CH"
+}

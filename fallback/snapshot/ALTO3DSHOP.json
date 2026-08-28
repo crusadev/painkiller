@@ -1,0 +1,27 @@
+{
+  "shop": "ALTO3DSHOP",
+  "shop_url": "https://www.etsy.com/shop/ALTO3DSHOP",
+  "source": "https://www.etsy.com/shop/ALTO3DSHOP",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.764051127701198,
+    "item_quality_rating": 4.748807321149239,
+    "customer_service_rating": 4.841791847808909,
+    "average_rating": 4.71,
+    "total_rating_count": 647,
+    "rating_count_past_year": 647,
+    "sold_count": 7911,
+    "active_listing_count": 78,
+    "create_date": 1664401943,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

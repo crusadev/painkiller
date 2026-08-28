@@ -1,0 +1,27 @@
+{
+  "shop": "K2KustomsLLC",
+  "shop_url": "https://www.etsy.com/shop/K2KustomsLLC",
+  "source": "https://www.etsy.com/shop/K2KustomsLLC",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.958138306036127,
+    "item_quality_rating": 4.957992424794687,
+    "customer_service_rating": 4.985530719928938,
+    "average_rating": 4.96,
+    "total_rating_count": 1201,
+    "rating_count_past_year": 1201,
+    "sold_count": 4473,
+    "active_listing_count": 53,
+    "create_date": 1717203864,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

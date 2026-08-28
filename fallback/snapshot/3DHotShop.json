@@ -1,0 +1,31 @@
+{
+  "shop": "3DHotShop",
+  "shop_url": "https://www.etsy.com/shop/3DHotShop",
+  "source": "https://www.etsy.com/shop/3DHotShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8219669495028095,
+    "item_quality_rating": 4.8280105327984755,
+    "customer_service_rating": 4.883145383990829,
+    "average_rating": 4.84,
+    "total_rating_count": 2172,
+    "rating_count_past_year": 2172,
+    "sold_count": 8402,
+    "active_listing_count": 0,
+    "create_date": 1603931320,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://3dhotshop.com/",
+    "https://www.facebook.com/3DHotshop",
+    "https://www.instagram.com/3dhotshop/"
+  ],
+  "ships_from": "US"
+}

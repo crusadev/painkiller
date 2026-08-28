@@ -1,0 +1,31 @@
+{
+  "shop": "Pashmation",
+  "shop_url": "https://www.etsy.com/shop/Pashmation",
+  "source": "https://www.etsy.com/shop/Pashmation",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.876947964357818,
+    "item_quality_rating": 4.734918352655727,
+    "customer_service_rating": 4.922832685244924,
+    "average_rating": 4.74,
+    "total_rating_count": 643,
+    "rating_count_past_year": 643,
+    "sold_count": 2945,
+    "active_listing_count": 189,
+    "create_date": 1719712441,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/pashmation",
+    "https://www.instagram.com/pashmation",
+    "https://www.pinterest.com/pashmation/"
+  ],
+  "ships_from": "US"
+}

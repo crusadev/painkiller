@@ -1,0 +1,32 @@
+{
+  "shop": "MaltipooMania",
+  "shop_url": "https://www.etsy.com/shop/MaltipooMania",
+  "source": "https://www.etsy.com/shop/MaltipooMania",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.818469475239406,
+    "item_quality_rating": 4.880183677418159,
+    "customer_service_rating": 4.92581960464988,
+    "average_rating": 4.86,
+    "total_rating_count": 786,
+    "rating_count_past_year": 786,
+    "sold_count": 3715,
+    "active_listing_count": 99,
+    "create_date": 1714851140,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/maltipoomania_novelties/",
+    "https://maltipoomania.com",
+    "https://ca.pinterest.com/maltipoomania",
+    "https://www.facebook.com/profile.php?id=61564640701963"
+  ],
+  "ships_from": "CA"
+}

@@ -1,0 +1,29 @@
+{
+  "shop": "Priscillaprintpalace",
+  "shop_url": "https://www.etsy.com/shop/Priscillaprintpalace",
+  "source": "https://www.etsy.com/shop/Priscillaprintpalace",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.618261593942284,
+    "item_quality_rating": 4.826952136095785,
+    "customer_service_rating": 4.76336117405861,
+    "average_rating": 4.78,
+    "total_rating_count": 771,
+    "rating_count_past_year": 771,
+    "sold_count": 3512,
+    "active_listing_count": 55,
+    "create_date": 1672727863,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/share/16h3ZeAg3H/?mibextid=wwXIfr"
+  ],
+  "ships_from": "US"
+}

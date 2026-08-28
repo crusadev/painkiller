@@ -1,0 +1,29 @@
+{
+  "shop": "DeadOnWorkshop",
+  "shop_url": "https://www.etsy.com/shop/DeadOnWorkshop",
+  "source": "https://www.etsy.com/shop/DeadOnWorkshop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.815242447010464,
+    "item_quality_rating": 4.8986486679359,
+    "customer_service_rating": 4.882213214424078,
+    "average_rating": 4.87,
+    "total_rating_count": 622,
+    "rating_count_past_year": 622,
+    "sold_count": 3395,
+    "active_listing_count": 0,
+    "create_date": 1609685364,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.deadonworkshop.com/",
+    "https://www.instagram.com/deadonworkshop/"
+  ],
+  "ships_from": "US"
+}

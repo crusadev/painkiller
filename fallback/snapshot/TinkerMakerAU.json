@@ -1,0 +1,30 @@
+{
+  "shop": "TinkerMakerAU",
+  "shop_url": "https://www.etsy.com/shop/TinkerMakerAU",
+  "source": "https://www.etsy.com/shop/TinkerMakerAU",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "AU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.871216418759582,
+    "item_quality_rating": 4.8685507047995795,
+    "customer_service_rating": 4.913131533224767,
+    "average_rating": 4.88,
+    "total_rating_count": 2687,
+    "rating_count_past_year": 2687,
+    "sold_count": 11938,
+    "active_listing_count": 46,
+    "create_date": 1549007458,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/TinkerMakerAU/",
+    "https://www.instagram.com/tinkermakerau/"
+  ],
+  "ships_from": "AU"
+}

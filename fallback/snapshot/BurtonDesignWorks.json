@@ -1,0 +1,30 @@
+{
+  "shop": "BurtonDesignWorks",
+  "shop_url": "https://www.etsy.com/shop/BurtonDesignWorks",
+  "source": "https://www.etsy.com/shop/BurtonDesignWorks",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.967022420434358,
+    "item_quality_rating": 4.962177013232315,
+    "customer_service_rating": 4.972228826464438,
+    "average_rating": 4.96,
+    "total_rating_count": 2714,
+    "rating_count_past_year": 2714,
+    "sold_count": 7857,
+    "active_listing_count": 54,
+    "create_date": 1607623324,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.BurtonDesignWorks.com",
+    "https://www.facebook.com/BurtonDesignWorks"
+  ],
+  "ships_from": "US"
+}

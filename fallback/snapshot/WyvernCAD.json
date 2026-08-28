@@ -1,0 +1,27 @@
+{
+  "shop": "WyvernCAD",
+  "shop_url": "https://www.etsy.com/shop/WyvernCAD",
+  "source": "https://www.etsy.com/shop/WyvernCAD",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8921244037680625,
+    "item_quality_rating": 4.907588036098271,
+    "customer_service_rating": 4.84526247977626,
+    "average_rating": 4.94,
+    "total_rating_count": 248,
+    "rating_count_past_year": 248,
+    "sold_count": 931,
+    "active_listing_count": 61,
+    "create_date": 1713892672,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

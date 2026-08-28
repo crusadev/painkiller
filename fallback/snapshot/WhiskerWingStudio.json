@@ -1,0 +1,27 @@
+{
+  "shop": "WhiskerWingStudio",
+  "shop_url": "https://www.etsy.com/shop/WhiskerWingStudio",
+  "source": "https://www.etsy.com/shop/WhiskerWingStudio",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.815731705878343,
+    "item_quality_rating": 4.869184363653345,
+    "customer_service_rating": 4.883038923626942,
+    "average_rating": 4.85,
+    "total_rating_count": 144,
+    "rating_count_past_year": 144,
+    "sold_count": 489,
+    "active_listing_count": 75,
+    "create_date": 1649609534,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "NL"
+}

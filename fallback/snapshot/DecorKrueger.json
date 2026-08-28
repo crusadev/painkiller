@@ -1,0 +1,29 @@
+{
+  "shop": "DecorKrueger",
+  "shop_url": "https://www.etsy.com/shop/DecorKrueger",
+  "source": "https://www.etsy.com/shop/DecorKrueger",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.859050229569059,
+    "item_quality_rating": 4.860845785102863,
+    "customer_service_rating": 4.837241034048101,
+    "average_rating": 4.85,
+    "total_rating_count": 642,
+    "rating_count_past_year": 642,
+    "sold_count": 3467,
+    "active_listing_count": 207,
+    "create_date": 1653316844,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/3d.krueger/"
+  ],
+  "ships_from": "DE"
+}

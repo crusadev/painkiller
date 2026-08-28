@@ -1,0 +1,27 @@
+{
+  "shop": "KoolTools",
+  "shop_url": "https://www.etsy.com/shop/KoolTools",
+  "source": "https://www.etsy.com/shop/KoolTools",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.833926265132394,
+    "item_quality_rating": 4.910163986167272,
+    "customer_service_rating": 4.957639915805493,
+    "average_rating": 4.89,
+    "total_rating_count": 3682,
+    "rating_count_past_year": 3682,
+    "sold_count": 15656,
+    "active_listing_count": 15,
+    "create_date": 1506170582,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

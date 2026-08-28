@@ -1,0 +1,29 @@
+{
+  "shop": "3DPrintingWizardry",
+  "shop_url": "https://www.etsy.com/shop/3DPrintingWizardry",
+  "source": "https://www.etsy.com/shop/3DPrintingWizardry",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.746652373606738,
+    "item_quality_rating": 4.896082165092211,
+    "customer_service_rating": 4.925385037556985,
+    "average_rating": 4.9,
+    "total_rating_count": 1849,
+    "rating_count_past_year": 1849,
+    "sold_count": 6065,
+    "active_listing_count": 49,
+    "create_date": 1665503052,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/3d_printing_wizardry/"
+  ],
+  "ships_from": "US"
+}

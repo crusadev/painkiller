@@ -1,0 +1,31 @@
+{
+  "shop": "Casiopea3D",
+  "shop_url": "https://www.etsy.com/shop/Casiopea3D",
+  "source": "https://www.etsy.com/shop/Casiopea3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "ES",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.798774775321221,
+    "item_quality_rating": 4.865087576139928,
+    "customer_service_rating": 4.895745255434624,
+    "average_rating": 4.86,
+    "total_rating_count": 1031,
+    "rating_count_past_year": 1031,
+    "sold_count": 4613,
+    "active_listing_count": 56,
+    "create_date": 1509972259,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.facebook.com/casiopeatresd",
+    "http://instagram.com/casiopeatresd",
+    "http://www.boardgames3dpieces.ga"
+  ],
+  "ships_from": "ES"
+}

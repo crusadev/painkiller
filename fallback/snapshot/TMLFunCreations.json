@@ -1,0 +1,30 @@
+{
+  "shop": "TMLFunCreations",
+  "shop_url": "https://www.etsy.com/shop/TMLFunCreations",
+  "source": "https://www.etsy.com/shop/TMLFunCreations",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.917685150030979,
+    "item_quality_rating": 4.8327381816969375,
+    "customer_service_rating": 4.970341127038986,
+    "average_rating": 4.83,
+    "total_rating_count": 289,
+    "rating_count_past_year": 289,
+    "sold_count": 1476,
+    "active_listing_count": 88,
+    "create_date": 1729776769,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.tmlfuncreations.com",
+    "https://www.instagram.com/tml2868_fun/"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "DRCPrints",
+  "shop_url": "https://www.etsy.com/shop/DRCPrints",
+  "source": "https://www.etsy.com/shop/DRCPrints",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.653631550514719,
+    "item_quality_rating": 4.716530693416294,
+    "customer_service_rating": 4.627685422286358,
+    "average_rating": 4.65,
+    "total_rating_count": 558,
+    "rating_count_past_year": 558,
+    "sold_count": 3168,
+    "active_listing_count": 25,
+    "create_date": 1638481067,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

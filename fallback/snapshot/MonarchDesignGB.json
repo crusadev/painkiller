@@ -1,0 +1,29 @@
+{
+  "shop": "MonarchDesignGB",
+  "shop_url": "https://www.etsy.com/shop/MonarchDesignGB",
+  "source": "https://www.etsy.com/shop/MonarchDesignGB",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.68709294990793,
+    "item_quality_rating": 4.731394517665706,
+    "customer_service_rating": 4.641834362267404,
+    "average_rating": 4.72,
+    "total_rating_count": 170,
+    "rating_count_past_year": 170,
+    "sold_count": 870,
+    "active_listing_count": 109,
+    "create_date": 1756467556,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://Www.monarchdesign.co.uk"
+  ],
+  "ships_from": "GB"
+}

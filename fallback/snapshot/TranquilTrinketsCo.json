@@ -1,0 +1,29 @@
+{
+  "shop": "TranquilTrinketsCo",
+  "shop_url": "https://www.etsy.com/shop/TranquilTrinketsCo",
+  "source": "https://www.etsy.com/shop/TranquilTrinketsCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.894269856421223,
+    "item_quality_rating": 4.970525396903039,
+    "customer_service_rating": 4.955483407062602,
+    "average_rating": 4.94,
+    "total_rating_count": 1988,
+    "rating_count_past_year": 1988,
+    "sold_count": 8361,
+    "active_listing_count": 15,
+    "create_date": 1537313748,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/tranquiltrinketsco/"
+  ],
+  "ships_from": "CA"
+}

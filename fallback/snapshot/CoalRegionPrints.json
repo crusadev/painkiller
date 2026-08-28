@@ -1,0 +1,27 @@
+{
+  "shop": "CoalRegionPrints",
+  "shop_url": "https://www.etsy.com/shop/CoalRegionPrints",
+  "source": "https://www.etsy.com/shop/CoalRegionPrints",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.914561791391753,
+    "item_quality_rating": 4.902433758179264,
+    "customer_service_rating": 4.955365434116393,
+    "average_rating": 4.91,
+    "total_rating_count": 1273,
+    "rating_count_past_year": 1273,
+    "sold_count": 5593,
+    "active_listing_count": 84,
+    "create_date": 1686329558,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

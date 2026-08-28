@@ -1,0 +1,27 @@
+{
+  "shop": "Lifeis3DShop",
+  "shop_url": "https://www.etsy.com/shop/Lifeis3DShop",
+  "source": "https://www.etsy.com/shop/Lifeis3DShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.845265082195064,
+    "item_quality_rating": 4.883147844932222,
+    "customer_service_rating": 4.928320940751354,
+    "average_rating": 4.88,
+    "total_rating_count": 725,
+    "rating_count_past_year": 725,
+    "sold_count": 3403,
+    "active_listing_count": 24,
+    "create_date": 1519062267,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "CA"
+}

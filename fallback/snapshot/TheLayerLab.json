@@ -1,0 +1,27 @@
+{
+  "shop": "TheLayerLab",
+  "shop_url": "https://www.etsy.com/shop/TheLayerLab",
+  "source": "https://www.etsy.com/shop/TheLayerLab",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.491063207708904,
+    "item_quality_rating": 4.6852369929080595,
+    "customer_service_rating": 4.690317826107845,
+    "average_rating": 4.66,
+    "total_rating_count": 708,
+    "rating_count_past_year": 708,
+    "sold_count": 2858,
+    "active_listing_count": 24,
+    "create_date": 1649184388,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "NL"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "LayeredEleganceNL",
+  "shop_url": "https://www.etsy.com/shop/LayeredEleganceNL",
+  "source": "https://www.etsy.com/shop/LayeredEleganceNL",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9201487285582175,
+    "item_quality_rating": 4.793415924699588,
+    "customer_service_rating": 4.909051004642411,
+    "average_rating": 4.81,
+    "total_rating_count": 125,
+    "rating_count_past_year": 125,
+    "sold_count": 698,
+    "active_listing_count": 186,
+    "create_date": 1736846333,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "NL"
+}

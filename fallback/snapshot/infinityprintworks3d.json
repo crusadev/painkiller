@@ -1,0 +1,30 @@
+{
+  "shop": "infinityprintworks3d",
+  "shop_url": "https://www.etsy.com/shop/infinityprintworks3d",
+  "source": "https://www.etsy.com/shop/infinityprintworks3d",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.785049730342779,
+    "item_quality_rating": 4.81440395308858,
+    "customer_service_rating": 4.887947698672045,
+    "average_rating": 4.8,
+    "total_rating_count": 187,
+    "rating_count_past_year": 187,
+    "sold_count": 948,
+    "active_listing_count": 26,
+    "create_date": 1717512573,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.infinityprintworks.co.uk",
+    "https://instagram.com/infinityprintworks"
+  ],
+  "ships_from": "GB"
+}

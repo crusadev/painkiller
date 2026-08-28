@@ -1,0 +1,27 @@
+{
+  "shop": "EasyClayTools",
+  "shop_url": "https://www.etsy.com/shop/EasyClayTools",
+  "source": "https://www.etsy.com/shop/EasyClayTools",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.801060150709906,
+    "item_quality_rating": 4.881205703651354,
+    "customer_service_rating": 4.912062772876585,
+    "average_rating": 4.86,
+    "total_rating_count": 332,
+    "rating_count_past_year": 332,
+    "sold_count": 3500,
+    "active_listing_count": 120,
+    "create_date": 1687695770,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

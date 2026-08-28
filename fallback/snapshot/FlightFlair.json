@@ -1,0 +1,27 @@
+{
+  "shop": "FlightFlair",
+  "shop_url": "https://www.etsy.com/shop/FlightFlair",
+  "source": "https://www.etsy.com/shop/FlightFlair",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9248538894733045,
+    "item_quality_rating": 4.947033210724202,
+    "customer_service_rating": 4.9418607645624695,
+    "average_rating": 4.93,
+    "total_rating_count": 797,
+    "rating_count_past_year": 797,
+    "sold_count": 4328,
+    "active_listing_count": 134,
+    "create_date": 1729369307,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

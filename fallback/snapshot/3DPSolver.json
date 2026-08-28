@@ -1,0 +1,30 @@
+{
+  "shop": "3DPSolver",
+  "shop_url": "https://www.etsy.com/shop/3DPSolver",
+  "source": "https://www.etsy.com/shop/3DPSolver",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "SG",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.50261541195176,
+    "item_quality_rating": 4.641516156202267,
+    "customer_service_rating": 4.518656619384365,
+    "average_rating": 4.57,
+    "total_rating_count": 309,
+    "rating_count_past_year": 309,
+    "sold_count": 2327,
+    "active_listing_count": 65,
+    "create_date": 1667725072,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/people/3DP-Solver/100087712803269/",
+    "https://www.instagram.com/3dpsolver/"
+  ],
+  "ships_from": "SG"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "Carzdeluxe",
+  "shop_url": "https://www.etsy.com/shop/Carzdeluxe",
+  "source": "https://www.etsy.com/shop/Carzdeluxe",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.81090281648113,
+    "item_quality_rating": 4.82161106993159,
+    "customer_service_rating": 4.870136713810783,
+    "average_rating": 4.8,
+    "total_rating_count": 914,
+    "rating_count_past_year": 914,
+    "sold_count": 5816,
+    "active_listing_count": 491,
+    "create_date": 1637128345,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

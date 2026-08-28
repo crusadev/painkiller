@@ -1,0 +1,30 @@
+{
+  "shop": "R2D3Productions",
+  "shop_url": "https://www.etsy.com/shop/R2D3Productions",
+  "source": "https://www.etsy.com/shop/R2D3Productions",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.947350975412941,
+    "item_quality_rating": 4.960510808031834,
+    "customer_service_rating": 4.986490886075898,
+    "average_rating": 4.97,
+    "total_rating_count": 2013,
+    "rating_count_past_year": 2013,
+    "sold_count": 6916,
+    "active_listing_count": 160,
+    "create_date": 1661963945,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/R2D3Productions",
+    "https://www.instagram.com/r2d3productions/"
+  ],
+  "ships_from": "CA"
+}

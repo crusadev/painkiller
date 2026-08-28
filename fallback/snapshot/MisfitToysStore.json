@@ -1,0 +1,30 @@
+{
+  "shop": "MisfitToysStore",
+  "shop_url": "https://www.etsy.com/shop/MisfitToysStore",
+  "source": "https://www.etsy.com/shop/MisfitToysStore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.774891207754825,
+    "item_quality_rating": 4.947071696920417,
+    "customer_service_rating": 4.953589397473864,
+    "average_rating": 4.94,
+    "total_rating_count": 8945,
+    "rating_count_past_year": 8945,
+    "sold_count": 40972,
+    "active_listing_count": 37,
+    "create_date": 1411380734,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.ebay.co.uk/usr/misfittoysstore",
+    "https://www.instagram.com/misfittoys.store/"
+  ],
+  "ships_from": "GB"
+}

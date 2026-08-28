@@ -1,0 +1,29 @@
+{
+  "shop": "DecordsStore",
+  "shop_url": "https://www.etsy.com/shop/DecordsStore",
+  "source": "https://www.etsy.com/shop/DecordsStore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "EE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.562758610992215,
+    "item_quality_rating": 4.575692856458972,
+    "customer_service_rating": 4.689538561578481,
+    "average_rating": 4.55,
+    "total_rating_count": 2116,
+    "rating_count_past_year": 2116,
+    "sold_count": 16247,
+    "active_listing_count": 976,
+    "create_date": 1390556853,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.decords.com"
+  ],
+  "ships_from": "EE"
+}

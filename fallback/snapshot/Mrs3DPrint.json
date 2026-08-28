@@ -1,0 +1,27 @@
+{
+  "shop": "Mrs3DPrint",
+  "shop_url": "https://www.etsy.com/shop/Mrs3DPrint",
+  "source": "https://www.etsy.com/shop/Mrs3DPrint",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9698303649968425,
+    "item_quality_rating": 4.9561405179674285,
+    "customer_service_rating": 4.972648164181177,
+    "average_rating": 4.96,
+    "total_rating_count": 137,
+    "rating_count_past_year": 137,
+    "sold_count": 474,
+    "active_listing_count": 28,
+    "create_date": 1740011084,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

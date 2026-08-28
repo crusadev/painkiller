@@ -1,0 +1,30 @@
+{
+  "shop": "MadebyStack3d",
+  "shop_url": "https://www.etsy.com/shop/MadebyStack3d",
+  "source": "https://www.etsy.com/shop/MadebyStack3d",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.901556764745645,
+    "item_quality_rating": 4.9170379193543425,
+    "customer_service_rating": 4.991826158073635,
+    "average_rating": 4.9,
+    "total_rating_count": 345,
+    "rating_count_past_year": 345,
+    "sold_count": 1671,
+    "active_listing_count": 67,
+    "create_date": 1655265131,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://stack3d.ca",
+    "https://www.instagram.com/stack3d.ca/"
+  ],
+  "ships_from": "CA"
+}

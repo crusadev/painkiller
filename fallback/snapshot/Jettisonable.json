@@ -1,0 +1,27 @@
+{
+  "shop": "Jettisonable",
+  "shop_url": "https://www.etsy.com/shop/Jettisonable",
+  "source": "https://www.etsy.com/shop/Jettisonable",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.998424811673463,
+    "item_quality_rating": 4.993605780383127,
+    "customer_service_rating": 4.999999999999998,
+    "average_rating": 4.97,
+    "total_rating_count": 1165,
+    "rating_count_past_year": 1165,
+    "sold_count": 2686,
+    "active_listing_count": 15,
+    "create_date": 1581882016,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "luusprints",
+  "shop_url": "https://www.etsy.com/shop/luusprints",
+  "source": "https://www.etsy.com/shop/luusprints",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.757590398613993,
+    "item_quality_rating": 4.928752176839392,
+    "customer_service_rating": 4.9128153448645975,
+    "average_rating": 4.88,
+    "total_rating_count": 489,
+    "rating_count_past_year": 489,
+    "sold_count": 1682,
+    "active_listing_count": 51,
+    "create_date": 1616493324,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

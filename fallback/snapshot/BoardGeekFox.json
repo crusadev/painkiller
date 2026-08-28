@@ -1,0 +1,29 @@
+{
+  "shop": "BoardGeekFox",
+  "shop_url": "https://www.etsy.com/shop/BoardGeekFox",
+  "source": "https://www.etsy.com/shop/BoardGeekFox",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "HU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.678144825391616,
+    "item_quality_rating": 4.8325358582593925,
+    "customer_service_rating": 4.730535781694184,
+    "average_rating": 4.8,
+    "total_rating_count": 3934,
+    "rating_count_past_year": 3934,
+    "sold_count": 15736,
+    "active_listing_count": 92,
+    "create_date": 1631356736,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/boardgeekfox/"
+  ],
+  "ships_from": "HU"
+}

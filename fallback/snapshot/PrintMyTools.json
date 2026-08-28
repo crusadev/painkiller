@@ -1,0 +1,27 @@
+{
+  "shop": "PrintMyTools",
+  "shop_url": "https://www.etsy.com/shop/PrintMyTools",
+  "source": "https://www.etsy.com/shop/PrintMyTools",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8112632806003885,
+    "item_quality_rating": 4.951082703378823,
+    "customer_service_rating": 4.9547840359318736,
+    "average_rating": 4.94,
+    "total_rating_count": 454,
+    "rating_count_past_year": 454,
+    "sold_count": 3441,
+    "active_listing_count": 5,
+    "create_date": 1632972623,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "CA"
+}

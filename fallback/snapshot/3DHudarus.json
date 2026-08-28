@@ -1,0 +1,27 @@
+{
+  "shop": "3DHudarus",
+  "shop_url": "https://www.etsy.com/shop/3DHudarus",
+  "source": "https://www.etsy.com/shop/3DHudarus",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.821291742537156,
+    "item_quality_rating": 4.652451258945211,
+    "customer_service_rating": 4.629692124784899,
+    "average_rating": 4.6,
+    "total_rating_count": 906,
+    "rating_count_past_year": 906,
+    "sold_count": 9499,
+    "active_listing_count": 104,
+    "create_date": 1667820909,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "TR"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "DetailArtFactory",
+  "shop_url": "https://www.etsy.com/shop/DetailArtFactory",
+  "source": "https://www.etsy.com/shop/DetailArtFactory",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CZ",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.89102971682216,
+    "item_quality_rating": 4.892111230886955,
+    "customer_service_rating": 4.9635865810922555,
+    "average_rating": 4.88,
+    "total_rating_count": 727,
+    "rating_count_past_year": 727,
+    "sold_count": 4041,
+    "active_listing_count": 36,
+    "create_date": 1636563179,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "CZ"
+}

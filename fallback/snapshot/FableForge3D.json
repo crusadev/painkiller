@@ -1,0 +1,31 @@
+{
+  "shop": "FableForge3D",
+  "shop_url": "https://www.etsy.com/shop/FableForge3D",
+  "source": "https://www.etsy.com/shop/FableForge3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.981434088127436,
+    "item_quality_rating": 4.959421209834842,
+    "customer_service_rating": 4.985909241790051,
+    "average_rating": 4.96,
+    "total_rating_count": 136,
+    "rating_count_past_year": 136,
+    "sold_count": 773,
+    "active_listing_count": 46,
+    "create_date": 1728840737,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/Fableforge3d",
+    "https://www.instagram.com/fable_forge_co/",
+    "https://linktr.ee/fableforge3d"
+  ],
+  "ships_from": "US"
+}

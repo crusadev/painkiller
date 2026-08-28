@@ -1,0 +1,30 @@
+{
+  "shop": "PhantomFidgets",
+  "shop_url": "https://www.etsy.com/shop/PhantomFidgets",
+  "source": "https://www.etsy.com/shop/PhantomFidgets",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9282440084140955,
+    "item_quality_rating": 4.916645323947758,
+    "customer_service_rating": 4.947156808923658,
+    "average_rating": 4.9,
+    "total_rating_count": 694,
+    "rating_count_past_year": 694,
+    "sold_count": 2675,
+    "active_listing_count": 18,
+    "create_date": 1698385655,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/phantomfidgets/?hl=en",
+    "https://www.youtube.com/@phantomfidgets"
+  ],
+  "ships_from": "US"
+}

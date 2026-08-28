@@ -1,0 +1,27 @@
+{
+  "shop": "FluffyDucKeys",
+  "shop_url": "https://www.etsy.com/shop/FluffyDucKeys",
+  "source": "https://www.etsy.com/shop/FluffyDucKeys",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.962237266941178,
+    "item_quality_rating": 4.9743416482873295,
+    "customer_service_rating": 4.972452560575368,
+    "average_rating": 4.98,
+    "total_rating_count": 818,
+    "rating_count_past_year": 818,
+    "sold_count": 3415,
+    "active_listing_count": 242,
+    "create_date": 1655677134,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

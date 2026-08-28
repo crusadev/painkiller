@@ -1,0 +1,27 @@
+{
+  "shop": "NewGroundDesigns",
+  "shop_url": "https://www.etsy.com/shop/NewGroundDesigns",
+  "source": "https://www.etsy.com/shop/NewGroundDesigns",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.879833213729304,
+    "item_quality_rating": 4.779183899922272,
+    "customer_service_rating": 4.946915338145728,
+    "average_rating": 4.83,
+    "total_rating_count": 296,
+    "rating_count_past_year": 296,
+    "sold_count": 2011,
+    "active_listing_count": 50,
+    "create_date": 1648205748,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

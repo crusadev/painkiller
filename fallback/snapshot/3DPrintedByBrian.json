@@ -1,0 +1,27 @@
+{
+  "shop": "3DPrintedByBrian",
+  "shop_url": "https://www.etsy.com/shop/3DPrintedByBrian",
+  "source": "https://www.etsy.com/shop/3DPrintedByBrian",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.856481306764591,
+    "item_quality_rating": 4.8708346316724995,
+    "customer_service_rating": 4.92060209608062,
+    "average_rating": 4.89,
+    "total_rating_count": 8193,
+    "rating_count_past_year": 8193,
+    "sold_count": 38106,
+    "active_listing_count": 24,
+    "create_date": 1510603538,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

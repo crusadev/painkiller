@@ -1,0 +1,31 @@
+{
+  "shop": "EAandJLABSLLC",
+  "shop_url": "https://www.etsy.com/shop/EAandJLABSLLC",
+  "source": "https://www.etsy.com/shop/EAandJLABSLLC",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.744207239634508,
+    "item_quality_rating": 4.738796166225578,
+    "customer_service_rating": 4.849553945289378,
+    "average_rating": 4.74,
+    "total_rating_count": 403,
+    "rating_count_past_year": 403,
+    "sold_count": 1713,
+    "active_listing_count": 73,
+    "create_date": 1735534143,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/eaandjlabs/",
+    "https://www.facebook.com/profile.php?id=61570836284747",
+    "http://EAJLABS.com"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "DorkyDesignsDigital",
+  "shop_url": "https://www.etsy.com/shop/DorkyDesignsDigital",
+  "source": "https://www.etsy.com/shop/DorkyDesignsDigital",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.634969220833847,
+    "item_quality_rating": 4.668900177687335,
+    "customer_service_rating": 4.616748642122019,
+    "average_rating": 4.62,
+    "total_rating_count": 482,
+    "rating_count_past_year": 482,
+    "sold_count": 2256,
+    "active_listing_count": 156,
+    "create_date": 1682014142,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "Alice3DTreasures",
+  "shop_url": "https://www.etsy.com/shop/Alice3DTreasures",
+  "source": "https://www.etsy.com/shop/Alice3DTreasures",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.515655585262619,
+    "item_quality_rating": 4.764589033150191,
+    "customer_service_rating": 4.394881056636815,
+    "average_rating": 4.72,
+    "total_rating_count": 1120,
+    "rating_count_past_year": 1120,
+    "sold_count": 6049,
+    "active_listing_count": 20,
+    "create_date": 1675379118,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

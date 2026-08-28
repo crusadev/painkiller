@@ -1,0 +1,30 @@
+{
+  "shop": "3DGeschenkeJM",
+  "shop_url": "https://www.etsy.com/shop/3DGeschenkeJM",
+  "source": "https://www.etsy.com/shop/3DGeschenkeJM",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.898662835581822,
+    "item_quality_rating": 4.842952297453404,
+    "customer_service_rating": 4.898009065144103,
+    "average_rating": 4.87,
+    "total_rating_count": 158,
+    "rating_count_past_year": 158,
+    "sold_count": 614,
+    "active_listing_count": 370,
+    "create_date": 1751104779,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/share/1B3AsuaZ3j/?mibextid=wwXIfr",
+    "https://www.instagram.com/3dgeschenkdruck.de/"
+  ],
+  "ships_from": "DE"
+}

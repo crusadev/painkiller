@@ -1,0 +1,29 @@
+{
+  "shop": "DuckSpecialist",
+  "shop_url": "https://www.etsy.com/shop/DuckSpecialist",
+  "source": "https://www.etsy.com/shop/DuckSpecialist",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.629904344128269,
+    "item_quality_rating": 4.84497993546719,
+    "customer_service_rating": 4.883590349434695,
+    "average_rating": 4.79,
+    "total_rating_count": 80,
+    "rating_count_past_year": 80,
+    "sold_count": 385,
+    "active_listing_count": 27,
+    "create_date": 1739744526,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.plasticopmaat.nl/"
+  ],
+  "ships_from": "NL"
+}

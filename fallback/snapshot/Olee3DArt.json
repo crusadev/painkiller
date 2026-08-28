@@ -1,0 +1,27 @@
+{
+  "shop": "Olee3DArt",
+  "shop_url": "https://www.etsy.com/shop/Olee3DArt",
+  "source": "https://www.etsy.com/shop/Olee3DArt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "SG",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.814282670070152,
+    "item_quality_rating": 4.703855273937374,
+    "customer_service_rating": 4.852032109753706,
+    "average_rating": 4.72,
+    "total_rating_count": 3010,
+    "rating_count_past_year": 3010,
+    "sold_count": 19376,
+    "active_listing_count": 90,
+    "create_date": 1672367990,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "SG"
+}

@@ -1,0 +1,29 @@
+{
+  "shop": "MaverlyDesigns",
+  "shop_url": "https://www.etsy.com/shop/MaverlyDesigns",
+  "source": "https://www.etsy.com/shop/MaverlyDesigns",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.945695480194686,
+    "item_quality_rating": 4.874101399866639,
+    "customer_service_rating": 4.919803121432472,
+    "average_rating": 4.84,
+    "total_rating_count": 248,
+    "rating_count_past_year": 248,
+    "sold_count": 2377,
+    "active_listing_count": 1164,
+    "create_date": 1609526421,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://www.maverlydesigns.com"
+  ],
+  "ships_from": "US"
+}

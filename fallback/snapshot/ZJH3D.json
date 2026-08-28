@@ -1,0 +1,29 @@
+{
+  "shop": "ZJH3D",
+  "shop_url": "https://www.etsy.com/shop/ZJH3D",
+  "source": "https://www.etsy.com/shop/ZJH3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.919062347569942,
+    "item_quality_rating": 4.927724959531531,
+    "customer_service_rating": 4.903023219331944,
+    "average_rating": 4.93,
+    "total_rating_count": 1082,
+    "rating_count_past_year": 1082,
+    "sold_count": 3799,
+    "active_listing_count": 98,
+    "create_date": 1669586785,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/zjh3d/"
+  ],
+  "ships_from": "US"
+}

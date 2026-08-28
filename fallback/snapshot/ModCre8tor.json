@@ -1,0 +1,27 @@
+{
+  "shop": "ModCre8tor",
+  "shop_url": "https://www.etsy.com/shop/ModCre8tor",
+  "source": "https://www.etsy.com/shop/ModCre8tor",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.944578546825137,
+    "item_quality_rating": 4.94878591067317,
+    "customer_service_rating": 4.97847799736073,
+    "average_rating": 4.95,
+    "total_rating_count": 825,
+    "rating_count_past_year": 825,
+    "sold_count": 3627,
+    "active_listing_count": 71,
+    "create_date": 1709684635,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

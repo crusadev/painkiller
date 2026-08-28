@@ -1,0 +1,29 @@
+{
+  "shop": "AFKPrintsAU",
+  "shop_url": "https://www.etsy.com/shop/AFKPrintsAU",
+  "source": "https://www.etsy.com/shop/AFKPrintsAU",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "AU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8748861997950454,
+    "item_quality_rating": 4.8348221321770595,
+    "customer_service_rating": 4.931942484263739,
+    "average_rating": 4.82,
+    "total_rating_count": 126,
+    "rating_count_past_year": 126,
+    "sold_count": 626,
+    "active_listing_count": 36,
+    "create_date": 1708698042,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/afk_prints/"
+  ],
+  "ships_from": "AU"
+}

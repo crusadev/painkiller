@@ -1,0 +1,27 @@
+{
+  "shop": "TwistedDesignUSA",
+  "shop_url": "https://www.etsy.com/shop/TwistedDesignUSA",
+  "source": "https://www.etsy.com/shop/TwistedDesignUSA",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.946898209017157,
+    "item_quality_rating": 4.943905818912882,
+    "customer_service_rating": 4.981882424653331,
+    "average_rating": 4.92,
+    "total_rating_count": 675,
+    "rating_count_past_year": 675,
+    "sold_count": 2544,
+    "active_listing_count": 0,
+    "create_date": 1727648568,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

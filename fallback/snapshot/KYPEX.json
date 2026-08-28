@@ -1,0 +1,26 @@
+{
+  "shop": "KYPEX",
+  "shop_url": "https://www.etsy.com/shop/KYPEX",
+  "source": "https://www.etsy.com/shop/KYPEX",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.508739101990017,
+    "item_quality_rating": 4.65359897756303,
+    "customer_service_rating": 4.782701735781688,
+    "average_rating": 4.71,
+    "total_rating_count": 180,
+    "rating_count_past_year": 180,
+    "sold_count": 1847,
+    "active_listing_count": 23,
+    "create_date": 1627238359,
+    "is_open": true,
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

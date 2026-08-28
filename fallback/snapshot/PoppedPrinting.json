@@ -1,0 +1,32 @@
+{
+  "shop": "PoppedPrinting",
+  "shop_url": "https://www.etsy.com/shop/PoppedPrinting",
+  "source": "https://www.etsy.com/shop/PoppedPrinting",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8914623860770226,
+    "item_quality_rating": 4.90505312819095,
+    "customer_service_rating": 4.866598594041769,
+    "average_rating": 4.86,
+    "total_rating_count": 849,
+    "rating_count_past_year": 849,
+    "sold_count": 3041,
+    "active_listing_count": 15,
+    "create_date": 1617232555,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.facebook.com/poppedprinting",
+    "https://www.instagram.com/poppedprinting/",
+    "https://twitter.com/poppedprinting",
+    "https://www.pinterest.com/PoppedPrinting"
+  ],
+  "ships_from": "US"
+}

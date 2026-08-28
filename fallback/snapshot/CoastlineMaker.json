@@ -1,0 +1,29 @@
+{
+  "shop": "CoastlineMaker",
+  "shop_url": "https://www.etsy.com/shop/CoastlineMaker",
+  "source": "https://www.etsy.com/shop/CoastlineMaker",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8202131926049026,
+    "item_quality_rating": 4.8665772922840445,
+    "customer_service_rating": 4.857353874372092,
+    "average_rating": 4.86,
+    "total_rating_count": 5405,
+    "rating_count_past_year": 5405,
+    "sold_count": 17760,
+    "active_listing_count": 0,
+    "create_date": 1645986548,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://email.everbee.io/subscribe?shopName=CoastlineMaker&ref=R1utmBeT"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "LitArtifactz",
+  "shop_url": "https://www.etsy.com/shop/LitArtifactz",
+  "source": "https://www.etsy.com/shop/LitArtifactz",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.944471510455734,
+    "item_quality_rating": 4.8977967320484765,
+    "customer_service_rating": 4.962183357278958,
+    "average_rating": 4.92,
+    "total_rating_count": 1548,
+    "rating_count_past_year": 1548,
+    "sold_count": 5452,
+    "active_listing_count": 4,
+    "create_date": 1681507848,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

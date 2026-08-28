@@ -1,0 +1,31 @@
+{
+  "shop": "XeonCrafts",
+  "shop_url": "https://www.etsy.com/shop/XeonCrafts",
+  "source": "https://www.etsy.com/shop/XeonCrafts",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.3064939555593345,
+    "item_quality_rating": 4.4530336939486626,
+    "customer_service_rating": 4.3299491068249,
+    "average_rating": 4.39,
+    "total_rating_count": 3342,
+    "rating_count_past_year": 3342,
+    "sold_count": 14304,
+    "active_listing_count": 314,
+    "create_date": 1643384866,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/xeoncrafts",
+    "https://www.instagram.com/xeoncrafts/",
+    "https://xeoncrafts.co.uk"
+  ],
+  "ships_from": "GB"
+}

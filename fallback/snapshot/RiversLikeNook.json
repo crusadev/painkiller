@@ -1,0 +1,27 @@
+{
+  "shop": "RiversLikeNook",
+  "shop_url": "https://www.etsy.com/shop/RiversLikeNook",
+  "source": "https://www.etsy.com/shop/RiversLikeNook",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "ID",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.874829144502563,
+    "item_quality_rating": 4.855599636585042,
+    "customer_service_rating": 4.89604340105153,
+    "average_rating": 4.88,
+    "total_rating_count": 519,
+    "rating_count_past_year": 519,
+    "sold_count": 2627,
+    "active_listing_count": 13,
+    "create_date": 1735123254,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "ID"
+}

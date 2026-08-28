@@ -1,0 +1,29 @@
+{
+  "shop": "PrintWithAust",
+  "shop_url": "https://www.etsy.com/shop/PrintWithAust",
+  "source": "https://www.etsy.com/shop/PrintWithAust",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.966597886002917,
+    "item_quality_rating": 4.956935590247814,
+    "customer_service_rating": 4.981025805752133,
+    "average_rating": 4.93,
+    "total_rating_count": 353,
+    "rating_count_past_year": 353,
+    "sold_count": 1464,
+    "active_listing_count": 13,
+    "create_date": 1683942005,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/printwithaust/"
+  ],
+  "ships_from": "US"
+}

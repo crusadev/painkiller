@@ -1,0 +1,29 @@
+{
+  "shop": "DoodlesEmpire",
+  "shop_url": "https://www.etsy.com/shop/DoodlesEmpire",
+  "source": "https://www.etsy.com/shop/DoodlesEmpire",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8520005898441045,
+    "item_quality_rating": 4.901509224914632,
+    "customer_service_rating": 4.916474176680739,
+    "average_rating": 4.85,
+    "total_rating_count": 411,
+    "rating_count_past_year": 411,
+    "sold_count": 3079,
+    "active_listing_count": 29,
+    "create_date": 1683448053,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/doodlesempire/"
+  ],
+  "ships_from": "PL"
+}

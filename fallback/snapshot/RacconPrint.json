@@ -1,0 +1,27 @@
+{
+  "shop": "RacconPrint",
+  "shop_url": "https://www.etsy.com/shop/RacconPrint",
+  "source": "https://www.etsy.com/shop/RacconPrint",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9341669892814615,
+    "item_quality_rating": 4.920146489493075,
+    "customer_service_rating": 4.964763170220188,
+    "average_rating": 4.96,
+    "total_rating_count": 811,
+    "rating_count_past_year": 811,
+    "sold_count": 2112,
+    "active_listing_count": 128,
+    "create_date": 1644843798,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

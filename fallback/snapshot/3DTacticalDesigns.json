@@ -1,0 +1,27 @@
+{
+  "shop": "3DTacticalDesigns",
+  "shop_url": "https://www.etsy.com/shop/3DTacticalDesigns",
+  "source": "https://www.etsy.com/shop/3DTacticalDesigns",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.958564009045291,
+    "item_quality_rating": 4.945783215462565,
+    "customer_service_rating": 4.985707114504059,
+    "average_rating": 4.94,
+    "total_rating_count": 1728,
+    "rating_count_past_year": 1728,
+    "sold_count": 7893,
+    "active_listing_count": 44,
+    "create_date": 1421736003,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,31 @@
+{
+  "shop": "TheInsideJungle",
+  "shop_url": "https://www.etsy.com/shop/TheInsideJungle",
+  "source": "https://www.etsy.com/shop/TheInsideJungle",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "AU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.83954807058305,
+    "item_quality_rating": 4.949776702884511,
+    "customer_service_rating": 4.933960158709201,
+    "average_rating": 4.9,
+    "total_rating_count": 143,
+    "rating_count_past_year": 143,
+    "sold_count": 1032,
+    "active_listing_count": 96,
+    "create_date": 1717292578,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/share/1AGRzkfc6d/?mibextid=wwXIfr",
+    "https://www.instagram.com/the_inside_jungle?igsh=MW92eGx2NjZqeW1tYw%3D%3D&utm_source=qr",
+    "https://theinsidejungle.com/"
+  ],
+  "ships_from": "AU"
+}

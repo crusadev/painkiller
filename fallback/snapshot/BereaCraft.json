@@ -1,0 +1,27 @@
+{
+  "shop": "BereaCraft",
+  "shop_url": "https://www.etsy.com/shop/BereaCraft",
+  "source": "https://www.etsy.com/shop/BereaCraft",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.935766601806731,
+    "item_quality_rating": 4.890887315049408,
+    "customer_service_rating": 4.932068971214954,
+    "average_rating": 4.86,
+    "total_rating_count": 393,
+    "rating_count_past_year": 393,
+    "sold_count": 1569,
+    "active_listing_count": 32,
+    "create_date": 1683479459,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

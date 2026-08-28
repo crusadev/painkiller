@@ -1,0 +1,30 @@
+{
+  "shop": "TheFelizCo",
+  "shop_url": "https://www.etsy.com/shop/TheFelizCo",
+  "source": "https://www.etsy.com/shop/TheFelizCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.935991282760584,
+    "item_quality_rating": 4.905987689248363,
+    "customer_service_rating": 4.93992212899489,
+    "average_rating": 4.9,
+    "total_rating_count": 2403,
+    "rating_count_past_year": 2403,
+    "sold_count": 12366,
+    "active_listing_count": 52,
+    "create_date": 1671509028,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/thefelizco/",
+    "https://www.facebook.com/100086694132212/videos/?_rdr"
+  ],
+  "ships_from": "US"
+}

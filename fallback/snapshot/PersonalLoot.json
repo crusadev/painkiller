@@ -1,0 +1,30 @@
+{
+  "shop": "PersonalLoot",
+  "shop_url": "https://www.etsy.com/shop/PersonalLoot",
+  "source": "https://www.etsy.com/shop/PersonalLoot",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.837054224286934,
+    "item_quality_rating": 4.89828586974507,
+    "customer_service_rating": 4.923791952926446,
+    "average_rating": 4.91,
+    "total_rating_count": 745,
+    "rating_count_past_year": 745,
+    "sold_count": 3018,
+    "active_listing_count": 238,
+    "create_date": 1607955867,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/personalloot/",
+    "https://personalloot.com/"
+  ],
+  "ships_from": "GB"
+}

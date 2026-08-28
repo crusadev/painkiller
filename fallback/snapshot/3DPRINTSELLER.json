@@ -1,0 +1,29 @@
+{
+  "shop": "3DPRINTSELLER",
+  "shop_url": "https://www.etsy.com/shop/3DPRINTSELLER",
+  "source": "https://www.etsy.com/shop/3DPRINTSELLER",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.858670279856692,
+    "item_quality_rating": 4.763019481862072,
+    "customer_service_rating": 4.92271192354931,
+    "average_rating": 4.76,
+    "total_rating_count": 332,
+    "rating_count_past_year": 332,
+    "sold_count": 1916,
+    "active_listing_count": 39,
+    "create_date": 1645662775,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.3dprintseller.com"
+  ],
+  "ships_from": "US"
+}

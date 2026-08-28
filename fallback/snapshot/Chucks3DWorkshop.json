@@ -1,0 +1,27 @@
+{
+  "shop": "Chucks3DWorkshop",
+  "shop_url": "https://www.etsy.com/shop/Chucks3DWorkshop",
+  "source": "https://www.etsy.com/shop/Chucks3DWorkshop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.954364369999172,
+    "item_quality_rating": 4.954037744560465,
+    "customer_service_rating": 4.911079535649085,
+    "average_rating": 4.94,
+    "total_rating_count": 233,
+    "rating_count_past_year": 233,
+    "sold_count": 852,
+    "active_listing_count": 3,
+    "create_date": 1738943771,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "DesireNorth",
+  "shop_url": "https://www.etsy.com/shop/DesireNorth",
+  "source": "https://www.etsy.com/shop/DesireNorth",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.903517429400501,
+    "item_quality_rating": 4.9924903705615975,
+    "customer_service_rating": 4.983879924504132,
+    "average_rating": 4.98,
+    "total_rating_count": 306,
+    "rating_count_past_year": 306,
+    "sold_count": 1497,
+    "active_listing_count": 55,
+    "create_date": 1612633781,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

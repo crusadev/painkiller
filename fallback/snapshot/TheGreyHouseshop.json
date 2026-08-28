@@ -1,0 +1,29 @@
+{
+  "shop": "TheGreyHouseshop",
+  "shop_url": "https://www.etsy.com/shop/TheGreyHouseshop",
+  "source": "https://www.etsy.com/shop/TheGreyHouseshop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.922991791195185,
+    "item_quality_rating": 4.8778362424989306,
+    "customer_service_rating": 4.913272452221783,
+    "average_rating": 4.9,
+    "total_rating_count": 1582,
+    "rating_count_past_year": 1582,
+    "sold_count": 6392,
+    "active_listing_count": 262,
+    "create_date": 1366390180,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://Facebook.com/TheGreyHouseVip"
+  ],
+  "ships_from": "US"
+}

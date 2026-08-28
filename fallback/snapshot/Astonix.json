@@ -1,0 +1,27 @@
+{
+  "shop": "Astonix",
+  "shop_url": "https://www.etsy.com/shop/Astonix",
+  "source": "https://www.etsy.com/shop/Astonix",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "AU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.867557842453021,
+    "item_quality_rating": 4.801561895348777,
+    "customer_service_rating": 4.826629522686505,
+    "average_rating": 4.81,
+    "total_rating_count": 41,
+    "rating_count_past_year": 41,
+    "sold_count": 455,
+    "active_listing_count": 11,
+    "create_date": 1709093822,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "AU"
+}

@@ -1,0 +1,30 @@
+{
+  "shop": "NautolithCrafts",
+  "shop_url": "https://www.etsy.com/shop/NautolithCrafts",
+  "source": "https://www.etsy.com/shop/NautolithCrafts",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9530883412942135,
+    "item_quality_rating": 4.9623457801483015,
+    "customer_service_rating": 4.974283579202801,
+    "average_rating": 4.97,
+    "total_rating_count": 1205,
+    "rating_count_past_year": 1205,
+    "sold_count": 5157,
+    "active_listing_count": 70,
+    "create_date": 1636961769,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/NautolithCrafts",
+    "https://www.instagram.com/nautolithcrafts/"
+  ],
+  "ships_from": "US"
+}

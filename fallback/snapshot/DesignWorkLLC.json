@@ -1,0 +1,27 @@
+{
+  "shop": "DesignWorkLLC",
+  "shop_url": "https://www.etsy.com/shop/DesignWorkLLC",
+  "source": "https://www.etsy.com/shop/DesignWorkLLC",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.972513044430343,
+    "item_quality_rating": 4.940618491807708,
+    "customer_service_rating": 4.976709427318237,
+    "average_rating": 4.96,
+    "total_rating_count": 831,
+    "rating_count_past_year": 831,
+    "sold_count": 3152,
+    "active_listing_count": 6,
+    "create_date": 1512170036,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

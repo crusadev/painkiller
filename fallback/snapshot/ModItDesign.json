@@ -1,0 +1,27 @@
+{
+  "shop": "ModItDesign",
+  "shop_url": "https://www.etsy.com/shop/ModItDesign",
+  "source": "https://www.etsy.com/shop/ModItDesign",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.750451513559599,
+    "item_quality_rating": 4.7030690678272045,
+    "customer_service_rating": 4.88354514936514,
+    "average_rating": 4.71,
+    "total_rating_count": 383,
+    "rating_count_past_year": 383,
+    "sold_count": 3844,
+    "active_listing_count": 26,
+    "create_date": 1660073079,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

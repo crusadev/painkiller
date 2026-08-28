@@ -1,0 +1,27 @@
+{
+  "shop": "BaristaGadgets",
+  "shop_url": "https://www.etsy.com/shop/BaristaGadgets",
+  "source": "https://www.etsy.com/shop/BaristaGadgets",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.916443815704581,
+    "item_quality_rating": 4.857859264121232,
+    "customer_service_rating": 4.922569469870816,
+    "average_rating": 4.88,
+    "total_rating_count": 1124,
+    "rating_count_past_year": 1124,
+    "sold_count": 7250,
+    "active_listing_count": 16,
+    "create_date": 1649028538,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

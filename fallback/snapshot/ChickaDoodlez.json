@@ -1,0 +1,29 @@
+{
+  "shop": "ChickaDoodlez",
+  "shop_url": "https://www.etsy.com/shop/ChickaDoodlez",
+  "source": "https://www.etsy.com/shop/ChickaDoodlez",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.972816838148005,
+    "item_quality_rating": 4.9780003354826245,
+    "customer_service_rating": 4.988345049912345,
+    "average_rating": 4.97,
+    "total_rating_count": 1641,
+    "rating_count_past_year": 1641,
+    "sold_count": 4727,
+    "active_listing_count": 27,
+    "create_date": 1733897939,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://chickadoodlez.com"
+  ],
+  "ships_from": "US"
+}

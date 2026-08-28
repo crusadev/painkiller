@@ -1,0 +1,30 @@
+{
+  "shop": "GameMaker3D",
+  "shop_url": "https://www.etsy.com/shop/GameMaker3D",
+  "source": "https://www.etsy.com/shop/GameMaker3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.75975257773047,
+    "item_quality_rating": 4.849831011787811,
+    "customer_service_rating": 4.8608137242977945,
+    "average_rating": 4.86,
+    "total_rating_count": 5855,
+    "rating_count_past_year": 5855,
+    "sold_count": 20992,
+    "active_listing_count": 350,
+    "create_date": 1602150340,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://terraintrench.com",
+    "https://www.instagram.com/terraintrench/"
+  ],
+  "ships_from": "GR"
+}

@@ -1,0 +1,30 @@
+{
+  "shop": "CremaLoop",
+  "shop_url": "https://www.etsy.com/shop/CremaLoop",
+  "source": "https://www.etsy.com/shop/CremaLoop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CH",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.657009075622238,
+    "item_quality_rating": 4.716580988076724,
+    "customer_service_rating": 4.871781687848527,
+    "average_rating": 4.74,
+    "total_rating_count": 1194,
+    "rating_count_past_year": 1194,
+    "sold_count": 10456,
+    "active_listing_count": 18,
+    "create_date": 1647253477,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://cremaloop.com/",
+    "https://www.instagram.com/cremaloop"
+  ],
+  "ships_from": "CH"
+}

@@ -1,0 +1,29 @@
+{
+  "shop": "GB3dDesigns",
+  "shop_url": "https://www.etsy.com/shop/GB3dDesigns",
+  "source": "https://www.etsy.com/shop/GB3dDesigns",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.910885210426267,
+    "item_quality_rating": 4.8073610374042435,
+    "customer_service_rating": 4.872047000221947,
+    "average_rating": 4.88,
+    "total_rating_count": 149,
+    "rating_count_past_year": 149,
+    "sold_count": 1016,
+    "active_listing_count": 22,
+    "create_date": 1663190346,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/GB3dDesigns/"
+  ],
+  "ships_from": "US"
+}

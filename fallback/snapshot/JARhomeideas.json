@@ -1,0 +1,29 @@
+{
+  "shop": "JARhomeideas",
+  "shop_url": "https://www.etsy.com/shop/JARhomeideas",
+  "source": "https://www.etsy.com/shop/JARhomeideas",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.886422223686202,
+    "item_quality_rating": 4.863248438528299,
+    "customer_service_rating": 4.85938014198056,
+    "average_rating": 4.82,
+    "total_rating_count": 752,
+    "rating_count_past_year": 752,
+    "sold_count": 4791,
+    "active_listing_count": 79,
+    "create_date": 1642873011,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=100084051083466"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "ScaleMax",
+  "shop_url": "https://www.etsy.com/shop/ScaleMax",
+  "source": "https://www.etsy.com/shop/ScaleMax",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9723230761338355,
+    "item_quality_rating": 4.989664861892583,
+    "customer_service_rating": 4.989443180161313,
+    "average_rating": 4.99,
+    "total_rating_count": 385,
+    "rating_count_past_year": 385,
+    "sold_count": 1296,
+    "active_listing_count": 31,
+    "create_date": 1729549663,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "Intrinsic3D",
+  "shop_url": "https://www.etsy.com/shop/Intrinsic3D",
+  "source": "https://www.etsy.com/shop/Intrinsic3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.906850674798031,
+    "item_quality_rating": 4.914837373941765,
+    "customer_service_rating": 4.946142693135048,
+    "average_rating": 4.88,
+    "total_rating_count": 2855,
+    "rating_count_past_year": 2855,
+    "sold_count": 8153,
+    "active_listing_count": 27,
+    "create_date": 1627495068,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

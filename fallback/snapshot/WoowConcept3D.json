@@ -1,0 +1,33 @@
+{
+  "shop": "WoowConcept3D",
+  "shop_url": "https://www.etsy.com/shop/WoowConcept3D",
+  "source": "https://www.etsy.com/shop/WoowConcept3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8906890199111,
+    "item_quality_rating": 4.775170444349802,
+    "customer_service_rating": 4.83220592450989,
+    "average_rating": 4.75,
+    "total_rating_count": 1424,
+    "rating_count_past_year": 1424,
+    "sold_count": 19087,
+    "active_listing_count": 400,
+    "create_date": 1696075977,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.pinterest.com/woowdigitals/",
+    "https://twitter.com/woowdigitals",
+    "https://www.facebook.com/woowdigitals/",
+    "https://www.instagram.com/woowdigitals/",
+    "https://linktr.ee/woowconceptdesign"
+  ],
+  "ships_from": "TR"
+}

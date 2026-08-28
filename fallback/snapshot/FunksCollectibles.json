@@ -1,0 +1,29 @@
+{
+  "shop": "FunksCollectibles",
+  "shop_url": "https://www.etsy.com/shop/FunksCollectibles",
+  "source": "https://www.etsy.com/shop/FunksCollectibles",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.878891444464815,
+    "item_quality_rating": 4.833735004145097,
+    "customer_service_rating": 4.894508384019321,
+    "average_rating": 4.83,
+    "total_rating_count": 637,
+    "rating_count_past_year": 637,
+    "sold_count": 2438,
+    "active_listing_count": 244,
+    "create_date": 1655789617,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/reel/CgkLp6CpMOb/?igshid=MDJmNzVkMjY="
+  ],
+  "ships_from": "US"
+}

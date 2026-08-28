@@ -1,0 +1,29 @@
+{
+  "shop": "wonderland3dprinting",
+  "shop_url": "https://www.etsy.com/shop/wonderland3dprinting",
+  "source": "https://www.etsy.com/shop/wonderland3dprinting",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9801733722967665,
+    "item_quality_rating": 4.98633569812037,
+    "customer_service_rating": 4.986285115396094,
+    "average_rating": 4.99,
+    "total_rating_count": 4155,
+    "rating_count_past_year": 4155,
+    "sold_count": 11102,
+    "active_listing_count": 523,
+    "create_date": 1705024945,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=61573492084217"
+  ],
+  "ships_from": "US"
+}

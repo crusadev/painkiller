@@ -1,0 +1,31 @@
+{
+  "shop": "BoardGameBoss",
+  "shop_url": "https://www.etsy.com/shop/BoardGameBoss",
+  "source": "https://www.etsy.com/shop/BoardGameBoss",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.933438813593006,
+    "item_quality_rating": 4.912682819198849,
+    "customer_service_rating": 4.9387890893504185,
+    "average_rating": 4.91,
+    "total_rating_count": 2077,
+    "rating_count_past_year": 2077,
+    "sold_count": 6946,
+    "active_listing_count": 314,
+    "create_date": 1515167387,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/boardgameboss/",
+    "http://www.boardgameboss.com",
+    "https://www.instagram.com/boardgamebossllc/"
+  ],
+  "ships_from": "US"
+}

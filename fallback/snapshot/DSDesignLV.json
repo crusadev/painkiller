@@ -1,0 +1,29 @@
+{
+  "shop": "DSDesignLV",
+  "shop_url": "https://www.etsy.com/shop/DSDesignLV",
+  "source": "https://www.etsy.com/shop/DSDesignLV",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "LV",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.804266235606005,
+    "item_quality_rating": 4.733650212220567,
+    "customer_service_rating": 4.821615441946929,
+    "average_rating": 4.75,
+    "total_rating_count": 582,
+    "rating_count_past_year": 582,
+    "sold_count": 4531,
+    "active_listing_count": 43,
+    "create_date": 1597172075,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.dsdesign-shop.com"
+  ],
+  "ships_from": "LV"
+}

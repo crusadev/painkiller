@@ -1,0 +1,30 @@
+{
+  "shop": "3DPrintsByTrey",
+  "shop_url": "https://www.etsy.com/shop/3DPrintsByTrey",
+  "source": "https://www.etsy.com/shop/3DPrintsByTrey",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.720322633835824,
+    "item_quality_rating": 4.8607407227290045,
+    "customer_service_rating": 4.765453554286052,
+    "average_rating": 4.83,
+    "total_rating_count": 4055,
+    "rating_count_past_year": 4055,
+    "sold_count": 14017,
+    "active_listing_count": 486,
+    "create_date": 1590620843,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/3dprintsbytrey/",
+    "https://www.facebook.com/3dprintsbytrey"
+  ],
+  "ships_from": "US"
+}

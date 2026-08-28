@@ -1,0 +1,29 @@
+{
+  "shop": "LayerWise",
+  "shop_url": "https://www.etsy.com/shop/LayerWise",
+  "source": "https://www.etsy.com/shop/LayerWise",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.872040012769706,
+    "item_quality_rating": 4.800945375824031,
+    "customer_service_rating": 4.925307148246746,
+    "average_rating": 4.82,
+    "total_rating_count": 215,
+    "rating_count_past_year": 215,
+    "sold_count": 1280,
+    "active_listing_count": 61,
+    "create_date": 1736623171,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.layerwise.de"
+  ],
+  "ships_from": "DE"
+}

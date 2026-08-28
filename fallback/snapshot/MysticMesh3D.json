@@ -1,0 +1,27 @@
+{
+  "shop": "MysticMesh3D",
+  "shop_url": "https://www.etsy.com/shop/MysticMesh3D",
+  "source": "https://www.etsy.com/shop/MysticMesh3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.823530846970514,
+    "item_quality_rating": 4.8986664038363745,
+    "customer_service_rating": 4.850778421842915,
+    "average_rating": 4.85,
+    "total_rating_count": 2482,
+    "rating_count_past_year": 2482,
+    "sold_count": 8822,
+    "active_listing_count": 60,
+    "create_date": 1597959992,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

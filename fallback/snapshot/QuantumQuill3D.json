@@ -1,0 +1,31 @@
+{
+  "shop": "QuantumQuill3D",
+  "shop_url": "https://www.etsy.com/shop/QuantumQuill3D",
+  "source": "https://www.etsy.com/shop/QuantumQuill3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.524910929662795,
+    "item_quality_rating": 4.7215998255153595,
+    "customer_service_rating": 4.795253540664137,
+    "average_rating": 4.68,
+    "total_rating_count": 576,
+    "rating_count_past_year": 576,
+    "sold_count": 3257,
+    "active_listing_count": 1213,
+    "create_date": 1709532543,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://facebook.com/quantumquill3d",
+    "https://www.instagram.com/quantumquill3d",
+    "http://www.quantumquill3d.shop"
+  ],
+  "ships_from": "CA"
+}

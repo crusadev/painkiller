@@ -1,0 +1,32 @@
+{
+  "shop": "NoOrdinaryLeaf",
+  "shop_url": "https://www.etsy.com/shop/NoOrdinaryLeaf",
+  "source": "https://www.etsy.com/shop/NoOrdinaryLeaf",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "HR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8227346180112525,
+    "item_quality_rating": 4.896358856652241,
+    "customer_service_rating": 4.896539104349628,
+    "average_rating": 4.88,
+    "total_rating_count": 1007,
+    "rating_count_past_year": 1007,
+    "sold_count": 4549,
+    "active_listing_count": 268,
+    "create_date": 1711202818,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/noordinaryleaf/",
+    "https://www.patreon.com/c/noordinaryleaf",
+    "https://www.pinterest.com/noordinaryleaf/",
+    "https://www.noordinaryleaf.com/"
+  ],
+  "ships_from": "HR"
+}

@@ -1,0 +1,30 @@
+{
+  "shop": "3DDesignSupply",
+  "shop_url": "https://www.etsy.com/shop/3DDesignSupply",
+  "source": "https://www.etsy.com/shop/3DDesignSupply",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8479491207146745,
+    "item_quality_rating": 4.800421304707844,
+    "customer_service_rating": 4.884459888931042,
+    "average_rating": 4.77,
+    "total_rating_count": 418,
+    "rating_count_past_year": 418,
+    "sold_count": 2012,
+    "active_listing_count": 92,
+    "create_date": 1670087807,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=100088569431839",
+    "https://www.instagram.com/3d_design_supply/"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "Plastangular",
+  "shop_url": "https://www.etsy.com/shop/Plastangular",
+  "source": "https://www.etsy.com/shop/Plastangular",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.860687352842089,
+    "item_quality_rating": 4.742092245674533,
+    "customer_service_rating": 4.910971762082573,
+    "average_rating": 4.8,
+    "total_rating_count": 570,
+    "rating_count_past_year": 570,
+    "sold_count": 1881,
+    "active_listing_count": 84,
+    "create_date": 1634218685,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "TR"
+}

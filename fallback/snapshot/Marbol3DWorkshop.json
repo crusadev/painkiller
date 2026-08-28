@@ -1,0 +1,29 @@
+{
+  "shop": "Marbol3DWorkshop",
+  "shop_url": "https://www.etsy.com/shop/Marbol3DWorkshop",
+  "source": "https://www.etsy.com/shop/Marbol3DWorkshop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.920466121530851,
+    "item_quality_rating": 4.834358181867892,
+    "customer_service_rating": 4.908178478510091,
+    "average_rating": 4.87,
+    "total_rating_count": 1599,
+    "rating_count_past_year": 1599,
+    "sold_count": 5806,
+    "active_listing_count": 122,
+    "create_date": 1649002986,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=100083189306328"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,31 @@
+{
+  "shop": "st3ndstore",
+  "shop_url": "https://www.etsy.com/shop/st3ndstore",
+  "source": "https://www.etsy.com/shop/st3ndstore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "HU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.877511551728547,
+    "item_quality_rating": 4.881623442001287,
+    "customer_service_rating": 4.934444366476323,
+    "average_rating": 4.91,
+    "total_rating_count": 1681,
+    "rating_count_past_year": 1681,
+    "sold_count": 8304,
+    "active_listing_count": 1264,
+    "create_date": 1654043559,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/st3nd",
+    "https://www.instagram.com/3d_st3nd/",
+    "http://st3nd.com"
+  ],
+  "ships_from": "HU"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "DroidWorksStudios",
+  "shop_url": "https://www.etsy.com/shop/DroidWorksStudios",
+  "source": "https://www.etsy.com/shop/DroidWorksStudios",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.822340710364361,
+    "item_quality_rating": 4.903042300103621,
+    "customer_service_rating": 4.863390537763446,
+    "average_rating": 4.86,
+    "total_rating_count": 107,
+    "rating_count_past_year": 107,
+    "sold_count": 386,
+    "active_listing_count": 0,
+    "create_date": 1736526787,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "CA"
+}

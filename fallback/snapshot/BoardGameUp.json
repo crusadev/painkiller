@@ -1,0 +1,29 @@
+{
+  "shop": "BoardGameUp",
+  "shop_url": "https://www.etsy.com/shop/BoardGameUp",
+  "source": "https://www.etsy.com/shop/BoardGameUp",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.89665829836088,
+    "item_quality_rating": 4.907026528127928,
+    "customer_service_rating": 4.96171540320784,
+    "average_rating": 4.91,
+    "total_rating_count": 838,
+    "rating_count_past_year": 838,
+    "sold_count": 3812,
+    "active_listing_count": 135,
+    "create_date": 1688437314,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://boardgameup.com/"
+  ],
+  "ships_from": "CA"
+}

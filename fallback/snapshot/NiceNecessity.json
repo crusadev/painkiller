@@ -1,0 +1,27 @@
+{
+  "shop": "NiceNecessity",
+  "shop_url": "https://www.etsy.com/shop/NiceNecessity",
+  "source": "https://www.etsy.com/shop/NiceNecessity",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.755028213925147,
+    "item_quality_rating": 4.821769933628721,
+    "customer_service_rating": 4.907921224452472,
+    "average_rating": 4.82,
+    "total_rating_count": 257,
+    "rating_count_past_year": 257,
+    "sold_count": 1736,
+    "active_listing_count": 85,
+    "create_date": 1691692501,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

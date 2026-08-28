@@ -1,0 +1,27 @@
+{
+  "shop": "zombyte",
+  "shop_url": "https://www.etsy.com/shop/zombyte",
+  "source": "https://www.etsy.com/shop/zombyte",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.956651690128552,
+    "item_quality_rating": 4.984705716039284,
+    "customer_service_rating": 4.9723459269325,
+    "average_rating": 4.98,
+    "total_rating_count": 1704,
+    "rating_count_past_year": 1704,
+    "sold_count": 5114,
+    "active_listing_count": 122,
+    "create_date": 1534358282,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

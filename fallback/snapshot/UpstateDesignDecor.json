@@ -1,0 +1,27 @@
+{
+  "shop": "UpstateDesignDecor",
+  "shop_url": "https://www.etsy.com/shop/UpstateDesignDecor",
+  "source": "https://www.etsy.com/shop/UpstateDesignDecor",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.863174514936073,
+    "item_quality_rating": 4.927412003510433,
+    "customer_service_rating": 4.995937472781096,
+    "average_rating": 4.91,
+    "total_rating_count": 475,
+    "rating_count_past_year": 475,
+    "sold_count": 1829,
+    "active_listing_count": 270,
+    "create_date": 1667147605,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

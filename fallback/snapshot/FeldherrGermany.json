@@ -1,0 +1,32 @@
+{
+  "shop": "FeldherrGermany",
+  "shop_url": "https://www.etsy.com/shop/FeldherrGermany",
+  "source": "https://www.etsy.com/shop/FeldherrGermany",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.854579479350433,
+    "item_quality_rating": 4.885475435157688,
+    "customer_service_rating": 4.885428179490339,
+    "average_rating": 4.85,
+    "total_rating_count": 1990,
+    "rating_count_past_year": 1990,
+    "sold_count": 6666,
+    "active_listing_count": 1238,
+    "create_date": 1581589119,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.feldherr.net",
+    "https://www.facebook.com/Feldherr.net/",
+    "https://www.instagram.com/feldherr_net/",
+    "https://twitter.com/feldherr"
+  ],
+  "ships_from": "DE"
+}

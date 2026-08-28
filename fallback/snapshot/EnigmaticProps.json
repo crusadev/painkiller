@@ -1,0 +1,27 @@
+{
+  "shop": "EnigmaticProps",
+  "shop_url": "https://www.etsy.com/shop/EnigmaticProps",
+  "source": "https://www.etsy.com/shop/EnigmaticProps",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.651280032585701,
+    "item_quality_rating": 4.785657413007188,
+    "customer_service_rating": 4.767980595427812,
+    "average_rating": 4.79,
+    "total_rating_count": 457,
+    "rating_count_past_year": 457,
+    "sold_count": 1983,
+    "active_listing_count": 19,
+    "create_date": 1666963976,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

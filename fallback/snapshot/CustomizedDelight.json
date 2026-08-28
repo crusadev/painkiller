@@ -1,0 +1,27 @@
+{
+  "shop": "CustomizedDelight",
+  "shop_url": "https://www.etsy.com/shop/CustomizedDelight",
+  "source": "https://www.etsy.com/shop/CustomizedDelight",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.990287681700384,
+    "item_quality_rating": 4.978388436620501,
+    "customer_service_rating": 5,
+    "average_rating": 4.96,
+    "total_rating_count": 408,
+    "rating_count_past_year": 408,
+    "sold_count": 2017,
+    "active_listing_count": 39,
+    "create_date": 1674586375,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

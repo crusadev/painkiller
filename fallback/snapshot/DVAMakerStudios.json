@@ -1,0 +1,31 @@
+{
+  "shop": "DVAMakerStudios",
+  "shop_url": "https://www.etsy.com/shop/DVAMakerStudios",
+  "source": "https://www.etsy.com/shop/DVAMakerStudios",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.750550861733438,
+    "item_quality_rating": 4.906721596017806,
+    "customer_service_rating": 4.90874887052972,
+    "average_rating": 4.91,
+    "total_rating_count": 2139,
+    "rating_count_past_year": 2139,
+    "sold_count": 7703,
+    "active_listing_count": 13,
+    "create_date": 1525679303,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.dvamakerstudios.com",
+    "http://facebook.com/dvamakerstudios",
+    "http://twitter.com/dvamakerstudios"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,31 @@
+{
+  "shop": "KnyteTechnologies",
+  "shop_url": "https://www.etsy.com/shop/KnyteTechnologies",
+  "source": "https://www.etsy.com/shop/KnyteTechnologies",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.843891824670319,
+    "item_quality_rating": 4.940900312356037,
+    "customer_service_rating": 4.81386177974441,
+    "average_rating": 4.94,
+    "total_rating_count": 446,
+    "rating_count_past_year": 446,
+    "sold_count": 2032,
+    "active_listing_count": 31,
+    "create_date": 1347462273,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.facebook.com/KnyteTech",
+    "https://twitter.com/KnyteTech",
+    "http://www.knytetech.com"
+  ],
+  "ships_from": "US"
+}

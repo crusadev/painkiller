@@ -1,0 +1,30 @@
+{
+  "shop": "WildAssPrints",
+  "shop_url": "https://www.etsy.com/shop/WildAssPrints",
+  "source": "https://www.etsy.com/shop/WildAssPrints",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.946168762306991,
+    "item_quality_rating": 4.8794607441257645,
+    "customer_service_rating": 4.852965312906881,
+    "average_rating": 4.85,
+    "total_rating_count": 428,
+    "rating_count_past_year": 428,
+    "sold_count": 1695,
+    "active_listing_count": 0,
+    "create_date": 1730083869,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://wildasqsprints.com",
+    "https://www.pinterest.com/wildassprints"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,31 @@
+{
+  "shop": "KC3DPrintsUK",
+  "shop_url": "https://www.etsy.com/shop/KC3DPrintsUK",
+  "source": "https://www.etsy.com/shop/KC3DPrintsUK",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.726523581027013,
+    "item_quality_rating": 4.861016088101589,
+    "customer_service_rating": 4.862759299706294,
+    "average_rating": 4.82,
+    "total_rating_count": 222,
+    "rating_count_past_year": 222,
+    "sold_count": 1038,
+    "active_listing_count": 64,
+    "create_date": 1693064177,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/kc.3d.prints",
+    "http://www.kc3dprints.com",
+    "https://www.instagram.com/kc.3d.prints/"
+  ],
+  "ships_from": "GB"
+}

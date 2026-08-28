@@ -1,0 +1,27 @@
+{
+  "shop": "StageTop",
+  "shop_url": "https://www.etsy.com/shop/StageTop",
+  "source": "https://www.etsy.com/shop/StageTop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.5817701544658345,
+    "item_quality_rating": 4.582772666572057,
+    "customer_service_rating": 4.602826282568609,
+    "average_rating": 4.54,
+    "total_rating_count": 694,
+    "rating_count_past_year": 694,
+    "sold_count": 6537,
+    "active_listing_count": 571,
+    "create_date": 1675646197,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

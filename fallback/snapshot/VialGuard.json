@@ -1,0 +1,29 @@
+{
+  "shop": "VialGuard",
+  "shop_url": "https://www.etsy.com/shop/VialGuard",
+  "source": "https://www.etsy.com/shop/VialGuard",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.891492084555995,
+    "item_quality_rating": 4.878267629290154,
+    "customer_service_rating": 4.84437800915907,
+    "average_rating": 4.85,
+    "total_rating_count": 520,
+    "rating_count_past_year": 520,
+    "sold_count": 2444,
+    "active_listing_count": 0,
+    "create_date": 1589222703,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://vialcase.com"
+  ],
+  "ships_from": "US"
+}

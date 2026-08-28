@@ -1,0 +1,30 @@
+{
+  "shop": "PoconoPrinting",
+  "shop_url": "https://www.etsy.com/shop/PoconoPrinting",
+  "source": "https://www.etsy.com/shop/PoconoPrinting",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.940715988168412,
+    "item_quality_rating": 4.885881700005099,
+    "customer_service_rating": 4.9258206437525205,
+    "average_rating": 4.88,
+    "total_rating_count": 2573,
+    "rating_count_past_year": 2573,
+    "sold_count": 9453,
+    "active_listing_count": 267,
+    "create_date": 1642476178,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.pinterest.com/PoconoPrinting3D/",
+    "https://www.facebook.com/poconoprinting"
+  ],
+  "ships_from": "US"
+}

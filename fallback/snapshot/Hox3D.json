@@ -1,0 +1,31 @@
+{
+  "shop": "Hox3D",
+  "shop_url": "https://www.etsy.com/shop/Hox3D",
+  "source": "https://www.etsy.com/shop/Hox3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9305872428107325,
+    "item_quality_rating": 4.9426051972560225,
+    "customer_service_rating": 4.957037875851225,
+    "average_rating": 4.92,
+    "total_rating_count": 3027,
+    "rating_count_past_year": 3027,
+    "sold_count": 13828,
+    "active_listing_count": 208,
+    "create_date": 1622098147,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://www.hox3d.com",
+    "https://www.facebook.com/people/HOX3D/100089344783819/",
+    "https://www.instagram.com/hox_3d/"
+  ],
+  "ships_from": "US"
+}

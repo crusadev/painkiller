@@ -1,0 +1,27 @@
+{
+  "shop": "CryptidsAndClover",
+  "shop_url": "https://www.etsy.com/shop/CryptidsAndClover",
+  "source": "https://www.etsy.com/shop/CryptidsAndClover",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.874195739155687,
+    "item_quality_rating": 4.945940507841937,
+    "customer_service_rating": 4.976809942945994,
+    "average_rating": 4.94,
+    "total_rating_count": 429,
+    "rating_count_past_year": 429,
+    "sold_count": 1682,
+    "active_listing_count": 55,
+    "create_date": 1716010386,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

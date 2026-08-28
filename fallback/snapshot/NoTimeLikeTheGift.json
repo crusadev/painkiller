@@ -1,0 +1,32 @@
+{
+  "shop": "NoTimeLikeTheGift",
+  "shop_url": "https://www.etsy.com/shop/NoTimeLikeTheGift",
+  "source": "https://www.etsy.com/shop/NoTimeLikeTheGift",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.923603173795719,
+    "item_quality_rating": 4.889322542954957,
+    "customer_service_rating": 4.967239707330888,
+    "average_rating": 4.9,
+    "total_rating_count": 10065,
+    "rating_count_past_year": 10065,
+    "sold_count": 55677,
+    "active_listing_count": 65,
+    "create_date": 1547398262,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://facebook.com/notimelikethegift",
+    "http://instagram.com/robcauson",
+    "http://pinterest.com/robcauson3",
+    "http://www.notimelikethegift.com"
+  ],
+  "ships_from": "GB"
+}

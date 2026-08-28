@@ -1,0 +1,33 @@
+{
+  "shop": "LineArtByCharles",
+  "shop_url": "https://www.etsy.com/shop/LineArtByCharles",
+  "source": "https://www.etsy.com/shop/LineArtByCharles",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.966875195157588,
+    "item_quality_rating": 4.82541855685611,
+    "customer_service_rating": 5,
+    "average_rating": 4.87,
+    "total_rating_count": 216,
+    "rating_count_past_year": 216,
+    "sold_count": 930,
+    "active_listing_count": 44,
+    "create_date": 1753059578,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://lineartbycharles.com",
+    "https://lineartbycharles.com/blog/",
+    "https://instagram.com/lineartbycharles",
+    "https://www.facebook.com/lineartbycharles",
+    "https://www.pinterest.com/lineartbycharles"
+  ],
+  "ships_from": "US"
+}

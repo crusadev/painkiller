@@ -1,0 +1,27 @@
+{
+  "shop": "GGArthouseStudio",
+  "shop_url": "https://www.etsy.com/shop/GGArthouseStudio",
+  "source": "https://www.etsy.com/shop/GGArthouseStudio",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.898055911289346,
+    "item_quality_rating": 4.731464768272819,
+    "customer_service_rating": 4.930355848101092,
+    "average_rating": 4.8,
+    "total_rating_count": 287,
+    "rating_count_past_year": 287,
+    "sold_count": 1878,
+    "active_listing_count": 232,
+    "create_date": 1673924592,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

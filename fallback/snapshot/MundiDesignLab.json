@@ -1,0 +1,30 @@
+{
+  "shop": "MundiDesignLab",
+  "shop_url": "https://www.etsy.com/shop/MundiDesignLab",
+  "source": "https://www.etsy.com/shop/MundiDesignLab",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "LV",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8003536164550225,
+    "item_quality_rating": 4.7851827844673025,
+    "customer_service_rating": 4.7982694762667,
+    "average_rating": 4.8,
+    "total_rating_count": 599,
+    "rating_count_past_year": 599,
+    "sold_count": 3060,
+    "active_listing_count": 43,
+    "create_date": 1588170686,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/mundi.design.lab",
+    "https://www.instagram.com/mundi.bespoke"
+  ],
+  "ships_from": "LV"
+}

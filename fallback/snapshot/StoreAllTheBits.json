@@ -1,0 +1,30 @@
+{
+  "shop": "StoreAllTheBits",
+  "shop_url": "https://www.etsy.com/shop/StoreAllTheBits",
+  "source": "https://www.etsy.com/shop/StoreAllTheBits",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.960432330298543,
+    "item_quality_rating": 4.937690958286852,
+    "customer_service_rating": 5,
+    "average_rating": 4.94,
+    "total_rating_count": 464,
+    "rating_count_past_year": 464,
+    "sold_count": 1713,
+    "active_listing_count": 43,
+    "create_date": 1515606626,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.storeallthebits.com/site/",
+    "https://www.instagram.com/storeallthebits/?hl=en"
+  ],
+  "ships_from": "US"
+}

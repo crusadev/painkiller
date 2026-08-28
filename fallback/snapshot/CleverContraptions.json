@@ -1,0 +1,32 @@
+{
+  "shop": "CleverContraptions",
+  "shop_url": "https://www.etsy.com/shop/CleverContraptions",
+  "source": "https://www.etsy.com/shop/CleverContraptions",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.91526398732799,
+    "item_quality_rating": 4.798788906411528,
+    "customer_service_rating": 4.925524324445172,
+    "average_rating": 4.83,
+    "total_rating_count": 17779,
+    "rating_count_past_year": 17779,
+    "sold_count": 61625,
+    "active_listing_count": 758,
+    "create_date": 1597447917,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.pinterest.com/3phase/form-function/",
+    "https://www.instagram.com/form_nfunction/",
+    "https://www.facebook.com/CleverContraptions2",
+    "http://clevercontraption@gmail.com"
+  ],
+  "ships_from": "US"
+}

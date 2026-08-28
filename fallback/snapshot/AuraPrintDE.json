@@ -1,0 +1,26 @@
+{
+  "shop": "AuraPrintDE",
+  "shop_url": "https://www.etsy.com/shop/AuraPrintDE",
+  "source": "https://www.etsy.com/shop/AuraPrintDE",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.815245692520311,
+    "item_quality_rating": 4.78635368513735,
+    "customer_service_rating": 4.928752301657851,
+    "average_rating": 4.84,
+    "total_rating_count": 342,
+    "rating_count_past_year": 342,
+    "sold_count": 4028,
+    "active_listing_count": 116,
+    "create_date": 1706701998,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

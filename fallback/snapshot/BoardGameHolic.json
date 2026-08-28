@@ -1,0 +1,30 @@
+{
+  "shop": "BoardGameHolic",
+  "shop_url": "https://www.etsy.com/shop/BoardGameHolic",
+  "source": "https://www.etsy.com/shop/BoardGameHolic",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CZ",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.926615274789766,
+    "item_quality_rating": 4.920077637965718,
+    "customer_service_rating": 4.980059246339857,
+    "average_rating": 4.94,
+    "total_rating_count": 839,
+    "rating_count_past_year": 839,
+    "sold_count": 2733,
+    "active_listing_count": 127,
+    "create_date": 1615597465,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/mitroczech/",
+    "https://www.facebook.com/mitroczech/"
+  ],
+  "ships_from": "CZ"
+}

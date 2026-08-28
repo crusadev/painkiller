@@ -1,0 +1,30 @@
+{
+  "shop": "NovoLabz",
+  "shop_url": "https://www.etsy.com/shop/NovoLabz",
+  "source": "https://www.etsy.com/shop/NovoLabz",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.924305638826892,
+    "item_quality_rating": 4.9487589096437645,
+    "customer_service_rating": 4.985840915646942,
+    "average_rating": 4.94,
+    "total_rating_count": 398,
+    "rating_count_past_year": 398,
+    "sold_count": 2488,
+    "active_listing_count": 0,
+    "create_date": 1520005489,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.NovoLabz.com",
+    "https://www.instagram.com/novolabz/"
+  ],
+  "ships_from": "US"
+}

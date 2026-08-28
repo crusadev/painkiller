@@ -1,0 +1,27 @@
+{
+  "shop": "TheCutterfly",
+  "shop_url": "https://www.etsy.com/shop/TheCutterfly",
+  "source": "https://www.etsy.com/shop/TheCutterfly",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.882771628486476,
+    "item_quality_rating": 4.926209875113478,
+    "customer_service_rating": 4.883767912577191,
+    "average_rating": 4.87,
+    "total_rating_count": 606,
+    "rating_count_past_year": 606,
+    "sold_count": 3230,
+    "active_listing_count": 324,
+    "create_date": 1676407908,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

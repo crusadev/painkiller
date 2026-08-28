@@ -1,0 +1,29 @@
+{
+  "shop": "SesameSeedPrints",
+  "shop_url": "https://www.etsy.com/shop/SesameSeedPrints",
+  "source": "https://www.etsy.com/shop/SesameSeedPrints",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.928386639587396,
+    "item_quality_rating": 4.961849642202906,
+    "customer_service_rating": 4.968647503161049,
+    "average_rating": 4.95,
+    "total_rating_count": 334,
+    "rating_count_past_year": 334,
+    "sold_count": 1184,
+    "active_listing_count": 227,
+    "create_date": 1695439829,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/sesame_seed_prints/"
+  ],
+  "ships_from": "US"
+}

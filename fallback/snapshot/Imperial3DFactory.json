@@ -1,0 +1,27 @@
+{
+  "shop": "Imperial3DFactory",
+  "shop_url": "https://www.etsy.com/shop/Imperial3DFactory",
+  "source": "https://www.etsy.com/shop/Imperial3DFactory",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9065042951989914,
+    "item_quality_rating": 4.929994651523307,
+    "customer_service_rating": 4.944634820732532,
+    "average_rating": 4.91,
+    "total_rating_count": 1497,
+    "rating_count_past_year": 1497,
+    "sold_count": 9425,
+    "active_listing_count": 122,
+    "create_date": 1698344803,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

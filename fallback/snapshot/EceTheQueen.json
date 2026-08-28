@@ -1,0 +1,27 @@
+{
+  "shop": "EceTheQueen",
+  "shop_url": "https://www.etsy.com/shop/EceTheQueen",
+  "source": "https://www.etsy.com/shop/EceTheQueen",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.867283908207533,
+    "item_quality_rating": 4.858942756695077,
+    "customer_service_rating": 4.890325551727638,
+    "average_rating": 4.86,
+    "total_rating_count": 615,
+    "rating_count_past_year": 615,
+    "sold_count": 2367,
+    "active_listing_count": 25,
+    "create_date": 1733437512,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "TR"
+}

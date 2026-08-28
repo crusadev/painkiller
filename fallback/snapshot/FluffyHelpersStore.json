@@ -1,0 +1,27 @@
+{
+  "shop": "FluffyHelpersStore",
+  "shop_url": "https://www.etsy.com/shop/FluffyHelpersStore",
+  "source": "https://www.etsy.com/shop/FluffyHelpersStore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.677807180107043,
+    "item_quality_rating": 4.829472609231289,
+    "customer_service_rating": 4.842001147419874,
+    "average_rating": 4.84,
+    "total_rating_count": 390,
+    "rating_count_past_year": 390,
+    "sold_count": 3319,
+    "active_listing_count": 95,
+    "create_date": 1703271376,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "PL"
+}

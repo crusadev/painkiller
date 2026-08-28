@@ -1,0 +1,29 @@
+{
+  "shop": "TrophyBit",
+  "shop_url": "https://www.etsy.com/shop/TrophyBit",
+  "source": "https://www.etsy.com/shop/TrophyBit",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.950209299262263,
+    "item_quality_rating": 4.960072922273153,
+    "customer_service_rating": 4.977592365876835,
+    "average_rating": 4.97,
+    "total_rating_count": 2133,
+    "rating_count_past_year": 2133,
+    "sold_count": 8635,
+    "active_listing_count": 28,
+    "create_date": 1441762433,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/TrophyBit"
+  ],
+  "ships_from": "US"
+}

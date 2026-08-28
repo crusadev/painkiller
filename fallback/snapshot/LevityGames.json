@@ -1,0 +1,27 @@
+{
+  "shop": "LevityGames",
+  "shop_url": "https://www.etsy.com/shop/LevityGames",
+  "source": "https://www.etsy.com/shop/LevityGames",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.915510422263833,
+    "item_quality_rating": 4.92043285692175,
+    "customer_service_rating": 4.958896734335569,
+    "average_rating": 4.93,
+    "total_rating_count": 9637,
+    "rating_count_past_year": 9637,
+    "sold_count": 34504,
+    "active_listing_count": 104,
+    "create_date": 1621123845,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

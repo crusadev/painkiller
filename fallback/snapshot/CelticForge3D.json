@@ -1,0 +1,29 @@
+{
+  "shop": "CelticForge3D",
+  "shop_url": "https://www.etsy.com/shop/CelticForge3D",
+  "source": "https://www.etsy.com/shop/CelticForge3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.935225349843916,
+    "item_quality_rating": 4.905791299902317,
+    "customer_service_rating": 4.963662705318773,
+    "average_rating": 4.91,
+    "total_rating_count": 1898,
+    "rating_count_past_year": 1898,
+    "sold_count": 9045,
+    "active_listing_count": 86,
+    "create_date": 1523148392,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.tiktok.com/@biminey?is_from_webapp=1&sender_device=pc"
+  ],
+  "ships_from": "US"
+}

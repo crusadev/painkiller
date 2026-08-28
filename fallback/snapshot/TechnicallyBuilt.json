@@ -1,0 +1,30 @@
+{
+  "shop": "TechnicallyBuilt",
+  "shop_url": "https://www.etsy.com/shop/TechnicallyBuilt",
+  "source": "https://www.etsy.com/shop/TechnicallyBuilt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.955022009211993,
+    "item_quality_rating": 4.951046680462655,
+    "customer_service_rating": 4.9649958203637095,
+    "average_rating": 4.95,
+    "total_rating_count": 1673,
+    "rating_count_past_year": 1673,
+    "sold_count": 11150,
+    "active_listing_count": 133,
+    "create_date": 1604001449,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://technicallybuilt.com/",
+    "https://www.instagram.com/technically_built/?hl=en"
+  ],
+  "ships_from": "US"
+}

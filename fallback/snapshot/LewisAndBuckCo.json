@@ -1,0 +1,29 @@
+{
+  "shop": "LewisAndBuckCo",
+  "shop_url": "https://www.etsy.com/shop/LewisAndBuckCo",
+  "source": "https://www.etsy.com/shop/LewisAndBuckCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8612776473962604,
+    "item_quality_rating": 4.872904828150489,
+    "customer_service_rating": 4.946062460440892,
+    "average_rating": 4.89,
+    "total_rating_count": 457,
+    "rating_count_past_year": 457,
+    "sold_count": 1765,
+    "active_listing_count": 22,
+    "create_date": 1606759340,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/lewisandbuck?igsh=MXI0OXQwcnc5M2Uwdg%3D%3D&utm_source=qr"
+  ],
+  "ships_from": "US"
+}

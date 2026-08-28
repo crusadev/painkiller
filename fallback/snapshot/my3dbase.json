@@ -1,0 +1,32 @@
+{
+  "shop": "my3dbase",
+  "shop_url": "https://www.etsy.com/shop/my3dbase",
+  "source": "https://www.etsy.com/shop/my3dbase",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.909943563738631,
+    "item_quality_rating": 4.811289408784604,
+    "customer_service_rating": 4.86243183568163,
+    "average_rating": 4.82,
+    "total_rating_count": 5528,
+    "rating_count_past_year": 5528,
+    "sold_count": 36457,
+    "active_listing_count": 1482,
+    "create_date": 1471070818,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://facebook.com/my3dbase",
+    "http://instagram.com/my3dbase",
+    "http://instagram.com/cookies_my3d",
+    "http://instagram.com/my3dbase_skulls"
+  ],
+  "ships_from": "DE"
+}

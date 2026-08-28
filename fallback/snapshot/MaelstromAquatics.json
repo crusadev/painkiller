@@ -1,0 +1,27 @@
+{
+  "shop": "MaelstromAquatics",
+  "shop_url": "https://www.etsy.com/shop/MaelstromAquatics",
+  "source": "https://www.etsy.com/shop/MaelstromAquatics",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.957646158958717,
+    "item_quality_rating": 4.9873675256659835,
+    "customer_service_rating": 4.990670278201695,
+    "average_rating": 4.97,
+    "total_rating_count": 534,
+    "rating_count_past_year": 534,
+    "sold_count": 2216,
+    "active_listing_count": 14,
+    "create_date": 1615128752,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

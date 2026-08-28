@@ -1,0 +1,30 @@
+{
+  "shop": "TaylorJaneDesignCo",
+  "shop_url": "https://www.etsy.com/shop/TaylorJaneDesignCo",
+  "source": "https://www.etsy.com/shop/TaylorJaneDesignCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.983665297300479,
+    "item_quality_rating": 4.955913016931109,
+    "customer_service_rating": 4.9862227739020435,
+    "average_rating": 4.96,
+    "total_rating_count": 1158,
+    "rating_count_past_year": 1158,
+    "sold_count": 3598,
+    "active_listing_count": 103,
+    "create_date": 1651508901,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.printables.com/social/325469-tjdesign/models",
+    "https://www.instagram.com/taylorjanedesignco"
+  ],
+  "ships_from": "US"
+}

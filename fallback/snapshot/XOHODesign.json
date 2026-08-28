@@ -1,0 +1,30 @@
+{
+  "shop": "XOHODesign",
+  "shop_url": "https://www.etsy.com/shop/XOHODesign",
+  "source": "https://www.etsy.com/shop/XOHODesign",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "AU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.890547257128918,
+    "item_quality_rating": 4.912833575297113,
+    "customer_service_rating": 4.9496774010106215,
+    "average_rating": 4.92,
+    "total_rating_count": 388,
+    "rating_count_past_year": 388,
+    "sold_count": 1939,
+    "active_listing_count": 73,
+    "create_date": 1690525055,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/xohodesign/",
+    "https://www.instagram.com/xohodesign/"
+  ],
+  "ships_from": "AU"
+}

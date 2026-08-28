@@ -1,0 +1,27 @@
+{
+  "shop": "TopoCoArt",
+  "shop_url": "https://www.etsy.com/shop/TopoCoArt",
+  "source": "https://www.etsy.com/shop/TopoCoArt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.886916195804059,
+    "item_quality_rating": 4.832247413915529,
+    "customer_service_rating": 4.920126735440017,
+    "average_rating": 4.8,
+    "total_rating_count": 1314,
+    "rating_count_past_year": 1314,
+    "sold_count": 6466,
+    "active_listing_count": 66,
+    "create_date": 1676402300,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

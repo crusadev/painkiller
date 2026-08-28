@@ -1,0 +1,27 @@
+{
+  "shop": "WheelerCC",
+  "shop_url": "https://www.etsy.com/shop/WheelerCC",
+  "source": "https://www.etsy.com/shop/WheelerCC",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.703559266215976,
+    "item_quality_rating": 4.855536764805076,
+    "customer_service_rating": 4.759782316330834,
+    "average_rating": 4.84,
+    "total_rating_count": 651,
+    "rating_count_past_year": 651,
+    "sold_count": 3759,
+    "active_listing_count": 4,
+    "create_date": 1586534881,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

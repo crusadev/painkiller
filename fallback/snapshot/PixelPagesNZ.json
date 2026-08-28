@@ -1,0 +1,30 @@
+{
+  "shop": "PixelPagesNZ",
+  "shop_url": "https://www.etsy.com/shop/PixelPagesNZ",
+  "source": "https://www.etsy.com/shop/PixelPagesNZ",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NZ",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.870961821990498,
+    "item_quality_rating": 4.96763348975817,
+    "customer_service_rating": 4.925332023028584,
+    "average_rating": 4.89,
+    "total_rating_count": 492,
+    "rating_count_past_year": 492,
+    "sold_count": 2550,
+    "active_listing_count": 105,
+    "create_date": 1732657474,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/PixelPagesNZ/",
+    "https://www.pixelpages.co.nz/"
+  ],
+  "ships_from": "NZ"
+}

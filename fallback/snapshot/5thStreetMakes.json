@@ -1,0 +1,27 @@
+{
+  "shop": "5thStreetMakes",
+  "shop_url": "https://www.etsy.com/shop/5thStreetMakes",
+  "source": "https://www.etsy.com/shop/5thStreetMakes",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.814784288631206,
+    "item_quality_rating": 4.858151202749242,
+    "customer_service_rating": 4.93844065837672,
+    "average_rating": 4.85,
+    "total_rating_count": 462,
+    "rating_count_past_year": 462,
+    "sold_count": 1819,
+    "active_listing_count": 38,
+    "create_date": 1629385061,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

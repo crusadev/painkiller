@@ -1,0 +1,30 @@
+{
+  "shop": "TECTLE",
+  "shop_url": "https://www.etsy.com/shop/TECTLE",
+  "source": "https://www.etsy.com/shop/TECTLE",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.776817545599626,
+    "item_quality_rating": 4.761480731664131,
+    "customer_service_rating": 4.793143526890043,
+    "average_rating": 4.76,
+    "total_rating_count": 2364,
+    "rating_count_past_year": 2364,
+    "sold_count": 11162,
+    "active_listing_count": 0,
+    "create_date": 1575938527,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://tectle.com",
+    "https://www.instagram.com/tectle_com/?hl=en"
+  ],
+  "ships_from": "CA"
+}

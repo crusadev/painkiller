@@ -1,0 +1,27 @@
+{
+  "shop": "VerticalMiraclesCo",
+  "shop_url": "https://www.etsy.com/shop/VerticalMiraclesCo",
+  "source": "https://www.etsy.com/shop/VerticalMiraclesCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "AU",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.906175438751218,
+    "item_quality_rating": 4.853865295618143,
+    "customer_service_rating": 4.981850234179858,
+    "average_rating": 4.79,
+    "total_rating_count": 95,
+    "rating_count_past_year": 95,
+    "sold_count": 429,
+    "active_listing_count": 0,
+    "create_date": 1674260389,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "AU"
+}

@@ -1,0 +1,30 @@
+{
+  "shop": "3DBitsNBobsCo",
+  "shop_url": "https://www.etsy.com/shop/3DBitsNBobsCo",
+  "source": "https://www.etsy.com/shop/3DBitsNBobsCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.874243780160199,
+    "item_quality_rating": 4.949684751687072,
+    "customer_service_rating": 4.958983080820922,
+    "average_rating": 4.98,
+    "total_rating_count": 306,
+    "rating_count_past_year": 306,
+    "sold_count": 1264,
+    "active_listing_count": 50,
+    "create_date": 1689441920,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/3dbitsnbobs/",
+    "https://www.tiktok.com/@3dbitsandbobsco"
+  ],
+  "ships_from": "GB"
+}

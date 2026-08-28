@@ -1,0 +1,27 @@
+{
+  "shop": "JASFDesign",
+  "shop_url": "https://www.etsy.com/shop/JASFDesign",
+  "source": "https://www.etsy.com/shop/JASFDesign",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.933874102711852,
+    "item_quality_rating": 4.9349107415071005,
+    "customer_service_rating": 4.971264175868912,
+    "average_rating": 4.94,
+    "total_rating_count": 2108,
+    "rating_count_past_year": 2108,
+    "sold_count": 14322,
+    "active_listing_count": 108,
+    "create_date": 1578055503,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

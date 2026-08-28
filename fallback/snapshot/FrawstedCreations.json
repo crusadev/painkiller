@@ -1,0 +1,30 @@
+{
+  "shop": "FrawstedCreations",
+  "shop_url": "https://www.etsy.com/shop/FrawstedCreations",
+  "source": "https://www.etsy.com/shop/FrawstedCreations",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.941982602419331,
+    "item_quality_rating": 4.866717393728271,
+    "customer_service_rating": 4.874380254376805,
+    "average_rating": 4.87,
+    "total_rating_count": 2891,
+    "rating_count_past_year": 2891,
+    "sold_count": 15974,
+    "active_listing_count": 133,
+    "create_date": 1647485691,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/FrawstedCreations",
+    "https://www.instagram.com/FrawstedCreations/"
+  ],
+  "ships_from": "US"
+}

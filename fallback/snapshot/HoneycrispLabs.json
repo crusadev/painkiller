@@ -1,0 +1,27 @@
+{
+  "shop": "HoneycrispLabs",
+  "shop_url": "https://www.etsy.com/shop/HoneycrispLabs",
+  "source": "https://www.etsy.com/shop/HoneycrispLabs",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.947644004957425,
+    "item_quality_rating": 4.914532761059506,
+    "customer_service_rating": 4.942597195056041,
+    "average_rating": 4.93,
+    "total_rating_count": 755,
+    "rating_count_past_year": 755,
+    "sold_count": 4938,
+    "active_listing_count": 0,
+    "create_date": 1716083261,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

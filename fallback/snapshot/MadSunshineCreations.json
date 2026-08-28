@@ -1,0 +1,30 @@
+{
+  "shop": "MadSunshineCreations",
+  "shop_url": "https://www.etsy.com/shop/MadSunshineCreations",
+  "source": "https://www.etsy.com/shop/MadSunshineCreations",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.957999674693907,
+    "item_quality_rating": 4.971691041110925,
+    "customer_service_rating": 4.990010367037111,
+    "average_rating": 4.97,
+    "total_rating_count": 3230,
+    "rating_count_past_year": 3230,
+    "sold_count": 10343,
+    "active_listing_count": 40,
+    "create_date": 1495475785,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://youtu.be/QMlSR0UFNVY",
+    "https://www.thingiverse.com/search?q=Mark579&dwh=15b7a1d00281e0"
+  ],
+  "ships_from": "US"
+}

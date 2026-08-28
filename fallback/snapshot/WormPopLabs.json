@@ -1,0 +1,31 @@
+{
+  "shop": "WormPopLabs",
+  "shop_url": "https://www.etsy.com/shop/WormPopLabs",
+  "source": "https://www.etsy.com/shop/WormPopLabs",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.823992260507225,
+    "item_quality_rating": 4.753189111862859,
+    "customer_service_rating": 4.900831180459839,
+    "average_rating": 4.79,
+    "total_rating_count": 577,
+    "rating_count_past_year": 577,
+    "sold_count": 4569,
+    "active_listing_count": 151,
+    "create_date": 1658168468,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.WormPopLabs.com",
+    "https://www.facebook.com/profile.php?id=100089320445194",
+    "https://www.pinterest.ca/WormPopLabs"
+  ],
+  "ships_from": "CA"
+}

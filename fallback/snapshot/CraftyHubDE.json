@@ -1,0 +1,30 @@
+{
+  "shop": "CraftyHubDE",
+  "shop_url": "https://www.etsy.com/shop/CraftyHubDE",
+  "source": "https://www.etsy.com/shop/CraftyHubDE",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.975535157667744,
+    "item_quality_rating": 4.822099110002495,
+    "customer_service_rating": 4.974529177397955,
+    "average_rating": 4.82,
+    "total_rating_count": 412,
+    "rating_count_past_year": 412,
+    "sold_count": 2759,
+    "active_listing_count": 97,
+    "create_date": 1692609335,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/craftyhubde/",
+    "https://www.pinterest.de/craftyhubde/"
+  ],
+  "ships_from": "DE"
+}

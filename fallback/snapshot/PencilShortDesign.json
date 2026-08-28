@@ -1,0 +1,27 @@
+{
+  "shop": "PencilShortDesign",
+  "shop_url": "https://www.etsy.com/shop/PencilShortDesign",
+  "source": "https://www.etsy.com/shop/PencilShortDesign",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.951594190751833,
+    "item_quality_rating": 4.963342553496645,
+    "customer_service_rating": 4.989850442506882,
+    "average_rating": 4.97,
+    "total_rating_count": 515,
+    "rating_count_past_year": 515,
+    "sold_count": 1485,
+    "active_listing_count": 149,
+    "create_date": 1687346854,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

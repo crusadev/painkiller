@@ -1,0 +1,27 @@
+{
+  "shop": "PrintlyChic",
+  "shop_url": "https://www.etsy.com/shop/PrintlyChic",
+  "source": "https://www.etsy.com/shop/PrintlyChic",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.938752367283496,
+    "item_quality_rating": 4.935774594789049,
+    "customer_service_rating": 4.96790680683474,
+    "average_rating": 4.97,
+    "total_rating_count": 277,
+    "rating_count_past_year": 277,
+    "sold_count": 1279,
+    "active_listing_count": 90,
+    "create_date": 1696363589,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

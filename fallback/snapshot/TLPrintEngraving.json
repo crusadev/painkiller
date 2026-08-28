@@ -1,0 +1,28 @@
+{
+  "shop": "TLPrintEngraving",
+  "shop_url": "https://www.etsy.com/shop/TLPrintEngraving",
+  "source": "https://www.etsy.com/shop/TLPrintEngraving",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "IT",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.769509335308138,
+    "item_quality_rating": 4.731404463065131,
+    "customer_service_rating": 4.837064365328057,
+    "average_rating": 4.74,
+    "total_rating_count": 301,
+    "rating_count_past_year": 301,
+    "sold_count": 2710,
+    "active_listing_count": 107,
+    "create_date": 1702239815,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/tprint_engraving/"
+  ],
+  "ships_from": "IT"
+}

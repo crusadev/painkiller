@@ -1,0 +1,30 @@
+{
+  "shop": "Krasivoe",
+  "shop_url": "https://www.etsy.com/shop/Krasivoe",
+  "source": "https://www.etsy.com/shop/Krasivoe",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.836748850120932,
+    "item_quality_rating": 4.939865180838818,
+    "customer_service_rating": 4.905983750817885,
+    "average_rating": 4.9,
+    "total_rating_count": 196,
+    "rating_count_past_year": 196,
+    "sold_count": 1188,
+    "active_listing_count": 20,
+    "create_date": 1715759387,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/krasivoe_studio/",
+    "https://krasivoe.co/"
+  ],
+  "ships_from": "GB"
+}

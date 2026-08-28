@@ -1,0 +1,29 @@
+{
+  "shop": "GeekyThingsUK",
+  "shop_url": "https://www.etsy.com/shop/GeekyThingsUK",
+  "source": "https://www.etsy.com/shop/GeekyThingsUK",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.871684158234501,
+    "item_quality_rating": 4.869592972190875,
+    "customer_service_rating": 4.917300461350377,
+    "average_rating": 4.87,
+    "total_rating_count": 1113,
+    "rating_count_past_year": 1113,
+    "sold_count": 6818,
+    "active_listing_count": 65,
+    "create_date": 1613402184,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.GeekyThings.co.uk"
+  ],
+  "ships_from": "GB"
+}

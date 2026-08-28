@@ -1,0 +1,27 @@
+{
+  "shop": "LP3Dforge",
+  "shop_url": "https://www.etsy.com/shop/LP3Dforge",
+  "source": "https://www.etsy.com/shop/LP3Dforge",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.817533675692904,
+    "item_quality_rating": 4.965489766844699,
+    "customer_service_rating": 4.896370653326641,
+    "average_rating": 4.94,
+    "total_rating_count": 645,
+    "rating_count_past_year": 645,
+    "sold_count": 2442,
+    "active_listing_count": 32,
+    "create_date": 1689430060,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

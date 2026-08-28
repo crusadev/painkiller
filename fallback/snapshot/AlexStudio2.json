@@ -1,0 +1,27 @@
+{
+  "shop": "AlexStudio2",
+  "shop_url": "https://www.etsy.com/shop/AlexStudio2",
+  "source": "https://www.etsy.com/shop/AlexStudio2",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.900175348481586,
+    "item_quality_rating": 4.851446358139749,
+    "customer_service_rating": 4.900983905106252,
+    "average_rating": 4.87,
+    "total_rating_count": 778,
+    "rating_count_past_year": 778,
+    "sold_count": 3175,
+    "active_listing_count": 81,
+    "create_date": 1701199744,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

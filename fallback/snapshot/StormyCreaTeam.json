@@ -1,0 +1,27 @@
+{
+  "shop": "StormyCreaTeam",
+  "shop_url": "https://www.etsy.com/shop/StormyCreaTeam",
+  "source": "https://www.etsy.com/shop/StormyCreaTeam",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.960867424615544,
+    "item_quality_rating": 4.858519430317015,
+    "customer_service_rating": 4.933237794507481,
+    "average_rating": 4.87,
+    "total_rating_count": 260,
+    "rating_count_past_year": 260,
+    "sold_count": 747,
+    "active_listing_count": 106,
+    "create_date": 1673807808,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

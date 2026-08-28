@@ -1,0 +1,27 @@
+{
+  "shop": "LA3DPrintShop",
+  "shop_url": "https://www.etsy.com/shop/LA3DPrintShop",
+  "source": "https://www.etsy.com/shop/LA3DPrintShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.804055077709278,
+    "item_quality_rating": 4.94627786399943,
+    "customer_service_rating": 4.929477957147029,
+    "average_rating": 4.93,
+    "total_rating_count": 423,
+    "rating_count_past_year": 423,
+    "sold_count": 2240,
+    "active_listing_count": 15,
+    "create_date": 1649850289,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

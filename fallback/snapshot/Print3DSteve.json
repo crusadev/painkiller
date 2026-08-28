@@ -1,0 +1,30 @@
+{
+  "shop": "Print3DSteve",
+  "shop_url": "https://www.etsy.com/shop/Print3DSteve",
+  "source": "https://www.etsy.com/shop/Print3DSteve",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.980280978443156,
+    "item_quality_rating": 4.964218915869181,
+    "customer_service_rating": 4.990716024908729,
+    "average_rating": 4.96,
+    "total_rating_count": 4325,
+    "rating_count_past_year": 4325,
+    "sold_count": 17934,
+    "active_listing_count": 594,
+    "create_date": 1587932872,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/Print3DSteve/",
+    "http://instagram.com/print3dsteve"
+  ],
+  "ships_from": "US"
+}

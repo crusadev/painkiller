@@ -1,0 +1,27 @@
+{
+  "shop": "Garage3DPrint",
+  "shop_url": "https://www.etsy.com/shop/Garage3DPrint",
+  "source": "https://www.etsy.com/shop/Garage3DPrint",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.935265168268406,
+    "item_quality_rating": 4.867336275084735,
+    "customer_service_rating": 4.9646653080356185,
+    "average_rating": 4.91,
+    "total_rating_count": 613,
+    "rating_count_past_year": 613,
+    "sold_count": 3567,
+    "active_listing_count": 126,
+    "create_date": 1637798453,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

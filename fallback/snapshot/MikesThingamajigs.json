@@ -1,0 +1,31 @@
+{
+  "shop": "MikesThingamajigs",
+  "shop_url": "https://www.etsy.com/shop/MikesThingamajigs",
+  "source": "https://www.etsy.com/shop/MikesThingamajigs",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.982956352615514,
+    "item_quality_rating": 4.977804439293384,
+    "customer_service_rating": 4.986560731967872,
+    "average_rating": 4.97,
+    "total_rating_count": 1490,
+    "rating_count_past_year": 1490,
+    "sold_count": 5828,
+    "active_listing_count": 78,
+    "create_date": 1677764640,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/mikesthingamajigs/",
+    "https://www.pinterest.com/mikesthingamajigs/",
+    "http://www.mikesthingamajigs.com"
+  ],
+  "ships_from": "US"
+}

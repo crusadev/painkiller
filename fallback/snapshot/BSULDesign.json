@@ -1,0 +1,29 @@
+{
+  "shop": "BSULDesign",
+  "shop_url": "https://www.etsy.com/shop/BSULDesign",
+  "source": "https://www.etsy.com/shop/BSULDesign",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.910515165288171,
+    "item_quality_rating": 4.910173341903713,
+    "customer_service_rating": 4.9533250924933,
+    "average_rating": 4.96,
+    "total_rating_count": 144,
+    "rating_count_past_year": 144,
+    "sold_count": 1474,
+    "active_listing_count": 17,
+    "create_date": 1711379587,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://drive.google.com/drive/folders/1IJhRQReuElSYZf57-vMROCuK0fXAhp5h?usp=drive_link"
+  ],
+  "ships_from": "US"
+}

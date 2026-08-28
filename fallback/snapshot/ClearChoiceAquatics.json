@@ -1,0 +1,31 @@
+{
+  "shop": "ClearChoiceAquatics",
+  "shop_url": "https://www.etsy.com/shop/ClearChoiceAquatics",
+  "source": "https://www.etsy.com/shop/ClearChoiceAquatics",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.932571089561323,
+    "item_quality_rating": 4.874801990413662,
+    "customer_service_rating": 4.8646883641172876,
+    "average_rating": 4.87,
+    "total_rating_count": 832,
+    "rating_count_past_year": 832,
+    "sold_count": 3865,
+    "active_listing_count": 94,
+    "create_date": 1612213093,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.clearchoiceaquatics.com",
+    "https://www.instagram.com/clear_choice_aquatics/",
+    "https://vm.tiktok.com/ZMeEDhbec/"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "FALichtundHolzdesign",
+  "shop_url": "https://www.etsy.com/shop/FALichtundHolzdesign",
+  "source": "https://www.etsy.com/shop/FALichtundHolzdesign",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.958632098249518,
+    "item_quality_rating": 4.799012741677805,
+    "customer_service_rating": 4.956612171081252,
+    "average_rating": 4.8,
+    "total_rating_count": 306,
+    "rating_count_past_year": 306,
+    "sold_count": 3337,
+    "active_listing_count": 22,
+    "create_date": 1647963841,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

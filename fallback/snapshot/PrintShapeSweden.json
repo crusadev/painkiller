@@ -1,0 +1,31 @@
+{
+  "shop": "PrintShapeSweden",
+  "shop_url": "https://www.etsy.com/shop/PrintShapeSweden",
+  "source": "https://www.etsy.com/shop/PrintShapeSweden",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "SE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.884138051943568,
+    "item_quality_rating": 4.800241298588227,
+    "customer_service_rating": 4.870424791425658,
+    "average_rating": 4.81,
+    "total_rating_count": 334,
+    "rating_count_past_year": 334,
+    "sold_count": 2447,
+    "active_listing_count": 237,
+    "create_date": 1736000324,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=61572479636519",
+    "https://www.instagram.com/printshape_sweden",
+    "https://printshape.eu/",
+    "https://se.pinterest.com/printshape_sweden/"
+  ],
+  "ships_from": "SE"
+}

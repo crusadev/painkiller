@@ -1,0 +1,27 @@
+{
+  "shop": "BoardgamePrintshop",
+  "shop_url": "https://www.etsy.com/shop/BoardgamePrintshop",
+  "source": "https://www.etsy.com/shop/BoardgamePrintshop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.962329781070562,
+    "item_quality_rating": 4.933098176611351,
+    "customer_service_rating": 4.944415250705086,
+    "average_rating": 4.91,
+    "total_rating_count": 736,
+    "rating_count_past_year": 736,
+    "sold_count": 3572,
+    "active_listing_count": 71,
+    "create_date": 1676131709,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

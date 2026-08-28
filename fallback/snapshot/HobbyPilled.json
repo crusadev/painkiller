@@ -1,0 +1,30 @@
+{
+  "shop": "HobbyPilled",
+  "shop_url": "https://www.etsy.com/shop/HobbyPilled",
+  "source": "https://www.etsy.com/shop/HobbyPilled",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.949305334525251,
+    "item_quality_rating": 4.950303395084427,
+    "customer_service_rating": 4.965632579944553,
+    "average_rating": 4.93,
+    "total_rating_count": 3986,
+    "rating_count_past_year": 3986,
+    "sold_count": 17994,
+    "active_listing_count": 51,
+    "create_date": 1567206276,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://instagram.com/hobbypilled",
+    "http://hobbypilled.com"
+  ],
+  "ships_from": "US"
+}

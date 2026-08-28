@@ -1,0 +1,27 @@
+{
+  "shop": "3DPrimeStudios",
+  "shop_url": "https://www.etsy.com/shop/3DPrimeStudios",
+  "source": "https://www.etsy.com/shop/3DPrimeStudios",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.780206759659822,
+    "item_quality_rating": 4.684462128183891,
+    "customer_service_rating": 4.946562964464336,
+    "average_rating": 4.71,
+    "total_rating_count": 225,
+    "rating_count_past_year": 225,
+    "sold_count": 993,
+    "active_listing_count": 49,
+    "create_date": 1724092996,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

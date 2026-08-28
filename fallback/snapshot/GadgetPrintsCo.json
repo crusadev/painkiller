@@ -1,0 +1,27 @@
+{
+  "shop": "GadgetPrintsCo",
+  "shop_url": "https://www.etsy.com/shop/GadgetPrintsCo",
+  "source": "https://www.etsy.com/shop/GadgetPrintsCo",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.928302235878487,
+    "item_quality_rating": 4.897883016579152,
+    "customer_service_rating": 4.9693750704812825,
+    "average_rating": 4.91,
+    "total_rating_count": 533,
+    "rating_count_past_year": 533,
+    "sold_count": 1976,
+    "active_listing_count": 0,
+    "create_date": 1617153881,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

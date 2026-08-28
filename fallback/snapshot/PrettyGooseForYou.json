@@ -1,0 +1,27 @@
+{
+  "shop": "PrettyGooseForYou",
+  "shop_url": "https://www.etsy.com/shop/PrettyGooseForYou",
+  "source": "https://www.etsy.com/shop/PrettyGooseForYou",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "HK",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.789493318055833,
+    "item_quality_rating": 4.770711036222551,
+    "customer_service_rating": 4.916096329382876,
+    "average_rating": 4.83,
+    "total_rating_count": 203,
+    "rating_count_past_year": 203,
+    "sold_count": 1129,
+    "active_listing_count": 24,
+    "create_date": 1658855717,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "HK"
+}

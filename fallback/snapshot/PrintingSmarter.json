@@ -1,0 +1,27 @@
+{
+  "shop": "PrintingSmarter",
+  "shop_url": "https://www.etsy.com/shop/PrintingSmarter",
+  "source": "https://www.etsy.com/shop/PrintingSmarter",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "ES",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.835823232428917,
+    "item_quality_rating": 4.844759914824368,
+    "customer_service_rating": 4.893982847533059,
+    "average_rating": 4.85,
+    "total_rating_count": 2116,
+    "rating_count_past_year": 2116,
+    "sold_count": 14338,
+    "active_listing_count": 99,
+    "create_date": 1578049747,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "ES"
+}

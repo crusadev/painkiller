@@ -1,0 +1,31 @@
+{
+  "shop": "TheMakersMaker",
+  "shop_url": "https://www.etsy.com/shop/TheMakersMaker",
+  "source": "https://www.etsy.com/shop/TheMakersMaker",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.982060633956305,
+    "item_quality_rating": 4.987073597785725,
+    "customer_service_rating": 4.995023412637091,
+    "average_rating": 4.98,
+    "total_rating_count": 1475,
+    "rating_count_past_year": 1475,
+    "sold_count": 3790,
+    "active_listing_count": 0,
+    "create_date": 1672024281,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/themakersmaker3d/",
+    "https://www.tiktok.com/@themakersmaker",
+    "https://www.facebook.com/profile.php?id=100093203112944"
+  ],
+  "ships_from": "US"
+}

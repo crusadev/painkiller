@@ -1,0 +1,29 @@
+{
+  "shop": "TheAmazingDonat",
+  "shop_url": "https://www.etsy.com/shop/TheAmazingDonat",
+  "source": "https://www.etsy.com/shop/TheAmazingDonat",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.846012900423339,
+    "item_quality_rating": 4.843554571255981,
+    "customer_service_rating": 4.932004472113281,
+    "average_rating": 4.81,
+    "total_rating_count": 1544,
+    "rating_count_past_year": 1544,
+    "sold_count": 9725,
+    "active_listing_count": 110,
+    "create_date": 1627639076,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.theamazingdonat.com"
+  ],
+  "ships_from": "DE"
+}

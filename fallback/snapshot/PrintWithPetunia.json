@@ -1,0 +1,27 @@
+{
+  "shop": "PrintWithPetunia",
+  "shop_url": "https://www.etsy.com/shop/PrintWithPetunia",
+  "source": "https://www.etsy.com/shop/PrintWithPetunia",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.983198249452588,
+    "item_quality_rating": 4.968839233584295,
+    "customer_service_rating": 4.958179258350831,
+    "average_rating": 4.99,
+    "total_rating_count": 168,
+    "rating_count_past_year": 168,
+    "sold_count": 759,
+    "active_listing_count": 51,
+    "create_date": 1666838138,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

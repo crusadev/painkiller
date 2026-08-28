@@ -1,0 +1,27 @@
+{
+  "shop": "CreativePlasticsShop",
+  "shop_url": "https://www.etsy.com/shop/CreativePlasticsShop",
+  "source": "https://www.etsy.com/shop/CreativePlasticsShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.926342735746542,
+    "item_quality_rating": 4.819565810312175,
+    "customer_service_rating": 4.973472747533601,
+    "average_rating": 4.87,
+    "total_rating_count": 1767,
+    "rating_count_past_year": 1767,
+    "sold_count": 8082,
+    "active_listing_count": 13,
+    "create_date": 1599271780,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "3DPrintsParts",
+  "shop_url": "https://www.etsy.com/shop/3DPrintsParts",
+  "source": "https://www.etsy.com/shop/3DPrintsParts",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.82402937600675,
+    "item_quality_rating": 4.861743198196493,
+    "customer_service_rating": 4.880534586835056,
+    "average_rating": 4.81,
+    "total_rating_count": 224,
+    "rating_count_past_year": 224,
+    "sold_count": 905,
+    "active_listing_count": 21,
+    "create_date": 1693454015,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

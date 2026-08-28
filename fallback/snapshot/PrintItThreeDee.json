@@ -1,0 +1,27 @@
+{
+  "shop": "PrintItThreeDee",
+  "shop_url": "https://www.etsy.com/shop/PrintItThreeDee",
+  "source": "https://www.etsy.com/shop/PrintItThreeDee",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.7560599036927105,
+    "item_quality_rating": 4.8448674269948855,
+    "customer_service_rating": 4.864952309956783,
+    "average_rating": 4.86,
+    "total_rating_count": 951,
+    "rating_count_past_year": 951,
+    "sold_count": 4502,
+    "active_listing_count": 0,
+    "create_date": 1614610953,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

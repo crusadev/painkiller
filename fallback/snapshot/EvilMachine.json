@@ -1,0 +1,27 @@
+{
+  "shop": "EvilMachine",
+  "shop_url": "https://www.etsy.com/shop/EvilMachine",
+  "source": "https://www.etsy.com/shop/EvilMachine",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.972681952417206,
+    "item_quality_rating": 4.96095832616803,
+    "customer_service_rating": 4.986723808418031,
+    "average_rating": 4.96,
+    "total_rating_count": 4041,
+    "rating_count_past_year": 4041,
+    "sold_count": 13239,
+    "active_listing_count": 258,
+    "create_date": 1615765189,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

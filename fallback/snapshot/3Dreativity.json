@@ -1,0 +1,29 @@
+{
+  "shop": "3Dreativity",
+  "shop_url": "https://www.etsy.com/shop/3Dreativity",
+  "source": "https://www.etsy.com/shop/3Dreativity",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "PL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.276710122621336,
+    "item_quality_rating": 4.565895662957823,
+    "customer_service_rating": 4.667910747969291,
+    "average_rating": 4.55,
+    "total_rating_count": 315,
+    "rating_count_past_year": 315,
+    "sold_count": 2090,
+    "active_listing_count": 54,
+    "create_date": 1705414071,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/3dreativity/"
+  ],
+  "ships_from": "PL"
+}

@@ -1,0 +1,31 @@
+{
+  "shop": "PDCustomsUK",
+  "shop_url": "https://www.etsy.com/shop/PDCustomsUK",
+  "source": "https://www.etsy.com/shop/PDCustomsUK",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8058494346177225,
+    "item_quality_rating": 4.879723930476821,
+    "customer_service_rating": 4.909502041588134,
+    "average_rating": 4.87,
+    "total_rating_count": 3535,
+    "rating_count_past_year": 3535,
+    "sold_count": 29892,
+    "active_listing_count": 23,
+    "create_date": 1492367605,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://www.facebook.com/peabodystudio",
+    "http://instagram.com/peabodystudio",
+    "http://www.peabodystudio.co.uk"
+  ],
+  "ships_from": "GB"
+}

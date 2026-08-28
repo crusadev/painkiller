@@ -1,0 +1,31 @@
+{
+  "shop": "ChiclyBuilt",
+  "shop_url": "https://www.etsy.com/shop/ChiclyBuilt",
+  "source": "https://www.etsy.com/shop/ChiclyBuilt",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9023479283220786,
+    "item_quality_rating": 4.878388092458458,
+    "customer_service_rating": 4.88328147624952,
+    "average_rating": 4.89,
+    "total_rating_count": 8511,
+    "rating_count_past_year": 8511,
+    "sold_count": 47043,
+    "active_listing_count": 63,
+    "create_date": 1577051388,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://www.instagram.com/chiclybuilt/",
+    "http://www.Facebook.com/chicly-built-107047934534024",
+    "http://chiclybuilt.com"
+  ],
+  "ships_from": "US"
+}

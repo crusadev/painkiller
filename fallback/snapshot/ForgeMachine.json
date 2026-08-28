@@ -1,0 +1,27 @@
+{
+  "shop": "ForgeMachine",
+  "shop_url": "https://www.etsy.com/shop/ForgeMachine",
+  "source": "https://www.etsy.com/shop/ForgeMachine",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.916052731411923,
+    "item_quality_rating": 4.895655889067721,
+    "customer_service_rating": 4.956143210107957,
+    "average_rating": 4.9,
+    "total_rating_count": 878,
+    "rating_count_past_year": 878,
+    "sold_count": 2919,
+    "active_listing_count": 47,
+    "create_date": 1654176386,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

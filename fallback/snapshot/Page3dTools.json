@@ -1,0 +1,26 @@
+{
+  "shop": "Page3dTools",
+  "shop_url": "https://www.etsy.com/shop/Page3dTools",
+  "source": "https://www.etsy.com/shop/Page3dTools",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.865807293497579,
+    "item_quality_rating": 4.9389449208241025,
+    "customer_service_rating": 4.931214868430093,
+    "average_rating": 4.92,
+    "total_rating_count": 588,
+    "rating_count_past_year": 588,
+    "sold_count": 2771,
+    "active_listing_count": 41,
+    "create_date": 1734225864,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "CA"
+}

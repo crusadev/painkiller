@@ -1,0 +1,29 @@
+{
+  "shop": "Carat3dCreations",
+  "shop_url": "https://www.etsy.com/shop/Carat3dCreations",
+  "source": "https://www.etsy.com/shop/Carat3dCreations",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.901305859763817,
+    "item_quality_rating": 4.895646504448872,
+    "customer_service_rating": 4.927777198605951,
+    "average_rating": 4.92,
+    "total_rating_count": 821,
+    "rating_count_past_year": 821,
+    "sold_count": 2344,
+    "active_listing_count": 124,
+    "create_date": 1684634517,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://www.instagram.com/carat3dcreations/"
+  ],
+  "ships_from": "US"
+}

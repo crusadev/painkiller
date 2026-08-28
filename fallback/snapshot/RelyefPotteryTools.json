@@ -1,0 +1,31 @@
+{
+  "shop": "RelyefPotteryTools",
+  "shop_url": "https://www.etsy.com/shop/RelyefPotteryTools",
+  "source": "https://www.etsy.com/shop/RelyefPotteryTools",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CZ",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9077659083075655,
+    "item_quality_rating": 4.892155036074736,
+    "customer_service_rating": 4.942208534359539,
+    "average_rating": 4.86,
+    "total_rating_count": 3221,
+    "rating_count_past_year": 3221,
+    "sold_count": 23799,
+    "active_listing_count": 333,
+    "create_date": 1527757256,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.relyefpotterytools.com/",
+    "https://www.facebook.com/relyefpotterytools/",
+    "https://artkeramika.cz"
+  ],
+  "ships_from": "CZ"
+}

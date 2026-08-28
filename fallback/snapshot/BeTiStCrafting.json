@@ -1,0 +1,28 @@
+{
+  "shop": "BeTiStCrafting",
+  "shop_url": "https://www.etsy.com/shop/BeTiStCrafting",
+  "source": "https://www.etsy.com/shop/BeTiStCrafting",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.689988380996412,
+    "item_quality_rating": 4.484870679362612,
+    "customer_service_rating": 4.657284887635027,
+    "average_rating": 4.5,
+    "total_rating_count": 1324,
+    "rating_count_past_year": 1324,
+    "sold_count": 12521,
+    "active_listing_count": 10,
+    "create_date": 1640893707,
+    "is_open": true,
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://instagram.com/betistCrafting"
+  ],
+  "ships_from": "DE"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "3DPrintHaus",
+  "shop_url": "https://www.etsy.com/shop/3DPrintHaus",
+  "source": "https://www.etsy.com/shop/3DPrintHaus",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CY",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.850298125739144,
+    "item_quality_rating": 4.7751210941544215,
+    "customer_service_rating": 4.9294392227315,
+    "average_rating": 4.74,
+    "total_rating_count": 225,
+    "rating_count_past_year": 225,
+    "sold_count": 1304,
+    "active_listing_count": 37,
+    "create_date": 1598332989,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "CY"
+}

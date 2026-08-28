@@ -1,0 +1,32 @@
+{
+  "shop": "Lemoniac",
+  "shop_url": "https://www.etsy.com/shop/Lemoniac",
+  "source": "https://www.etsy.com/shop/Lemoniac",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "ES",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.853738880209636,
+    "item_quality_rating": 4.937995180596343,
+    "customer_service_rating": 4.960414875819125,
+    "average_rating": 4.95,
+    "total_rating_count": 651,
+    "rating_count_past_year": 651,
+    "sold_count": 2995,
+    "active_listing_count": 27,
+    "create_date": 1694702223,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/lemoniacraft_/",
+    "https://www.tiktok.com/@lemoniacraft_",
+    "https://twitter.com/Lemoniacraft",
+    "https://es.pinterest.com/lemoniacraft_/"
+  ],
+  "ships_from": "ES"
+}

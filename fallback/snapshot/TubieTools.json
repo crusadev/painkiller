@@ -1,0 +1,27 @@
+{
+  "shop": "TubieTools",
+  "shop_url": "https://www.etsy.com/shop/TubieTools",
+  "source": "https://www.etsy.com/shop/TubieTools",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.891265394984704,
+    "item_quality_rating": 4.797186478642072,
+    "customer_service_rating": 4.857787559472226,
+    "average_rating": 4.8,
+    "total_rating_count": 565,
+    "rating_count_past_year": 565,
+    "sold_count": 2481,
+    "active_listing_count": 17,
+    "create_date": 1484343424,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

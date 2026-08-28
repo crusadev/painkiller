@@ -1,0 +1,32 @@
+{
+  "shop": "LoonarCreative",
+  "shop_url": "https://www.etsy.com/shop/LoonarCreative",
+  "source": "https://www.etsy.com/shop/LoonarCreative",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.865710451403311,
+    "item_quality_rating": 4.8257805943345575,
+    "customer_service_rating": 4.881843621237974,
+    "average_rating": 4.83,
+    "total_rating_count": 1820,
+    "rating_count_past_year": 1820,
+    "sold_count": 12197,
+    "active_listing_count": 235,
+    "create_date": 1535576242,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.loonar3d.com/",
+    "https://www.instagram.com/loonarcreative/",
+    "https://www.facebook.com/loonarstudio",
+    "https://www.tiktok.com/@loonar3d1"
+  ],
+  "ships_from": "GB"
+}

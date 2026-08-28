@@ -1,0 +1,29 @@
+{
+  "shop": "LuckyPlayer",
+  "shop_url": "https://www.etsy.com/shop/LuckyPlayer",
+  "source": "https://www.etsy.com/shop/LuckyPlayer",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "LT",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.809978328753264,
+    "item_quality_rating": 4.763576255170864,
+    "customer_service_rating": 4.855201682202043,
+    "average_rating": 4.78,
+    "total_rating_count": 3807,
+    "rating_count_past_year": 3807,
+    "sold_count": 29131,
+    "active_listing_count": 112,
+    "create_date": 1537624957,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://luckyplayershop.com/"
+  ],
+  "ships_from": "LT"
+}

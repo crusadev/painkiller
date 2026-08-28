@@ -1,0 +1,30 @@
+{
+  "shop": "TimPrintDreams",
+  "shop_url": "https://www.etsy.com/shop/TimPrintDreams",
+  "source": "https://www.etsy.com/shop/TimPrintDreams",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "CA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.927474455167541,
+    "item_quality_rating": 4.972767201987468,
+    "customer_service_rating": 4.976095794553368,
+    "average_rating": 4.98,
+    "total_rating_count": 715,
+    "rating_count_past_year": 715,
+    "sold_count": 2896,
+    "active_listing_count": 14,
+    "create_date": 1730339543,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://linktr.ee/TimPrintDreams",
+    "https://www.instagram.com/timprintdreams?igsh=ODJ2eXJqZmVycTg0&utm_source=qr"
+  ],
+  "ships_from": "CA"
+}

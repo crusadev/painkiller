@@ -1,0 +1,27 @@
+{
+  "shop": "UA3D",
+  "shop_url": "https://www.etsy.com/shop/UA3D",
+  "source": "https://www.etsy.com/shop/UA3D",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "UA",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.817183393139813,
+    "item_quality_rating": 4.869307192146417,
+    "customer_service_rating": 4.897816952946947,
+    "average_rating": 4.85,
+    "total_rating_count": 1438,
+    "rating_count_past_year": 1438,
+    "sold_count": 5893,
+    "active_listing_count": 70,
+    "create_date": 1561988497,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "UA"
+}

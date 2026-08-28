@@ -1,0 +1,27 @@
+{
+  "shop": "PlasTechSolutions",
+  "shop_url": "https://www.etsy.com/shop/PlasTechSolutions",
+  "source": "https://www.etsy.com/shop/PlasTechSolutions",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.697848360074993,
+    "item_quality_rating": 4.509021045628682,
+    "customer_service_rating": 4.580878363665173,
+    "average_rating": 4.47,
+    "total_rating_count": 607,
+    "rating_count_past_year": 607,
+    "sold_count": 4217,
+    "active_listing_count": 308,
+    "create_date": 1603663086,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

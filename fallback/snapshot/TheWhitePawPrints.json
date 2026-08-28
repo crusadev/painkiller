@@ -1,0 +1,27 @@
+{
+  "shop": "TheWhitePawPrints",
+  "shop_url": "https://www.etsy.com/shop/TheWhitePawPrints",
+  "source": "https://www.etsy.com/shop/TheWhitePawPrints",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.947070312377459,
+    "item_quality_rating": 4.917174117717729,
+    "customer_service_rating": 4.977202646910178,
+    "average_rating": 4.94,
+    "total_rating_count": 1251,
+    "rating_count_past_year": 1251,
+    "sold_count": 4775,
+    "active_listing_count": 35,
+    "create_date": 1612942511,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

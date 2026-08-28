@@ -1,0 +1,27 @@
+{
+  "shop": "HldMyBeerEngineering",
+  "shop_url": "https://www.etsy.com/shop/HldMyBeerEngineering",
+  "source": "https://www.etsy.com/shop/HldMyBeerEngineering",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8026736696089065,
+    "item_quality_rating": 4.701496945176161,
+    "customer_service_rating": 4.750539247626758,
+    "average_rating": 4.68,
+    "total_rating_count": 3487,
+    "rating_count_past_year": 3487,
+    "sold_count": 20040,
+    "active_listing_count": 183,
+    "create_date": 1516370843,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

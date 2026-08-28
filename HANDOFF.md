@@ -49,9 +49,11 @@ python3 -c "import sys;sys.path.insert(0,'tests');import test_scoring as t;\
 | | |
 |---|---|
 | Shops in list | 411 (`inputs/shops.csv`) |
-| Shops with captured evidence | 22 |
+| Shops enriched with shop facts | 376 (35 returned no record — closed or renamed) |
+| Shops with full review capture | 22 |
 | Reviews captured | 1,283 |
-| Ranking | 2 hot · 9 watch · 10 pass · 1 nurture |
+| Linked storefronts discovered | 195 |
+| Ranking | 6 hot · 83 watch · 107 pass · 180 nurture |
 | Top lead | Creat3DLab — shipping 4.64 vs quality 4.77, 27k sold, prints in HR |
 | Submission | filed from commit `2c443cb`, repo `crusadev/painkiller` |
 
@@ -124,32 +126,36 @@ The lead is the **shop**. Everyone else is irrelevant to the score.
 
 ## Open work, highest value first
 
-1. **Enrich all 411 shops with shop facts.** ~$4, a few minutes.
-   `python3 scripts/capture_shop.py --shops <comma-list>` — but note it
-   currently only enriches shops that already have a review snapshot. To rank
-   the full list you need to let it write a facts-only snapshot. The rubric
-   scores 55/100 from shop facts alone, so no review capture is needed for a
-   first-pass ranking. **This turns the deliverable from a 22-shop sample into
-   the real 411-shop list.** Two-stage funnel: cheap wide pass, then capture
-   reviews only for the top slice.
+1. **Calibrate the volume band.** `SWEET_LOW`/`SWEET_HIGH` in `qualify.py`
+   are 1000 and 8000. Those numbers were chosen when the metric was *dollars*
+   per year (the sheet's revenue estimate). The metric is now *orders* per year
+   (Etsy `sold_count` ÷ shop age) — same numbers, different unit, never
+   recalibrated. At 1000 the floor lands on the median of the list and pushes
+   180 shops into `nurture`. This is a business input, not a technical one:
+   ask what order volume actually makes a print-network account worth opening.
+   Distribution: p25 = 501, p50 = 1,014, p75 = 1,913, p90 = 3,673, max 21,445.
 
-2. **Multi-platform.** The sheet had 9 usable storefront domains across 411
-   rows; `related_links` from the shop actor found 8 across just 22 shops, so
-   enriching all 411 should surface ~150. `myjeepduck.com/blogs/news` is a
+2. **Second review-capture pass over the top of the ranking.** Shop facts now
+   cover 376 shops; reviews cover only the original 22. Capture reviews for the
+   top ~40 by score to add quoted evidence where it matters most
+   (`scripts/capture.py --shops-file`, ~$0.005/review).
+
+3. **Multi-platform.** `related_links` found **195 linked storefronts** across
+   the enriched shops (the sheet itself had 9). `myjeepduck.com/blogs/news` is a
    Shopify URL pattern — detect Shopify, then pull reviews from Judge.me / Loox
    endpoints. Trustpilot is keyed by domain and is the easy first one.
    Snapshots should grow a `platform` field per review before this lands.
 
-3. **`primary_buyer_market` is unset** and not public per-shop. Cross-border
+4. **`primary_buyer_market` is unset** and not public per-shop. Cross-border
    scoring currently leans on "Etsy demand is concentrated in US/UK", stated
    wherever used. If you find a source, corroboration gets sharper.
 
-4. **`geo_blocked` is near-undetectable in reviews** — a buyer who cannot order
+5. **`geo_blocked` is near-undetectable in reviews** — a buyer who cannot order
    never becomes a reviewer. The signal is retained because it fires on shop
    Q&A and message data, which we do not capture. Highest-value signal we
    cannot yet see (1.5× weight).
 
-5. **Re-sample the small end for *rising* shops.** The nurture tier has one
+6. **Re-sample the small end for *rising* shops.** The nurture tier has one
    occupant because the small shops were picked by lowest volume, which selects
    for dead shops rather than early ones.
 

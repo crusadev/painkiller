@@ -1,0 +1,27 @@
+{
+  "shop": "CeksaFabrication",
+  "shop_url": "https://www.etsy.com/shop/CeksaFabrication",
+  "source": "https://www.etsy.com/shop/CeksaFabrication",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.936704487319105,
+    "item_quality_rating": 4.946469247396254,
+    "customer_service_rating": 4.9613432846657615,
+    "average_rating": 4.92,
+    "total_rating_count": 749,
+    "rating_count_past_year": 749,
+    "sold_count": 3483,
+    "active_listing_count": 14,
+    "create_date": 1679554193,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

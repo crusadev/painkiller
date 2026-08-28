@@ -58,27 +58,41 @@ def fetch(shops, chunk=10):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--shops", default="", help="comma-separated; default = every snapshot")
+    ap.add_argument("--from-list", help="CSV with a 'shop' column - enrich the whole list")
+    ap.add_argument("--chunk", type=int, default=10)
     a = ap.parse_args()
-    shops = ([s.strip() for s in a.shops.split(",") if s.strip()]
-             or sorted(p.stem for p in OUT.glob("*.json") if p.stem != "README"))
+    if a.from_list:
+        import csv
+        with open(a.from_list, newline="", encoding="utf-8") as fh:
+            shops = [r["shop"] for r in csv.DictReader(fh) if r.get("shop")]
+    else:
+        shops = ([s.strip() for s in a.shops.split(",") if s.strip()]
+                 or sorted(p.stem for p in OUT.glob("*.json") if p.stem != "README"))
     if not shops:
         sys.exit("nothing to enrich")
 
     print(f"enriching {len(shops)} shops")
     by_name = {}
-    for raw in fetch(shops):
+    for raw in fetch(shops, a.chunk):
         name = raw.get("shop_name")
         if name:
             by_name[name] = raw
 
-    n = 0
+    n, missing = 0, []
     for shop in shops:
         f = OUT / f"{shop}.json"
         raw = by_name.get(shop)
-        if not f.exists() or not raw:
-            print(f"  {shop}: no shop record")
+        if not raw:
+            missing.append(shop)
             continue
-        snap = json.loads(f.read_text(encoding="utf-8"))
+        snap = (json.loads(f.read_text(encoding="utf-8")) if f.exists() else {
+            "shop": shop,
+            "shop_url": f"https://www.etsy.com/shop/{shop}",
+            "source": f"https://www.etsy.com/shop/{shop}",
+            "retrieved_at": __import__("datetime").date.today().isoformat(),
+            "collection_note": "Shop-level facts only; no buyer reviews captured.",
+            "reviews": [],
+        })
         facts = {k: raw.get(k) for k in KEEP if raw.get(k) is not None}
         assert not any(d in facts for d in DROP), "seller identity leaked"
         snap["shop_facts"] = facts
@@ -86,11 +100,9 @@ def main():
         snap["ships_from"] = raw.get("country_code") or snap.get("ships_from")
         f.write_text(json.dumps(snap, indent=2), encoding="utf-8")
         n += 1
-        print(f"  {shop}: {facts.get('country_code','?')} · ship "
-              f"{facts.get('shipping_rating','?')} · quality "
-              f"{facts.get('item_quality_rating','?')} · sold "
-              f"{facts.get('sold_count','?')} · links {len(snap['related_links'])}")
-    print(f"{n} snapshots enriched")
+    print(f"{n} snapshots enriched, {len(missing)} shops returned no record")
+    if missing:
+        print("  no record: " + ", ".join(missing[:15]) + (" ..." if len(missing) > 15 else ""))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,27 @@
+{
+  "shop": "3dBitSpace",
+  "shop_url": "https://www.etsy.com/shop/3dBitSpace",
+  "source": "https://www.etsy.com/shop/3dBitSpace",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.879783339082075,
+    "item_quality_rating": 4.960958685610125,
+    "customer_service_rating": 4.96702084155585,
+    "average_rating": 4.95,
+    "total_rating_count": 526,
+    "rating_count_past_year": 526,
+    "sold_count": 2964,
+    "active_listing_count": 0,
+    "create_date": 1543859291,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

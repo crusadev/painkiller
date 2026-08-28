@@ -1,0 +1,27 @@
+{
+  "shop": "EightSixtyConcepts",
+  "shop_url": "https://www.etsy.com/shop/EightSixtyConcepts",
+  "source": "https://www.etsy.com/shop/EightSixtyConcepts",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.844135588872433,
+    "item_quality_rating": 4.898890332871959,
+    "customer_service_rating": 4.940475501535519,
+    "average_rating": 4.88,
+    "total_rating_count": 489,
+    "rating_count_past_year": 489,
+    "sold_count": 2242,
+    "active_listing_count": 45,
+    "create_date": 1600795431,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

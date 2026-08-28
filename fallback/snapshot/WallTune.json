@@ -1,0 +1,29 @@
+{
+  "shop": "WallTune",
+  "shop_url": "https://www.etsy.com/shop/WallTune",
+  "source": "https://www.etsy.com/shop/WallTune",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.826414999215349,
+    "item_quality_rating": 4.716476135404933,
+    "customer_service_rating": 4.836566074702862,
+    "average_rating": 4.76,
+    "total_rating_count": 3183,
+    "rating_count_past_year": 3183,
+    "sold_count": 40199,
+    "active_listing_count": 54,
+    "create_date": 1674564800,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.walltune.nl"
+  ],
+  "ships_from": "NL"
+}

@@ -1,0 +1,26 @@
+{
+  "shop": "WallBracketNerd",
+  "shop_url": "https://www.etsy.com/shop/WallBracketNerd",
+  "source": "https://www.etsy.com/shop/WallBracketNerd",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "SE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.913524561830106,
+    "item_quality_rating": 4.862729163328616,
+    "customer_service_rating": 4.919230562083891,
+    "average_rating": 4.86,
+    "total_rating_count": 46,
+    "rating_count_past_year": 46,
+    "sold_count": 420,
+    "active_listing_count": 29,
+    "create_date": 1696581159,
+    "is_open": true,
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "SE"
+}

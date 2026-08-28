@@ -1,0 +1,27 @@
+{
+  "shop": "OverlandEngineering",
+  "shop_url": "https://www.etsy.com/shop/OverlandEngineering",
+  "source": "https://www.etsy.com/shop/OverlandEngineering",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.728847819821725,
+    "item_quality_rating": 4.704657369906157,
+    "customer_service_rating": 4.751065770274663,
+    "average_rating": 4.73,
+    "total_rating_count": 3112,
+    "rating_count_past_year": 3112,
+    "sold_count": 12902,
+    "active_listing_count": 30,
+    "create_date": 1664056038,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

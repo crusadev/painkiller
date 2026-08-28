@@ -1,0 +1,27 @@
+{
+  "shop": "manysidestome",
+  "shop_url": "https://www.etsy.com/shop/manysidestome",
+  "source": "https://www.etsy.com/shop/manysidestome",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.780793746786235,
+    "item_quality_rating": 4.792796878782223,
+    "customer_service_rating": 4.812740722098161,
+    "average_rating": 4.76,
+    "total_rating_count": 1101,
+    "rating_count_past_year": 1101,
+    "sold_count": 4365,
+    "active_listing_count": 259,
+    "create_date": 1457277922,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

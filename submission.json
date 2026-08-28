@@ -49,9 +49,12 @@
   "repo": "https://github.com/crusadev/painkiller",
   "commit_sha": "3e23cd635e96de03b54e773db7e258372a3b5f61",
   "evidence_base": {
-    "shops": 22,
+    "shops_enriched": 376,
+    "shops_in_list": 411,
+    "shops_with_review_capture": 22,
     "reviews": 1283,
-    "note": "22 of 411 shops captured; rubric scores 55/100 from shop facts alone, so the full list can be ranked without per-shop review capture"
+    "linked_storefronts_discovered": 195,
+    "note": "Shop facts cover 376 of 411; 35 shops returned no record (closed or renamed). Review capture is a second, narrower pass over the top of the ranking."
   },
   "commit_sha_note": "Self-referential by nature: this names the commit the manifest was written against. The submission issue carries the authoritative SHA.",
   "team_name": "3DAPI"

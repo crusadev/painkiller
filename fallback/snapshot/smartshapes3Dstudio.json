@@ -1,0 +1,26 @@
+{
+  "shop": "smartshapes3Dstudio",
+  "shop_url": "https://www.etsy.com/shop/smartshapes3Dstudio",
+  "source": "https://www.etsy.com/shop/smartshapes3Dstudio",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 3.784205329952477,
+    "item_quality_rating": 4.526195671559693,
+    "customer_service_rating": 4.382486647170056,
+    "average_rating": 4.38,
+    "total_rating_count": 236,
+    "rating_count_past_year": 236,
+    "sold_count": 2421,
+    "active_listing_count": 133,
+    "create_date": 1705188102,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "DE"
+}

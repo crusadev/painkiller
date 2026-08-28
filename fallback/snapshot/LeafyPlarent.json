@@ -1,0 +1,31 @@
+{
+  "shop": "LeafyPlarent",
+  "shop_url": "https://www.etsy.com/shop/LeafyPlarent",
+  "source": "https://www.etsy.com/shop/LeafyPlarent",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9248396653895155,
+    "item_quality_rating": 4.928376108092459,
+    "customer_service_rating": 4.941288336060135,
+    "average_rating": 4.93,
+    "total_rating_count": 2190,
+    "rating_count_past_year": 2190,
+    "sold_count": 11852,
+    "active_listing_count": 58,
+    "create_date": 1684889521,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=61550361489373",
+    "https://www.pinterest.com/leafyplarent/",
+    "https://www.instagram.com/leafyplarent/"
+  ],
+  "ships_from": "US"
+}

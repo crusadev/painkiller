@@ -1,0 +1,27 @@
+{
+  "shop": "DZNFORPPL",
+  "shop_url": "https://www.etsy.com/shop/DZNFORPPL",
+  "source": "https://www.etsy.com/shop/DZNFORPPL",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9213049009190915,
+    "item_quality_rating": 4.835334483590396,
+    "customer_service_rating": 4.952299539275782,
+    "average_rating": 4.85,
+    "total_rating_count": 220,
+    "rating_count_past_year": 220,
+    "sold_count": 1501,
+    "active_listing_count": 21,
+    "create_date": 1705529430,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

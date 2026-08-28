@@ -1,0 +1,30 @@
+{
+  "shop": "ZephyrsMarket",
+  "shop_url": "https://www.etsy.com/shop/ZephyrsMarket",
+  "source": "https://www.etsy.com/shop/ZephyrsMarket",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.724718314802496,
+    "item_quality_rating": 4.626556737475203,
+    "customer_service_rating": 4.639458155360433,
+    "average_rating": 4.58,
+    "total_rating_count": 1938,
+    "rating_count_past_year": 1938,
+    "sold_count": 11035,
+    "active_listing_count": 386,
+    "create_date": 1633388863,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://instagram.com/zephyrsmarket?utm_medium=copy_link",
+    "https://zephyrsmarket.com"
+  ],
+  "ships_from": "US"
+}

@@ -1,0 +1,29 @@
+{
+  "shop": "Prinsert",
+  "shop_url": "https://www.etsy.com/shop/Prinsert",
+  "source": "https://www.etsy.com/shop/Prinsert",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.882499653470787,
+    "item_quality_rating": 4.936249373371989,
+    "customer_service_rating": 4.9346422304344735,
+    "average_rating": 4.94,
+    "total_rating_count": 783,
+    "rating_count_past_year": 783,
+    "sold_count": 2829,
+    "active_listing_count": 84,
+    "create_date": 1728633698,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/prinsert.de/"
+  ],
+  "ships_from": "DE"
+}

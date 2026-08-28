@@ -1,0 +1,26 @@
+{
+  "shop": "DoublePlusThink",
+  "shop_url": "https://www.etsy.com/shop/DoublePlusThink",
+  "source": "https://www.etsy.com/shop/DoublePlusThink",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.957358826671291,
+    "item_quality_rating": 4.8642476735783635,
+    "customer_service_rating": 4.940252845903765,
+    "average_rating": 4.85,
+    "total_rating_count": 263,
+    "rating_count_past_year": 263,
+    "sold_count": 1493,
+    "active_listing_count": 0,
+    "create_date": 1671805789,
+    "is_open": true,
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

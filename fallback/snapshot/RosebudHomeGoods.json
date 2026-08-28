@@ -1,0 +1,32 @@
+{
+  "shop": "RosebudHomeGoods",
+  "shop_url": "https://www.etsy.com/shop/RosebudHomeGoods",
+  "source": "https://www.etsy.com/shop/RosebudHomeGoods",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.739325064088781,
+    "item_quality_rating": 4.809532932912221,
+    "customer_service_rating": 4.8039732077815955,
+    "average_rating": 4.77,
+    "total_rating_count": 5284,
+    "rating_count_past_year": 5284,
+    "sold_count": 28633,
+    "active_listing_count": 859,
+    "create_date": 1598225704,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://vm.tiktok.com/ZMJAVvmN6/",
+    "http://Instagram.com/poweredbyrosebud",
+    "http://www.poweredbyrosebud.com",
+    "http://pinterest.com/poweredbyrosebud"
+  ],
+  "ships_from": "US"
+}

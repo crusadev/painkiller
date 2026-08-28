@@ -1,0 +1,29 @@
+{
+  "shop": "HurstProductLab",
+  "shop_url": "https://www.etsy.com/shop/HurstProductLab",
+  "source": "https://www.etsy.com/shop/HurstProductLab",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.969577830323266,
+    "item_quality_rating": 4.888750881840589,
+    "customer_service_rating": 4.98060201894738,
+    "average_rating": 4.91,
+    "total_rating_count": 160,
+    "rating_count_past_year": 160,
+    "sold_count": 882,
+    "active_listing_count": 56,
+    "create_date": 1730765458,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://hurstproductlab.com"
+  ],
+  "ships_from": "US"
+}

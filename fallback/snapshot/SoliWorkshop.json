@@ -1,0 +1,32 @@
+{
+  "shop": "SoliWorkshop",
+  "shop_url": "https://www.etsy.com/shop/SoliWorkshop",
+  "source": "https://www.etsy.com/shop/SoliWorkshop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "TR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.75865246262613,
+    "item_quality_rating": 4.773865716083589,
+    "customer_service_rating": 4.886022075540739,
+    "average_rating": 4.77,
+    "total_rating_count": 903,
+    "rating_count_past_year": 903,
+    "sold_count": 4763,
+    "active_listing_count": 15,
+    "create_date": 1630762532,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://instagram.com/soli.workshop",
+    "http://pinterest.com/soliworkshop",
+    "http://facebook.com/soliworkshop",
+    "https://www.soliworkshop.com"
+  ],
+  "ships_from": "TR"
+}

@@ -1,0 +1,27 @@
+{
+  "shop": "FlexiFactoryStore",
+  "shop_url": "https://www.etsy.com/shop/FlexiFactoryStore",
+  "source": "https://www.etsy.com/shop/FlexiFactoryStore",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.967932600835106,
+    "item_quality_rating": 4.938865150459094,
+    "customer_service_rating": 4.942342668865863,
+    "average_rating": 4.93,
+    "total_rating_count": 5464,
+    "rating_count_past_year": 5464,
+    "sold_count": 46360,
+    "active_listing_count": 63,
+    "create_date": 1641933615,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

@@ -1,0 +1,29 @@
+{
+  "shop": "BadKittyCeramics",
+  "shop_url": "https://www.etsy.com/shop/BadKittyCeramics",
+  "source": "https://www.etsy.com/shop/BadKittyCeramics",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.961433263468966,
+    "item_quality_rating": 4.897794053291108,
+    "customer_service_rating": 4.98927635475384,
+    "average_rating": 4.88,
+    "total_rating_count": 467,
+    "rating_count_past_year": 467,
+    "sold_count": 2986,
+    "active_listing_count": 33,
+    "create_date": 1566302993,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.badkittyceramics.com"
+  ],
+  "ships_from": "US"
+}

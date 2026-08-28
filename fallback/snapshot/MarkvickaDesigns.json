@@ -1,0 +1,27 @@
+{
+  "shop": "MarkvickaDesigns",
+  "shop_url": "https://www.etsy.com/shop/MarkvickaDesigns",
+  "source": "https://www.etsy.com/shop/MarkvickaDesigns",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.947542135063981,
+    "item_quality_rating": 4.955830520702238,
+    "customer_service_rating": 4.9668260183556,
+    "average_rating": 4.95,
+    "total_rating_count": 599,
+    "rating_count_past_year": 599,
+    "sold_count": 3691,
+    "active_listing_count": 75,
+    "create_date": 1685115805,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

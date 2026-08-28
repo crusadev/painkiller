@@ -1,0 +1,27 @@
+{
+  "shop": "HaBins",
+  "shop_url": "https://www.etsy.com/shop/HaBins",
+  "source": "https://www.etsy.com/shop/HaBins",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.619835652652886,
+    "item_quality_rating": 4.737189776479063,
+    "customer_service_rating": 4.702169584354082,
+    "average_rating": 4.66,
+    "total_rating_count": 522,
+    "rating_count_past_year": 522,
+    "sold_count": 12197,
+    "active_listing_count": 1006,
+    "create_date": 1708465369,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [],
+  "ships_from": "GB"
+}

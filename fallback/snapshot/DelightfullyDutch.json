@@ -1,0 +1,31 @@
+{
+  "shop": "DelightfullyDutch",
+  "shop_url": "https://www.etsy.com/shop/DelightfullyDutch",
+  "source": "https://www.etsy.com/shop/DelightfullyDutch",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.918122746040012,
+    "item_quality_rating": 4.90689288089491,
+    "customer_service_rating": 4.927547136158359,
+    "average_rating": 4.9,
+    "total_rating_count": 3297,
+    "rating_count_past_year": 3297,
+    "sold_count": 13282,
+    "active_listing_count": 51,
+    "create_date": 1389730055,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/delightfullydutch3dprinting/",
+    "https://delightfullydutch.myshopify.com/",
+    "https://www.facebook.com/profile.php?id=61577341933209#"
+  ],
+  "ships_from": "US"
+}

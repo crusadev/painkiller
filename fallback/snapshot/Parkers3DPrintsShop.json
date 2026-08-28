@@ -1,0 +1,29 @@
+{
+  "shop": "Parkers3DPrintsShop",
+  "shop_url": "https://www.etsy.com/shop/Parkers3DPrintsShop",
+  "source": "https://www.etsy.com/shop/Parkers3DPrintsShop",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8821768784198625,
+    "item_quality_rating": 4.871564452328404,
+    "customer_service_rating": 4.912668848294076,
+    "average_rating": 4.89,
+    "total_rating_count": 652,
+    "rating_count_past_year": 652,
+    "sold_count": 4243,
+    "active_listing_count": 37,
+    "create_date": 1599413808,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.parkers3dprints.com"
+  ],
+  "ships_from": "US"
+}

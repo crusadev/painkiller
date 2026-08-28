@@ -1,0 +1,26 @@
+{
+  "shop": "UtilityCreations",
+  "shop_url": "https://www.etsy.com/shop/UtilityCreations",
+  "source": "https://www.etsy.com/shop/UtilityCreations",
+  "retrieved_at": "2026-08-28",
+  "collection_note": "Shop-level facts only; no buyer reviews captured.",
+  "reviews": [],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.949776498622592,
+    "item_quality_rating": 4.89026890417542,
+    "customer_service_rating": 4.944966692559147,
+    "average_rating": 4.91,
+    "total_rating_count": 126,
+    "rating_count_past_year": 126,
+    "sold_count": 808,
+    "active_listing_count": 15,
+    "create_date": 1700598138,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": [],
+  "ships_from": "US"
+}

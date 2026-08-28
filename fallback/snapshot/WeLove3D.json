@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/WeLove3D/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "GB",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,25 @@
       "text": "No issues whatsoever - the item is fabulous and my family loves it! But friendly warning to buyers - I'm super dumb and didn't even consider measuring our toothbrushes and my youngest kid's electric toothbrush is too chunky to fit in the hole.  =/ *sigh* **For particulars, he has one of those toothbrushes that are more kid friendly and therefore has a larger, chunkier handle for easier holding. I purchased the black holder with blue trim. Gorgeous but the black DOES show my family's toothpaste spit splatter easily. EW. But not it's fault.",
       "url": "https://www.etsy.com/listing/1788892510/personalised-toothbrush-holder"
     }
+  ],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.871279245575797,
+    "item_quality_rating": 4.891784522528489,
+    "customer_service_rating": 4.895112108589084,
+    "average_rating": 4.88,
+    "total_rating_count": 6281,
+    "rating_count_past_year": 6281,
+    "sold_count": 44990,
+    "active_listing_count": 94,
+    "create_date": 1546161650,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.facebook.com/welove3Duk"
   ]
 }

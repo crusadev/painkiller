@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/Creative3DByBen/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,23 @@
       "text": "Love all my purchases. Great artisan",
       "url": "https://www.etsy.com/listing/4507874239/one-bird-planter-buddy-175-by-1-tall"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.921834782792104,
+    "item_quality_rating": 4.882506463947081,
+    "customer_service_rating": 4.9268748261944975,
+    "average_rating": 4.87,
+    "total_rating_count": 8459,
+    "rating_count_past_year": 8459,
+    "sold_count": 25433,
+    "active_listing_count": 1771,
+    "create_date": 1603818195,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": []
 }

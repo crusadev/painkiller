@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/myJeepDuck/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,29 @@
       "text": "This shop was more than willing to work with me. They were very professional, patient, and kind. If I ever have another similar project, I will be back! Thanks again!",
       "url": "https://www.etsy.com/listing/1762536946/build-your-custom-3d-printed-duck"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.917438938420344,
+    "item_quality_rating": 4.893104277575291,
+    "customer_service_rating": 4.928033873053928,
+    "average_rating": 4.89,
+    "total_rating_count": 2148,
+    "rating_count_past_year": 2148,
+    "sold_count": 8094,
+    "active_listing_count": 282,
+    "create_date": 1722821358,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.instagram.com/thejeepducklife/",
+    "https://www.myjeepduck.com/blogs/news",
+    "https://www.facebook.com/profile.php?id=61572730520676",
+    "http://myjeepduck.com",
+    "https://www.pinterest.com/myjeepduck/"
   ]
 }

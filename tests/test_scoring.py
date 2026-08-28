@@ -21,14 +21,14 @@ def test_hot_lead_qualifies():
 
 
 def test_clean_shop_is_rejected_with_a_reason():
-    l = score_shop(META("SyntheticPass", 900), load("SYNTHETIC_pass.json"), today())
+    l = score_shop(META("SyntheticPass", 2000), load("SYNTHETIC_pass.json"), today())
     assert l["tier"] == "pass", l
     assert l["reasons"], "a rejection must explain itself"
 
 
 def test_rubric_discriminates():
     hot = score_shop(META("SyntheticHot", 3880), load("SYNTHETIC_hot.json"), today())
-    bad = score_shop(META("SyntheticPass", 900), load("SYNTHETIC_pass.json"), today())
+    bad = score_shop(META("SyntheticPass", 2000), load("SYNTHETIC_pass.json"), today())
     assert hot["score"] - bad["score"] >= 25
 
 

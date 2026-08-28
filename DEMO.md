@@ -44,17 +44,20 @@ Open `leads.md`.
 4. **Scroll to "Not qualified"** — this is the part to linger on. The skill
    rejects shops and says why. A rubric that qualifies everything is not a rubric.
 
-**1:50 — The honest finding (20s)**
+**1:50 — The honest finding (25s)**
 
 Across 1,283 real reviews: 96.5% five-star, and **0.2% describe a fulfilment
-failure**. Etsy buyers who wait three weeks still leave five stars. So ranking
-on complaints alone rejects everyone.
+failure**. Complaint text alone ranks nothing.
 
-That is why throughput carries weight. Review velocity — the only public proxy
-for order volume — spreads from 0.3 to 26 per week across these shops.
-Throughput finds who is approaching the ceiling; complaints prove they have hit
-it. No shop in this sample scored `hot`, and the report says so rather than
-inventing one.
+So the top signal is not complaints — it is that Etsy publishes
+`shipping_rating` **separately** from `item_quality_rating`. When shipping sits
+below quality, the seller's own customers are saying the product is fine and
+the delivery is not. Creat3DLab: 4.64 shipping against 4.77 quality, 27,000
+sold, printing in Croatia. That is the pitch, in their buyers' numbers.
+
+And when a shop qualifies on ratings alone, the card says *"no buyer complaint
+quotes in the captured window"* and the opener leads with the numbers instead
+of pretending reviews said something they did not.
 
 **2:10 — Reuse (15s)**
 

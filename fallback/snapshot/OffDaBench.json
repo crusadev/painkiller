@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/OffDaBench/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,25 @@
       "text": "I am so happy with this purchase! I am a crafter and I need all the space I can get from my craft tables and the battery chargers are not cute to have on them ;) so I am happy to put this battery charger on a small wall hitting and not taking space from my tables! Thanks",
       "url": "https://www.etsy.com/listing/1823422909/ryobi-pcg002pcg005-battery-charger-wall"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8411750061286645,
+    "item_quality_rating": 4.827162405823675,
+    "customer_service_rating": 4.906846672674513,
+    "average_rating": 4.72,
+    "total_rating_count": 187,
+    "rating_count_past_year": 187,
+    "sold_count": 934,
+    "active_listing_count": 13,
+    "create_date": 1534103011,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.youtube.com/@OfficialOffDaBench"
   ]
 }

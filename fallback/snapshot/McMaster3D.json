@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/McMaster3D/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,25 @@
       "text": "It really works well for my trimmer",
       "url": "https://www.etsy.com/listing/4362718503/ryobi-hedge-trimmer-wall-mount"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.849694539734157,
+    "item_quality_rating": 4.712306865814487,
+    "customer_service_rating": 4.799475225005076,
+    "average_rating": 4.68,
+    "total_rating_count": 8671,
+    "rating_count_past_year": 8671,
+    "sold_count": 44294,
+    "active_listing_count": 1191,
+    "create_date": 1510590144,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://Mcmaster3d.com"
   ]
 }

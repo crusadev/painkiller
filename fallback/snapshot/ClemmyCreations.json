@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/ClemmyCreations/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "GB",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,27 @@
       "text": "Great work everything was as described, the team is fast to reply and very acommodating.",
       "url": "https://www.etsy.com/listing/4437506485/3d-printing-services-o-custom-3d"
     }
+  ],
+  "shop_facts": {
+    "country_code": "GB",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.823542338797864,
+    "item_quality_rating": 4.854984796411641,
+    "customer_service_rating": 4.909047518355072,
+    "average_rating": 4.87,
+    "total_rating_count": 4673,
+    "rating_count_past_year": 4673,
+    "sold_count": 19480,
+    "active_listing_count": 301,
+    "create_date": 1642642807,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/Clemmycreations",
+    "https://www.instagram.com/clemmycreation/",
+    "http://www.clemmycreations.com"
   ]
 }

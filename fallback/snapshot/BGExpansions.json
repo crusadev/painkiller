@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/BGExpansions/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "ES",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,27 @@
       "text": "Good and as expected. Color is not identical with original cubes but works as intended.",
       "url": "https://www.etsy.com/listing/645978590/lords-of-waterdeep-compatible-upgrade"
     }
+  ],
+  "shop_facts": {
+    "country_code": "ES",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.858511779904169,
+    "item_quality_rating": 4.933656537396142,
+    "customer_service_rating": 4.939533349625256,
+    "average_rating": 4.92,
+    "total_rating_count": 8312,
+    "rating_count_past_year": 8312,
+    "sold_count": 36674,
+    "active_listing_count": 263,
+    "create_date": 1537300540,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://www.facebook.com/bgexpansions",
+    "https://twitter.com/bgExpansions",
+    "https://www.instagram.com/bgexpansions"
   ]
 }

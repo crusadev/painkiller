@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/Creat3DLab/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "HR",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,23 @@
       "text": "I ordered item and was quickly helped by the store informing me of a better option and price. and it was closer to me! the part works perfectly and I am beyond satisfied. it truly was a pleasure doing business.",
       "url": "https://www.etsy.com/listing/4490556334/vesa-mount-adapter-for-dell-alienware"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "HR",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.641218685433848,
+    "item_quality_rating": 4.768924210742602,
+    "customer_service_rating": 4.814587440721436,
+    "average_rating": 4.74,
+    "total_rating_count": 2838,
+    "rating_count_past_year": 2838,
+    "sold_count": 27159,
+    "active_listing_count": 169,
+    "create_date": 1624882037,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": []
 }

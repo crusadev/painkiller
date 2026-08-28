@@ -38,7 +38,7 @@ analysis is the shop.
 | Path | What it is |
 |---|---|
 | `inputs/shops.csv` | Candidate shops: `shop`, `shop_url`, `category`, `est_annual_sales_k`, `years_active`, `ratio_per_year` |
-| `fallback/snapshot/<shop>.json` | Captured public review evidence per shop |
+| `fallback/snapshot/<shop>.json` | Captured public review evidence, shop facts and linked storefronts per shop |
 
 `ratio_per_year` (annual sales ÷ years active) is the intent proxy: a shop
 earning well in a short time is scaling *into* the pain right now.
@@ -64,13 +64,31 @@ the fix is immediate.
 
 | Component | Max | Question |
 |---|---|---|
-| Pain match | 30 | How many distinct failure modes appear, weighted by severity |
-| Recency | 15 | Is the pain live, or history — complaints in the last 90 days |
-| Throughput | 20 | How fast the shop is shipping — review velocity as an order-volume proxy |
-| Volume fit | 20 | Is `ratio_per_year` in the serviceable band (1k–8k) |
-| Corroboration | 15 | Independent confirmations: multiple reviews, stated make time ≥5d, international ships-from |
+| **Fulfilment deficit** | 25 | Does Etsy rate the shop's *shipping* below its *item quality*, and how low is shipping in absolute terms |
+| Pain match | 20 | Which failure modes appear in buyer review text, weighted by severity |
+| Volume fit | 20 | Are real orders/year (from `sold_count` ÷ shop age) inside the serviceable band |
+| Throughput | 15 | How fast the shop is shipping — review velocity as an order-rate proxy |
+| Cross-border exposure | 10 | Does the shop produce outside the US/UK, where most Etsy demand sits |
+| Corroboration | 10 | Independent confirmations: multiple reviews, rating deficit, make time, foreign origin |
+| Recency | 5 | Is the complaint evidence live rather than historical |
 
 **hot** ≥ 60 · **watch** ≥ 35 · **nurture** · **pass** < 35
+
+### Why the fulfilment deficit leads
+
+Etsy publishes `shipping_rating` and `item_quality_rating` as separate numbers.
+When shipping sits below item quality, buyers are saying the product is fine
+and the *delivery* is not — which is precisely the axis a routing layer moves,
+and it is the seller's own customers saying it.
+
+Crucially this signal exists for **every** shop, where complaint text exists for
+almost none (0.2% of the captured corpus). It is what lets the skill rank
+honestly instead of returning an empty list.
+
+A shop qualifying on ratings alone is rendered as such: the evidence block says
+"no buyer complaint quotes in the captured window" and shows the numbers
+instead, and the drafted opener leads with the rating gap rather than claiming
+reviews say something they do not.
 
 ### The `nurture` tier
 
@@ -140,12 +158,19 @@ are irrelevant to the score.
 ## How to run
 
 ```bash
-# 1. Capture evidence (needs APIFY_TOKEN + APIFY_ETSY_ACTOR)
-python3 scripts/capture.py --shops DeltaLoom,Olee3DArt --ships-from DE --market US --processing-days 7
+# 1. Capture buyer reviews
+python3 scripts/capture.py --shops DeltaLoom,Olee3DArt
 
-# 2. Score and render
+# 2. Enrich with shop facts: origin country, Etsy shipping vs quality
+#    ratings, real sold volume, and any linked storefront
+python3 scripts/capture_shop.py
+
+# 3. Score and render
 python3 scripts/qualify.py --limit 3
 ```
+
+Seller identity (name, bio, avatar) is dropped in step 2, exactly as reviewer
+identity is dropped in step 1.
 
 Output: `leads.md` — ranked table, a card per top lead with quoted evidence
 (URL + retrieval date) and a drafted opener, then every rejection with its reason.
@@ -167,9 +192,10 @@ missing, the shop scores low and says so.
 - **`geo_blocked` is near-undetectable in review data.** A buyer who cannot
   order never becomes a reviewer. The signal is retained because it fires on
   shop Q&A and message data, which this capture does not yet reach.
-- **`ships_from` / `primary_buyer_market` are unset.** The review actor does
-  not expose them, so the corroboration component is capped for every shop in
-  the current snapshot. A shop-details actor would lift this.
+- **`primary_buyer_market` is still unset.** `ships_from` now comes from the
+  shop-details actor, but per-shop buyer geography is not public. Cross-border
+  scoring therefore relies on the general fact that Etsy demand is
+  concentrated in the US and UK, which is stated wherever it is used.
 - Matching is lexical. It will miss complaints phrased unusually and in
   languages other than English.
 

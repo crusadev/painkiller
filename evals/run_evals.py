@@ -22,7 +22,7 @@ check("case 1 · ≥3 distinct signals", len(hot["signals"]) >= 3, f"{hot['signa
 check("case 1 · geo_blocked detected", "geo_blocked" in hot["signals"])
 check("case 1 · evidence is dated", all(e.get("date") for e in hot["evidence"]))
 
-cold = score_shop(META("SyntheticPass", 900), load("SYNTHETIC_pass.json"), today())
+cold = score_shop(META("SyntheticPass", 2000), load("SYNTHETIC_pass.json"), today())
 check("case 2 · rejected", cold["tier"] == "pass", f"tier={cold['tier']} score={cold['score']}")
 check("case 2 · rejection explained", bool(cold["reasons"]), "; ".join(cold["reasons"]))
 check("case 2 · rubric discriminates ≥25", hot["score"] - cold["score"] >= 25,

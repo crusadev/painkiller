@@ -368,5 +368,29 @@
       "text": "Polecam. Kot jest  bardzo zadowolony",
       "url": "https://www.etsy.com/listing/608109900/ikea-billy-cat-basket-75-x-25-x-29-cm"
     }
+  ],
+  "shop_facts": {
+    "city": "Potsdam",
+    "region": "Brandenburg",
+    "shipping_rating": 4.890073454962538,
+    "item_quality_rating": 4.835603139006992,
+    "customer_service_rating": 4.884742332160962,
+    "average_rating": 4.83,
+    "total_rating_count": 12635,
+    "rating_count_past_year": 12635,
+    "sold_count": 98316,
+    "active_listing_count": 97,
+    "create_date": 1324135357,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "https://new-swedish-design.de/de/",
+    "https://new-swedish-design.de/de/ikea-hacks/",
+    "https://www.pinterest.de/nsd_de/",
+    "https://www.facebook.com/newswedishdesign",
+    "https://instagram.com/newswedishdesign/",
+    "https://twitter.com/nsd_de"
   ]
 }

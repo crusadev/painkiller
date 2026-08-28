@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/Sander3DPrint/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "NL",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,25 @@
       "text": "Het ziet er goed uit!",
       "url": "https://www.etsy.com/listing/4345424408/gyarados-pokeball-display-3d-printed"
     }
+  ],
+  "shop_facts": {
+    "country_code": "NL",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.9005579561548185,
+    "item_quality_rating": 4.978767993938163,
+    "customer_service_rating": 5.000000000000001,
+    "average_rating": 4.99,
+    "total_rating_count": 63,
+    "rating_count_past_year": 63,
+    "sold_count": 226,
+    "active_listing_count": 108,
+    "create_date": 1746178008,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.facebook.com/profile.php?id=61576891090431"
   ]
 }

@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/LignumAndLight/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,27 @@
       "text": "Perfect for mounting a portable monitor.",
       "url": "https://www.etsy.com/listing/1370310136/tabletkindleipad-holder-for-ikea-skadis"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.945465683816357,
+    "item_quality_rating": 4.9421008257673344,
+    "customer_service_rating": 4.967075753969877,
+    "average_rating": 4.92,
+    "total_rating_count": 3627,
+    "rating_count_past_year": 3627,
+    "sold_count": 23099,
+    "active_listing_count": 157,
+    "create_date": 1663693660,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.JustHangingPegboards.com",
+    "https://www.instagram.com/justhangingpegboards/",
+    "https://www.facebook.com/justhangingpegboards"
   ]
 }

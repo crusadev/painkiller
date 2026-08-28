@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/3DSchmelzwerk/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "DE",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -248,5 +248,22 @@
       "text": "Kl\u00e4r FAZ vff Buch kkkl",
       "url": "https://www.etsy.com/listing/1767841648/premium-cigarette-box"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.916536026328141,
+    "item_quality_rating": 4.840163280683467,
+    "customer_service_rating": 4.757344933540665,
+    "average_rating": 4.83,
+    "total_rating_count": 41,
+    "rating_count_past_year": 41,
+    "sold_count": 449,
+    "active_listing_count": 25,
+    "create_date": 1608729885,
+    "is_open": true,
+    "accepts_custom_requests": true
+  },
+  "related_links": []
 }

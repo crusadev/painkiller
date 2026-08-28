@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/Worldthreedi/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "ES",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,23 @@
       "text": "Fab item\u2026my son loves it",
       "url": "https://www.etsy.com/listing/1869232207/mini-dragon-bookend-hand-painted-fantasy"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "ES",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.92361071817948,
+    "item_quality_rating": 4.940657549372762,
+    "customer_service_rating": 4.929249205474624,
+    "average_rating": 4.93,
+    "total_rating_count": 173,
+    "rating_count_past_year": 173,
+    "sold_count": 591,
+    "active_listing_count": 162,
+    "create_date": 1457892107,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": []
 }

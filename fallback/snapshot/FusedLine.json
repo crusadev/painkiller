@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/FusedLine/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,27 @@
       "text": "Product as described and functions as intended.",
       "url": "https://www.etsy.com/listing/949239746/hopper-extender-breville-oracle-touch"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.897078597546496,
+    "item_quality_rating": 4.862329246645949,
+    "customer_service_rating": 4.9429530538833975,
+    "average_rating": 4.86,
+    "total_rating_count": 7198,
+    "rating_count_past_year": 7198,
+    "sold_count": 36418,
+    "active_listing_count": 63,
+    "create_date": 1606801134,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://aroespresso.com",
+    "https://www.instagram.com/aroespresso/",
+    "https://www.instagram.com/fusedlinedesigns"
   ]
 }

@@ -48,27 +48,10 @@ def score_shop(meta, snap, ref):
 
     all_recent, all_prior = dated(reviews, -1, WINDOW), dated(reviews, WINDOW, 2 * WINDOW)
 
-    # 1. pain match - how many distinct failure modes appear at all
-    ids = sorted({s for h in hits for s in h["signals"]})
-    pain = min(sum(weight(i) for i in ids), 4) / 4 * 30
-
-    # 2. recency - is the pain live, or history
-    recency = min(len(recent), 3) / 3 * 15
-
-    # 3. throughput - how fast the shop is actually shipping orders.
-    # Review dates are the only public proxy for order volume, and on this
-    # corpus they spread across two orders of magnitude. A shop clearing 20
-    # orders a week from one workshop is scaling into the constraint; a shop
-    # clearing one is not, whatever its reviews say.
+    # review velocity + intra-snapshot growth (order-rate proxies)
     dates = sorted(d for r in reviews if (d := parse_date(r.get("date"))))
     span = (dates[-1] - dates[0]).days if len(dates) > 1 else 0
     velocity = (len(dates) / span * 7) if span else 0.0
-    throughput = min(velocity / 12.0, 1.0) * 20
-
-    # Growth from one capture: review rate in the last 90 days vs the 90 before
-    # it. Only meaningful when the snapshot actually spans both windows - a
-    # 60-review cap on a fast shop covers weeks, not months, so we say unknown
-    # rather than guessing.
     n_recent = sum(1 for d in dates if (ref - d).days <= WINDOW)
     n_prior = sum(1 for d in dates if WINDOW < (ref - d).days <= 2 * WINDOW)
     if span >= 2 * WINDOW and n_prior:
@@ -78,67 +61,101 @@ def score_shop(meta, snap, ref):
     else:
         growth = None
 
-    # 4. volume fit - big enough to matter, small enough to need us
-    ratio = meta.get("ratio_per_year") or 0
-    if SWEET_LOW <= ratio <= SWEET_HIGH:
+    # recency of complaint evidence
+    recency = min(len(recent), 3) / 3 * 5
+
+    facts = snap.get("shop_facts") or {}
+    ship_r = facts.get("shipping_rating")
+    qual_r = facts.get("item_quality_rating")
+
+    # 1. Fulfilment deficit - Etsy rates shipping separately from item quality.
+    # When a shop's shipping rating sits below its item-quality rating, buyers
+    # are telling us the product is fine and the delivery is not. That is a
+    # routing problem, and unlike complaint text it exists for every shop.
+    deficit = (qual_r - ship_r) if (ship_r and qual_r) else 0.0
+    fulfilment = (min(max(deficit, 0) / 0.15, 1.0) * 15
+                  + (min(max(4.95 - ship_r, 0) / 0.30, 1.0) * 10 if ship_r else 0))
+
+    # 2. pain match - complaint text, weighted by signal severity
+    ids = sorted({s for h in hits for s in h["signals"]})
+    pain = min(sum(weight(i) for i in ids), 4) / 4 * 20
+
+    # 3. volume fit - real sold volume per year beats the sheet's estimate
+    years = None
+    if facts.get("create_date"):
+        years = max((ref - dt.date.fromtimestamp(facts["create_date"])).days / 365.25, 0.5)
+    sold = facts.get("sold_count")
+    orders_yr = round(sold / years) if (sold and years) else (meta.get("ratio_per_year") or 0)
+    if SWEET_LOW <= orders_yr <= SWEET_HIGH:
         volume = 20.0
-    elif ratio:
-        volume = 20 * max(0.0, 1 - (abs(ratio - (SWEET_LOW if ratio < SWEET_LOW else SWEET_HIGH)) / 6000))
+    elif orders_yr:
+        edge = SWEET_LOW if orders_yr < SWEET_LOW else SWEET_HIGH
+        volume = 20 * max(0.0, 1 - abs(orders_yr - edge) / 6000)
     else:
         volume = 0.0
 
-    # 5. corroboration - independent confirmations, not one angry buyer
+    # 4. throughput - review velocity as an order-rate proxy
+    throughput = min(velocity / 12.0, 1.0) * 15
+
+    # 5. cross-border exposure - Etsy's buyer base is heavily US/UK, so a shop
+    # producing elsewhere ships international on most orders by default.
+    origin = facts.get("country_code") or snap.get("ships_from")
+    cross = 10.0 if (origin and origin not in ("US",)) else (3.0 if origin else 0.0)
+
+    # 6. corroboration - independent confirmations, not one angry buyer
     corro_parts = []
     if len(hits) >= 2:
         corro_parts.append("multiple independent reviews")
+    if deficit > 0.02:
+        corro_parts.append(f"shipping rated {deficit:.2f} below item quality")
     if (snap.get("stated_processing_days") or 0) >= 5:
         corro_parts.append(f"stated make time {snap['stated_processing_days']}d")
-    if snap.get("ships_from") and snap.get("primary_buyer_market") and \
-            snap["ships_from"] != snap["primary_buyer_market"]:
-        corro_parts.append(f"ships {snap['ships_from']}->{snap['primary_buyer_market']}")
-    corro = min(len(corro_parts), 3) / 3 * 15
+    if origin and origin != "US":
+        corro_parts.append(f"produces in {origin}")
+    corro = min(len(corro_parts), 3) / 3 * 10
 
-    total = round(pain + recency + throughput + volume + corro)
+    total = round(fulfilment + pain + volume + throughput + cross + corro + recency)
     tier = "hot" if total >= HOT else "watch" if total >= WATCH else "pass"
 
-    # A shop below the serviceable floor is not a rejection - it is a lead we
-    # are early for. Losing those is how a "too small" prospect gets forgotten
-    # and shows up later as someone else's customer.
-    below_floor = 0 < ratio < SWEET_LOW
+    # Volume floor overrides the score. A shop below it cannot be served today
+    # however strong its other signals, so calling it hot would be wrong - but
+    # discarding it is how a "too small" prospect gets forgotten and turns up
+    # later as someone else's customer.
+    below_floor = 0 < orders_yr < SWEET_LOW
     growing = growth is not None and growth > 1.2
     shrinking = growth is not None and growth < 1.0
-    # Track the small-but-rising. A shop below the floor and *declining* is not
-    # a lead we are early for, it is one we are late for.
-    if tier == "pass" and below_floor and not shrinking and (growing or velocity >= 1.0):
-        tier = "nurture"
+    if below_floor:
+        # Rising or steady -> track it. Declining -> we are late, not early.
+        tier = "pass" if shrinking else "nurture"
 
     reasons = []
     if not hits:
         reasons.append("no fulfilment complaints found in the reviewed window")
     if not recent and hits:
         reasons.append("complaints exist but none in the last 90 days")
-    if ratio and ratio > SWEET_HIGH:
-        reasons.append(f"volume {ratio}/yr above the serviceable band")
-    elif ratio and ratio < SWEET_LOW:
-        reasons.append(f"volume {ratio}/yr below the {SWEET_LOW}/yr floor")
+    if orders_yr and orders_yr > SWEET_HIGH:
+        reasons.append(f"volume {orders_yr} orders/yr above the serviceable band")
+    elif orders_yr and orders_yr < SWEET_LOW:
+        reasons.append(f"volume {orders_yr} orders/yr below the {SWEET_LOW}/yr floor")
     if velocity < 3:
         reasons.append(f"low throughput ({velocity:.1f} reviews/wk) - not yet at the constraint")
     if growth is not None and growth < 1.0:
         reasons.append(f"review rate declining ({growth:.2f}x quarter on quarter)")
 
     months_to_floor = None
-    if below_floor and growth and growth not in (None, float("inf")) and growth > 1.0:
+    if below_floor and orders_yr and growth and growth not in (None, float("inf")) and growth > 1.0:
         import math
         # growth is a per-quarter multiple; how many quarters to close the gap
-        months_to_floor = round(math.log(SWEET_LOW / ratio) / math.log(growth) * 3)
+        months_to_floor = round(math.log(SWEET_LOW / orders_yr) / math.log(growth) * 3)
 
     return {
         "shop": meta["shop"], "shop_url": meta["shop_url"],
-        "category": meta.get("category", ""), "ratio_per_year": ratio,
+        "category": meta.get("category", ""), "ratio_per_year": orders_yr,
         "score": total, "tier": tier,
-        "components": {"pain": round(pain), "recency": round(recency),
-                       "throughput": round(throughput), "volume": round(volume),
-                       "corroboration": round(corro)},
+        "components": {"fulfilment": round(fulfilment), "pain": round(pain),
+                       "volume": round(volume), "throughput": round(throughput),
+                       "cross_border": round(cross), "corroboration": round(corro),
+                       "recency": round(recency)},
         "signals": ids, "corroboration": corro_parts, "reasons": reasons,
         "velocity_per_week": round(velocity, 1),
         "growth_qoq": (None if growth is None else
@@ -146,7 +163,12 @@ def score_shop(meta, snap, ref):
         "months_to_floor": months_to_floor,
         "recheck_days": (30 if growing else 90) if below_floor else None,
         "evidence": sorted(hits, key=lambda h: h.get("date", ""), reverse=True)[:3],
-        "ships_from": snap.get("ships_from"),
+        "ships_from": origin,
+        "shipping_rating": round(ship_r, 2) if ship_r else None,
+        "quality_rating": round(qual_r, 2) if qual_r else None,
+        "shipping_deficit": round(deficit, 3),
+        "sold_count": sold,
+        "related_links": snap.get("related_links") or [],
         "primary_buyer_market": snap.get("primary_buyer_market"),
         "retrieved_at": snap.get("retrieved_at"), "source": snap.get("source"),
         "reviews_seen": len(reviews),
@@ -154,15 +176,23 @@ def score_shop(meta, snap, ref):
 
 
 def opener(lead):
-    # lead with the sharpest signal, not the alphabetically first one
+    """Draft an opener that only claims what the evidence actually supports."""
+    close = ("3DAPI routes each order to a print farm near the customer, so the "
+             "same product ships domestically instead of crossing a border.")
     sig = max(lead["signals"], key=weight, default=None)
-    pain = BY_ID[sig]["label"].lower() if sig else "fulfilment"
-    route = ""
-    if lead.get("ships_from") and lead.get("primary_buyer_market"):
-        route = f" You print in {lead['ships_from']} and most of these buyers are in {lead['primary_buyer_market']}."
-    return (f"Your recent Etsy reviews keep landing on the same thing - {pain}.{route} "
-            f"3DAPI routes each order to a print farm near the customer, so the same "
-            f"product ships domestically instead of crossing a border.")
+    if sig:
+        return (f"Your recent Etsy reviews keep landing on the same thing - "
+                f"{BY_ID[sig]['label'].lower()}. {close}")
+    if lead["shipping_rating"] and lead["shipping_deficit"] > 0:
+        where = (f", printing everything in {lead['ships_from']}"
+                 if lead["ships_from"] and lead["ships_from"] != "US" else "")
+        return (f"Etsy rates your shipping {lead['shipping_rating']} against "
+                f"{lead['quality_rating']} for item quality{where} - buyers rate "
+                f"the product higher than the delivery. {close}")
+    if lead["ships_from"] and lead["ships_from"] != "US":
+        return (f"You produce in {lead['ships_from']} and most Etsy demand sits in "
+                f"the US and UK, so nearly every order crosses a border. {close}")
+    return f"At {lead['ratio_per_year']} orders a year out of one workshop, capacity is the ceiling. {close}"
 
 
 def render(leads, mode, ref):
@@ -188,13 +218,35 @@ def render(leads, mode, ref):
         L.append(f"- **Category:** {l['category']} - est. {l['ratio_per_year']}/yr")
         L.append(f"- **Throughput:** {l['velocity_per_week']} reviews/week (order-volume proxy)")
         if l["ships_from"]:
-            L.append(f"- **Ships from:** {l['ships_from']} -> mostly {l['primary_buyer_market']}")
+            mkt = l.get("primary_buyer_market")
+            L.append(f"- **Produces in:** {l['ships_from']}" +
+                     (f" -> mostly {mkt}" if mkt else " (Etsy demand is largely US/UK)"))
+        if l["shipping_rating"]:
+            L.append(f"- **Etsy ratings:** shipping {l['shipping_rating']} vs "
+                     f"item quality {l['quality_rating']} "
+                     f"(deficit {l['shipping_deficit']:+.2f})")
+        if l["sold_count"]:
+            L.append(f"- **Sold to date:** {l['sold_count']:,}")
+        if l["related_links"]:
+            L.append(f"- **Other storefronts:** {', '.join(l['related_links'][:4])}")
         L.append(f"- **Score breakdown:** " + ", ".join(f"{k} {v}" for k, v in l["components"].items()))
-        L.append(f"\n**Mapped pain**\n")
-        for s in l["signals"]:
-            t = BY_ID[s]
-            L.append(f"- *{t['label']}* - {t['means']} -> {t['fix']}")
+        if l["signals"]:
+            L.append(f"\n**Mapped pain**\n")
+            for s in l["signals"]:
+                t = BY_ID[s]
+                L.append(f"- *{t['label']}* - {t['means']} -> {t['fix']}")
         L.append(f"\n**Evidence** (retrieved {l['retrieved_at']}, source: {l['source']})\n")
+        if not l["evidence"]:
+            L.append("*No buyer complaint quotes in the captured window.* This "
+                     "shop qualifies on shop-level evidence only:\n")
+            if l["shipping_rating"]:
+                L.append(f"- Etsy rates its shipping **{l['shipping_rating']}** against "
+                         f"item quality **{l['quality_rating']}** — buyers rate the "
+                         f"product above the delivery.")
+            if l["ships_from"] and l["ships_from"] != "US":
+                L.append(f"- Produces in **{l['ships_from']}**, so most Etsy orders "
+                         f"cross a border.")
+            L.append("")
         for e in l["evidence"]:
             labels = ", ".join(BY_ID[s]["label"] for s in e["signals"])
             txt = e["text"].strip().replace("\n", " ")

@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/BKPrint3D/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,26 @@
       "text": "Pieces are lovely and well-made.",
       "url": "https://www.etsy.com/listing/1012975446/replacement-sets-for-catan-custom-pieces"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.934339075488452,
+    "item_quality_rating": 4.970316594804631,
+    "customer_service_rating": 4.9535168789108655,
+    "average_rating": 4.96,
+    "total_rating_count": 5137,
+    "rating_count_past_year": 5137,
+    "sold_count": 27965,
+    "active_listing_count": 75,
+    "create_date": 1582513088,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://bkprint3d.com",
+    "http://instagram.com/bkprint3d"
   ]
 }

@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/TinkerStudio3D/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,23 @@
       "text": "perfect match and great customer service",
       "url": "https://www.etsy.com/listing/1720637292/bosch-4a-e-bike-charger-wall-mount"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.830068166065371,
+    "item_quality_rating": 4.837186974382056,
+    "customer_service_rating": 4.886059451674345,
+    "average_rating": 4.83,
+    "total_rating_count": 1947,
+    "rating_count_past_year": 1947,
+    "sold_count": 12993,
+    "active_listing_count": 247,
+    "create_date": 1710140400,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": []
 }

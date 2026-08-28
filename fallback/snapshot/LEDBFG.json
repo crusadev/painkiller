@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/LEDBFG/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,26 @@
       "text": "Arrived on time and as expected",
       "url": "https://www.etsy.com/listing/4299685414/large-wand-stand-display-table-top-or"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.939082631438214,
+    "item_quality_rating": 4.903493805916064,
+    "customer_service_rating": 4.941165626870893,
+    "average_rating": 4.91,
+    "total_rating_count": 6998,
+    "rating_count_past_year": 6998,
+    "sold_count": 42072,
+    "active_listing_count": 117,
+    "create_date": 1533926537,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "http://www.instagram.com/paintpourstore",
+    "http://www.paintpourstore.com"
   ]
 }

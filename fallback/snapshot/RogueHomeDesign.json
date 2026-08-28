@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/RogueHomeDesign/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,23 @@
       "text": "Great Etsy experience, seller was able to modify options for purchase",
       "url": "https://www.etsy.com/listing/1650185342/cat-steps-wall-mounted-cat-steps-pet"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.934201402356633,
+    "item_quality_rating": 4.912282134681974,
+    "customer_service_rating": 4.928367990400875,
+    "average_rating": 4.91,
+    "total_rating_count": 6888,
+    "rating_count_past_year": 6888,
+    "sold_count": 38291,
+    "active_listing_count": 41,
+    "create_date": 1551240582,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": []
 }

@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/MouseDenGames/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "CZ",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,25 @@
       "text": "Alles super! Sehr gute Qualit\u00e4t und absolut Hilfreiche Gadgets!",
       "url": "https://www.etsy.com/listing/1103519064/gloomhaven-card-stands-for-monster-and"
     }
+  ],
+  "shop_facts": {
+    "country_code": "CZ",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.8928898031307995,
+    "item_quality_rating": 4.896665509153739,
+    "customer_service_rating": 4.935545230943342,
+    "average_rating": 4.9,
+    "total_rating_count": 7648,
+    "rating_count_past_year": 7648,
+    "sold_count": 29613,
+    "active_listing_count": 156,
+    "create_date": 1584170471,
+    "is_open": true,
+    "shop_highlight": "Buyers are raving! This shop got multiple 5-star reviews in the past 7 days.",
+    "accepts_custom_requests": true
+  },
+  "related_links": [
+    "https://www.instagram.com/mousedengames/"
   ]
 }

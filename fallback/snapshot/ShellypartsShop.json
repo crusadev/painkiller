@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/ShellypartsShop/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "DE",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -266,5 +266,22 @@
       "text": "Ist halt 3d Drucker Qualit\u00e4t. Aber keine besonders gute",
       "url": "https://www.etsy.com/listing/1786294902/gehause-fur-shelly-em-und-25"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "DE",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.823979012208944,
+    "item_quality_rating": 4.722098493686592,
+    "customer_service_rating": 4.684689292265955,
+    "average_rating": 4.72,
+    "total_rating_count": 45,
+    "rating_count_past_year": 45,
+    "sold_count": 507,
+    "active_listing_count": 37,
+    "create_date": 1683925593,
+    "is_open": true,
+    "accepts_custom_requests": false
+  },
+  "related_links": []
 }

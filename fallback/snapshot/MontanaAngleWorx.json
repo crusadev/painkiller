@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/MontanaAngleWorx/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,28 @@
       "text": "Holder arrived on time and I was very impressed with the quality. Unfortunately I didn\u2019t pay attention to the description and the magnets don\u2019t hold in my aluminum bed so I asked seller for suggestions to fix it and had my answer in less than an hour. Would definitely buy from again.",
       "url": "https://www.etsy.com/listing/1898843767/updated-archoil-diesel-additive-holder"
     }
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.815798788948351,
+    "item_quality_rating": 4.902441772731041,
+    "customer_service_rating": 4.866205688800507,
+    "average_rating": 4.87,
+    "total_rating_count": 235,
+    "rating_count_past_year": 235,
+    "sold_count": 1428,
+    "active_listing_count": 8,
+    "create_date": 1411749189,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. A buyer bought a gift from this shop and gave it a 5-star review!",
+    "accepts_custom_requests": false
+  },
+  "related_links": [
+    "http://www.montanaangleworx.com",
+    "https://www.pinterest.com/MTAngleWorx/",
+    "https://instagram.com/montana_angle_worx/",
+    "https://www.facebook.com/pages/Montana-Angle-Worx/1485616431681745"
   ]
 }

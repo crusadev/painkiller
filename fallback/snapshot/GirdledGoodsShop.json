@@ -4,7 +4,7 @@
   "source": "https://www.etsy.com/shop/GirdledGoodsShop/reviews",
   "retrieved_at": "2026-08-28",
   "collection_note": "Public buyer reviews. Reviewer identity not collected.",
-  "ships_from": null,
+  "ships_from": "US",
   "primary_buyer_market": null,
   "stated_processing_days": null,
   "reviews": [
@@ -368,5 +368,23 @@
       "text": "Was so happy to order this item. Carlos was wonderful to communicate with and I really appreciate that he took the time to custom make one of the torso's for me. My bf loved his gift and I, of course, loved receiving my red one since I'm such a DeadPool fan. Thank you again for such great work and expedient delivery.",
       "url": "https://www.etsy.com/listing/1385510286/muscular-male-booty-planter-with-harness"
     }
-  ]
+  ],
+  "shop_facts": {
+    "country_code": "US",
+    "city": "",
+    "region": "",
+    "shipping_rating": 4.893612948199399,
+    "item_quality_rating": 4.912950844210869,
+    "customer_service_rating": 4.999999999999998,
+    "average_rating": 4.7,
+    "total_rating_count": 104,
+    "rating_count_past_year": 104,
+    "sold_count": 373,
+    "active_listing_count": 17,
+    "create_date": 1664213458,
+    "is_open": true,
+    "shop_highlight": "Top shop for gifts. Buyers bought gifts from this shop and gave them 5-star reviews!",
+    "accepts_custom_requests": false
+  },
+  "related_links": []
 }

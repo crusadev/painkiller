@@ -22,16 +22,16 @@ stores the identity of a buyer or a seller.
 
 1. Codex is open at the repository root.
 2. Paste [`demo/seed-prompt.md`](demo/seed-prompt.md).
-3. Watch for: `376 scored ({'hot': 17, ...}) -> demo/output/leads.md` — it runs
-   with no credentials and takes under a second.
+3. Watch for: `376 scored ({'hot': 17, 'watch': 64, 'pass': 83}) -> demo/output/leads.md`
+   — it runs with no credentials and takes about a fifth of a second.
 4. If nothing visible after 60 seconds, open the fallback:
    [`demo/output/leads.md`](demo/output/leads.md)
 
 ## Show this — 25 seconds
 
 **Result:** a ranked list of 376 shops. Scroll to **QuantumQuill3D** at the top:
-Canada, Etsy rates its shipping 4.52 against 4.72 for item quality, and four
-buyers describe slow shipping. Then scroll to **"Not qualified"** — the skill
+Canada, Etsy rates its shipping 4.52 against 4.72 for item quality, and three
+buyers describe slow shipping — two of them in five-star reviews. Then scroll to **"Not qualified"** — the skill
 rejects 83 shops and says why for each.
 
 **Evidence:** every quote carries its star rating, date and a link to the

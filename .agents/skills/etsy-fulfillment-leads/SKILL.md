@@ -166,8 +166,8 @@ python3 scripts/capture.py --shops DeltaLoom,Olee3DArt
 #    ratings, real sold volume, and any linked storefront
 python3 scripts/capture_shop.py
 
-# 3. Score and render
-python3 scripts/qualify.py --limit 3
+# 3. Score and render the whole list (~0.2s)
+python3 scripts/qualify.py
 ```
 
 Seller identity (name, bio, avatar) is dropped in step 2, exactly as reviewer
@@ -184,7 +184,9 @@ committed snapshot in `fallback/snapshot/` instead of fetching, prints
 at the top of `demo/output/leads.md`. Nothing is fabricated to fill the gap: if evidence is
 missing, the shop scores low and says so.
 
-`--limit` defaults to 3 so a run finishes inside the 75-second judging gate.
+Scoring the full 376-shop snapshot takes about 0.2 seconds, well inside the
+75-second gate, so there is no cap by default. `--limit N` scores only the
+first N shops and is for quick checks, not for producing the report.
 
 ## Known limits
 

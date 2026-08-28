@@ -3,7 +3,7 @@
   "skill_path": ".agents/skills/etsy-fulfillment-leads/SKILL.md",
   "team": [
     {
-      "name": "",
+      "name": "3DAPI",
       "github": "crusadev",
       "email": "dev@dapi.digital"
     }
@@ -53,5 +53,6 @@
     "reviews": 1283,
     "note": "22 of 411 shops captured; rubric scores 55/100 from shop facts alone, so the full list can be ranked without per-shop review capture"
   },
-  "commit_sha_note": "Self-referential by nature: this names the commit the manifest was written against. The submission issue carries the authoritative SHA."
+  "commit_sha_note": "Self-referential by nature: this names the commit the manifest was written against. The submission issue carries the authoritative SHA.",
+  "team_name": "3DAPI"
 }

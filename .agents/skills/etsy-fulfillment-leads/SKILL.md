@@ -12,6 +12,55 @@ evidence-backed lead list**: which shops are visibly hitting the limits of
 printing everything in one place, what specifically is breaking, and the quoted
 buyer review that proves it.
 
+## Steps
+
+Run these. Do not score the shops by reading the CSV yourself — the rubric is
+implemented in `scripts/qualify.py` and must be applied by it, so that every
+number in the report is reproducible.
+
+1. **Score the list.** From the repository root:
+
+   ```bash
+   python3 scripts/qualify.py
+   ```
+
+   No credentials, no network, no installs. Pure Python standard library.
+   It reads `demo/input/shops.csv` and the committed evidence in
+   `fallback/snapshot/`, and writes `demo/output/leads.md`.
+
+2. **Read back the console line.** It reports how many shops were scored, the
+   tier counts, and the data mode — for example:
+
+   ```
+   376 scored ({'hot': 17, 'watch': 64, 'pass': 83}) -> demo/output/leads.md
+   [committed snapshot, captured 2026-08-28 — no APIFY_TOKEN, cannot refresh]
+   ```
+
+3. **Open `demo/output/leads.md`** and surface, in this order: the top-ranked
+   shop with its quoted buyer evidence, and the `Not qualified` section showing
+   what was rejected and why.
+
+4. **Optional, needs `APIFY_TOKEN`.** To refresh evidence rather than score the
+   committed snapshot, see [Capturing new evidence](#capturing-new-evidence).
+
+**Done when** `demo/output/leads.md` exists, states its data mode and capture
+date in the header, ranks every shop with a tier, and every qualified lead
+carries either a quoted review with a source URL and date, or an explicit line
+saying no complaint quotes were found.
+
+**If it fails:** with no snapshot in `fallback/snapshot/` the script exits
+non-zero with `no snapshots - run scripts/capture.py first`. That is correct
+behaviour — it refuses rather than inventing evidence. Do not fabricate a
+result to fill the gap.
+
+## Inputs and outputs
+
+| | |
+|---|---|
+| Input | `demo/input/shops.csv` — `shop`, `shop_url`, `website`, `category` |
+| Evidence | `fallback/snapshot/<shop>.json` — buyer reviews, shop facts, linked storefronts |
+| Output | `demo/output/leads.md` — ranked table, lead cards with quoted evidence and drafted openers, and every rejection with its reason |
+
 ## Why these signals qualify a lead
 
 Every complaint in the taxonomy below is a symptom of **one** root cause: the
@@ -32,17 +81,6 @@ public complaint into a qualified, timed sales conversation.
 
 Do not use it to evaluate individual buyers, or any person. The unit of
 analysis is the shop.
-
-## Inputs
-
-| Path | What it is |
-|---|---|
-| `demo/input/shops.csv` | Candidate shops: `shop`, `shop_url`, `website`, `category` |
-| `fallback/snapshot/<shop>.json` | Captured public review evidence, shop facts and linked storefronts per shop |
-
-Volume is not taken from the input list. `scripts/capture_shop.py` retrieves
-Etsy's own `sold_count` per shop, divided by shop age, so the serviceability
-band is checked against a real figure rather than an estimate.
 
 ## Pain taxonomy
 
@@ -156,7 +194,10 @@ are irrelevant to the score.
   is out of scope.
 - `tests/test_scoring.py` asserts these properties.
 
-## How to run
+## Capturing new evidence
+
+Only needed to refresh the committed snapshot. Requires `APIFY_TOKEN` in
+`.env`; the scoring path above needs neither.
 
 ```bash
 # 1. Capture buyer reviews

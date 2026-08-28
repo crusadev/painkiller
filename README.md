@@ -46,6 +46,7 @@ python3 scripts/capture.py --shops DeltaLoom,Olee3DArt --ships-from DE --market 
 | `fallback/snapshot/` | Committed evidence for credential-free runs |
 | `evals/` | Three evaluation cases + runner |
 | `DEMO.md` | 2.5-minute runsheet |
+| `HANDOFF.md` | Picking this up cold: state, gotchas, open work |
 
 ## Privacy
 

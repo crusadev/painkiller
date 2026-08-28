@@ -115,6 +115,16 @@ td a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule)}
 tr.hot td:first-child{box-shadow:inset 2px 0 0 var(--flag)}
 .foot{font-size:11.5px;color:var(--ink2);margin-top:16px;line-height:1.6;letter-spacing:.03em}
 .foot a{color:var(--stamp)}
+details.rej{border-top:2px solid var(--ink);border-bottom:2px solid var(--ink);margin:0}
+details.rej summary{list-style:none;cursor:pointer;padding:14px 0;display:flex;gap:0 28px;
+ flex-wrap:wrap;font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+details.rej summary::-webkit-details-marker{display:none}
+details.rej summary b{color:var(--ink);font-size:15px;margin-right:5px}
+details.rej summary .hot b{color:var(--flag)}
+details.rej summary .more{margin-left:auto;color:var(--stamp);border-bottom:1px solid var(--stamp)}
+details.rej[open] summary .more::after{content:" \2014 hide"}
+details.rej:not([open]) summary .more::after{content:" \2014 show reasons"}
+details.rej .why{padding:0 0 18px}
 @media(max-width:640px){.wrap{padding:0 16px 48px}.lay i{width:70px}.short{margin-left:82px}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 '''
@@ -158,11 +168,20 @@ def render(leads, meta, by_id):
              '<em>&ldquo;It took about two months to arrive&rdquo;</em> &mdash; five stars, '
              'and the buyer recommends the shop. Filter on rating and you find nothing.</p></div>')
 
-    P.append('<div class="tally">'
+    rej = sorted([l for l in leads if l["tier"] == "pass"], key=lambda x: -x["score"])
+    P.append('<details class="rej"><summary>'
              f'<span class="hot"><b>{c["hot"]}</b>hot</span>'
              f'<span><b>{c["watch"]}</b>watch</span>'
              f'<span><b>{c["nurture"]}</b>tracked below floor</span>'
-             f'<span><b>{c["pass"]}</b>rejected, with reasons</span></div>')
+             f'<span><b>{c["pass"]}</b>rejected</span>'
+             '<span class="more">every rejection</span></summary>'
+             '<div class="why"><table><tr><th>Shop</th><th class="n">Score</th>'
+             '<th class="n">Reviews read</th><th>Why not</th></tr>')
+    for l in rej:
+        P.append(f'<tr><td><a href="{e(l["shop_url"])}">{e(l["shop"])}</a></td>'
+                 f'<td class="n">{l["score"]}</td><td class="n">{l["reviews_seen"]}</td>'
+                 f'<td>{e("; ".join(l["reasons"]) or "signals too weak")}</td></tr>')
+    P.append('</table></div></details>')
 
     P.append('<h2>Call these first</h2>')
     for i, l in enumerate(shown, 1):

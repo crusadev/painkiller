@@ -93,7 +93,7 @@ reviews say something they do not.
 
 ### The `nurture` tier
 
-A shop below the serviceable floor (`ratio_per_year` < 1000) is not a
+A shop below the serviceable floor (1200 orders/year) is not a
 rejection — it is a lead we are **early for**. Dropping those is how a
 prospect that was "too small" quietly becomes someone else's customer.
 

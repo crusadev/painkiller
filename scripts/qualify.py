@@ -18,10 +18,10 @@ SNAPSHOT = ROOT / "fallback" / "snapshot"
 
 HOT, WATCH = 60, 35
 # Serviceable band in *orders per year* (Etsy sold_count / shop age).
-# Floor: 500 orders/month is the volume that makes an account worth opening.
+# Floor: 1200 orders/year is the volume that makes an account worth opening.
 # Ceiling sits above anything observed - a larger shop is a better account,
 # not a worse one - so it exists only to keep the scoring curve bounded.
-SWEET_LOW, SWEET_HIGH = 6000, 50000
+SWEET_LOW, SWEET_HIGH = 1200, 50000
 WINDOW = 90
 
 

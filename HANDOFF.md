@@ -53,7 +53,7 @@ python3 -c "import sys;sys.path.insert(0,'tests');import test_scoring as t;\
 | Shops with full review capture | 22 |
 | Reviews captured | 1,283 |
 | Linked storefronts discovered | 195 |
-| Ranking | 6 hot · 83 watch · 107 pass · 180 nurture |
+| Ranking | 6 hot · 75 watch · 83 pass · 212 nurture |
 | Top lead | Creat3DLab — shipping 4.64 vs quality 4.77, 27k sold, prints in HR |
 | Submission | filed from commit `2c443cb`, repo `crusadev/painkiller` |
 
@@ -75,7 +75,7 @@ python3 -c "import sys;sys.path.insert(0,'tests');import test_scoring as t;\
 Fulfilment deficit 25 · Pain match 20 · Volume fit 20 · Throughput 15 ·
 Cross-border 10 · Corroboration 10 · Recency 5.
 
-**hot** ≥60 · **watch** ≥35 · **pass** <35. The volume floor (1000 orders/yr)
+**hot** ≥60 · **watch** ≥35 · **pass** <35. The volume floor (1200 orders/yr)
 **overrides** the tier: below it a shop becomes `nurture` if steady or rising,
 `pass` if declining. A shop below the floor cannot be served today, but
 discarding it is how a "too small" prospect turns up later as someone else's
@@ -137,10 +137,11 @@ The lead is the **shop**. Everyone else is irrelevant to the score.
    capture per shop (~$0.30/shop at 60 reviews), which is the main cost driver
    for going wide.
 
-   The floor is now **6000 orders/yr** (500/month), set by the team. At that
-   floor only 19 of 376 shops clear on lifetime average, and on current-rate
-   estimates only one does. Distribution of lifetime averages: p25 = 501,
-   p50 = 1,014, p75 = 1,913, p90 = 3,673, max 21,445.
+   The floor is **1200 orders/yr**, set by the team after seeing that a
+   500-orders/month floor left only 19 of 376 shops serviceable and zero
+   scoring hot — the shops above that bar mostly have healthy shipping ratings,
+   while the fulfilment deficits sit below it. Distribution of lifetime
+   averages: p25 = 501, p50 = 1,014, p75 = 1,913, p90 = 3,673, max 21,445.
 
 2. **Second review-capture pass over the top of the ranking.** Shop facts now
    cover 376 shops; reviews cover only the original 22. Capture reviews for the

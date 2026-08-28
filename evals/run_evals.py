@@ -28,6 +28,19 @@ check("case 2 · rejection explained", bool(cold["reasons"]), "; ".join(cold["re
 check("case 2 · rubric discriminates ≥25", hot["score"] - cold["score"] >= 25,
       f"{hot['score']} vs {cold['score']}")
 
+grow = json.loads((FIX / "SYNTHETIC_hot.json").read_text())
+# Span must cover both 90-day windows or growth is correctly reported unknown.
+recent = ["2026-06-05", "2026-06-18", "2026-07-01", "2026-07-09", "2026-07-20",
+          "2026-08-01", "2026-08-08", "2026-08-14", "2026-08-20", "2026-08-25"]
+prior = ["2026-02-20", "2026-04-10", "2026-05-10"]
+grow["reviews"] = [{"rating": 5, "date": d, "text": "Lovely, thank you", "url": "u"}
+                   for d in prior + recent]
+small = score_shop(META("SyntheticSmall", 300), grow, today())
+check("case 4 · small but rising is nurtured", small["tier"] == "nurture",
+      f"tier={small['tier']} growth={small['growth_qoq']}")
+check("case 4 · states gap and recheck", small["recheck_days"] is not None,
+      f"recheck={small['recheck_days']}d")
+
 env = {k: v for k, v in os.environ.items() if k not in ("APIFY_TOKEN", "APIFY_ETSY_ACTOR")}
 t0 = time.time()
 p = subprocess.run([sys.executable, str(ROOT / "scripts" / "qualify.py"), "--limit", "3"],

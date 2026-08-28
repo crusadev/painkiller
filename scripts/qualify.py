@@ -65,6 +65,19 @@ def score_shop(meta, snap, ref):
     velocity = (len(dates) / span * 7) if span else 0.0
     throughput = min(velocity / 12.0, 1.0) * 20
 
+    # Growth from one capture: review rate in the last 90 days vs the 90 before
+    # it. Only meaningful when the snapshot actually spans both windows - a
+    # 60-review cap on a fast shop covers weeks, not months, so we say unknown
+    # rather than guessing.
+    n_recent = sum(1 for d in dates if (ref - d).days <= WINDOW)
+    n_prior = sum(1 for d in dates if WINDOW < (ref - d).days <= 2 * WINDOW)
+    if span >= 2 * WINDOW and n_prior:
+        growth = n_recent / n_prior
+    elif span >= 2 * WINDOW and n_recent:
+        growth = float("inf")
+    else:
+        growth = None
+
     # 4. volume fit - big enough to matter, small enough to need us
     ratio = meta.get("ratio_per_year") or 0
     if SWEET_LOW <= ratio <= SWEET_HIGH:
@@ -88,15 +101,36 @@ def score_shop(meta, snap, ref):
     total = round(pain + recency + throughput + volume + corro)
     tier = "hot" if total >= HOT else "watch" if total >= WATCH else "pass"
 
+    # A shop below the serviceable floor is not a rejection - it is a lead we
+    # are early for. Losing those is how a "too small" prospect gets forgotten
+    # and shows up later as someone else's customer.
+    below_floor = 0 < ratio < SWEET_LOW
+    growing = growth is not None and growth > 1.2
+    shrinking = growth is not None and growth < 1.0
+    # Track the small-but-rising. A shop below the floor and *declining* is not
+    # a lead we are early for, it is one we are late for.
+    if tier == "pass" and below_floor and not shrinking and (growing or velocity >= 1.0):
+        tier = "nurture"
+
     reasons = []
     if not hits:
         reasons.append("no fulfilment complaints found in the reviewed window")
     if not recent and hits:
         reasons.append("complaints exist but none in the last 90 days")
-    if ratio and not (SWEET_LOW <= ratio <= SWEET_HIGH):
-        reasons.append(f"volume {ratio}/yr outside serviceable band")
+    if ratio and ratio > SWEET_HIGH:
+        reasons.append(f"volume {ratio}/yr above the serviceable band")
+    elif ratio and ratio < SWEET_LOW:
+        reasons.append(f"volume {ratio}/yr below the {SWEET_LOW}/yr floor")
     if velocity < 3:
         reasons.append(f"low throughput ({velocity:.1f} reviews/wk) - not yet at the constraint")
+    if growth is not None and growth < 1.0:
+        reasons.append(f"review rate declining ({growth:.2f}x quarter on quarter)")
+
+    months_to_floor = None
+    if below_floor and growth and growth not in (None, float("inf")) and growth > 1.0:
+        import math
+        # growth is a per-quarter multiple; how many quarters to close the gap
+        months_to_floor = round(math.log(SWEET_LOW / ratio) / math.log(growth) * 3)
 
     return {
         "shop": meta["shop"], "shop_url": meta["shop_url"],
@@ -107,6 +141,10 @@ def score_shop(meta, snap, ref):
                        "corroboration": round(corro)},
         "signals": ids, "corroboration": corro_parts, "reasons": reasons,
         "velocity_per_week": round(velocity, 1),
+        "growth_qoq": (None if growth is None else
+                       ("new activity" if growth == float("inf") else round(growth, 2))),
+        "months_to_floor": months_to_floor,
+        "recheck_days": (30 if growing else 90) if below_floor else None,
         "evidence": sorted(hits, key=lambda h: h.get("date", ""), reverse=True)[:3],
         "ships_from": snap.get("ships_from"),
         "primary_buyer_market": snap.get("primary_buyer_market"),
@@ -166,6 +204,27 @@ def render(leads, mode, ref):
                 L.append(f"> · [source]({e['url']})")
             L.append("")
         L.append(f"**Opener**\n\n> {opener(l)}\n")
+
+    nurture = sorted([l for l in leads if l["tier"] == "nurture"],
+                     key=lambda x: -(x["ratio_per_year"] or 0))
+    if nurture:
+        L.append(f"\n## Watchlist — too small today ({len(nurture)})\n")
+        L.append("Below the serviceable floor, but moving. These are not "
+                 "rejections; they are leads we are early for. Re-run on the "
+                 "recheck cadence and they surface when they cross.\n")
+        L.append("| Shop | Est. /yr | Gap to floor | Throughput | Growth (QoQ) | Est. crossing | Recheck |")
+        L.append("|---|---|---|---|---|---|---|")
+        for l in nurture:
+            g = l["growth_qoq"]
+            gtxt = "unknown" if g is None else (g if isinstance(g, str) else f"{g}x")
+            cross = f"~{l['months_to_floor']} mo" if l["months_to_floor"] else "—"
+            L.append(f"| [{l['shop']}]({l['shop_url']}) | {l['ratio_per_year']} | "
+                     f"{SWEET_LOW - l['ratio_per_year']} | {l['velocity_per_week']}/wk | "
+                     f"{gtxt} | {cross} | {l['recheck_days']}d |")
+        L.append("\n*Growth compares review rate in the last 90 days against the "
+                 "90 before it, inside one capture. It reads `unknown` when the "
+                 "snapshot does not span both windows — capture more history for "
+                 "those shops rather than assuming.*\n")
 
     passed = [l for l in leads if l["tier"] == "pass"]
     L.append(f"\n## Not qualified ({len(passed)})\n")

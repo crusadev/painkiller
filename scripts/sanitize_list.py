@@ -11,8 +11,14 @@ OUT = pathlib.Path(sys.argv[2])
 
 SHOP_RE = re.compile(r"etsy\.com/shop/([A-Za-z0-9_-]+)")
 EMAIL_RE = re.compile(r"[^@\s]+@[^@\s]+\.[A-Za-z]{2,}")
+DOMAIN_RE = re.compile(
+    r"(?:https?://)?(?:www\.)?[a-z0-9][a-z0-9-]*(?:\.[a-z0-9-]+)*"
+    r"\.(?:com|net|io|co|shop|store|games|eu|de|uk|ca|au|nl|fr|es|it|pl)"
+    r"(?:/[^\s,\"]*)?", re.I)
+FREEMAIL = {"gmail.com", "outlook.com", "yahoo.com", "hotmail.com", "icloud.com"}
 
 WANT = {
+    "website": ("website",),
     "category": ("category",),
     "sales": ("sales if available",),
     "years": ("years if available",),
@@ -63,6 +69,17 @@ def main():
                 return raw[i] if i is not None and i < len(raw) else ""
 
             category = EMAIL_RE.sub("", cell("category")).strip().strip('"')
+            # Public storefront domain, where the team recorded one. Email
+            # addresses sometimes landed in this column - drop those.
+            # The column mixes real domains with page titles; keep only a
+            # domain, and drop the free-mail addresses that landed here.
+            site = ""
+            m2 = DOMAIN_RE.search(EMAIL_RE.sub("", cell("website")))
+            if m2:
+                d = m2.group(0).rstrip("/").lower()
+                d = d.split("//")[-1].removeprefix("www.")
+                if d.split("/")[0] not in FREEMAIL:
+                    site = d
             sales, years = num(cell("sales")), num(cell("years"))
             ratio = num(cell("ratio"))
             if ratio is None and sales and years:
@@ -70,6 +87,7 @@ def main():
             rows.append({
                 "shop": shop,
                 "shop_url": f"https://www.etsy.com/shop/{shop}",
+                "website": site,
                 "category": category,
                 "est_annual_sales_k": sales if sales is not None else "",
                 "years_active": years if years is not None else "",

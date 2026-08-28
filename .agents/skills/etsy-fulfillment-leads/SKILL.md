@@ -70,7 +70,37 @@ the fix is immediate.
 | Volume fit | 20 | Is `ratio_per_year` in the serviceable band (1k–8k) |
 | Corroboration | 15 | Independent confirmations: multiple reviews, stated make time ≥5d, international ships-from |
 
-**hot** ≥ 60 · **watch** ≥ 35 · **pass** < 35
+**hot** ≥ 60 · **watch** ≥ 35 · **nurture** · **pass** < 35
+
+### The `nurture` tier
+
+A shop below the serviceable floor (`ratio_per_year` < 1000) is not a
+rejection — it is a lead we are **early for**. Dropping those is how a
+prospect that was "too small" quietly becomes someone else's customer.
+
+So a small shop whose review rate is *rising* is tiered `nurture` rather than
+`pass`, and the report gives its gap to the floor, its quarter-on-quarter
+growth, an estimated crossing time, and a recheck cadence (30 days if growing,
+90 otherwise). A small shop whose rate is *declining* stays `pass` — that is a
+lead we are late for, not early.
+
+Growth is measured inside a single capture: review rate in the last 90 days
+against the 90 before it. It reads `unknown` when the snapshot does not span
+both windows, which is what happens when a per-shop review cap truncates a busy
+shop's history. Capture more history for those shops rather than assuming.
+
+### Star ratings are not used
+
+Nothing in the rubric reads the star rating. Buyers routinely bury a real
+fulfilment complaint inside praise — "took three weeks but the seller was
+great", "worth the wait" — and on the captured corpus **every fulfilment signal
+found sits in a five-star review**. Filtering by rating would have discarded
+all of them.
+
+Matching therefore runs per *clause*, splitting on contrastive connectives
+(but, however, although), so praise in one clause cannot cancel a complaint in
+the next. A negation guard still suppresses the genuine non-events — "no
+customs fees", "arrived quickly".
 
 ### Why throughput carries weight
 

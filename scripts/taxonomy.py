@@ -20,6 +20,11 @@ SIGNALS = [
             r"\bstill (?:hasn'?t|has not|not) arrived\b",
             r"\barrived (?:after|too late)\b",
             r"\bmissed (?:christmas|the birthday|the deadline)\b",
+            r"\bworth the wait\b",
+            r"\b(?:long|bit of a|quite a|a bit of a)\s+wait\b",
+            r"\btook (?:a while|ages|forever|longer than)\b",
+            r"\bpatien(?:t|ce)\b.{0,30}\b(?:wait|ship|deliver|arriv)",
+            r"\b(?:wait|waited)\b.{0,20}\bpatient(?:ly)?\b",
         ],
     },
     {
@@ -128,6 +133,12 @@ def weight(sid):
 
 SENTENCE = re.compile(r"(?<=[.!?;\n])\s+")
 
+# Buyers routinely bury a real complaint inside praise: "took three weeks but
+# the seller was quick to respond", "worth the wait". Splitting on contrastive
+# connectives keeps the praise from cancelling the complaint sitting next to it.
+CLAUSE = re.compile(r"\s*(?:,\s*)?\b(?:but|however|although|though|even though|"
+                    r"that said|still|otherwise|apart from|aside from)\b\s*", re.I)
+
 # Phrases that mean the pain did NOT happen. Etsy reviews are overwhelmingly
 # positive and frequently mention shipping approvingly, so without this guard
 # "no customs fees" and "arrived quickly" both read as complaints.
@@ -151,9 +162,10 @@ def match_signals(text):
         return set()
     found = set()
     for sent in SENTENCE.split(text):
-        if not sent.strip() or NEGATED.search(sent):
-            continue
-        for sid, pats in COMPILED.items():
-            if sid not in found and any(p.search(sent) for p in pats):
-                found.add(sid)
+        for clause in CLAUSE.split(sent):
+            if not clause.strip() or NEGATED.search(clause):
+                continue
+            for sid, pats in COMPILED.items():
+                if sid not in found and any(p.search(clause) for p in pats):
+                    found.add(sid)
     return found

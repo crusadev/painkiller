@@ -24,6 +24,17 @@ real complaint to a specific capability rather than producing generic sentiment.
 the case that proves the skill discriminates, and it is why `leads.md` always
 renders rejections with reasons.
 
+## Case 4 — a shop we are early for
+
+**Scenario:** a shop below the serviceable volume floor whose review rate is
+rising quarter on quarter.
+
+**Expect:** tier `nurture`, not `pass`; a stated gap to the floor and a 30-day
+recheck. A comparable shop whose rate is *declining* stays `pass`.
+
+**Why it matters:** the failure this prevents is a real one — a lead judged
+"too small" once and then never looked at again.
+
 ## Case 3 — no credentials, no network
 
 **Scenario:** the skill runs with `APIFY_TOKEN` unset — the judging machine.

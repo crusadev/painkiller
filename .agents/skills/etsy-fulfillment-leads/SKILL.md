@@ -37,11 +37,12 @@ analysis is the shop.
 
 | Path | What it is |
 |---|---|
-| `inputs/shops.csv` | Candidate shops: `shop`, `shop_url`, `category`, `est_annual_sales_k`, `years_active`, `ratio_per_year` |
+| `inputs/shops.csv` | Candidate shops: `shop`, `shop_url`, `website`, `category` |
 | `fallback/snapshot/<shop>.json` | Captured public review evidence, shop facts and linked storefronts per shop |
 
-`ratio_per_year` (annual sales ÷ years active) is the intent proxy: a shop
-earning well in a short time is scaling *into* the pain right now.
+Volume is not taken from the input list. `scripts/capture_shop.py` retrieves
+Etsy's own `sold_count` per shop, divided by shop age, so the serviceability
+band is checked against a real figure rather than an estimate.
 
 ## Pain taxonomy
 

@@ -7,10 +7,7 @@
 - **Source:** internal prospect list, manually compiled by the 3DAPI team from
   public Etsy category browsing.
 - **Retrieved:** 2026-08-28.
-- **Fields:** `shop`, `shop_url`, `category`, `est_annual_sales_k`,
-  `years_active`, `ratio_per_year`.
-  `est_annual_sales_k` and `years_active` are the team's own estimates from
-  public shop pages, not Etsy-published figures. `ratio_per_year` is derived.
+- **Fields:** `shop`, `shop_url`, `website`, `category` — public identity only.
 
 ## What was removed before publishing
 
@@ -21,6 +18,11 @@ is in this repository, and the source sheet is gitignored (`input/`). Removed:
 - Contacted / channel / date-contacted columns
 - Free-text internal comments
 - Seller contact email addresses
+- **Revenue and tenure estimates.** The internal sheet carries the team's own
+  estimates of these third-party businesses' annual sales. That is internal
+  commercial judgement about other companies and is deliberately not
+  published. Volume scoring instead uses Etsy's own `sold_count` over shop
+  age, retrieved per shop — a real figure rather than an estimate.
 
 `scripts/sanitize_list.py` performs the reduction and asserts no email address
 survives into the published file.

@@ -304,7 +304,9 @@ def main():
     with open(a.shops, newline="", encoding="utf-8") as fh:
         rows = list(csv.DictReader(fh))
     for r in rows:
-        r["ratio_per_year"] = int(r["ratio_per_year"]) if r["ratio_per_year"] else 0
+        # The published list carries no revenue estimates; volume comes from
+        # Etsy's sold_count via capture_shop.py.
+        r["ratio_per_year"] = int(r.get("ratio_per_year") or 0)
 
     only = {s.strip() for s in a.only.split(",") if s.strip()}
     have = {p.stem for p in snapdir.glob("*.json")}

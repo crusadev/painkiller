@@ -80,18 +80,14 @@ def main():
                 d = d.split("//")[-1].removeprefix("www.")
                 if d.split("/")[0] not in FREEMAIL:
                     site = d
-            sales, years = num(cell("sales")), num(cell("years"))
-            ratio = num(cell("ratio"))
-            if ratio is None and sales and years:
-                ratio = round(sales * 1000 / years)
+            # The team's revenue estimates of these third-party businesses are
+            # internal commercial judgement and are deliberately not published.
+            # Scoring uses Etsy's own sold_count from scripts/capture_shop.py.
             rows.append({
                 "shop": shop,
                 "shop_url": f"https://www.etsy.com/shop/{shop}",
                 "website": site,
                 "category": category,
-                "est_annual_sales_k": sales if sales is not None else "",
-                "years_active": years if years is not None else "",
-                "ratio_per_year": int(ratio) if ratio else "",
             })
 
     with OUT.open("w", newline="", encoding="utf-8") as fh:

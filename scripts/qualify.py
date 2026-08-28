@@ -17,7 +17,11 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SNAPSHOT = ROOT / "fallback" / "snapshot"
 
 HOT, WATCH = 60, 35
-SWEET_LOW, SWEET_HIGH = 1000, 8000   # ratio_per_year band we can actually serve
+# Serviceable band in *orders per year* (Etsy sold_count / shop age).
+# Floor: 500 orders/month is the volume that makes an account worth opening.
+# Ceiling sits above anything observed - a larger shop is a better account,
+# not a worse one - so it exists only to keep the scoring curve bounded.
+SWEET_LOW, SWEET_HIGH = 6000, 50000
 WINDOW = 90
 
 
@@ -90,7 +94,7 @@ def score_shop(meta, snap, ref):
         volume = 20.0
     elif orders_yr:
         edge = SWEET_LOW if orders_yr < SWEET_LOW else SWEET_HIGH
-        volume = 20 * max(0.0, 1 - abs(orders_yr - edge) / 6000)
+        volume = 20 * max(0.0, 1 - abs(orders_yr - edge) / SWEET_LOW)
     else:
         volume = 0.0
 

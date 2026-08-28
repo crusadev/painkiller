@@ -188,6 +188,16 @@ missing, the shop scores low and says so.
 
 ## Known limits
 
+- **Volume is a lifetime average, not a current rate.** `orders/year` is Etsy's
+  `sold_count` divided by shop age, so it reports what a shop has averaged since
+  opening, not what it is doing now. Etsy's `rating_count_past_year` field would
+  fix this but is a verbatim duplicate of the lifetime total on all 376 shops
+  captured — it is not usable. Where review capture exists, current rate can be
+  estimated as `review velocity x 52 x (sold_count / total_rating_count)`; on
+  the 22 shops measured that way the median shop runs at **0.7x** its lifetime
+  average, i.e. most are past peak. Treat the volume band as approximate, and
+  prefer the current-rate estimate wherever reviews have been captured.
+
 - **Complaint base rate is very low.** See above. The taxonomy fires correctly
   when pain is present; it is the corpus that is quiet, not the matcher.
 - **`geo_blocked` is near-undetectable in review data.** A buyer who cannot

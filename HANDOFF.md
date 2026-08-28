@@ -126,14 +126,21 @@ The lead is the **shop**. Everyone else is irrelevant to the score.
 
 ## Open work, highest value first
 
-1. **Calibrate the volume band.** `SWEET_LOW`/`SWEET_HIGH` in `qualify.py`
-   are 1000 and 8000. Those numbers were chosen when the metric was *dollars*
-   per year (the sheet's revenue estimate). The metric is now *orders* per year
-   (Etsy `sold_count` ÷ shop age) — same numbers, different unit, never
-   recalibrated. At 1000 the floor lands on the median of the list and pushes
-   180 shops into `nurture`. This is a business input, not a technical one:
-   ask what order volume actually makes a print-network account worth opening.
-   Distribution: p25 = 501, p50 = 1,014, p75 = 1,913, p90 = 3,673, max 21,445.
+1. **Volume is a lifetime average — fix this before trusting the tiers.**
+   `orders/year` is `sold_count` ÷ shop age, so it is what a shop has averaged
+   since opening, not its current rate. Etsy's `rating_count_past_year` would
+   solve it but is a duplicate of the lifetime total on all 376 shops — dead
+   end. Where reviews exist, current rate ≈
+   `velocity × 52 × (sold_count / total_rating_count)`. Measured that way on 22
+   shops, the median runs at **0.7×** its lifetime average — most of this list
+   is past peak, not scaling into the pain. Getting this right needs review
+   capture per shop (~$0.30/shop at 60 reviews), which is the main cost driver
+   for going wide.
+
+   The floor is now **6000 orders/yr** (500/month), set by the team. At that
+   floor only 19 of 376 shops clear on lifetime average, and on current-rate
+   estimates only one does. Distribution of lifetime averages: p25 = 501,
+   p50 = 1,014, p75 = 1,913, p90 = 3,673, max 21,445.
 
 2. **Second review-capture pass over the top of the ranking.** Shop facts now
    cover 376 shops; reviews cover only the original 22. Capture reviews for the

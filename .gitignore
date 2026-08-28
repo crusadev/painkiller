@@ -9,3 +9,7 @@ __pycache__/
 
 # eval scratch output
 evals/.eval-leads.md
+
+# Stage 1 and 2 working state: real company and client information.
+# Never commit. See .agents/skills/etsy-fulfillment-leads/STAGES.md
+/state/

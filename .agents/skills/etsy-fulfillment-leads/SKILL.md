@@ -14,6 +14,12 @@ buyer review that proves it.
 
 ## Steps
 
+This is Stage 3 of three. Stages 1 (setup) and 2 (processing) are a one-time
+conversational pass that produces the profile and taxonomy this stage runs on —
+see [STAGES.md](STAGES.md). They are not part of the demo path and never run
+here: the command below needs no setup, no questions and no credentials.
+
+
 Run these. Do not score the shops by reading the CSV yourself — the rubric is
 implemented in `scripts/qualify.py` and must be applied by it, so that every
 number in the report is reproducible.
